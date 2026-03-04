@@ -1,12 +1,11 @@
 # #!/usr/bin/env python3
 “””
-海事ニュース見出しスクレイパー v4
+海事ニュース見出しスクレイパー v5 (4ソース)
 
-日本海事新聞 + 海事プレスONLINE の公開見出しを取得し、
-ドライバルク特化スコアリング + 初検出時刻付きHTMLを生成する。
+日本海事新聞 + 海事プレスONLINE + Splash247 + Hellenic Shipping News
+の公開見出しを取得し、ドライバルク特化スコアリング + 初検出時刻付きHTMLを生成。
 
-初検出時刻: seen_articles.json に記事URLと初回取得日時を永続化。
-15分間隔で実行すれば、おおよその公開タイミングが分かる。
+英語ソース (Splash247/Hellenic) は RSS フィードから取得（bot対策回避）。
 
 使い方:
 pip install requests beautifulsoup4
@@ -14,12 +13,14 @@ python maritime_headlines.py
 
 出力:
 index.html           … ブラウザで見る見出しページ
-seen_articles.json   … 初検出時刻の記録（自動生成・更新）
+seen_articles.json   … 記事データの記録（自動生成・更新）
 “””
 
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone, timedelta
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 import html as h
 import re, os, json
 
@@ -297,84 +298,79 @@ print(f”  [ERROR] KP: {e}”)
 return results
 
 def fetch_splash247():
-“”“Splash247 Dry Cargo カテゴリページから見出しを取得”””
-url = “https://splash247.com/category/sector/dry-cargo/”
+“”“Splash247 Dry Cargo カテゴリの RSS フィードから見出しを取得”””
+url = “https://splash247.com/category/sector/dry-cargo/feed/”
 results = []
 try:
-resp = requests.get(url, headers=HEADERS, timeout=15)
-resp.encoding = “utf-8”
-soup = BeautifulSoup(resp.text, “html.parser”)
-for h2 in soup.find_all(“h2”):
-a = h2.find(“a”)
-if not a or not a.get(“href”): continue
-href = a[“href”]
-title = a.get_text(strip=True)
-if not title or len(title) < 10: continue
-if “splash247.com” not in href: continue
-# 日付: 近くの time タグ or テキスト内の日付を探す
+resp = requests.get(url, headers=HEADERS, timeout=20)
+resp.raise_for_status()
+root = ET.fromstring(resp.content)
+for item in root.iter(“item”):
+title_el = item.find(“title”)
+link_el = item.find(“link”)
+pub_el = item.find(“pubDate”)
+if title_el is None or link_el is None: continue
+title = (title_el.text or “”).strip()
+href = (link_el.text or “”).strip()
+if not title or not href: continue
+# カテゴリ: RSS <category> タグから取得
+cats = [c.text for c in item.findall(“category”) if c.text]
+cat = “Dry Cargo”
+for c in cats:
+if c in CATEGORY_PRIORITY:
+cat = c
+break
+# 日付
 date_str = “”
 sd = “”
-parent = h2.parent
-if parent:
-time_tag = parent.find(“time”)
-if time_tag and time_tag.get(“datetime”):
-dt_str = time_tag[“datetime”][:10]
-date_str = dt_str
-sd = dt_str[5:]
-else:
-dm = re.search(r’(\w+ \d{1,2}, \d{4})’, parent.get_text())
-if dm:
+if pub_el is not None and pub_el.text:
 try:
-dt = datetime.strptime(dm.group(1), “%B %d, %Y”)
+dt = parsedate_to_datetime(pub_el.text).astimezone(JST)
 date_str = dt.strftime(”%Y/%m/%d”)
 sd = dt.strftime(”%m/%d”)
-except ValueError:
+except (ValueError, TypeError):
 pass
 if any(r[“url”] == href for r in results): continue
-results.append({“src”:“s”,“cat”:“Dry Cargo”,“title”:title,“url”:href,“date”:date_str,“sd”:sd})
+results.append({“src”:“s”,“cat”:cat,“title”:title,“url”:href,“date”:date_str,“sd”:sd})
 except Exception as e:
 print(f”  [ERROR] Splash247: {e}”)
 return results
 
 def fetch_hellenic():
-“”“Hellenic Shipping News Dry Bulk Market カテゴリから見出しを取得”””
-url = “https://www.hellenicshippingnews.com/category/dry-bulk-market/”
+“”“Hellenic Shipping News Dry Bulk Market カテゴリの RSS フィードから見出しを取得”””
+url = “https://www.hellenicshippingnews.com/category/dry-bulk-market/feed/”
 results = []
 try:
-resp = requests.get(url, headers=HEADERS, timeout=15)
-resp.encoding = “utf-8”
-soup = BeautifulSoup(resp.text, “html.parser”)
-# 記事リスト: h4.entry-title > a または h2 > a
-for tag in soup.find_all([“h2”, “h3”, “h4”]):
-a = tag.find(“a”)
-if not a or not a.get(“href”): continue
-href = a[“href”]
-title = a.get_text(strip=True)
-if not title or len(title) < 15: continue
-if “hellenicshippingnews.com” not in href: continue
-if “/category/” in href or “/tag/” in href: continue
-# 日付: 近くのspan.date, time, またはテキストからパース
+resp = requests.get(url, headers=HEADERS, timeout=20)
+resp.raise_for_status()
+root = ET.fromstring(resp.content)
+for item in root.iter(“item”):
+title_el = item.find(“title”)
+link_el = item.find(“link”)
+pub_el = item.find(“pubDate”)
+if title_el is None or link_el is None: continue
+title = (title_el.text or “”).strip()
+href = (link_el.text or “”).strip()
+if not title or not href: continue
+# カテゴリ
+cats = [c.text for c in item.findall(“category”) if c.text]
+cat = “Dry Bulk Market”
+for c in cats:
+if c in CATEGORY_PRIORITY:
+cat = c
+break
+# 日付
 date_str = “”
 sd = “”
-parent = tag.parent
-if parent:
-date_el = parent.find([“time”, “span”], class_=lambda c: c and “date” in str(c).lower())
-if date_el:
-raw = date_el.get_text(strip=True)
-dm = re.search(r’(\d{1,2}/\d{1,2}/\d{4})’, raw)
-if dm:
-parts = dm.group(1).split(”/”)
-date_str = f”{parts[2]}/{parts[1]}/{parts[0]}”
-sd = f”{parts[1]}/{parts[0]}”
-else:
-txt = parent.get_text()
-dm = re.search(r’(\d{1,2}/\d{1,2}/\d{4})’, txt)
-if dm:
-parts = dm.group(1).split(”/”)
-date_str = f”{parts[2]}/{parts[1]}/{parts[0]}”
-sd = f”{parts[1]}/{parts[0]}”
+if pub_el is not None and pub_el.text:
+try:
+dt = parsedate_to_datetime(pub_el.text).astimezone(JST)
+date_str = dt.strftime(”%Y/%m/%d”)
+sd = dt.strftime(”%m/%d”)
+except (ValueError, TypeError):
+pass
 if any(r[“url”] == href for r in results): continue
-results.append({“src”:“h”,“cat”:“Dry Bulk Market”,“title”:title,“url”:href,“date”:date_str,“sd”:sd})
+results.append({“src”:“h”,“cat”:cat,“title”:title,“url”:href,“date”:date_str,“sd”:sd})
 except Exception as e:
 print(f”  [ERROR] Hellenic: {e}”)
 return results
