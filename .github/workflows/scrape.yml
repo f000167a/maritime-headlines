@@ -39,4 +39,5 @@ jobs:
           git config user.email "actions@github.com"
           git add index.html seen_articles.json
           git diff --staged --quiet || git commit -m "Update $(date +%H:%M) JST"
+          git pull --rebase origin main
           git push
