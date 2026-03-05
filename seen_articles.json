@@ -354,7 +354,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199766/": {
   "first_seen_iso": "2026-03-04T16:27:42.456647+09:00",
-  "title": "中国コンチオーシャン、スクラバーから風力推進・船上CCSへ、趙CEOに聞く",
+  "title": "中国コンチオーシャン…",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/feature/discussion/2026/03/199762/": {
@@ -555,7 +555,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199791/": {
   "first_seen_iso": "2026-03-04T18:54:09.333374+09:00",
-  "title": "佐世保重工、修繕船を…",
+  "title": "佐世保重工、修繕船をノンガスフリーで施工、次世代燃料船対応を強化",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199792/": {
@@ -1211,7 +1211,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】2月の中国鉄鋼PMIは46.7ポイント、7カ月連続節目割れ3月3日：T/C市場＝8隻・64万DWT、V/C市場＝鉄鉱石2隻",
+  "title": "【本日のトピック】インドネシア、1月石炭輸出量は7カ月ぶり低水準に3月4日：T/C市場＝16隻・124万DWT、V/C市場＝鉄鉱石3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1360,5 +1360,32 @@
   "date": "2026/03/05",
   "sd": "03/05",
   "first_seen_iso": "2026-03-05T13:52:10.736711+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/199805/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》邦船社の船隊動向③タンカー、既存事業強化と次世代船の整備進む",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/199805/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T16:04:40.618230+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/199806/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "協伸商会、新社長に桂氏",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/199806/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T16:04:40.618230+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/03/199807/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会　造船この1カ月＜上＞、造船強化へ具体策が加速、連携・投資支援・米国協力が動く",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/03/199807/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T16:04:40.618230+09:00"
  }
 }
