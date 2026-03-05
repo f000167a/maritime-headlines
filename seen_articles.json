@@ -354,7 +354,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199766/": {
   "first_seen_iso": "2026-03-04T16:27:42.456647+09:00",
-  "title": "中国コンチオーシャン…",
+  "title": "中国コンチオーシャン、スクラバーから風力推進・船上CCSへ、趙CEOに聞く",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/feature/discussion/2026/03/199762/": {
@@ -585,7 +585,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199797/": {
   "first_seen_iso": "2026-03-04T18:54:09.333374+09:00",
-  "title": "日舶工、同志社大で舶用工業説明会",
+  "title": "日舶工、同志社大で舶…",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/person/logbook/2026/03/199800/": {
@@ -1405,5 +1405,275 @@
   "date": "2026/03/05",
   "sd": "03/05",
   "first_seen_iso": "2026-03-05T17:56:34.059167+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313191": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!18:03ペルシャ湾、商船攻撃・電子妨害続く。タンカー、石油流出",
+  "url": "https://www.jmd.co.jp/article.php?no=313191",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-03-05T18:56:58.658972+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199808/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "＜イラン攻撃＞船舶戦争保険、JWCが追加保険料対象を拡大、カタールなど",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199808/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199809/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "＜イラン攻撃＞1～2週間はドライ影響限定的、ペルシャ湾内にはバルカー244隻が滞留",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199809/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199810/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "＜イラン攻撃＞BIMCO、米のホルムズ通峡船護衛案に見解",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199810/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199811/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "＜イラン攻撃＞LNG船市況、日建て30万ドルに急騰、長期的には需給緩和になお時間",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199811/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199812/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》船主の投資展望④、SLB主体の中小船主に手詰まり感、中古船など代替投資が増加",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199812/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199813/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、北極域での運航へ準備本格化、国内初の極域サバイバル訓練実施",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199813/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199814/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東京海上グループ、最新海事判例を弁護士が解説、東京とシンガポールでセミナー",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199814/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199815/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "オーシャンスコア、日本事務所開設で記念パーティー、「日本船社の規制対応支援」",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199815/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199816/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井ら4社、日・NZ水素コリドーを設立、30年代の輸入開始目指す",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199816/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199817/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "フェリー・RORO船各社、モーダルシフト需要は一服、原油高懸念",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199817/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199818/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "横須賀港、新規ふ頭は工区分割で段階整備、完成区画から順次供用",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199818/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199819/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGMグループ、フィリピン航路で仙台寄港、御前崎もカバー",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199819/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199820/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "EU港湾戦略、外国資本の港湾所有で新基準、競争力強化と安全保障を両立",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199820/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199821/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国交省・洋上風力港湾のあり方検討会、基地港湾の効率的な運営を検討",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199821/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199822/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "次世代高規格ユニットロードT検討会、シャーシ位置管理の指針案議論",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199822/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199823/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国交省、港湾水素受入環境検討会、ガイドライン最終とりまとめ議論",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199823/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199824/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名港海運、FCフォーク導入トライアルに参加、名古屋港のCNP形成で",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199824/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/199825/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、LCO2船の用船・造船契約締結式典開催、ノーザンライツフェーズ2向け",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/199825/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199826/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》大型船の造船市場動向＜中＞、勢力図が変化、日韓も受注増加も",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199826/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199828/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "バルチラ、燃料柔軟性で規制に備え、アンモニア機関本格展開",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199828/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199829/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船とJMU、新評価手法で実海域性能保証、タンカー建造契約に採用",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199829/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199830/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "EU海事戦略、欧州も造船振興、「Made in EU」策、安全保障上の重要性認識",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199830/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199831/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "IHI、アンモニア燃料活用の取組で日本エネルギー学会賞",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199831/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/03/199835/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】春山茂一・旭タンカー社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/03/199835/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/03/199836/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】槙田裕・マキタ社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/03/199836/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/03/199837/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】山口隼人・茨城県港湾振興監",
+  "url": "https://www.kaijipress.com/person/logbook/2026/03/199837/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/03/199832/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/03/199832/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/03/199833/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "MOLケミカルタンカーズ、役員異動・役員体制",
+  "url": "https://www.kaijipress.com/person/jinji/2026/03/199833/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/03/199834/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】船舶の安全は全ての人々の利益",
+  "url": "https://www.kaijipress.com/column/aotou/2026/03/199834/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T18:56:58.659321+09:00"
  }
 }
