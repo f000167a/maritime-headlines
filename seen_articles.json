@@ -354,7 +354,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199766/": {
   "first_seen_iso": "2026-03-04T16:27:42.456647+09:00",
-  "title": "中国コンチオーシャン…",
+  "title": "中国コンチオーシャン、スクラバーから風力推進・船上CCSへ、趙CEOに聞く",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/feature/discussion/2026/03/199762/": {
@@ -580,7 +580,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199796/": {
   "first_seen_iso": "2026-03-04T18:54:09.333374+09:00",
-  "title": "日舶工、東京海洋大で舶用工業講義",
+  "title": "日舶工、東京海洋大で…",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199797/": {
@@ -1387,5 +1387,14 @@
   "date": "2026/03/05",
   "sd": "03/05",
   "first_seen_iso": "2026-03-05T16:04:40.618230+09:00"
+ },
+ "https://splash247.com/shippings-fortunes-in-the-year-of-the-fire-horse/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipping’s fortunes in the Year of the Fire Horse",
+  "url": "https://splash247.com/shippings-fortunes-in-the-year-of-the-fire-horse/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T16:56:21.655782+09:00"
  }
 }
