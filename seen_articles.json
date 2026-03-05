@@ -510,7 +510,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/03/199782/": {
   "first_seen_iso": "2026-03-04T18:54:09.333374+09:00",
-  "title": "日本郵船、海底ケーブル敷設船の基本設計完了、NKからGDA取得",
+  "title": "日本郵船、海底ケーブ…",
   "cat": "海運＜不定期専用船＞・海洋"
  },
  "https://www.kaijipress.com/news/tramper/2026/03/199783/": {
@@ -520,7 +520,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/03/199784/": {
   "first_seen_iso": "2026-03-04T18:54:09.333374+09:00",
-  "title": "UECC、3000台…",
+  "title": "UECC、3000台積み自動車船2発注、多元燃料バッテリーハイブリッド型",
   "cat": "海運＜不定期専用船＞・海洋"
  },
  "https://www.kaijipress.com/news/tramper/2026/03/199785/": {
@@ -580,12 +580,12 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199796/": {
   "first_seen_iso": "2026-03-04T18:54:09.333374+09:00",
-  "title": "日舶工、東京海洋大で…",
+  "title": "日舶工、東京海洋大で舶用工業講義",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199797/": {
   "first_seen_iso": "2026-03-04T18:54:09.333374+09:00",
-  "title": "日舶工、同志社大で舶用工業説明会",
+  "title": "日舶工、同志社大で舶…",
   "cat": "造船・舶用"
  },
  "https://www.kaijipress.com/person/logbook/2026/03/199800/": {
@@ -1342,5 +1342,23 @@
   "date": "2026/03/04",
   "sd": "03/04",
   "first_seen_iso": "2026-03-05T07:26:09.671938+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199803/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎重工、独企業と水素燃料関連機器で協業、ボッシュと覚書締結",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199803/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T13:52:10.736711+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199804/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "函館どつく、地元洋食老舗・五島軒とコラボカレー",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199804/",
+  "date": "2026/03/05",
+  "sd": "03/05",
+  "first_seen_iso": "2026-03-05T13:52:10.736711+09:00"
  }
 }
