@@ -1373,7 +1373,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199806/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "協伸商会、新社長に桂…",
+  "title": "協伸商会、新社長に桂氏",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199806/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1508,7 +1508,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199818/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横須賀港、新規ふ頭は工区分割で段階整備、完成区画から順次供用",
+  "title": "横須賀港、新規ふ頭は…",
   "url": "https://www.kaijipress.com/news/container/2026/03/199818/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1544,7 +1544,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199822/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "次世代高規格ユニット…",
+  "title": "次世代高規格ユニットロードT検討会、シャーシ位置管理の指針案議論",
   "url": "https://www.kaijipress.com/news/container/2026/03/199822/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1571,7 +1571,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199825/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船、LCO2船の用船・造船契約締結式典開催、ノーザンライツフェーズ2向け",
+  "title": "川崎汽船、LCO2船…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199825/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1981,5 +1981,14 @@
   "date": "2026/03/06",
   "sd": "03/06",
   "first_seen_iso": "2026-03-06T15:30:28.731925+09:00"
+ },
+ "https://splash247.com/vlcc-day-rates-surge-above-half-million-dollars/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "VLCC day rates rocket above half‑million dollars",
+  "url": "https://splash247.com/vlcc-day-rates-surge-above-half-million-dollars/",
+  "date": "2026/03/06",
+  "sd": "03/06",
+  "first_seen_iso": "2026-03-06T17:56:47.987104+09:00"
  }
 }
