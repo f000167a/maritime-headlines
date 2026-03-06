@@ -1211,7 +1211,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インドネシア、1月石炭輸出量は7カ月ぶり低水準に3月4日：T/C市場＝16隻・124万DWT、V/C市場＝鉄鉱石3隻",
+  "title": "【本日のトピック】2月伯鉄鉱石輸出は直近11カ月で最低水準も前年比+12%増3月5日：T/C市場＝37隻・234万DWT、V/C市場＝鉄鉱石3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1373,7 +1373,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199806/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "協伸商会、新社長に桂氏",
+  "title": "協伸商会、新社長に桂…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199806/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1508,7 +1508,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199818/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横須賀港、新規ふ頭は…",
+  "title": "横須賀港、新規ふ頭は工区分割で段階整備、完成区画から順次供用",
   "url": "https://www.kaijipress.com/news/container/2026/03/199818/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1544,7 +1544,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199822/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "次世代高規格ユニットロードT検討会、シャーシ位置管理の指針案議論",
+  "title": "次世代高規格ユニット…",
   "url": "https://www.kaijipress.com/news/container/2026/03/199822/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1571,7 +1571,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199825/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船、LCO2船…",
+  "title": "川崎汽船、LCO2船の用船・造船契約締結式典開催、ノーザンライツフェーズ2向け",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199825/",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1954,5 +1954,32 @@
   "date": "2026/03/06",
   "sd": "03/06",
   "first_seen_iso": "2026-03-06T07:26:45.737608+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199839/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船のグループ船舶管理会社KMSM、労働安全衛生規格の認証取得",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199839/",
+  "date": "2026/03/06",
+  "sd": "03/06",
+  "first_seen_iso": "2026-03-06T15:30:28.731925+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/199838/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》邦船社の船隊動向④LNG船・海洋、LNG船の拡大続く、風力・LCO2を強化",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/199838/",
+  "date": "2026/03/06",
+  "sd": "03/06",
+  "first_seen_iso": "2026-03-06T15:30:28.731925+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/03/199840/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会／造船この1カ月＜下＞、新造船価相場、一部船種で上昇、船台需給逼迫、LNG船も発注回復へ",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/03/199840/",
+  "date": "2026/03/06",
+  "sd": "03/06",
+  "first_seen_iso": "2026-03-06T15:30:28.731925+09:00"
  }
 }
