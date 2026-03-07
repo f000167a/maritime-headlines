@@ -604,9 +604,9 @@ def score_article(article):
 
 # 速報ボーナス（初検出日の鮮度で加点）
 RECENCY_BONUS = {
-    0: 20,   # 当日
-    1: 10,   # 昨日
-    2:  5,   # 2日前
+    0: 50,   # 当日
+    1: 25,   # 昨日
+    2: 10,   # 2日前
 }
 
 def apply_recency_bonus(articles):
@@ -621,7 +621,7 @@ def apply_recency_bonus(articles):
             days_ago = (today - seen_date).days
             bonus = RECENCY_BONUS.get(days_ago, 0)
             if bonus:
-                a["score"] = min(a["score"] + bonus, 220)  # cap slightly higher
+                a["score"] = min(a["score"] + bonus, 250)  # content 200 + recency 50
         except (ValueError, TypeError):
             pass
 
