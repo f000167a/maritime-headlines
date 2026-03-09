@@ -1217,7 +1217,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】2月伯鉄鉱石輸出は直近11カ月で最低水準も前年比+12%増3月5日：T/C市場＝37隻・234万DWT、V/C市場＝鉄鉱石3隻",
+  "title": "【本日のトピック】伯大豆・トウモロコシ・砂糖輸出、2月はいずれも前年水準上回る3月6日：T/C市場＝21隻・134万DWT、V/C市場＝鉄鉱石5隻、石炭3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -1964,7 +1964,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199839/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船のグループ船舶管理会社KMSM、労働安全衛生規格の認証取得",
+  "title": "川崎汽船のグループ船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199839/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2036,7 +2036,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199845/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海技教育機構、練習船…",
+  "title": "海技教育機構、練習船“銀河丸”教室の命名権契約、NSU海運グループと",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199845/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2234,7 +2234,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199867/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "MEGURI2040…",
+  "title": "MEGURI2040、RORO船で初の自動運航船検査合格、“第二ほくれん丸”自動運航可能に",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199867/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2243,7 +2243,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199868/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ストームジオとオーシャンスコアが連携、高品質データで規制コスト効率化",
+  "title": "ストームジオとオーシ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199868/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2653,5 +2653,32 @@
   "date": "2026/03/06",
   "sd": "03/06",
   "first_seen_iso": "2026-03-09T07:18:30.521409+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199877/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "海事プレス社創立70周年特別企画「未来を探せ～70の視点」、＃6日本長距離フェリー協会・入谷泰生会長、産業構造の見直しによるモーダルシフトの推進を",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199877/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-09T15:08:30.951738+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199879/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、上海発欧米向け運賃続伸、先高感強まる",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199879/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-09T15:08:30.951738+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/199878/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》私の1隻“RIVER SPRING”/“RIVER DREAM”、ピューラス・大川智之さんの1隻、経済性分析や意思決定の重み知る",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/199878/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-09T15:08:30.951738+09:00"
  }
 }
