@@ -1964,7 +1964,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199839/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船のグループ船舶管理会社KMSM、労働安全衛生規格の認証取得",
+  "title": "川崎汽船のグループ船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199839/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2036,7 +2036,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199845/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海技教育機構、練習船…",
+  "title": "海技教育機構、練習船“銀河丸”教室の命名権契約、NSU海運グループと",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199845/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2054,7 +2054,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199847/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "京浜海貨、サイバーポ…",
+  "title": "京浜海貨、サイバーポート運用体験会を開催、横浜でワークショップ",
   "url": "https://www.kaijipress.com/news/container/2026/03/199847/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2126,7 +2126,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199855/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪湾LNGシッピング、LNG燃料供給船が命名、4月就航、“SETO AZURE”",
+  "title": "大阪湾LNGシッピン…",
   "url": "https://www.kaijipress.com/news/container/2026/03/199855/",
   "date": "2026/03/06",
   "sd": "03/06",
@@ -2680,5 +2680,14 @@
   "date": "2026/03/09",
   "sd": "03/09",
   "first_seen_iso": "2026-03-09T15:08:30.951738+09:00"
+ },
+ "https://splash247.com/sweden-seizes-russian-shadow-ship-and-detains-crewmember/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Sweden seizes Russian shadow ship and detains crewmember",
+  "url": "https://splash247.com/sweden-seizes-russian-shadow-ship-and-detains-crewmember/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-09T17:04:10.158801+09:00"
  }
 }
