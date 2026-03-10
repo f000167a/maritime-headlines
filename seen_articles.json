@@ -2675,7 +2675,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199878/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "《シリーズ》私の1隻“RIVER SPRING”/“RIVER DREAM”、ピューラス・大川智之さんの1隻、経済性分析や意思決定の重み知る",
+  "title": "《シリーズ》私の1隻…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199878/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2756,7 +2756,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199887/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "境港、国際物流ターミ…",
+  "title": "境港、国際物流ターミナル整備に着工、岸壁不足に対応",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199887/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2765,7 +2765,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199888/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船のフィリピン商船大学、15期生卒業、コロナ禍の入学生",
+  "title": "日本郵船のフィリピン…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199888/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2837,7 +2837,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199896/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "南星海運/東暎海運、中船黄埔文冲に4隻発注、4300・1900TEU型",
+  "title": "南星海運/東暎海運、…",
   "url": "https://www.kaijipress.com/news/container/2026/03/199896/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2864,7 +2864,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199899/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "早駒運輸、熟成酒「隧…",
+  "title": "早駒運輸、熟成酒「隧」販売予約開始",
   "url": "https://www.kaijipress.com/news/container/2026/03/199899/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2882,7 +2882,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199901/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、85型バル…",
+  "title": "飯野海運、85型バルカーでバイオ燃料試験、円筒帆搭載・国内電力向け初",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199901/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2927,7 +2927,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199908/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石由良ドック、メンブレン型LNG船の修繕可能に、GTTからライセンス取得",
+  "title": "常石由良ドック、メン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199908/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2954,7 +2954,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199911/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三浦造船所、テレビC…",
+  "title": "三浦造船所、テレビCM放映",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199911/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -3310,5 +3310,32 @@
   "date": "2026/03/10",
   "sd": "03/10",
   "first_seen_iso": "2026-03-10T07:23:29.214606+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199920/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ZIM、25年純利益は78%減の4.8億ドル、26年予想は非公表",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199920/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T13:24:54.370382+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199921/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】、CMA-CGM、トルコ経由でイラク向け輸送、ペルシャ湾ルートの代替で",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199921/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T13:24:54.370382+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199922/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】、造船への影響、見通し難しく、混乱長期化でエネルギー網変化なら需要に余波も",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199922/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T13:24:54.370382+09:00"
  }
 }
