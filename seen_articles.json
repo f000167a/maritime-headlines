@@ -1217,7 +1217,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】伯大豆・トウモロコシ・砂糖輸出、2月はいずれも前年水準上回る3月6日：T/C市場＝21隻・134万DWT、V/C市場＝鉄鉱石5隻、石炭3隻",
+  "title": "【本日のトピック】インドネシア政府、2026年の石炭企業DMO比率引き上げへ3月9日：T/C市場＝20隻・106万DWT、V/C市場＝鉄鉱石2隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/05",
   "sd": "03/05",
@@ -2675,7 +2675,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199878/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "《シリーズ》私の1隻“RIVER SPRING”/“RIVER DREAM”、ピューラス・大川智之さんの1隻、経済性分析や意思決定の重み知る",
+  "title": "《シリーズ》私の1隻…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199878/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2837,7 +2837,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199896/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "南星海運/東暎海運、…",
+  "title": "南星海運/東暎海運、中船黄埔文冲に4隻発注、4300・1900TEU型",
   "url": "https://www.kaijipress.com/news/container/2026/03/199896/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2864,7 +2864,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199899/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "早駒運輸、熟成酒「隧」販売予約開始",
+  "title": "早駒運輸、熟成酒「隧…",
   "url": "https://www.kaijipress.com/news/container/2026/03/199899/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2882,7 +2882,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199901/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、85型バル…",
+  "title": "飯野海運、85型バルカーでバイオ燃料試験、円筒帆搭載・国内電力向け初",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199901/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2945,7 +2945,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199910/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、海保庁向け…",
+  "title": "三菱造船、海保庁向け練習船“ふじ”進水",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199910/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2963,7 +2963,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199912/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工マリタイム、音響測定艦“びんご”引渡し",
+  "title": "三菱重工マリタイム、…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199912/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -3337,5 +3337,32 @@
   "date": "2026/03/10",
   "sd": "03/10",
   "first_seen_iso": "2026-03-10T13:24:54.370382+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199924/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》商品市況フォーカス＜石炭＞、JOGMEC石炭開発部・大竹正巳氏、需要は堅調も荷動きは減少傾向か",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199924/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T15:31:15.900398+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199925/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国小売り輸入、2・3月は前回予想から上振れ、中東情勢の影響注視",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199925/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T15:31:15.900398+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/199923/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アストモスエネルギー、都内でレセプション開催、400人が参加",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/199923/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T15:31:15.900398+09:00"
  }
 }
