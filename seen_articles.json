@@ -2675,7 +2675,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199878/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "《シリーズ》私の1隻“RIVER SPRING”/“RIVER DREAM”、ピューラス・大川智之さんの1隻、経済性分析や意思決定の重み知る",
+  "title": "《シリーズ》私の1隻…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199878/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2882,7 +2882,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/199901/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、85型バル…",
+  "title": "飯野海運、85型バルカーでバイオ燃料試験、円筒帆搭載・国内電力向け初",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/199901/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2945,7 +2945,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199910/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、海保庁向け…",
+  "title": "三菱造船、海保庁向け練習船“ふじ”進水",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199910/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2954,7 +2954,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199911/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三浦造船所、テレビCM放映",
+  "title": "三浦造船所、テレビC…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199911/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -3733,5 +3733,14 @@
   "date": "2026/03/10",
   "sd": "03/10",
   "first_seen_iso": "2026-03-10T19:02:02.995318+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-halts-3-day-slump/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Halts 3-Day Slump",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-halts-3-day-slump/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T20:03:20.214321+09:00"
  }
 }
