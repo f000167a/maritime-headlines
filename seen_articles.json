@@ -2927,7 +2927,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199908/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石由良ドック、メンブレン型LNG船の修繕可能に、GTTからライセンス取得",
+  "title": "常石由良ドック、メン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199908/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -2954,7 +2954,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199911/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三浦造船所、テレビC…",
+  "title": "三浦造船所、テレビCM放映",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199911/",
   "date": "2026/03/09",
   "sd": "03/09",
@@ -3373,5 +3373,23 @@
   "date": "2026/03/10",
   "sd": "03/10",
   "first_seen_iso": "2026-03-10T16:30:06.671242+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-zero44/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: ZERO44",
+  "url": "https://splash247.com/geneva-dry-dialogues-zero44/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-10T18:02:21.410996+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-56-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2066 up 56 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-56-points/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-10T18:02:21.411140+09:00"
  }
 }
