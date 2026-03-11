@@ -452,7 +452,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199926/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "東栄ジャパン販売の船…",
+  "title": "東栄ジャパン販売の船舶管理ソフト「OceanOffice」、NKからセキュリティ認証取得",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199926/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -470,7 +470,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199928/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事センター、都内で海事立国フォーラム、海事産業の再興に向け将来展望",
+  "title": "海事センター、都内で…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199928/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -668,7 +668,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199952/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工、グループ4…",
+  "title": "三菱重工、グループ4工場で艦艇建造集中、特殊艦や潜水艦など今月相次ぎ竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199952/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -749,7 +749,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、比で4回目の舶用工業フォーラム開催",
+  "title": "日舶工、比で4回目の…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1510,5 +1510,23 @@
   "date": "2026/03/11",
   "sd": "03/11",
   "first_seen_iso": "2026-03-11T15:15:09.958026+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199968/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "北米主要11港、25年は1%増の5489万TEU、関税が影響も増加",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199968/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T15:34:07.031275+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199969/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本成長戦略会議、港湾荷役機械に官民重点投資、国外市場も注力",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199969/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T15:34:07.031275+09:00"
  }
 }
