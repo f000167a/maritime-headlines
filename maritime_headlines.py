@@ -394,7 +394,7 @@ def _fetch_google_news_rss(site_domain, search_terms, src_key, default_cat):
     """Google News RSS で特定サイトの記事を取得（Cloudflare完全回避）"""
     results = []
     try:
-        query = f"site:{site_domain} {search_terms}"
+        query = f"site:{site_domain} {search_terms} when:7d"
         gnews_url = (
             f"https://news.google.com/rss/search?"
             f"q={requests.utils.quote(query)}&hl=en&gl=US&ceid=US:en"
@@ -404,6 +404,7 @@ def _fetch_google_news_rss(site_domain, search_terms, src_key, default_cat):
         }, timeout=20)
         resp.raise_for_status()
         root = ET.fromstring(resp.content)
+        cutoff = datetime.now(JST) - timedelta(days=SEEN_RETAIN_DAYS)
         for item in root.iter("item"):
             title_el = item.find("title")
             link_el = item.find("link")
@@ -414,18 +415,20 @@ def _fetch_google_news_rss(site_domain, search_terms, src_key, default_cat):
             href = (link_el.text or "").strip()
             if not title or not href:
                 continue
-            # Google News のリンクはリダイレクトURLの場合がある
-            # source タグからオリジナルURLを取得できる場合もある
-            source_el = item.find("source")
             # 日付
             date_str, sd = "", ""
             if pub_el is not None and pub_el.text:
                 try:
                     dt = parsedate_to_datetime(pub_el.text).astimezone(JST)
+                    # 7日より古い記事はスキップ
+                    if dt < cutoff:
+                        continue
                     date_str = dt.strftime("%Y/%m/%d")
                     sd = dt.strftime("%m/%d")
                 except (ValueError, TypeError):
                     pass
+            # Google News タイトルから " - サイト名" を除去
+            title = re.sub(r'\s*-\s*(Splash247|Hellenic Shipping News)\s*$', '', title)
             if any(r["title"] == title for r in results):
                 continue
             results.append({
