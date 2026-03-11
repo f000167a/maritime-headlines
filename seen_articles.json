@@ -452,7 +452,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199926/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "東栄ジャパン販売の船舶管理ソフト「OceanOffice」、NKからセキュリティ認証取得",
+  "title": "東栄ジャパン販売の船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199926/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -470,7 +470,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199928/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事センター、都内で…",
+  "title": "海事センター、都内で海事立国フォーラム、海事産業の再興に向け将来展望",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199928/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -722,7 +722,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199954/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、キッザニアイベントでVRクレーン体験",
+  "title": "今治造船、キッザニア…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199954/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -749,7 +749,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、比で4回目の…",
+  "title": "日舶工、比で4回目の舶用工業フォーラム開催",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1528,5 +1528,14 @@
   "date": "2026/03/11",
   "sd": "03/11",
   "first_seen_iso": "2026-03-11T15:34:07.031275+09:00"
+ },
+ "https://splash247.com/multiple-ships-hit-on-day-12-of-iran-war/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Multiple ships hit on day 12 of Iran war",
+  "url": "https://splash247.com/multiple-ships-hit-on-day-12-of-iran-war/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T18:09:35.218707+09:00"
  }
 }
