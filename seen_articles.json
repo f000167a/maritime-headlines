@@ -668,7 +668,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199952/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工、グループ4…",
+  "title": "三菱重工、グループ4工場で艦艇建造集中、特殊艦や潜水艦など今月相次ぎ竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199952/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -749,7 +749,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、比で4回目の舶用工業フォーラム開催",
+  "title": "日舶工、比で4回目の…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1915,5 +1915,77 @@
   "date": "2026/03/11",
   "sd": "03/11",
   "first_seen_iso": "2026-03-11T20:02:38.007470+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1919-down-147-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 1919 down 147 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1919-down-147-points/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-11T20:49:22.912396+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7835/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門：2月の中国鉄鋼PMIは46.7ポイント、7カ月連続節目割れ●3月4日に中国鋼鉄物流専門委員会(CSLPC)が発表した同国鉄鋼セクター2月の購買担当者指数(PMI)は前月比▲3.2・前年同月比+1.6の46.7ポイント。1月に示された上向きから一転悪化となった・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7835/1",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T20:49:22.912540+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7834/2": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "石炭部門：インドネシア、1月石炭輸出量は7カ月ぶり低水準に●インドネシア統計局が発表した最新統計によると、同国1月のインドネシア石炭輸出量は3,956万トンで前月比▲22.7%・前年同月比▲4.1%減で7カ月ぶり低水準をマークした。昨年12月は単月輸出量とし・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7834/2",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T20:49:22.912540+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7833/3": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "穀物部門：伯大豆・トウモロコシ・砂糖輸出、2月はいずれも前年水準上回る●米国農務省(USDA)によると、25/26年度直近(9月～2月26日)までの米国大豆輸出量は2,615万トン(前年同期比▲30.6%)。また、当週の週間輸出量は112万トン(前週比+38.0%・前年・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7833/3",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T20:49:22.912540+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7832/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門：インドネシアが鉱石減産、比産ニッケル輸入倍増へ●週末6日時点の動静データを見ると、仕向け地未定のフリー船隻数はハンディマックスが前週末比+16隻増・前年同期比+12隻増の37隻。一方、ハンディサイズは前週末比+14隻増・前年同期比▲15隻減の34・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7832/4",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T20:49:22.912540+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7831/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門：常石海外ヤード建造UMAX、2隻一括6,100万ドル●2026年3月初週(-6日)のバルカー中古船市場では、中小型船を中心に約20隻の売買が確認された。このうちウルトラマックス型は、2隻一括売船および新造リセール1隻を含め計6隻を数えた。・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7831/6",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T20:49:22.912540+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7829/7": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "証券部門：増額・増配銘柄に資金振り向け・海運株も堅調●米国とイスラエルによる攻撃に対抗してイランがホルムズ海峡を事実上封鎖。これを受けて米原油先物の指標であるWTIの期近物は一時1バレル119ドル台と3年9カ月ぶりの水準に急騰した。インフレ懸念の高まり・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7829/7",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T20:49:22.912540+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7830/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門：WTI原油価格の落ち着き先見えず●原油価格が乱高下している。2月28日の米国・イスラエルによるイラン空爆を機に中東情勢が緊迫化。ニューヨークWTI原油価格(期近)は3月8日、一時1バレル=119ドル台と、2022年6月以来の高値を付・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1211/7830/8",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T20:49:22.912540+09:00"
  }
 }
