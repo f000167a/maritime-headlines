@@ -3395,7 +3395,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199926/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "東栄ジャパン販売の船舶管理ソフト「OceanOffice」、NKからセキュリティ認証取得",
+  "title": "東栄ジャパン販売の船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199926/",
   "date": "2026/03/10",
   "sd": "03/10",
@@ -3413,7 +3413,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199928/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事センター、都内で…",
+  "title": "海事センター、都内で海事立国フォーラム、海事産業の再興に向け将来展望",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199928/",
   "date": "2026/03/10",
   "sd": "03/10",
@@ -3620,7 +3620,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199952/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工、グループ4…",
+  "title": "三菱重工、グループ4工場で艦艇建造集中、特殊艦や潜水艦など今月相次ぎ竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199952/",
   "date": "2026/03/10",
   "sd": "03/10",
@@ -3665,7 +3665,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、比で4回目の舶用工業フォーラム開催",
+  "title": "日舶工、比で4回目の…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199957/",
   "date": "2026/03/10",
   "sd": "03/10",
@@ -5803,5 +5803,41 @@
   "date": "2026/01/30",
   "sd": "01/30",
   "first_seen_iso": "2026-03-11T07:52:56.817808+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199966/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓②、商船三井元副社長・小野晃彦氏、NYでのクリスマスイブ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199966/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T13:25:11.280933+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199965/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国造船でケープ参入続く、洋上風力製造の大金重工が初受注",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199965/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T13:25:11.280933+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/199967/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "韓国HD現代とABS、原子力推進1.6万TEU型開発へ、電気推進の仕様確立",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199967/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T13:25:11.280933+09:00"
+ },
+ "https://www.kaijipress.com/markets/secondhand/2026/03/199964/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中古船価市況週間レポート（3月2日～6日）、バルカー/タンカーの全船型が続伸",
+  "url": "https://www.kaijipress.com/markets/secondhand/2026/03/199964/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-11T13:25:11.280933+09:00"
  }
 }
