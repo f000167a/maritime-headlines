@@ -839,7 +839,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199967/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "韓国HD現代とABS、原子力推進1.6万TEU型開発へ、電気推進の仕様確立",
+  "title": "韓国HD現代とABS…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199967/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1397,7 +1397,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国1～2月貿易統計発表、鉄鉱石輸入は前年比+10%増3月10日：T/C市場＝9隻・57万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
+  "title": "【本日のトピック】USDA、3月度穀物需給レポート発表3月11日：T/C市場＝14隻・101万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1577,7 +1577,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199973/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事立国フォーラム、…",
+  "title": "海事立国フォーラム、海事産業再興に向けた課題巡り討論",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199973/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1586,7 +1586,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/199974/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事センター、金子国交相に提言を手交",
+  "title": "海事センター、金子国…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/199974/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1685,7 +1685,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199985/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "国交省・海コン陸送安…",
+  "title": "国交省・海コン陸送安全対策会議、フレキシタンク輸送実態を調査",
   "url": "https://www.kaijipress.com/news/container/2026/03/199985/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1703,7 +1703,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199987/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "トレードワルツ、PIアワードで優秀賞",
+  "title": "トレードワルツ、PI…",
   "url": "https://www.kaijipress.com/news/container/2026/03/199987/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1820,7 +1820,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200000/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、プロゴルフ…",
+  "title": "川崎重工、プロゴルファー鳥居さくら選手のスポンサーに",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200000/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -2275,5 +2275,23 @@
   "date": "2026/03/12",
   "sd": "03/12",
   "first_seen_iso": "2026-03-12T13:54:41.953721+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/200014/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "25年の中古車輸出台数、前年比8.9%増、5年連続プラス、UAEが首位維持",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/200014/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-12T16:09:42.955801+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200015/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "スエズ型タンカー、新造船価上昇、サムスンが8930万ドルで成約",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200015/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-12T16:09:42.955801+09:00"
  }
 }
