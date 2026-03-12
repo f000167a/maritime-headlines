@@ -839,7 +839,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/199967/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "韓国HD現代とABS…",
+  "title": "韓国HD現代とABS、原子力推進1.6万TEU型開発へ、電気推進の仕様確立",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/199967/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1595,7 +1595,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199975/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓②、商船三井元副社長・小野晃彦氏、NYでのクリスマスイブ",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏②、NYでのクリスマスイブ",
   "url": "https://www.kaijipress.com/news/container/2026/03/199975/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1676,7 +1676,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199984/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日港協・久保会長、基…",
+  "title": "日港協・久保会長、基幹航路の新規開設を歓迎、将来見据えた人手不足対策を",
   "url": "https://www.kaijipress.com/news/container/2026/03/199984/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1685,7 +1685,7 @@
  "https://www.kaijipress.com/news/container/2026/03/199985/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "国交省・海コン陸送安全対策会議、フレキシタンク輸送実態を調査",
+  "title": "国交省・海コン陸送安…",
   "url": "https://www.kaijipress.com/news/container/2026/03/199985/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -1820,7 +1820,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200000/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、プロゴルファー鳥居さくら選手のスポンサーに",
+  "title": "川崎重工、プロゴルフ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200000/",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -2248,5 +2248,32 @@
   "date": "2026/03/11",
   "sd": "03/11",
   "first_seen_iso": "2026-03-12T07:22:29.325523+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200012/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東洋信号通信社、船舶動静サービスVSSを刷新、UI/UX改善で利便性向上",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200012/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-12T13:54:41.953721+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200013/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏③、システム再構築で人を動かす",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200013/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-12T13:54:41.953721+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200011/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "WinGD、アンモニア機関の受注34基に、初号機は今年前半に海上公試へ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200011/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-12T13:54:41.953721+09:00"
  }
 }
