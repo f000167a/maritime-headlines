@@ -2261,7 +2261,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200013/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏③、システム再構築で人を動かす",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200013/",
   "date": "2026/03/12",
   "sd": "03/12",
@@ -2387,7 +2387,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200024/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "港運業界の人材確保、…",
+  "title": "港運業界の人材確保、退職自衛官活用の取り組みが加速",
   "url": "https://www.kaijipress.com/news/container/2026/03/200024/",
   "date": "2026/03/12",
   "sd": "03/12",
@@ -2887,5 +2887,14 @@
   "date": "2026/03/13",
   "sd": "03/13",
   "first_seen_iso": "2026-03-13T16:07:55.225233+09:00"
+ },
+ "https://splash247.com/the-largest-supply-disruption-in-the-history-of-the-global-oil-market-ieas-take-on-the-hormuz-crisis/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "‘The largest supply disruption in the history of the global oil market’: IEA’s take on the Hormuz crisis",
+  "url": "https://splash247.com/the-largest-supply-disruption-in-the-history-of-the-global-oil-market-ieas-take-on-the-hormuz-crisis/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-13T16:58:00.117730+09:00"
  }
 }
