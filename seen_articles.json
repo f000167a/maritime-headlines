@@ -1397,7 +1397,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国2月の自動車販売は前年比▲15%減、3カ月連続マイナス成長3月12日：T/C市場＝20隻・106万DWT、V/C市場＝鉄鉱石2隻、石炭2隻",
+  "title": "【本日のトピック】中国2月の自動車販売は前年比▲15%減、3カ月連続マイナス成長3月12日：T/C市場＝13隻・73万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -2261,7 +2261,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200013/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓…",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏③、システム再構築で人を動かす",
   "url": "https://www.kaijipress.com/news/container/2026/03/200013/",
   "date": "2026/03/12",
   "sd": "03/12",
@@ -2387,7 +2387,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200024/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "港運業界の人材確保、退職自衛官活用の取り組みが加速",
+  "title": "港運業界の人材確保、…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200024/",
   "date": "2026/03/12",
   "sd": "03/12",
@@ -2842,5 +2842,50 @@
   "date": "2026/03/12",
   "sd": "03/12",
   "first_seen_iso": "2026-03-13T07:20:22.174948+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200042/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "ドゥルーリー・コンテナ運賃指標、欧米向け上昇、総合指標8%増",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200042/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-13T16:07:55.224781+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200043/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "MSC、ナイジェリアで新ターミナル、大水深岸壁整備で主要拠点に",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200043/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-13T16:07:55.224781+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200044/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏④、ウィン・ルーズの交渉で奮闘",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200044/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-13T16:07:55.224781+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/200045/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "海外ドライ船社の25年業績、各社減益、赤字転落も",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/200045/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-13T16:07:55.224781+09:00"
+ },
+ "https://splash247.com/nyk-takes-full-control-of-saga-welco/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "NYK takes full control of Saga Welco",
+  "url": "https://splash247.com/nyk-takes-full-control-of-saga-welco/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-13T16:07:55.225233+09:00"
  }
 }
