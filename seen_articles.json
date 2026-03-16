@@ -1397,7 +1397,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国2月の自動車販売は前年比▲15%減、3カ月連続マイナス成長3月12日：T/C市場＝13隻・73万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
+  "title": "【本日のトピック】1～2月中国粗鋼生産は1億6,034万トン、前年比▲4%減3月13日：T/C市場＝14隻・91万DWT、V/C市場＝鉄鉱石3隻、石炭3隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -2864,7 +2864,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200044/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓…",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏④、ウィン・ルーズの交渉で奮闘",
   "url": "https://www.kaijipress.com/news/container/2026/03/200044/",
   "date": "2026/03/13",
   "sd": "03/13",
@@ -2918,7 +2918,7 @@
  "https://www.kaijipress.com/news/offshore_wind/2026/03/200076/": {
   "src": "k",
   "cat": "洋上風力特集",
-  "title": "＜洋上風力特集＞戸田…",
+  "title": "＜洋上風力特集＞戸田建設ら、五島市沖で浮体式洋上風力が商用運転",
   "url": "https://www.kaijipress.com/news/offshore_wind/2026/03/200076/",
   "date": "2026/03/13",
   "sd": "03/13",
@@ -2927,7 +2927,7 @@
  "https://www.kaijipress.com/news/offshore_wind/2026/03/200077/": {
   "src": "k",
   "cat": "洋上風力特集",
-  "title": "＜洋上風力特集＞JFEエンジ、洋上風力基礎事業を本格化",
+  "title": "＜洋上風力特集＞JF…",
   "url": "https://www.kaijipress.com/news/offshore_wind/2026/03/200077/",
   "date": "2026/03/13",
   "sd": "03/13",
@@ -3053,7 +3053,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200058/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "厚労省、平均常用港湾労働者が減少、入職促進へ若年層PR加速",
+  "title": "厚労省、平均常用港湾…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200058/",
   "date": "2026/03/13",
   "sd": "03/13",
@@ -3481,5 +3481,32 @@
   "date": "2026/03/14",
   "sd": "03/14",
   "first_seen_iso": "2026-03-16T07:21:49.525350+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200079/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、欧米向け運賃が2ケタ増と続伸、中東情勢影響で先高感",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200079/",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-16T15:57:04.485224+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200080/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑤、初の航路買収、非日本人社員も活躍",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200080/",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-16T15:57:04.485224+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200081/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エバーグリーン、25年純利益は51%減の21億ドル",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200081/",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-16T15:57:04.485224+09:00"
  }
 }
