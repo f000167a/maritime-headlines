@@ -3746,7 +3746,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200109/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工が英設計会社と提携、洋上風力向け輸送船の国内建造促進へ",
+  "title": "中小型造工が英設計会…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200109/",
   "date": "2026/03/16",
   "sd": "03/16",
@@ -3764,7 +3764,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200111/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アルファ・ラバル、ア…",
+  "title": "アルファ・ラバル、アンモニア燃料供給装置のFAT完了",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200111/",
   "date": "2026/03/16",
   "sd": "03/16",
@@ -5479,5 +5479,14 @@
   "date": "2026/03/16",
   "sd": "03/16",
   "first_seen_iso": "2026-03-17T18:40:57.177477+09:00"
+ },
+ "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Selective Gulf transits emerge under Iranian verification",
+  "url": "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-17T19:36:13.881824+09:00"
  }
 }
