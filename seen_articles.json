@@ -1397,7 +1397,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】1～2月中国粗鋼生産は1億6,034万トン、前年比▲4%減3月13日：T/C市場＝14隻・91万DWT、V/C市場＝鉄鉱石3隻、石炭3隻、穀物1隻",
+  "title": "【本日のトピック】中国1～2月全国発電量は前年比+5%増、火力発電もプラス成長に3月16日：T/C市場＝23隻・148万DWT、V/C市場＝鉄鉱石4隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/11",
   "sd": "03/11",
@@ -3494,7 +3494,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200080/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑤、初の航路買収、非日本人社員も活躍",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200080/",
   "date": "2026/03/16",
   "sd": "03/16",
@@ -3575,7 +3575,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200087/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "阪神国際港湾会社、ブ…",
+  "title": "阪神国際港湾会社、ブルーアライアンス港で提携、熊本・八代港と",
   "url": "https://www.kaijipress.com/news/container/2026/03/200087/",
   "date": "2026/03/16",
   "sd": "03/16",
@@ -3746,7 +3746,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200109/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工が英設計会社と提携、洋上風力向け輸送船の国内建造促進へ",
+  "title": "中小型造工が英設計会…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200109/",
   "date": "2026/03/16",
   "sd": "03/16",
@@ -3764,7 +3764,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200111/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アルファ・ラバル、ア…",
+  "title": "アルファ・ラバル、アンモニア燃料供給装置のFAT完了",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200111/",
   "date": "2026/03/16",
   "sd": "03/16",
@@ -4138,5 +4138,32 @@
   "date": "2026/03/17",
   "sd": "03/17",
   "first_seen_iso": "2026-03-17T13:59:32.587503+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200121/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "住友商事・川崎汽船・日本郵船、新造アンモニア燃料供給船のFEED、星港導入を想定",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200121/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-17T15:10:12.080185+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200122/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》建造能力分析、小型コンテナ船、27年から再び年間200隻規模に倍増へ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200122/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-17T15:10:12.080185+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200123/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ものづくり日本大賞、内閣総理大臣賞に本瓦造船社長、経産大臣賞には北日本造船",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200123/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-17T15:10:12.080185+09:00"
  }
 }
