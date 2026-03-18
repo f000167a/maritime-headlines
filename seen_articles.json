@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/03/199968/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "北米主要11港、25年は1%増の5489万TEU、関税が影響も増加",
-  "url": "https://www.kaijipress.com/news/container/2026/03/199968/",
-  "date": "2026/03/11",
-  "sd": "03/11",
-  "first_seen_iso": "2026-03-11T15:34:07.031275+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/199969/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "日本成長戦略会議、港湾荷役機械に官民重点投資、国外市場も注力",
-  "url": "https://www.kaijipress.com/news/container/2026/03/199969/",
-  "date": "2026/03/11",
-  "sd": "03/11",
-  "first_seen_iso": "2026-03-11T15:34:07.031275+09:00"
- },
  "https://splash247.com/multiple-ships-hit-on-day-12-of-iran-war/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2684,7 +2666,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200126/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NK、解撤条約適合施設を認証、パキスタンで初",
+  "title": "NK、解撤条約適合施…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200126/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -2711,7 +2693,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200129/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船技協の江黒氏、IM…",
+  "title": "船技協の江黒氏、IMO船舶設備小委の議長に再選",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200129/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -4273,5 +4255,275 @@
   "date": "2026/03/18",
   "sd": "03/18",
   "first_seen_iso": "2026-03-18T15:15:51.436705+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=312951": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（405）日中、柔軟性に差。タンカーにラブコール",
+  "url": "https://www.jmd.co.jp/article.php?no=312951",
+  "date": "2026/02/27",
+  "sd": "02/27",
+  "first_seen_iso": "2026-03-18T16:37:00.322240+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313253": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/山田智史】ホルムズ封鎖、エネルギートレードの変化 注視",
+  "url": "https://www.jmd.co.jp/article.php?no=313253",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-18T16:37:00.322240+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313238": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【社告】「海事アカデミア」5月20日。「業界の今」有識者5氏が解説",
+  "url": "https://www.jmd.co.jp/article.php?no=313238",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-18T16:37:00.322240+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199933/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓①、商船三井元副社長・小野晃彦氏、激動のコンテナ船業界で舵取り",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199933/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199881/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】軍事攻撃から10日、安全海域での待機継続、航行再開めど立たず",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199881/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.322583+09:00"
+ },
+ "https://splash247.com/precious-shipping-taps-japanese-lease-financing-for-four-bulkers/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Precious Shipping taps Japanese lease financing for four bulkers",
+  "url": "https://splash247.com/precious-shipping-taps-japanese-lease-financing-for-four-bulkers/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-18T16:37:00.323099+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-zero44/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: ZERO44",
+  "url": "https://splash247.com/geneva-dry-dialogues-zero44/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-18T16:37:00.323099+09:00"
+ },
+ "https://splash247.com/danaos-doubles-down-on-dry-bulk-with-newcastlemax-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Danaos doubles down on dry bulk with newcastlemax newbuilds",
+  "url": "https://splash247.com/danaos-doubles-down-on-dry-bulk-with-newcastlemax-newbuilds/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-18T16:37:00.323099+09:00"
+ },
+ "https://splash247.com/navitas-compania-maritima-emerges-with-a-capesize-bulker-bargain/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Navitas Compania Maritima emerges with a capesize bulker bargain",
+  "url": "https://splash247.com/navitas-compania-maritima-emerges-with-a-capesize-bulker-bargain/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-18T16:37:00.323099+09:00"
+ },
+ "https://splash247.com/hormuz-paralysis-rewrites-shipping-economics/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz paralysis rewrites shipping economics",
+  "url": "https://splash247.com/hormuz-paralysis-rewrites-shipping-economics/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-18T16:37:00.323099+09:00"
+ },
+ "https://splash247.com/diana-and-star-bulk-mount-new-takeover-push-for-genco/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana and Star Bulk mount new takeover push for Genco",
+  "url": "https://splash247.com/diana-and-star-bulk-mount-new-takeover-push-for-genco/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-18T16:37:00.323099+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-slips-to-1-month-low/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Slips to 1-Month Low",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-slips-to-1-month-low/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-18T16:37:00.323243+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-halts-3-day-slump/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Halts 3-Day Slump",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-halts-3-day-slump/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-18T16:37:00.323243+09:00"
+ },
+ "https://www.hellenicshippingnews.com/middle-east-war-disrupts-dry-bulk-commodity-trade-as-hormuz-shipping-grinds-to-a-halt/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Middle East war disrupts dry bulk commodity trade as Hormuz shipping grinds to a halt",
+  "url": "https://www.hellenicshippingnews.com/middle-east-war-disrupts-dry-bulk-commodity-trade-as-hormuz-shipping-grinds-to-a-halt/",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-18T16:37:00.323243+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-56-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2066 up 56 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-56-points/",
+  "date": "2026/03/09",
+  "sd": "03/09",
+  "first_seen_iso": "2026-03-18T16:37:00.323243+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】インド石炭輸入量、1月は前年比▲14%減少3月17日：T/C市場＝5隻・39万DWT、V/C市場＝鉄鉱石3隻、石炭3隻、穀物1隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.323401+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.323401+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.323401+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.323401+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.323401+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T16:37:00.323401+09:00"
  }
 }
