@@ -4124,7 +4124,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200119/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓⑥、商船三井元副社長・小野晃彦氏、リーマン危機と香港定航本社設立",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200119/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -4196,7 +4196,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200126/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NK、解撤条約適合施…",
+  "title": "NK、解撤条約適合施設を認証、パキスタンで初",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200126/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -4223,7 +4223,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200129/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船技協の江黒氏、IMO船舶設備小委の議長に再選",
+  "title": "船技協の江黒氏、IM…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200129/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -4250,7 +4250,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200132/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "メドログ、上海でCM…",
+  "title": "メドログ、上海でCMLOGと冷蔵倉庫新設、食品物流強化",
   "url": "https://www.kaijipress.com/news/container/2026/03/200132/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -4340,7 +4340,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200142/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "国際風力発電展、都内…",
+  "title": "国際風力発電展、都内で開幕、洋上風力の最新技術やサービス紹介無料",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200142/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -4349,7 +4349,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200143/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "アストモスエネルギー、20周年記念式典開催、「使命を守るために、変わり続ける勇気を」",
+  "title": "アストモスエネルギー…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200143/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -5749,5 +5749,23 @@
   "date": "2026/03/17",
   "sd": "03/17",
   "first_seen_iso": "2026-03-18T07:28:00.414619+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200159/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜中＞、自社管理・営業が成長を生む",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200159/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T14:04:25.753611+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200160/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑦、アライアンス再編で失策",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200160/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T14:04:25.753611+09:00"
  }
 }
