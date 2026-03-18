@@ -3503,7 +3503,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200159/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜中＞、自社管理・営業が成長を生む",
+  "title": "【未来を探せ～70の…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200159/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -3836,7 +3836,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200165/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船食鮮度保持装置「D…",
+  "title": "船食鮮度保持装置「DENBA＋Marine」、500隻達成",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200165/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -4885,5 +4885,32 @@
   "date": "2026/03/10",
   "sd": "03/10",
   "first_seen_iso": "2026-03-19T07:27:52.327902+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-edges-up/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Edges Up",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-edges-up/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-19T07:57:14.146693+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-1926-up-7-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 1926 up 7 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-1926-up-7-points/",
+  "date": "2026/03/11",
+  "sd": "03/11",
+  "first_seen_iso": "2026-03-19T07:57:14.146693+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2058号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-19T07:57:14.146839+09:00"
  }
 }
