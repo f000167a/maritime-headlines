@@ -1,13 +1,4 @@
 {
- "https://splash247.com/pangaea-offloads-ageing-bulker/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Pangaea offloads ageing bulker",
-  "url": "https://splash247.com/pangaea-offloads-ageing-bulker/",
-  "date": "2026/03/11",
-  "sd": "03/11",
-  "first_seen_iso": "2026-03-11T20:02:38.007470+09:00"
- },
  "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1919-down-147-points/": {
   "src": "h",
   "cat": "Dry Bulk Market",
@@ -2288,7 +2279,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200126/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NK、解撤条約適合施設を認証、パキスタンで初",
+  "title": "NK、解撤条約適合施…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200126/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -2315,7 +2306,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200129/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船技協の江黒氏、IM…",
+  "title": "船技協の江黒氏、IMO船舶設備小委の議長に再選",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200129/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -2432,7 +2423,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200142/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "国際風力発電展、都内で開幕、洋上風力の最新技術やサービス紹介無料",
+  "title": "国際風力発電展、都内…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200142/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -2441,7 +2432,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200143/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "アストモスエネルギー…",
+  "title": "アストモスエネルギー、20周年記念式典開催、「使命を守るために、変わり続ける勇気を」",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200143/",
   "date": "2026/03/17",
   "sd": "03/17",
@@ -4489,5 +4480,32 @@
   "date": "2026/03/18",
   "sd": "03/18",
   "first_seen_iso": "2026-03-18T19:37:18.444627+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/199970/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】バンカー供給体制が大混乱、滞船や輸送見合わせも発生",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/199970/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T20:33:45.416940+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/03/200007/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井ドライバルク、役員異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/03/200007/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T20:33:45.416940+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/199975/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏②、NYでのクリスマスイブ",
+  "url": "https://www.kaijipress.com/news/container/2026/03/199975/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-18T20:33:45.416940+09:00"
  }
 }
