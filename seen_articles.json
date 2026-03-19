@@ -1,22 +1,4 @@
 {
- "https://splash247.com/middle-east-latest-inferno-at-sea-and-shore/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Middle East latest: Inferno at sea and shore",
-  "url": "https://splash247.com/middle-east-latest-inferno-at-sea-and-shore/",
-  "date": "2026/03/12",
-  "sd": "03/12",
-  "first_seen_iso": "2026-03-12T17:56:40.023326+09:00"
- },
- "https://splash247.com/salt-trade-seasoned-with-strong-egyptian-flows/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Salt trade seasoned with strong Egyptian flows",
-  "url": "https://splash247.com/salt-trade-seasoned-with-strong-egyptian-flows/",
-  "date": "2026/03/12",
-  "sd": "03/12",
-  "first_seen_iso": "2026-03-12T17:56:40.023326+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200016/": {
   "src": "k",
   "cat": "コラム",
@@ -3458,7 +3440,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200159/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜中＞、自社管理・営業が成長を生む",
+  "title": "【未来を探せ～70の…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200159/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -3791,7 +3773,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200165/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船食鮮度保持装置「D…",
+  "title": "船食鮮度保持装置「DENBA＋Marine」、500隻達成",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200165/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -4939,5 +4921,14 @@
   "date": "2026/03/19",
   "sd": "03/19",
   "first_seen_iso": "2026-03-19T16:17:42.327028+09:00"
+ },
+ "https://splash247.com/guinea-weighs-bauxite-output-curbs/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Guinea weighs bauxite output curbs",
+  "url": "https://splash247.com/guinea-weighs-bauxite-output-curbs/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-19T18:03:30.222083+09:00"
  }
 }
