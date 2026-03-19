@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/03/200012/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "東洋信号通信社、船舶動静サービスVSSを刷新、UI/UX改善で利便性向上",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200012/",
-  "date": "2026/03/12",
-  "sd": "03/12",
-  "first_seen_iso": "2026-03-12T13:54:41.953721+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200013/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏③、システム再構築で人を動かす",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200013/",
-  "date": "2026/03/12",
-  "sd": "03/12",
-  "first_seen_iso": "2026-03-12T13:54:41.953721+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200011/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "WinGD、アンモニア機関の受注34基に、初号機は今年前半に海上公試へ",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200011/",
-  "date": "2026/03/12",
-  "sd": "03/12",
-  "first_seen_iso": "2026-03-12T13:54:41.953721+09:00"
- },
  "https://www.kaijipress.com/news/tramper/2026/03/200014/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
@@ -3503,7 +3476,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200159/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜中＞、自社管理・営業が成長を生む",
+  "title": "【未来を探せ～70の…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200159/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -3827,7 +3800,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200164/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "栗林商船、国内初ジャ…",
+  "title": "栗林商船、国内初ジャトロファ由来SVO実証、日本植物燃料と",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200164/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -4912,5 +4885,32 @@
   "date": "2026/03/18",
   "sd": "03/18",
   "first_seen_iso": "2026-03-19T07:57:14.146839+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200192/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜下＞、船主業は工夫の余地が大きい",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200192/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-19T14:01:56.684835+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200194/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "仙台塩釜港、CMA-CGMの比航路第1船が寄港、一条工務店が輸入利用",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200194/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-19T14:01:56.684835+09:00"
+ },
+ "https://www.kaijipress.com/markets/newbuilding/2026/03/200193/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "新造船市況月間レポート（2026年2月）、VLCCなど大型船のロット発注継続",
+  "url": "https://www.kaijipress.com/markets/newbuilding/2026/03/200193/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-19T14:01:56.684835+09:00"
  }
 }
