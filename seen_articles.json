@@ -3233,7 +3233,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200164/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "栗林商船、国内初ジャトロファ由来SVO実証、日本植物燃料と",
+  "title": "栗林商船、国内初ジャ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200164/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -3242,7 +3242,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200165/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船食鮮度保持装置「D…",
+  "title": "船食鮮度保持装置「DENBA＋Marine」、500隻達成",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200165/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -4912,5 +4912,50 @@
   "date": "2026/03/18",
   "sd": "03/18",
   "first_seen_iso": "2026-03-20T07:22:35.072240+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313370": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/五味宜範】国内造船 「耐える」から「攻める」へ。好転する環境追い風に",
+  "url": "https://www.jmd.co.jp/article.php?no=313370",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-20T07:54:52.743414+09:00"
+ },
+ "https://splash247.com/greek-capesize-specialist-seanergy-grows-newbuild-programme-to-five-ships/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Greek capesize specialist Seanergy grows newbuild programme to five ships",
+  "url": "https://splash247.com/greek-capesize-specialist-seanergy-grows-newbuild-programme-to-five-ships/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-20T07:54:52.744399+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-2nd-day/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Up for 2nd Day",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-2nd-day/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-20T07:54:52.744553+09:00"
+ },
+ "https://www.hellenicshippingnews.com/month-declining-to-210mt-china-iron-ore-imports-are-forecast-to-rebound-in-march/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Month declining to 210Mt, China iron ore imports are forecast to rebound in March",
+  "url": "https://www.hellenicshippingnews.com/month-declining-to-210mt-china-iron-ore-imports-are-forecast-to-rebound-in-march/",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-03-20T07:54:52.744553+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-1972-up-46-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 1972 up 46 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-1972-up-46-points/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-20T07:54:52.744553+09:00"
  }
 }
