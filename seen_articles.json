@@ -3521,7 +3521,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200164/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "栗林商船、国内初ジャ…",
+  "title": "栗林商船、国内初ジャトロファ由来SVO実証、日本植物燃料と",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200164/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -3530,7 +3530,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200165/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船食鮮度保持装置「DENBA＋Marine」、500隻達成",
+  "title": "船食鮮度保持装置「D…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200165/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -4948,5 +4948,32 @@
   "date": "2026/03/12",
   "sd": "03/12",
   "first_seen_iso": "2026-03-19T19:02:51.676708+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200033/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》揺れる船舶修繕＜上＞、修繕も中国が圧倒、シェア6割超に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200033/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-19T20:03:51.341268+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200016/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】商船被害拡大、少なくとも計15隻、タンカー・バルカー・コンテナ船などで",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200016/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-19T20:03:51.341268+09:00"
+ },
+ "https://splash247.com/himalaya-shipping-lands-premium-index-linked-charter/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Himalaya Shipping lands premium index-linked charter",
+  "url": "https://splash247.com/himalaya-shipping-lands-premium-index-linked-charter/",
+  "date": "2026/03/12",
+  "sd": "03/12",
+  "first_seen_iso": "2026-03-19T20:03:51.341966+09:00"
  }
 }
