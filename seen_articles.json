@@ -1,22 +1,4 @@
 {
- "https://splash247.com/the-largest-supply-disruption-in-the-history-of-the-global-oil-market-ieas-take-on-the-hormuz-crisis/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "‘The largest supply disruption in the history of the global oil market’: IEA’s take on the Hormuz crisis",
-  "url": "https://splash247.com/the-largest-supply-disruption-in-the-history-of-the-global-oil-market-ieas-take-on-the-hormuz-crisis/",
-  "date": "2026/03/13",
-  "sd": "03/13",
-  "first_seen_iso": "2026-03-13T16:58:00.117730+09:00"
- },
- "https://splash247.com/splash-wrap-the-hormuz-inferno/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: The Hormuz inferno",
-  "url": "https://splash247.com/splash-wrap-the-hormuz-inferno/",
-  "date": "2026/03/13",
-  "sd": "03/13",
-  "first_seen_iso": "2026-03-13T17:54:23.547858+09:00"
- },
  "https://www.kaijipress.com/news/offshore_wind/2026/03/200075/": {
   "src": "k",
   "cat": "コラム",
@@ -2864,7 +2846,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200159/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【未来を探せ～70の…",
+  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜中＞、自社管理・営業が成長を生む",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200159/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -3188,7 +3170,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200164/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "栗林商船、国内初ジャトロファ由来SVO実証、日本植物燃料と",
+  "title": "栗林商船、国内初ジャ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200164/",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -4939,5 +4921,14 @@
   "date": "2026/03/13",
   "sd": "03/13",
   "first_seen_iso": "2026-03-20T16:56:24.083555+09:00"
+ },
+ "https://splash247.com/splash-wrap-the-largest-supply-disruption-in-the-history-of-the-global-oil-market/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: ‘The largest supply disruption in the history of the global oil market’",
+  "url": "https://splash247.com/splash-wrap-the-largest-supply-disruption-in-the-history-of-the-global-oil-market/",
+  "date": "2026/03/20",
+  "sd": "03/20",
+  "first_seen_iso": "2026-03-20T17:54:35.038032+09:00"
  }
 }
