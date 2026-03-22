@@ -3692,7 +3692,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200194/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "仙台塩釜港、CMA-…",
+  "title": "仙台塩釜港、CMA-CGMの比航路第1船が寄港、一条工務店が輸入利用",
   "url": "https://www.kaijipress.com/news/container/2026/03/200194/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3809,7 +3809,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200203/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、シンガポールで新物流施設稼働、ロジ事業を強化",
+  "title": "マースク、シンガポー…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200203/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -4330,7 +4330,7 @@
  },
  "https://splash247.com/qatar-lng-damage-yanbu-strikes-and-hormuz-toll-threats-deepen-shipping-crisis/": {
   "src": "s",
-  "cat": "Bunkering",
+  "cat": "Dry Cargo",
   "title": "Qatar LNG damage, Yanbu strikes and Hormuz toll threats deepen shipping crisis",
   "url": "https://splash247.com/qatar-lng-damage-yanbu-strikes-and-hormuz-toll-threats-deepen-shipping-crisis/",
   "date": "2026/03/20",
@@ -4348,7 +4348,7 @@
  },
  "https://splash247.com/splash-wrap-the-largest-supply-disruption-in-the-history-of-the-global-oil-market/": {
   "src": "s",
-  "cat": "Bunkering",
+  "cat": "Dry Cargo",
   "title": "Splash Wrap: ‘The largest supply disruption in the history of the global oil market’",
   "url": "https://splash247.com/splash-wrap-the-largest-supply-disruption-in-the-history-of-the-global-oil-market/",
   "date": "2026/03/20",
@@ -4462,5 +4462,59 @@
   "date": "2026/03/20",
   "sd": "03/20",
   "first_seen_iso": "2026-03-23T07:20:23.134182+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313425": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "【健康経営優良法人2026に認定】日本航空、大規模法人部門、グループ9社",
+  "url": "https://www.jmd.co.jp/article.php?no=313425",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-23T08:22:33.015561+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313440": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【お知らせ】別冊「人材特集2026」",
+  "url": "https://www.jmd.co.jp/article.php?no=313440",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-23T08:22:33.015561+09:00"
+ },
+ "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Will it be onwards and upwards for the dry bulk market in 2026?",
+  "url": "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-23T08:22:33.016318+09:00"
+ },
+ "https://splash247.com/pan-ocean-bulks-up-with-qingdao-beihai-newcastlemaxes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Pan Ocean bulks up with Qingdao Beihai newcastlemaxes",
+  "url": "https://splash247.com/pan-ocean-bulks-up-with-qingdao-beihai-newcastlemaxes/",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-23T08:22:33.016318+09:00"
+ },
+ "https://splash247.com/nasco-returns-to-china-merchants-yard-for-ultramax-brace/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "NASCO returns to China Merchants yard for ultramax brace",
+  "url": "https://splash247.com/nasco-returns-to-china-merchants-yard-for-ultramax-brace/",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-23T08:22:33.016318+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-rises-further-posts-weekly-gain/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Rises Further, Posts Weekly Gain",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-further-posts-weekly-gain/",
+  "date": "2026/03/14",
+  "sd": "03/14",
+  "first_seen_iso": "2026-03-23T08:22:33.016468+09:00"
  }
 }
