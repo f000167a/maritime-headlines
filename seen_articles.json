@@ -3350,7 +3350,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200196/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ICTSI、比ルソン…",
+  "title": "ICTSI、比ルソン島南部で新CT、年間200万TEUで28年完成",
   "url": "https://www.kaijipress.com/news/container/2026/03/200196/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3359,7 +3359,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200197/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工・共栄バルブ工業・中北製作所・フジキン、液化水素船用のバルブ製作で契約",
+  "title": "川崎重工・共栄バルブ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200197/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3440,7 +3440,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200203/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、シンガポールで新物流施設稼働、ロジ事業を強化",
+  "title": "マースク、シンガポー…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200203/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3476,7 +3476,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200207/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "国際風力発電展閉幕、…",
+  "title": "国際風力発電展閉幕、洋上風力の産業振興で議論活発無料",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200207/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3485,7 +3485,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200208/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "国華産業、メタノール燃料内航ケミカル船進水、メタノール燃料供給にも対応",
+  "title": "国華産業、メタノール…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200208/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3530,7 +3530,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200214/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "インフォーママーケッ…",
+  "title": "インフォーママーケッツジャパン・イブ社長に聞く、「業界の勢いを映すSea Japanに」無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200214/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -4525,5 +4525,23 @@
   "date": "2026/03/16",
   "sd": "03/16",
   "first_seen_iso": "2026-03-23T20:33:12.946683+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/03/200112/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/03/200112/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-23T21:33:33.312192+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/200097/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、アベニールに50%出資、LNG燃料供給事業を拡大、バイオLNGの普及も",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/200097/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-23T21:33:33.312192+09:00"
  }
 }
