@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313480": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "日本通運、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=313480",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-03-16T18:16:54.124517+09:00"
- },
- "https://splash247.com/tehrans-selective-authorisation-of-hormuz-transits-splits-shipping/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Tehran’s selective authorisation of Hormuz transits splits shipping",
-  "url": "https://splash247.com/tehrans-selective-authorisation-of-hormuz-transits-splits-shipping/",
-  "date": "2026/03/16",
-  "sd": "03/16",
-  "first_seen_iso": "2026-03-16T18:16:54.125295+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200082/": {
   "src": "k",
   "cat": "コラム",
@@ -3782,7 +3764,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200203/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、シンガポー…",
+  "title": "マースク、シンガポールで新物流施設稼働、ロジ事業を強化",
   "url": "https://www.kaijipress.com/news/container/2026/03/200203/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3809,7 +3791,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200206/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "国交省、カンボジア港湾公社総裁が表敬訪問",
+  "title": "国交省、カンボジア港…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200206/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3818,7 +3800,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200207/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "国際風力発電展閉幕、…",
+  "title": "国際風力発電展閉幕、洋上風力の産業振興で議論活発無料",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200207/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3854,7 +3836,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200212/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "プロジェクト貨物荷動き、25年は39%増の1250万トン、中国出しが5割",
+  "title": "プロジェクト貨物荷動…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200212/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -4840,5 +4822,23 @@
   "date": "2026/03/23",
   "sd": "03/23",
   "first_seen_iso": "2026-03-23T18:15:02.340889+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313634": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!19:03日欧、ホルムズ封鎖を非難。首脳陣が共同声明",
+  "url": "https://www.jmd.co.jp/article.php?no=313634",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-03-23T19:30:33.803457+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313633": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!19:03ＩＭＯ臨時理事会、海上回廊の構築を奨励。安全な避難へ",
+  "url": "https://www.jmd.co.jp/article.php?no=313633",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-03-23T19:30:33.803457+09:00"
  }
 }
