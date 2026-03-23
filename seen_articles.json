@@ -2522,7 +2522,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】伯CONAB、3月度穀物需給見通しを発表3月18日：T/C市場＝10隻・70万DWT、V/C市場＝鉄鉱石5隻、石炭3隻、穀物1隻",
+  "title": "【本日のトピック】2月の中国石炭輸入、一般炭▲10%、原料炭▲9%減3月20日：T/C市場＝5隻・39万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -3728,7 +3728,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200197/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工・共栄バルブ…",
+  "title": "川崎重工・共栄バルブ工業・中北製作所・フジキン、液化水素船用のバルブ製作で契約",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200197/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -3899,7 +3899,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200214/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "インフォーママーケッツジャパン・イブ社長に聞く、「業界の勢いを映すSea Japanに」無料",
+  "title": "インフォーママーケッ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200214/",
   "date": "2026/03/19",
   "sd": "03/19",
@@ -4516,5 +4516,32 @@
   "date": "2026/03/14",
   "sd": "03/14",
   "first_seen_iso": "2026-03-23T08:22:33.016468+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200225/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》商品市況フォーカス＜原油＞、JOGMEC　野神隆之首席エコノミスト、供給要因が相場を左右",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200225/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-23T15:49:23.507533+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200226/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑨、「いざなぎプロジェクト」が始動",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200226/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-23T15:49:23.507533+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200227/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、上海発欧州向けは運賃続伸、値上げ計画に注目",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200227/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-23T15:49:23.507533+09:00"
  }
 }
