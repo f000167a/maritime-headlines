@@ -3890,7 +3890,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200225/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》商品市況フォーカス＜原油＞、JOGMEC　野神隆之首席エコノミスト、供給要因が相場を左右",
+  "title": "《連載》商品市況フォ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200225/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -3944,7 +3944,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200231/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "旭タンカーのうみまち…",
+  "title": "旭タンカーのうみまち社、Jブルークレジット認証取得、防府市で藻場再生",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200231/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -4097,7 +4097,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200249/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船、エジプト向け鉄道車両を初出荷、神戸港から自動車船で",
+  "title": "川崎汽船、エジプト向…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200249/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -4106,7 +4106,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200251/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "中国、25年は鉄鉱石…",
+  "title": "中国、25年は鉄鉱石生産量2.8%減、海上輸入量増加の要因に",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200251/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -4534,5 +4534,41 @@
   "date": "2026/03/24",
   "sd": "03/24",
   "first_seen_iso": "2026-03-24T07:26:27.518581+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-shipping-is-a-weaker-global-grains-crop-on-the-horizon/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Shipping: Is a Weaker Global Grains Crop on the Horizon?",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-is-a-weaker-global-grains-crop-on-the-horizon/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-24T08:38:28.199304+09:00"
+ },
+ "https://www.hellenicshippingnews.com/how-shifting-trade-flows-are-driving-dry-bulk-demand-in-2026/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "How Shifting Trade Flows are Driving Dry Bulk Demand in 2026",
+  "url": "https://www.hellenicshippingnews.com/how-shifting-trade-flows-are-driving-dry-bulk-demand-in-2026/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-24T08:38:28.199304+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-4th-session/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Rises for 4th Session",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-4th-session/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-24T08:38:28.199304+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2038-up-10-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2038 up 10 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2038-up-10-points/",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-03-24T08:38:28.199304+09:00"
  }
 }
