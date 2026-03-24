@@ -1,13 +1,4 @@
 {
- "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Selective Gulf transits emerge under Iranian verification",
-  "url": "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/",
-  "date": "2026/03/17",
-  "sd": "03/17",
-  "first_seen_iso": "2026-03-17T19:36:13.881824+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313517": {
   "src": "j",
   "cat": "航空貨物",
@@ -2729,7 +2720,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200249/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船、エジプト向…",
+  "title": "川崎汽船、エジプト向け鉄道車両を初出荷、神戸港から自動車船で",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200249/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -2738,7 +2729,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200251/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "中国、25年は鉄鉱石生産量2.8%減、海上輸入量増加の要因に",
+  "title": "中国、25年は鉄鉱石…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200251/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -2765,7 +2756,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200254/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、「ツネイシルームを挑戦の場に」、“青雲丸”教室命名権で調印",
+  "title": "常石造船、「ツネイシ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200254/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -2783,7 +2774,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200256/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "JMU、漁業取締船“…",
+  "title": "JMU、漁業取締船“あまくさ”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200256/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -3634,5 +3625,23 @@
   "date": "2026/03/24",
   "sd": "03/24",
   "first_seen_iso": "2026-03-24T18:41:00.252078+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200124/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜上＞、不透明な時代、柔軟性が必要に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200124/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-24T19:36:45.434053+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-klaveness-digital/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: Klaveness Digital",
+  "url": "https://splash247.com/geneva-dry-dialogues-klaveness-digital/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-24T19:36:45.434853+09:00"
  }
 }
