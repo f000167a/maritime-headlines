@@ -2540,7 +2540,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200228/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "インマルサットのネクサスウェーブ、日本海域で高速通信提供",
+  "title": "インマルサットのネク…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200228/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -2567,7 +2567,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200231/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "旭タンカーのうみまち…",
+  "title": "旭タンカーのうみまち社、Jブルークレジット認証取得、防府市で藻場再生",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200231/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -2720,7 +2720,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200249/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船、エジプト向け鉄道車両を初出荷、神戸港から自動車船で",
+  "title": "川崎汽船、エジプト向…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200249/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200251/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "中国、25年は鉄鉱石…",
+  "title": "中国、25年は鉄鉱石生産量2.8%減、海上輸入量増加の要因に",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200251/",
   "date": "2026/03/23",
   "sd": "03/23",
@@ -3643,5 +3643,32 @@
   "date": "2026/03/17",
   "sd": "03/17",
   "first_seen_iso": "2026-03-24T19:36:45.434853+09:00"
+ },
+ "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Zhejiang Shipping Group expands capesize fleet with second acquisition",
+  "url": "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-24T20:34:28.487012+09:00"
+ },
+ "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Selective Gulf transits emerge under Iranian verification",
+  "url": "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/",
+  "date": "2026/03/17",
+  "sd": "03/17",
+  "first_seen_iso": "2026-03-24T20:34:28.487012+09:00"
+ },
+ "https://www.hellenicshippingnews.com/indias-coal-imports-likely-to-remain-subdued-in-near-term/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "India’s coal imports likely to remain subdued in near term",
+  "url": "https://www.hellenicshippingnews.com/indias-coal-imports-likely-to-remain-subdued-in-near-term/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-24T20:34:28.487163+09:00"
  }
 }
