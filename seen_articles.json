@@ -2972,7 +2972,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200266/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑩、マースクCEOからの一言",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200266/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3035,7 +3035,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200274/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、経営層向けにDXプログラムを実施、明珍会長ら21人が参加",
+  "title": "川崎汽船、経営層向け…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200274/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3044,7 +3044,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200275/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "JMETS、新理事長…",
+  "title": "JMETS、新理事長に佐々明氏",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200275/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3143,7 +3143,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200287/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "トレードワルツ、デジ…",
+  "title": "トレードワルツ、デジタル庁主催の委員会で意見交換",
   "url": "https://www.kaijipress.com/news/container/2026/03/200287/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3152,7 +3152,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200288/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "《連載》商品市況フォーカス＜穀物＞、協伸商会　斎藤吉則顧問、穀物生産はブラジル台頭、堅調な需要支える",
+  "title": "《連載》商品市況フォ…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200288/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3170,7 +3170,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200290/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、北米最大級…",
+  "title": "飯野海運、北米最大級の海事イベントに登壇",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200290/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3733,5 +3733,23 @@
   "date": "2026/03/23",
   "sd": "03/23",
   "first_seen_iso": "2026-03-25T07:24:43.361417+09:00"
+ },
+ "https://www.hellenicshippingnews.com/bulk-carriers-find-new-route-out-of-hormuz-strait/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Bulk Carriers Find New Route Out of Hormuz Strait",
+  "url": "https://www.hellenicshippingnews.com/bulk-carriers-find-new-route-out-of-hormuz-strait/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-25T08:31:31.916563+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-4-day-winning-run/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Snaps 4-Day Winning Run",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-4-day-winning-run/",
+  "date": "2026/03/18",
+  "sd": "03/18",
+  "first_seen_iso": "2026-03-25T08:31:31.916563+09:00"
  }
 }
