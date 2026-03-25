@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/03/200159/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】＃8＃9極東海運実業・海部圭史社長 × 安保商店・和田連CEO・社長＜中＞、自社管理・営業が成長を生む",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200159/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-18T14:04:25.753611+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200160/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑦、アライアンス再編で失策",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200160/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-18T14:04:25.753611+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/03/200161/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "海外タンカー船社の25年業績、前年の反動で減益目立つ",
-  "url": "https://www.kaijipress.com/news/tramper/2026/03/200161/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-18T15:15:51.436705+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200162/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "航海システムの統合化推進日本無線、三輪マリンシステム事業部長に聞く",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200162/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-18T15:15:51.436705+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=312951": {
   "src": "j",
   "cat": "国内船主の今",
@@ -254,7 +218,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国1～2月鉄鉱石輸入、2024年上回り過去最高ペース3月23日：T/C市場＝23隻・108万DWT、V/C市場＝石炭1隻、穀物1隻",
+  "title": "【本日のトピック】2月世界粗鋼生産量は1.42億トン、6カ月連続で前年水準下回る3月24日：T/C市場＝8隻・58万DWT、V/C市場＝鉄鉱石1隻、石炭4隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/18",
   "sd": "03/18",
@@ -2963,7 +2927,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200267/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、安全キャン…",
+  "title": "川崎汽船、安全キャンペーンを実施、200隻以上・4200人参加",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200267/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3026,7 +2990,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200273/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船グループ、内航RORO船の自動運航実証で成果、「MEGURI2040」で",
+  "title": "川崎汽船グループ、内…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200273/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3053,7 +3017,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200277/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、釜山港でCT…",
+  "title": "ONE、釜山港でCT投資、積み替え効率化、東遠グループと長期提携",
   "url": "https://www.kaijipress.com/news/container/2026/03/200277/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3143,7 +3107,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200287/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "トレードワルツ、デジタル庁主催の委員会で意見交換",
+  "title": "トレードワルツ、デジ…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200287/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3152,7 +3116,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200288/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "《連載》商品市況フォーカス＜穀物＞、協伸商会　斎藤吉則顧問、穀物生産はブラジル台頭、堅調な需要支える",
+  "title": "《連載》商品市況フォ…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200288/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3170,7 +3134,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200290/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、北米最大級…",
+  "title": "飯野海運、北米最大級の海事イベントに登壇",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200290/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3778,5 +3742,32 @@
   "date": "2026/03/25",
   "sd": "03/25",
   "first_seen_iso": "2026-03-25T14:02:00.588492+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200316/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、グループ会社とコンプライアンス連絡会",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200316/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T15:15:54.503930+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200317/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本―欧州間コンテナ、11月は14%増の9.8万TEU、3カ月ぶり増",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200317/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T15:15:54.503930+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/200315/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CTM、都内で関係者招きパーティー",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/200315/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T15:15:54.503930+09:00"
  }
 }
