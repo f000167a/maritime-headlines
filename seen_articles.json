@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/03/199970/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】バンカー供給体制が大混乱、滞船や輸送見合わせも発生",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/199970/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-18T20:33:45.416940+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/03/200007/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井ドライバルク、役員異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/03/200007/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-18T20:33:45.416940+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/199975/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏②、NYでのクリスマスイブ",
-  "url": "https://www.kaijipress.com/news/container/2026/03/199975/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-18T20:33:45.416940+09:00"
- },
  "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2M3bTFFY01reldZNlFuVlBFN2E4M0gzdkRaZG5qaFJKdEVDcl9mazJ2VTFEa3l2QkJOSVA4WVNuaDlLZXRXVGtDcUxKdF9tazYzbkUtSFFiUXZkaG1wd1cwY2RXMUFMUVoyUllaT2VZLTZ3cnMySmo5MEZzZnFlY1lhVU5Rdw?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2315,7 +2288,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200267/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、安全キャンペーンを実施、200隻以上・4200人参加",
+  "title": "川崎汽船、安全キャン…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200267/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -2324,7 +2297,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200266/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑩、マースクCEOからの一言",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200266/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -2396,7 +2369,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200275/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "JMETS、新理事長…",
+  "title": "JMETS、新理事長に佐々明氏",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200275/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -2432,7 +2405,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200280/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONEジャパン、ター…",
+  "title": "ONEジャパン、ターミナル安全・品質大会を開催、全国から一堂に集結",
   "url": "https://www.kaijipress.com/news/container/2026/03/200280/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3769,5 +3742,23 @@
   "date": "2026/03/25",
   "sd": "03/25",
   "first_seen_iso": "2026-03-25T19:34:19.829173+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200163/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東京センチュリー、船舶アセットビジネスを拡大、CTM出資で運航機能も取り込み",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200163/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T21:06:56.041676+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200182/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "造船・海運・舶用・鉄鋼5団体が連携、造船再生、第1回会合、具体施策検討へ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200182/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T21:06:56.041676+09:00"
  }
 }
