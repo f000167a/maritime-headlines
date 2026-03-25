@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313565": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "阪神国際港湾会社、副社長に長谷川氏",
-  "url": "https://www.jmd.co.jp/article.php?no=313565",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-03-18T18:37:57.611342+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200163/": {
   "src": "k",
   "cat": "コラム",
@@ -2666,7 +2657,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200266/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓…",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑩、マースクCEOからの一言",
   "url": "https://www.kaijipress.com/news/container/2026/03/200266/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -2747,7 +2738,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200277/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、釜山港でCT投資、積み替え効率化、東遠グループと長期提携",
+  "title": "ONE、釜山港でCT…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200277/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3589,5 +3580,176 @@
   "date": "2026/03/25",
   "sd": "03/25",
   "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313728": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!17:03近鉄エクスプレス、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=313728",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-03-25T18:38:19.287493+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=312951": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（405）日中、柔軟性に差。タンカーにラブコール",
+  "url": "https://www.jmd.co.jp/article.php?no=312951",
+  "date": "2026/02/27",
+  "sd": "02/27",
+  "first_seen_iso": "2026-03-25T18:38:19.287493+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313253": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/山田智史】ホルムズ封鎖、エネルギートレードの変化 注視",
+  "url": "https://www.jmd.co.jp/article.php?no=313253",
+  "date": "2026/03/10",
+  "sd": "03/10",
+  "first_seen_iso": "2026-03-25T18:38:19.287493+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.287838+09:00"
+ },
+ "https://splash247.com/shipping-faces-diplomatic-promise-but-practical-peril-in-the-strait-of-hormuz/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipping faces diplomatic promise but practical peril in the Strait of Hormuz",
+  "url": "https://splash247.com/shipping-faces-diplomatic-promise-but-practical-peril-in-the-strait-of-hormuz/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.288449+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】2月世界粗鋼生産量は1.42億トン、6カ月連続で前年水準下回る3月24日：T/C市場＝8隻・58万DWT、V/C市場＝鉄鉱石1隻、石炭4隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.288746+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.288746+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.288746+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.288746+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.288746+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T18:38:19.288746+09:00"
  }
 }
