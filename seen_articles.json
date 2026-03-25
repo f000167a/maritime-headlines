@@ -2963,7 +2963,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200267/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、安全キャンペーンを実施、200隻以上・4200人参加",
+  "title": "川崎汽船、安全キャン…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200267/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -2972,7 +2972,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200266/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓…",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑩、マースクCEOからの一言",
   "url": "https://www.kaijipress.com/news/container/2026/03/200266/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3044,7 +3044,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200275/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "JMETS、新理事長…",
+  "title": "JMETS、新理事長に佐々明氏",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200275/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3053,7 +3053,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200277/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、釜山港でCT投資、積み替え効率化、東遠グループと長期提携",
+  "title": "ONE、釜山港でCT…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200277/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3751,5 +3751,32 @@
   "date": "2026/03/18",
   "sd": "03/18",
   "first_seen_iso": "2026-03-25T08:31:31.916563+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200312/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》商品市況フォーカス＜原油＞、日本総合研究所　栂野裕貴研究員、戦争早期終結なら28年頃まで供給超過",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200312/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T14:02:00.588492+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200313/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑪、人材配置と当局承認取得に奔走",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200313/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T14:02:00.588492+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200314/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国発アジア向けコンテナ、25年は0.5%減の573万TEU、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200314/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T14:02:00.588492+09:00"
  }
 }
