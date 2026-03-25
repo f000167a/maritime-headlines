@@ -3044,7 +3044,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200280/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONEジャパン、ターミナル安全・品質大会を開催、全国から一堂に集結",
+  "title": "ONEジャパン、ター…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200280/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3107,7 +3107,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200287/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "トレードワルツ、デジ…",
+  "title": "トレードワルツ、デジタル庁主催の委員会で意見交換",
   "url": "https://www.kaijipress.com/news/container/2026/03/200287/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3116,7 +3116,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200288/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "《連載》商品市況フォ…",
+  "title": "《連載》商品市況フォーカス＜穀物＞、協伸商会　斎藤吉則顧問、穀物生産はブラジル台頭、堅調な需要支える",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200288/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3134,7 +3134,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200290/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、北米最大級の海事イベントに登壇",
+  "title": "飯野海運、北米最大級…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200290/",
   "date": "2026/03/24",
   "sd": "03/24",
@@ -3769,5 +3769,14 @@
   "date": "2026/03/25",
   "sd": "03/25",
   "first_seen_iso": "2026-03-25T15:15:54.503930+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200160/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑦、アライアンス再編で失策",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200160/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-03-25T16:36:57.074245+09:00"
  }
 }
