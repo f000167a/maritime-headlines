@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/03/200195/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓⑧、商船三井元副社長・小野晃彦氏、2万TEU型船が魅力に転じる",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200195/",
-  "date": "2026/03/19",
-  "sd": "03/19",
-  "first_seen_iso": "2026-03-19T15:12:46.962305+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200196/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ICTSI、比ルソン島南部で新CT、年間200万TEUで28年完成",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200196/",
-  "date": "2026/03/19",
-  "sd": "03/19",
-  "first_seen_iso": "2026-03-19T15:12:46.962305+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200197/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "川崎重工・共栄バルブ…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200197/",
-  "date": "2026/03/19",
-  "sd": "03/19",
-  "first_seen_iso": "2026-03-19T15:12:46.962305+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200013/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏③、システム再構築で人を動かす",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200013/",
-  "date": "2026/03/19",
-  "sd": "03/19",
-  "first_seen_iso": "2026-03-19T15:12:46.962305+09:00"
- },
  "https://splash247.com/geneva-dry-reveals-finalised-agenda-with-40-days-to-go-and-250-companies-already-signed-up/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2324,7 +2288,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200313/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑪、人材配置と当局承認取得に奔走",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200313/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2576,7 +2540,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】2月世界粗鋼生産量は1.42億トン、6カ月連続で前年水準下回る3月24日：T/C市場＝8隻・58万DWT、V/C市場＝鉄鉱石1隻、石炭4隻",
+  "title": "【本日のトピック】インドネシア政府、石炭減産方針を見直しへ3月25日：T/C市場＝11隻・88万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2684,7 +2648,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200324/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "インターエイシアライ…",
+  "title": "インターエイシアライン、新コンテナデザインを発表",
   "url": "https://www.kaijipress.com/news/container/2026/03/200324/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2819,7 +2783,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200339/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、海事産業特化のAIを共同開発、オープンソースで公開",
+  "title": "古野電気、海事産業特…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200339/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2873,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200345/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "向島ドック、尾道中学…",
+  "title": "向島ドック、尾道中学・高校と包括協定、海事産業×教育で次世代育成",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200345/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -3274,5 +3238,32 @@
   "date": "2026/03/26",
   "sd": "03/26",
   "first_seen_iso": "2026-03-26T14:24:03.810692+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200362/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》海上コンテナの国内物流危機②、輸送能力を最大限活用へ",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200362/",
+  "date": "2026/03/26",
+  "sd": "03/26",
+  "first_seen_iso": "2026-03-26T15:47:27.594852+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "佐世保重工、長崎ヴェルカとパートナー契約",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/",
+  "date": "2026/03/26",
+  "sd": "03/26",
+  "first_seen_iso": "2026-03-26T15:47:27.594852+09:00"
+ },
+ "https://www.kaijipress.com/markets/scrap/2026/03/200360/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "船舶解撤市場レポート（2026年2月）、前年比で価格の低調推移つづく",
+  "url": "https://www.kaijipress.com/markets/scrap/2026/03/200360/",
+  "date": "2026/03/26",
+  "sd": "03/26",
+  "first_seen_iso": "2026-03-26T15:47:27.594852+09:00"
  }
 }
