@@ -1,49 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313370": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/五味宜範】国内造船 「耐える」から「攻める」へ。好転する環境追い風に",
-  "url": "https://www.jmd.co.jp/article.php?no=313370",
-  "date": "2026/03/13",
-  "sd": "03/13",
-  "first_seen_iso": "2026-03-20T07:54:52.743414+09:00"
- },
- "https://splash247.com/greek-capesize-specialist-seanergy-grows-newbuild-programme-to-five-ships/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Greek capesize specialist Seanergy grows newbuild programme to five ships",
-  "url": "https://splash247.com/greek-capesize-specialist-seanergy-grows-newbuild-programme-to-five-ships/",
-  "date": "2026/03/13",
-  "sd": "03/13",
-  "first_seen_iso": "2026-03-20T07:54:52.744399+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-2nd-day/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Up for 2nd Day",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-2nd-day/",
-  "date": "2026/03/13",
-  "sd": "03/13",
-  "first_seen_iso": "2026-03-20T07:54:52.744553+09:00"
- },
- "https://www.hellenicshippingnews.com/month-declining-to-210mt-china-iron-ore-imports-are-forecast-to-rebound-in-march/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Month declining to 210Mt, China iron ore imports are forecast to rebound in March",
-  "url": "https://www.hellenicshippingnews.com/month-declining-to-210mt-china-iron-ore-imports-are-forecast-to-rebound-in-march/",
-  "date": "2026/03/13",
-  "sd": "03/13",
-  "first_seen_iso": "2026-03-20T07:54:52.744553+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-1972-up-46-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 1972 up 46 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-1972-up-46-points/",
-  "date": "2026/03/12",
-  "sd": "03/12",
-  "first_seen_iso": "2026-03-20T07:54:52.744553+09:00"
- },
  "https://splash247.com/maple-leaf-shipping-marks-70-years-with-its-first-newcastlemax-purchase/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2684,7 +2639,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200358/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓⑫、商船三井元副社長・小野晃彦氏、CT売却交渉、少数株主が障壁に",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200358/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2828,7 +2783,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200371/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "敦賀港利用促進セミナ…",
+  "title": "敦賀港利用促進セミナー、新規中国航路や助成金をPR",
   "url": "https://www.kaijipress.com/news/container/2026/03/200371/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2945,7 +2900,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200384/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "バウンド4ブルー、EPSのMRタンカーにeSAIL搭載完了",
+  "title": "バウンド4ブルー、E…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200384/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2954,7 +2909,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200385/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、漁業調査船…",
+  "title": "三菱造船、漁業調査船“蒼鷹丸”進水",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200385/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -3292,5 +3247,50 @@
   "date": "2026/03/26",
   "sd": "03/26",
   "first_seen_iso": "2026-03-27T07:23:14.304700+09:00"
+ },
+ "https://splash247.com/genco-rejects-diana-takeover-bid/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco rejects Diana takeover bid",
+  "url": "https://splash247.com/genco-rejects-diana-takeover-bid/",
+  "date": "2026/03/20",
+  "sd": "03/20",
+  "first_seen_iso": "2026-03-27T07:55:09.397338+09:00"
+ },
+ "https://splash247.com/fednav-teams-up-with-v6-to-move-phosphate-into-great-lakes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fednav teams up with V6 to move phosphate into Great Lakes",
+  "url": "https://splash247.com/fednav-teams-up-with-v6-to-move-phosphate-into-great-lakes/",
+  "date": "2026/03/20",
+  "sd": "03/20",
+  "first_seen_iso": "2026-03-27T07:55:09.397338+09:00"
+ },
+ "https://www.hellenicshippingnews.com/u-s-leads-brazil-in-corn-exports-to-china/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "U.S. Leads Brazil in Corn Exports to China",
+  "url": "https://www.hellenicshippingnews.com/u-s-leads-brazil-in-corn-exports-to-china/",
+  "date": "2026/03/20",
+  "sd": "03/20",
+  "first_seen_iso": "2026-03-27T07:55:09.397510+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-edges-down-2/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Edges Down",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-edges-down-2/",
+  "date": "2026/03/20",
+  "sd": "03/20",
+  "first_seen_iso": "2026-03-27T07:55:09.397510+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2057-down-7-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 2057 down 7 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2057-down-7-points/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-27T07:55:09.397510+09:00"
  }
 }
