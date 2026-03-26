@@ -1,13 +1,4 @@
 {
- "https://splash247.com/guinea-weighs-bauxite-output-curbs/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Guinea weighs bauxite output curbs",
-  "url": "https://splash247.com/guinea-weighs-bauxite-output-curbs/",
-  "date": "2026/03/19",
-  "sd": "03/19",
-  "first_seen_iso": "2026-03-19T18:03:30.222083+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200198/": {
   "src": "k",
   "cat": "コラム",
@@ -2747,7 +2738,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200336/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "横浜工作所、洋上風力…",
+  "title": "横浜工作所、洋上風力向けアンカー製造を推進、JERAと横浜市が支援無料",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200336/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2756,7 +2747,7 @@
  "https://www.kaijipress.com/news/tramper/2026/03/200337/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "NYKエナジーオーシャン、LPG燃料LPG・アンモニア船を川崎重工に発注、会社発足後初の新造",
+  "title": "NYKエナジーオーシ…",
   "url": "https://www.kaijipress.com/news/tramper/2026/03/200337/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2828,7 +2819,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200345/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "向島ドック、尾道中学・高校と包括協定、海事産業×教育で次世代育成",
+  "title": "向島ドック、尾道中学…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200345/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2846,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200347/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "船舶輸出組合、造船技…",
+  "title": "船舶輸出組合、造船技術要覧を刊行",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200347/",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -3256,5 +3247,23 @@
   "date": "2026/03/26",
   "sd": "03/26",
   "first_seen_iso": "2026-03-26T15:47:27.594852+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313771": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!18:03川崎汽船、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=313771",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-03-26T18:15:44.496179+09:00"
+ },
+ "https://splash247.com/geneva-dry-reveals-finalised-agenda-with-40-days-to-go-and-250-companies-already-signed-up/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry reveals finalised agenda with 40 days to go and 250 companies already signed up",
+  "url": "https://splash247.com/geneva-dry-reveals-finalised-agenda-with-40-days-to-go-and-250-companies-already-signed-up/",
+  "date": "2026/03/19",
+  "sd": "03/19",
+  "first_seen_iso": "2026-03-26T18:15:44.497112+09:00"
  }
 }
