@@ -2657,7 +2657,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、新型40型バルカー“HSL ONOMICHI”進水",
+  "title": "内海造船、新型40型…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2675,7 +2675,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "佐世保重工、長崎ヴェ…",
+  "title": "佐世保重工、長崎ヴェルカとパートナー契約",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -4543,5 +4543,32 @@
   "date": "2026/03/25",
   "sd": "03/25",
   "first_seen_iso": "2026-03-27T08:27:33.835778+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200395/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ウェザーニューズ、航海気象データセットを海運に提供",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200395/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T14:24:08.445373+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200396/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》海上コンテナの国内物流危機③、茨城港、北関東中心に補完利用を提案",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200396/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T14:24:08.445373+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/200394/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》商品市況フォーカス＜鉄鋼原料＞、丸紅経済研究所　桒名奈美・上席主任研究員、印は多様な製鉄方式が原料需要を左右",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/200394/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T14:24:08.445373+09:00"
  }
 }
