@@ -1964,7 +1964,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インドネシア政府、石炭減産方針を見直しへ3月25日：T/C市場＝11隻・88万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、その他1隻",
+  "title": "【本日のトピック】日本、2月石炭輸入量は前年比+2%、2カ月連続プラス成長3月26日：T/C市場＝15隻・103万DWT、V/C市場＝鉄鉱石7隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -2639,7 +2639,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200358/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓…",
+  "title": "《連載》次代への戦訓⑫、商船三井元副社長・小野晃彦氏、CT売却交渉、少数株主が障壁に",
   "url": "https://www.kaijipress.com/news/container/2026/03/200358/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2657,7 +2657,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、新型40型…",
+  "title": "内海造船、新型40型バルカー“HSL ONOMICHI”進水",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2783,7 +2783,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200371/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "敦賀港利用促進セミナー、新規中国航路や助成金をPR",
+  "title": "敦賀港利用促進セミナ…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200371/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2891,7 +2891,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200383/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石グループ、マツダスタジアム内野芝にロゴ掲出",
+  "title": "常石グループ、マツダ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200383/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -4570,5 +4570,41 @@
   "date": "2026/03/27",
   "sd": "03/27",
   "first_seen_iso": "2026-03-27T14:24:08.445373+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200399/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本船主協会、ノルウェー船協前会長が表敬訪問、長澤会長らと会談",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200399/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T15:47:38.438216+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200397/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "横浜港埠頭会社、30年度までの新中計を策定、付加価値創出へ",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200397/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T15:47:38.438216+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200398/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓⑬、商船三井元副社長・小野晃彦氏、ONE発足、コロナが全てを変えた",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200398/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T15:47:38.438216+09:00"
+ },
+ "https://splash247.com/sea-glory-enters-the-cape-segment-with-newcastlemax-buy/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Sea Glory enters the cape segment with newcastlemax buy",
+  "url": "https://splash247.com/sea-glory-enters-the-cape-segment-with-newcastlemax-buy/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T15:47:38.438741+09:00"
  }
 }
