@@ -2603,7 +2603,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、新型40型…",
+  "title": "内海造船、新型40型バルカー“HSL ONOMICHI”進水",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2621,7 +2621,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "佐世保重工、長崎ヴェルカとパートナー契約",
+  "title": "佐世保重工、長崎ヴェ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2684,7 +2684,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200366/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸港、新ハブ開設でセレモニー、一条工務店が拠点利用",
+  "title": "神戸港、新ハブ開設で…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200366/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200371/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "敦賀港利用促進セミナ…",
+  "title": "敦賀港利用促進セミナー、新規中国航路や助成金をPR",
   "url": "https://www.kaijipress.com/news/container/2026/03/200371/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -4822,5 +4822,14 @@
   "date": "2026/03/20",
   "sd": "03/20",
   "first_seen_iso": "2026-03-27T19:08:08.991819+09:00"
+ },
+ "https://www.hellenicshippingnews.com/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "The war in Iran will have knock-on effects for the steel markets in the upcoming months",
+  "url": "https://www.hellenicshippingnews.com/the-war-in-iran-will-have-knock-on-effects-for-the-steel-markets-in-the-upcoming-months/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T20:08:28.248434+09:00"
  }
 }
