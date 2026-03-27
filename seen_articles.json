@@ -1,13 +1,4 @@
 {
- "https://splash247.com/splash-wrap-the-largest-supply-disruption-in-the-history-of-the-global-oil-market/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: ‘The largest supply disruption in the history of the global oil market’",
-  "url": "https://splash247.com/splash-wrap-the-largest-supply-disruption-in-the-history-of-the-global-oil-market/",
-  "date": "2026/03/20",
-  "sd": "03/20",
-  "first_seen_iso": "2026-03-20T17:54:35.038032+09:00"
- },
  "https://splash247.com/the-largest-supply-disruption-in-the-history-of-the-global-oil-market-ieas-take-on-the-hormuz-crisis/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2612,7 +2603,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200358/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓⑫、商船三井元副社長・小野晃彦氏、CT売却交渉、少数株主が障壁に",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200358/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2630,7 +2621,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、新型40型バルカー“HSL ONOMICHI”進水",
+  "title": "内海造船、新型40型…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2711,7 +2702,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200366/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸港、新ハブ開設で…",
+  "title": "神戸港、新ハブ開設でセレモニー、一条工務店が拠点利用",
   "url": "https://www.kaijipress.com/news/container/2026/03/200366/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -2846,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200381/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "JMU、浮体式洋上風…",
+  "title": "JMU、浮体式洋上風力で量産化など研究、ストラスクライド大と連携協定",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200381/",
   "date": "2026/03/26",
   "sd": "03/26",
@@ -4579,5 +4570,32 @@
   "date": "2026/03/27",
   "sd": "03/27",
   "first_seen_iso": "2026-03-27T15:47:38.438741+09:00"
+ },
+ "https://splash247.com/norden-moves-into-ice-class-with-lkab-deal-and-newbuild-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Norden moves into ice-class with LKAB deal and newbuild order",
+  "url": "https://splash247.com/norden-moves-into-ice-class-with-lkab-deal-and-newbuild-order/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-27T18:09:35.825940+09:00"
+ },
+ "https://splash247.com/qatar-lng-damage-yanbu-strikes-and-hormuz-toll-threats-deepen-shipping-crisis/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Qatar LNG damage, Yanbu strikes and Hormuz toll threats deepen shipping crisis",
+  "url": "https://splash247.com/qatar-lng-damage-yanbu-strikes-and-hormuz-toll-threats-deepen-shipping-crisis/",
+  "date": "2026/03/20",
+  "sd": "03/20",
+  "first_seen_iso": "2026-03-27T18:09:35.825940+09:00"
+ },
+ "https://splash247.com/maple-leaf-shipping-marks-70-years-with-its-first-newcastlemax-purchase/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Maple Leaf Shipping marks 70 years with its first newcastlemax purchase",
+  "url": "https://splash247.com/maple-leaf-shipping-marks-70-years-with-its-first-newcastlemax-purchase/",
+  "date": "2026/03/20",
+  "sd": "03/20",
+  "first_seen_iso": "2026-03-27T18:09:35.825940+09:00"
  }
 }
