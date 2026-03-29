@@ -1,58 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313425": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "【健康経営優良法人2026に認定】日本航空、大規模法人部門、グループ9社",
-  "url": "https://www.jmd.co.jp/article.php?no=313425",
-  "date": "2026/03/16",
-  "sd": "03/16",
-  "first_seen_iso": "2026-03-23T08:22:33.015561+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313440": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【お知らせ】別冊「人材特集2026」",
-  "url": "https://www.jmd.co.jp/article.php?no=313440",
-  "date": "2026/03/16",
-  "sd": "03/16",
-  "first_seen_iso": "2026-03-23T08:22:33.015561+09:00"
- },
- "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Will it be onwards and upwards for the dry bulk market in 2026?",
-  "url": "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-23T08:22:33.016318+09:00"
- },
- "https://splash247.com/pan-ocean-bulks-up-with-qingdao-beihai-newcastlemaxes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Pan Ocean bulks up with Qingdao Beihai newcastlemaxes",
-  "url": "https://splash247.com/pan-ocean-bulks-up-with-qingdao-beihai-newcastlemaxes/",
-  "date": "2026/03/16",
-  "sd": "03/16",
-  "first_seen_iso": "2026-03-23T08:22:33.016318+09:00"
- },
- "https://splash247.com/nasco-returns-to-china-merchants-yard-for-ultramax-brace/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "NASCO returns to China Merchants yard for ultramax brace",
-  "url": "https://splash247.com/nasco-returns-to-china-merchants-yard-for-ultramax-brace/",
-  "date": "2026/03/16",
-  "sd": "03/16",
-  "first_seen_iso": "2026-03-23T08:22:33.016318+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-rises-further-posts-weekly-gain/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Rises Further, Posts Weekly Gain",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-further-posts-weekly-gain/",
-  "date": "2026/03/14",
-  "sd": "03/14",
-  "first_seen_iso": "2026-03-23T08:22:33.016468+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200225/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -4448,7 +4394,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200398/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓⑬、商船三井元副社長・小野晃彦氏、ONE発足、コロナが全てを変えた",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200398/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4502,7 +4448,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200401/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、大阪市住之江区と協定",
+  "title": "商船三井、大阪市住之…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200401/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4511,7 +4457,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200402/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井内航、たはら…",
+  "title": "商船三井内航、たはら企業フェアに出展",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200402/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4556,7 +4502,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200409/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、国内初バイオ…",
+  "title": "横浜市、国内初バイオ燃料エンジン港務艇、実質CO2排出量100%削減",
   "url": "https://www.kaijipress.com/news/container/2026/03/200409/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4610,7 +4556,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200416/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "水素燃料2スト機関で陸上運転開始、J-ENGら世界初、国産水素燃料船実現へ前進",
+  "title": "水素燃料2スト機関で…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200416/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4637,7 +4583,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200419/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "本瓦造船の本瓦社長、…",
+  "title": "本瓦造船の本瓦社長、ものづくり大賞で高市総理から表彰",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200419/",
   "date": "2026/03/27",
   "sd": "03/27",
