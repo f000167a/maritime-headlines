@@ -4430,7 +4430,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200399/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、ノルウ…",
+  "title": "日本船主協会、ノルウェー船協前会長が表敬訪問、長澤会長らと会談",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200399/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4511,7 +4511,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200402/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井内航、たはら企業フェアに出展",
+  "title": "商船三井内航、たはら…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200402/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4556,7 +4556,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200409/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、国内初バイオ燃料エンジン港務艇、実質CO2排出量100%削減",
+  "title": "横浜市、国内初バイオ…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200409/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4565,7 +4565,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200410/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "阪神国際港湾会社、ブ…",
+  "title": "阪神国際港湾会社、ブルーアライアンス港で提携、新潟・直江津港と",
   "url": "https://www.kaijipress.com/news/container/2026/03/200410/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4610,7 +4610,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200416/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "水素燃料2スト機関で…",
+  "title": "水素燃料2スト機関で陸上運転開始、J-ENGら世界初、国産水素燃料船実現へ前進",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200416/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4637,7 +4637,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200419/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "本瓦造船の本瓦社長、ものづくり大賞で高市総理から表彰",
+  "title": "本瓦造船の本瓦社長、…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200419/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -5056,5 +5056,50 @@
   "date": "2026/03/28",
   "sd": "03/28",
   "first_seen_iso": "2026-03-30T07:25:30.642049+09:00"
+ },
+ "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Dry bulk takeover battle heats up between Diana and Genco",
+  "url": "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-30T07:58:01.201231+09:00"
+ },
+ "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fredriksen back in dry bulk newbuilds with up to eight newcastlemaxes",
+  "url": "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-30T07:58:01.201231+09:00"
+ },
+ "https://splash247.com/fleet-trim-continues-at-jinhui/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fleet trim continues at Jinhui",
+  "url": "https://splash247.com/fleet-trim-continues-at-jinhui/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-30T07:58:01.201231+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-on-a-high-note/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Market: Capesizes End the Week on a High Note",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-on-a-high-note/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-30T07:58:01.201381+09:00"
+ },
+ "https://www.hellenicshippingnews.com/european-thermal-coal-imports-may-rise-as-middle-east-war-jolts-gas-supply-outlook/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "European thermal coal imports may rise as Middle East war jolts gas supply outlook",
+  "url": "https://www.hellenicshippingnews.com/european-thermal-coal-imports-may-rise-as-middle-east-war-jolts-gas-supply-outlook/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-30T07:58:01.201381+09:00"
  }
 }
