@@ -4529,7 +4529,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200439/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井と日立、浮体式データセンターの共同開発へ、中古船改造で",
+  "title": "商船三井と日立、浮体…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200439/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4628,7 +4628,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200451/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東港運、田端彰前会長のお別れの会を開催、港運業界の発展に貢献",
+  "title": "関東港運、田端彰前会…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200451/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4664,7 +4664,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200455/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "メトランス、ルーマニ…",
+  "title": "メトランス、ルーマニアの内陸ターミナルに出資、内陸輸送網を拡充",
   "url": "https://www.kaijipress.com/news/container/2026/03/200455/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -5231,7 +5231,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200392/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【増刊号】共創で紡ぐ…",
+  "title": "【増刊号】共創で紡ぐ日本郵船グループの技術、巻頭インタビュー　日本郵船・曽我貴也社長、転換点には必ずパートナーがいた",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200392/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5263,5 +5263,50 @@
   "date": "2026/03/30",
   "sd": "03/30",
   "first_seen_iso": "2026-03-31T07:30:03.453929+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313612": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神子真人】コンテナ船事業の競争力、不確実性対応力が重み増す",
+  "url": "https://www.jmd.co.jp/article.php?no=313612",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-31T08:05:40.404523+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200446/": {
+  "src": "k",
+  "cat": "海運＜経営・全般＞",
+  "title": "住友大阪セメント、AI配船計画最適化の本格運用開始、アルゴアーティスの「Optium」",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200446/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T08:05:40.404888+09:00"
+ },
+ "https://splash247.com/diana-secures-improved-kamsarmax-earnings-with-nyk/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana secures improved kamsarmax earnings with NYK",
+  "url": "https://splash247.com/diana-secures-improved-kamsarmax-earnings-with-nyk/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-03-31T08:05:40.405512+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-shipping-is-bauxite-trade-under-pressure/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Shipping: Is Bauxite Trade Under Pressure?",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-is-bauxite-trade-under-pressure/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-31T08:05:40.405665+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-1-week-low/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index at Near 1-Week Low",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-1-week-low/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-31T08:05:40.405665+09:00"
  }
 }
