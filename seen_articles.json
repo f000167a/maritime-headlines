@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/03/200225/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "《連載》商品市況フォーカス＜原油＞、JOGMEC　野神隆之首席エコノミスト、供給要因が相場を左右",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200225/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-23T15:49:23.507533+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200226/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑨、「いざなぎプロジェクト」が始動",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200226/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-23T15:49:23.507533+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200227/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、上海発欧州向けは運賃続伸、値上げ計画に注目",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200227/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-23T15:49:23.507533+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200228/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -1766,7 +1739,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】日本、2月石炭輸入量は前年比+2%、2カ月連続プラス成長3月26日：T/C市場＝15隻・103万DWT、V/C市場＝鉄鉱石7隻、石炭1隻",
+  "title": "【本日のトピック】ブラジル穀物、肥料価格高騰による影響懸念広がる3月27日：T/C市場＝26隻・177万DWT、V/C市場＝鉄鉱石2隻、石炭2隻、穀物2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -4394,7 +4367,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200398/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓⑬、商船三井元副社長・小野晃彦氏、ONE発足、コロナが全てを変えた",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200398/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4502,7 +4475,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200409/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、国内初バイオ…",
+  "title": "横浜市、国内初バイオ燃料エンジン港務艇、実質CO2排出量100%削減",
   "url": "https://www.kaijipress.com/news/container/2026/03/200409/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -5092,5 +5065,32 @@
   "date": "2026/03/30",
   "sd": "03/30",
   "first_seen_iso": "2026-03-30T14:52:13.780914+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200436/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》海上コンテナの国内物流危機④、千葉港、県内荷主が活用推進",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200436/",
+  "date": "2026/03/30",
+  "sd": "03/30",
+  "first_seen_iso": "2026-03-30T16:56:15.706462+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/200435/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》商品市況フォーカス＜原油＞、丸紅経済研究所　伊勢友理主任研究員、情勢改善でも原油高圧力残る",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/200435/",
+  "date": "2026/03/30",
+  "sd": "03/30",
+  "first_seen_iso": "2026-03-30T16:56:15.706462+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "帝国電機、4月に「TEIKOKU」へ、村田社長「無漏洩ポンプ、新燃料船普及は追い風」",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
+  "date": "2026/03/30",
+  "sd": "03/30",
+  "first_seen_iso": "2026-03-30T16:56:15.706462+09:00"
  }
 }
