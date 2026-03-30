@@ -1,13 +1,4 @@
 {
- "https://splash247.com/tehrans-selective-authorisation-of-hormuz-transits-splits-shipping/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Tehran’s selective authorisation of Hormuz transits splits shipping",
-  "url": "https://splash247.com/tehrans-selective-authorisation-of-hormuz-transits-splits-shipping/",
-  "date": "2026/03/16",
-  "sd": "03/16",
-  "first_seen_iso": "2026-03-23T20:33:12.946683+09:00"
- },
  "https://www.kaijipress.com/person/jinji/2026/03/200112/": {
   "src": "k",
   "cat": "コラム",
@@ -4079,7 +4070,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200401/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、大阪市住之江区と協定",
+  "title": "商船三井、大阪市住之…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200401/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4088,7 +4079,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200402/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井内航、たはら…",
+  "title": "商船三井内航、たはら企業フェアに出展",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200402/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4133,7 +4124,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200409/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、国内初バイオ…",
+  "title": "横浜市、国内初バイオ燃料エンジン港務艇、実質CO2排出量100%削減",
   "url": "https://www.kaijipress.com/news/container/2026/03/200409/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4142,7 +4133,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200410/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "阪神国際港湾会社、ブルーアライアンス港で提携、新潟・直江津港と",
+  "title": "阪神国際港湾会社、ブ…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200410/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4187,7 +4178,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200416/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "水素燃料2スト機関で陸上運転開始、J-ENGら世界初、国産水素燃料船実現へ前進",
+  "title": "水素燃料2スト機関で…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200416/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -4214,7 +4205,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200419/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "本瓦造船の本瓦社長、…",
+  "title": "本瓦造船の本瓦社長、ものづくり大賞で高市総理から表彰",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200419/",
   "date": "2026/03/27",
   "sd": "03/27",
@@ -5245,5 +5236,14 @@
   "date": "2026/03/30",
   "sd": "03/30",
   "first_seen_iso": "2026-03-30T19:46:19.008688+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2031-up-17-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2031 up 17 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2031-up-17-points/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-03-30T21:00:15.344761+09:00"
  }
 }
