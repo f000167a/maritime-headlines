@@ -1,31 +1,4 @@
 {
- "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Zhejiang Shipping Group expands capesize fleet with second acquisition",
-  "url": "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-24T20:34:28.487012+09:00"
- },
- "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Selective Gulf transits emerge under Iranian verification",
-  "url": "https://splash247.com/selective-gulf-transits-emerge-under-iranian-verification/",
-  "date": "2026/03/17",
-  "sd": "03/17",
-  "first_seen_iso": "2026-03-24T20:34:28.487012+09:00"
- },
- "https://www.hellenicshippingnews.com/indias-coal-imports-likely-to-remain-subdued-in-near-term/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "India’s coal imports likely to remain subdued in near term",
-  "url": "https://www.hellenicshippingnews.com/indias-coal-imports-likely-to-remain-subdued-in-near-term/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-24T20:34:28.487163+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313671": {
   "src": "j",
   "cat": "コンテナ",
@@ -3935,7 +3908,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200433/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓…",
+  "title": "《連載》次代への戦訓⑭、商船三井元副社長・小野晃彦氏、5年後に3人で美味しいお酒を",
   "url": "https://www.kaijipress.com/news/container/2026/03/200433/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -3980,7 +3953,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "帝国電機、4月に「TEIKOKU」へ、村田社長「無漏洩ポンプ、新燃料船普及は追い風」無料",
+  "title": "帝国電機、4月に「T…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4142,7 +4115,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200451/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東港運、田端彰前会長のお別れの会を開催、港運業界の発展に貢献",
+  "title": "関東港運、田端彰前会…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200451/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4331,7 +4304,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200473/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "専業造船の春闘、賃金…",
+  "title": "専業造船の春闘、賃金改善より一時金を手厚く、好業績を反映",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200473/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -5510,7 +5483,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200494/": {
   "src": "k",
   "cat": "別冊特集号",
-  "title": "商船三井が経営計画フェーズ2、30年度純利益4200億円、「成果実現」、アセットリサイクル促進",
+  "title": "商船三井が経営計画フェーズ2、30年度税前純利益4200億円、「成果実現」、アセットリサイクル促進",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200494/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5848,5 +5821,23 @@
   "date": "",
   "sd": "",
   "first_seen_iso": "2026-03-31T19:39:56.584713+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/03/200270/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "国内船主、船価上昇予想が増加、発注に動く、投資行動さらに二極化",
+  "url": "https://www.kaijipress.com/news/shipping/2026/03/200270/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T20:36:47.034502+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/03/200296/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "【イラン・中東緊迫】ホルムズ封鎖、造船工程の影響懸念、切断用ガスや試運転時燃料など供給不安顕在化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200296/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T20:36:47.034502+09:00"
  }
 }
