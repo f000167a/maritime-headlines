@@ -5330,7 +5330,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200513/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、世界初のL…",
+  "title": "常石造船、世界初のLNG燃料カムサマックス竣工、タンク内製で知見積む",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200513/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5348,7 +5348,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200515/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "国内中小型造船業、受注残が直近最高の3.6年に増加、中小型造工調査",
+  "title": "国内中小型造船業、受…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200515/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5803,5 +5803,50 @@
   "date": "2026/04/01",
   "sd": "04/01",
   "first_seen_iso": "2026-04-01T07:29:41.027665+09:00"
+ },
+ "https://www.hellenicshippingnews.com/ship-owners-focusing-on-bulkers-and-suezmaxes/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Ship Owners Focusing on Bulkers and Suezmaxes",
+  "url": "https://www.hellenicshippingnews.com/ship-owners-focusing-on-bulkers-and-suezmaxes/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
+ },
+ "https://www.hellenicshippingnews.com/china-drives-5-increase-in-iron-ore-shipments-despite-weak-demand/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "China drives 5% increase in iron ore shipments despite weak demand",
+  "url": "https://www.hellenicshippingnews.com/china-drives-5-increase-in-iron-ore-shipments-despite-weak-demand/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-further-to-near-2-week-low/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Falls Further to Near 2-Week Low",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-further-to-near-2-week-low/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
+ },
+ "https://www.hellenicshippingnews.com/india-to-rely-more-on-coal-as-lng-disruptions-limit-gas-fired-support/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "India to rely more on coal as LNG disruptions limit gas-fired support",
+  "url": "https://www.hellenicshippingnews.com/india-to-rely-more-on-coal-as-lng-disruptions-limit-gas-fired-support/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1989-down-48-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 1989 down 48 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1989-down-48-points/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
  }
 }
