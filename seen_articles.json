@@ -4331,7 +4331,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200434/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》港で輝く女性たち⑪、沖縄港運機材部機材課・末吉希予さん、職場と家族の協力で産後も現場に無料",
+  "title": "《連載》港で輝く女性…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200434/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4367,7 +4367,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "帝国電機、4月に「TEIKOKU」へ、村田社長「無漏洩ポンプ、新燃料船普及は追い風」",
+  "title": "帝国電機、4月に「TEIKOKU」へ、村田社長「無漏洩ポンプ、新燃料船普及は追い風」無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200437/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4439,7 +4439,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200440/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、CERAW…",
+  "title": "商船三井、CERAWeekにウィルヤ＝シムノビッチ常務ら登壇、エネルギー業界関係者と意見交換",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200440/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4529,7 +4529,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200451/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東港運、田端彰前会…",
+  "title": "関東港運、田端彰前会長のお別れの会を開催、港運業界の発展に貢献",
   "url": "https://www.kaijipress.com/news/container/2026/03/200451/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -5132,7 +5132,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200392/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【増刊号】共創で紡ぐ日本郵船グループの技術、巻頭インタビュー　日本郵船・曽我貴也社長、転換点には必ずパートナーがいた",
+  "title": "【増刊号】共創で紡ぐ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200392/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5848,5 +5848,32 @@
   "date": "2026/03/31",
   "sd": "03/31",
   "first_seen_iso": "2026-03-31T14:26:30.498543+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200266/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑩、マースクCEOからの一言",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200266/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T17:12:58.834217+09:00"
+ },
+ "https://splash247.com/genco-warns-shareholders-over-diana-proxy-push/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco warns shareholders over Diana proxy push",
+  "url": "https://splash247.com/genco-warns-shareholders-over-diana-proxy-push/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T17:12:58.834866+09:00"
+ },
+ "https://splash247.com/japanese-built-cape-prices-jump-15-in-two-months/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Japanese-built cape prices jump 15% in two months",
+  "url": "https://splash247.com/japanese-built-cape-prices-jump-15-in-two-months/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T17:12:58.834866+09:00"
  }
 }
