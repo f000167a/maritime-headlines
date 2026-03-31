@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/03/200267/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、安全キャン…",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200267/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-24T15:15:39.522243+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200266/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑩、マースクCEOからの一言",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200266/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-24T15:15:39.522243+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200268/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "アジア発米国向け、2月は5%減の167万TEU、海事センター調査",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200268/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-24T15:15:39.522243+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200269/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "アジア発欧州向け、1月は6%増の188万TEU、単月過去最高",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200269/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-24T15:15:39.522243+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200270/": {
   "src": "k",
   "cat": "別冊特集号",
@@ -1055,7 +1019,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】ブラジル穀物、肥料価格高騰による影響懸念広がる3月27日：T/C市場＝26隻・177万DWT、V/C市場＝鉄鉱石2隻、石炭2隻、穀物2隻",
+  "title": "【本日のトピック】3月の中国鉄鋼PMIは50.6ポイント、3カ月ぶりに節目上回る3月30日：T/C市場＝40隻・210万DWT、V/C市場＝鉄鉱石2隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -4475,7 +4439,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200440/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、CERAWeekにウィルヤ＝シムノビッチ常務ら登壇、エネルギー業界関係者と意見交換",
+  "title": "商船三井、CERAW…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200440/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4565,7 +4529,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200451/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東港運、田端彰前会長のお別れの会を開催、港運業界の発展に貢献",
+  "title": "関東港運、田端彰前会…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200451/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4601,7 +4565,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200455/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "メトランス、ルーマニ…",
+  "title": "メトランス、ルーマニアの内陸ターミナルに出資、内陸輸送網を拡充",
   "url": "https://www.kaijipress.com/news/container/2026/03/200455/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4754,7 +4718,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200473/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "専業造船の春闘、賃金…",
+  "title": "専業造船の春闘、賃金改善より一時金を手厚く、好業績を反映",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200473/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4799,7 +4763,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/03/200478/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S DU、新社長に咲本氏",
+  "title": "三井E&S DU、新…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200478/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -5168,7 +5132,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200392/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【増刊号】共創で紡ぐ…",
+  "title": "【増刊号】共創で紡ぐ日本郵船グループの技術、巻頭インタビュー　日本郵船・曽我貴也社長、転換点には必ずパートナーがいた",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200392/",
   "date": "2026/03/31",
   "sd": "03/31",
