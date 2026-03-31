@@ -3908,7 +3908,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200433/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》次代への戦訓⑭、商船三井元副社長・小野晃彦氏、5年後に3人で美味しいお酒を",
+  "title": "《連載》次代への戦訓…",
   "url": "https://www.kaijipress.com/news/container/2026/03/200433/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4016,7 +4016,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200439/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井と日立、浮体…",
+  "title": "商船三井と日立、浮体式データセンターの共同開発へ、中古船改造で",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200439/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4025,7 +4025,7 @@
  "https://www.kaijipress.com/news/shipping/2026/03/200440/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、CERAWeekにウィルヤ＝シムノビッチ常務ら登壇、エネルギー業界関係者と意見交換",
+  "title": "商船三井、CERAW…",
   "url": "https://www.kaijipress.com/news/shipping/2026/03/200440/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -4115,7 +4115,7 @@
  "https://www.kaijipress.com/news/container/2026/03/200451/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東港運、田端彰前会…",
+  "title": "関東港運、田端彰前会長のお別れの会を開催、港運業界の発展に貢献",
   "url": "https://www.kaijipress.com/news/container/2026/03/200451/",
   "date": "2026/03/30",
   "sd": "03/30",
@@ -5839,5 +5839,41 @@
   "date": "2026/03/31",
   "sd": "03/31",
   "first_seen_iso": "2026-03-31T20:36:47.034502+09:00"
+ },
+ "https://splash247.com/maltas-polidano-steps-into-shipping-with-damen-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Malta’s Polidano steps into shipping with Damen order",
+  "url": "https://splash247.com/maltas-polidano-steps-into-shipping-with-damen-order/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T21:41:51.473716+09:00"
+ },
+ "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Zhejiang Shipping Group expands capesize fleet with second acquisition",
+  "url": "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-31T21:41:51.473716+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1995-down-22-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 1995 down 22 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1995-down-22-points/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-03-31T21:41:51.473858+09:00"
+ },
+ "https://www.hellenicshippingnews.com/indias-coal-imports-likely-to-remain-subdued-in-near-term/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "India’s coal imports likely to remain subdued in near term",
+  "url": "https://www.hellenicshippingnews.com/indias-coal-imports-likely-to-remain-subdued-in-near-term/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-03-31T21:41:51.473858+09:00"
  }
 }
