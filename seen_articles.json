@@ -1,22 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/bulk-carriers-find-new-route-out-of-hormuz-strait/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Bulk Carriers Find New Route Out of Hormuz Strait",
-  "url": "https://www.hellenicshippingnews.com/bulk-carriers-find-new-route-out-of-hormuz-strait/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-25T08:31:31.916563+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-4-day-winning-run/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Snaps 4-Day Winning Run",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-4-day-winning-run/",
-  "date": "2026/03/18",
-  "sd": "03/18",
-  "first_seen_iso": "2026-03-25T08:31:31.916563+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200312/": {
   "src": "k",
   "cat": "コラム",
@@ -5078,7 +5060,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200492/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "商船港運、太陽光発電設備を稼働、脱炭素化を推進",
+  "title": "商船港運、太陽光発電…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200492/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5258,7 +5240,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200505/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "郵船ロジスティクス、…",
+  "title": "郵船ロジスティクス、NZに実証衛星を航空輸送",
   "url": "https://www.kaijipress.com/news/container/2026/04/200505/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5330,7 +5312,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200513/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、世界初のLNG燃料カムサマックス竣工、タンク内製で知見積む",
+  "title": "常石造船、世界初のL…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200513/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5348,7 +5330,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200515/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "国内中小型造船業、受…",
+  "title": "国内中小型造船業、受注残が直近最高の3.6年に増加、中小型造工調査",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200515/",
   "date": "2026/03/31",
   "sd": "03/31",
