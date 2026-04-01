@@ -1,85 +1,4 @@
 {
- "https://splash247.com/geneva-dry-dialogues-london-stock-exchange-group/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry Dialogues: LSEG",
-  "url": "https://splash247.com/geneva-dry-dialogues-london-stock-exchange-group/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891003+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7849/1": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "鉄鉱石部門：中国1～2月鉄鉱石輸入、2024年上回り過去最高ペース●中国税関総署が発表した貿易統計詳報によると、同国2月の鉄鉱石輸入量は9,764万トン(前月比▲13.1%・前年同月比+3.6%)。1月は1億1,239万トン(同▲6.1%・同+15.7%)を付け、1・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7849/1",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7848/2": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "石炭部門：2月の中国石炭輸入、一般炭▲10%、原料炭▲9%減●中国税関総署が発表した貿易統計(詳報値)によると、同国2月の石炭輸入量は3,094万トン(前月比▲33.1%・前年同月比▲9.9%)で、輸入先上位5カ国を見るとインドネシアが1,426万トン(同▲3・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7848/2",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7847/3": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "穀物部門：伯CONAB、今年度大豆・トウモロコシ生産見通しを僅かに引き下げ●米国農務省(USDA)によると、25/26年度直近(9月～3月12日)までの米国大豆輸出量は2,806万トン(前年同期比▲28.3%)。近年で最も低調だった2018/19年度(9月～3月14日=2,・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7847/3",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7846/4": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "マイナーバルク部門：中東アルミ産業に打撃。ホルムズ封鎖で原料調達困難に●週末20日時点の動静データを見ると、仕向け地未定のフリー船隻数はハンディマックスが前週末比+12隻増・前年同期比+23隻増の52隻。一方、ハンディサイズは前週末+8隻増・前年同期比+18隻増の42隻・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7846/4",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7845/6": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "新造・中古船部門：ギリシャSeanergy、日本造船所へケープ2隻を発注●2026年3月第三週(-20日)のバルカー中古船市場で新たに判明した売買事例は10件未満と少なめ。セグメントもパナマックス部門とハンディサイズ部門のみだった。・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7845/6",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7843/7": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "証券部門：資本戦略評価で東京海上などが急騰・海運株は反落●2月28日に米国とイスラエルがイランへの攻撃を開始して以降、原油価格が高騰。イランがエネルギー輸送の要衝であるホルムズ海峡を事実上封鎖してからは、米原油価格の指標であるWTI先物の期近物が1バレル1・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7843/7",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7844/8": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧部門：米・イスラエルVSイラン戦争と食料市場●世界の火薬庫である中東に火が付いたことで、世界経済への影響が気になる。イランが周辺国の石油施設への無人機攻撃に加えて、石油輸送の要衝であるホルムズ海峡封鎖を強化。地域戦争長期化の懸念が強まっている。・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1213/7844/8",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
- "http://www.tramp.co.jp/fenet/weekly_general/detail2/1213": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧問題を語る - 柴田明夫の視点 - 「米・イスラエルVSイラン戦争と食料市場」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_general/detail2/1213",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T17:33:25.891303+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313728": {
   "src": "j",
   "cat": "物流/港運",
@@ -5839,5 +5758,59 @@
   "date": "2026/04/01",
   "sd": "04/01",
   "first_seen_iso": "2026-04-01T16:46:00.011918+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313953": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "New!17:04三井E&S、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=313953",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313992": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!17:04ヤマトグループ、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=313992",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313991": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!17:04富士物流、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=313991",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313990": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!17:04間口運輸、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=313990",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313969": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "New!17:04阪神国際港湾、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=313969",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-veson-nautical-2/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: Veson Nautical",
+  "url": "https://splash247.com/geneva-dry-dialogues-veson-nautical-2/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-01T18:18:51.243562+09:00"
  }
 }
