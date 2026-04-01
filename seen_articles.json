@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/03/200316/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、グループ会社とコンプライアンス連絡会",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200316/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T15:15:54.503930+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200317/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "日本―欧州間コンテナ、11月は14%増の9.8万TEU、3カ月ぶり増",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200317/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T15:15:54.503930+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/03/200315/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "CTM、都内で関係者…",
-  "url": "https://www.kaijipress.com/news/tramper/2026/03/200315/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T15:15:54.503930+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200160/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑦、アライアンス再編で失策",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200160/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T16:36:57.074245+09:00"
- },
  "https://splash247.com/geneva-dry-dialogues-london-stock-exchange-group/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -236,7 +200,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】3月の中国鉄鋼PMIは50.6ポイント、3カ月ぶりに節目上回る3月30日：T/C市場＝40隻・210万DWT、V/C市場＝鉄鉱石2隻、石炭2隻",
+  "title": "【本日のトピック】2月南ア炭輸出は627万トン、2カ月連続で前年上回る3月31日：T/C市場＝14隻・102万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/03/25",
   "sd": "03/25",
@@ -5285,7 +5249,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200513/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、世界初のL…",
+  "title": "常石造船、世界初のLNG燃料カムサマックス竣工、タンク内製で知見積む",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200513/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5303,7 +5267,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200515/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "国内中小型造船業、受注残が直近最高の3.6年に増加、中小型造工調査",
+  "title": "国内中小型造船業、受…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200515/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5830,5 +5794,50 @@
   "date": "2026/04/01",
   "sd": "04/01",
   "first_seen_iso": "2026-04-01T14:48:29.199555+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200535/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、2月の定時順守率は60%割れ、25年4月以来",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200535/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200534/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船グループ、NYKバルクシップパートナーズ発足、海運・船主・船舶管理一体で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200534/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200536/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "今治造船、日立造船エンジンの株式取得完了、出資比率60%に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200536/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/03/200313/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑪、人材配置と当局承認取得に奔走",
+  "url": "https://www.kaijipress.com/news/container/2026/03/200313/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
+ },
+ "https://splash247.com/hormuz-closure-drives-global-coal-comeback/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz closure drives global coal comeback",
+  "url": "https://splash247.com/hormuz-closure-drives-global-coal-comeback/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-01T16:46:00.011918+09:00"
  }
 }
