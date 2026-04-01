@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/03/200163/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "東京センチュリー、船舶アセットビジネスを拡大、CTM出資で運航機能も取り込み",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200163/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T21:06:56.041676+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200182/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "造船・海運・舶用・鉄鋼5団体が連携、造船再生、第1回会合、具体施策検討へ",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200182/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-25T21:06:56.041676+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313727": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -4376,7 +4358,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200488/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "物流連・長澤会長会見、燃料調達に危機感、近く声明発表",
+  "title": "物流連・長澤会長会見…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200488/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -4394,7 +4376,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200492/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "商船港運、太陽光発電…",
+  "title": "商船港運、太陽光発電設備を稼働、脱炭素化を推進",
   "url": "https://www.kaijipress.com/news/container/2026/04/200492/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5938,5 +5920,14 @@
   "date": "2026/04/01",
   "sd": "04/01",
   "first_seen_iso": "2026-04-01T20:39:08.128530+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2030 up 35 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-01T21:44:17.700166+09:00"
  }
 }
