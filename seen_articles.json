@@ -1,13 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/strait-of-hormuz-disruption-raises-iron-ore-costs/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Strait of Hormuz disruption raises iron ore costs",
-  "url": "https://www.hellenicshippingnews.com/strait-of-hormuz-disruption-raises-iron-ore-costs/",
-  "date": "2026/03/19",
-  "sd": "03/19",
-  "first_seen_iso": "2026-03-26T08:18:27.836177+09:00"
- },
  "http://www.tramp.co.jp/fenet/weekly_report": {
   "src": "t",
   "cat": "TDS Weekly",
@@ -5069,7 +5060,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200539/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井マリテックス…",
+  "title": "商船三井マリテックス・新田恭哉社長に聞く、現場とデジタルの融合で拓く",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200539/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5132,7 +5123,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200546/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海員組合と内航二団体・全内航、内航春闘、4年連続満額回答",
+  "title": "海員組合と内航二団体…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200546/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5168,7 +5159,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200550/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、田原社長「現場…",
+  "title": "上組、田原社長「現場力を基に価値創造を」、入社式を開催",
   "url": "https://www.kaijipress.com/news/container/2026/04/200550/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5213,7 +5204,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200555/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "石狩湾新港、新規コンテナ航路開設で式典、航路増加で利便性向上",
+  "title": "石狩湾新港、新規コン…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200555/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5285,7 +5276,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200533/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、高等専門学校との連携強化へ、弓削商船高専と初の意見交換会",
+  "title": "日舶工、高等専門学校…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200533/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5312,7 +5303,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200566/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "村上秀造船、EEDI…",
+  "title": "村上秀造船、EEDI3対応の13型ケミカル船完工、2番船“SWAN VIRTUE”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200566/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5974,5 +5965,14 @@
   "date": "2026/04/02",
   "sd": "04/02",
   "first_seen_iso": "2026-04-02T07:32:25.120017+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2001-up-12-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2001 up 12 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2001-up-12-points/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-04-02T08:21:21.568918+09:00"
  }
 }
