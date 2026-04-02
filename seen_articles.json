@@ -5965,5 +5965,41 @@
   "date": "2026/03/25",
   "sd": "03/25",
   "first_seen_iso": "2026-04-02T08:21:21.568918+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200581/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "インターカーゴ、STSでのドライ積み替えを議論、アテネで会議開催",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200581/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T14:21:37.874786+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】シンナー不足、造船所の工程懸念、塗装全般で利用、調達の見通し不透明に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T14:21:37.874786+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/04/200583/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会/造船この1カ月、中東情勢で供給リスク再認識、日本造船のLNG船再開や修繕強化テーマに",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/04/200583/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T14:21:37.874786+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2060号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-02T14:21:37.875640+09:00"
  }
 }
