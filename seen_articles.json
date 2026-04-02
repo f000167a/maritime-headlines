@@ -1,49 +1,4 @@
 {
- "https://splash247.com/genco-rejects-diana-takeover-bid/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Genco rejects Diana takeover bid",
-  "url": "https://splash247.com/genco-rejects-diana-takeover-bid/",
-  "date": "2026/03/20",
-  "sd": "03/20",
-  "first_seen_iso": "2026-03-27T07:55:09.397338+09:00"
- },
- "https://splash247.com/fednav-teams-up-with-v6-to-move-phosphate-into-great-lakes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Fednav teams up with V6 to move phosphate into Great Lakes",
-  "url": "https://splash247.com/fednav-teams-up-with-v6-to-move-phosphate-into-great-lakes/",
-  "date": "2026/03/20",
-  "sd": "03/20",
-  "first_seen_iso": "2026-03-27T07:55:09.397338+09:00"
- },
- "https://www.hellenicshippingnews.com/u-s-leads-brazil-in-corn-exports-to-china/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "U.S. Leads Brazil in Corn Exports to China",
-  "url": "https://www.hellenicshippingnews.com/u-s-leads-brazil-in-corn-exports-to-china/",
-  "date": "2026/03/20",
-  "sd": "03/20",
-  "first_seen_iso": "2026-03-27T07:55:09.397510+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-edges-down-2/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Edges Down",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-edges-down-2/",
-  "date": "2026/03/20",
-  "sd": "03/20",
-  "first_seen_iso": "2026-03-27T07:55:09.397510+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2057-down-7-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index falls to 2057 down 7 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2057-down-7-points/",
-  "date": "2026/03/19",
-  "sd": "03/19",
-  "first_seen_iso": "2026-03-27T07:55:09.397510+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313370": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -5438,7 +5393,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200586/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》内航オペレー…",
+  "title": "《連載》内航オペレーターの針路⑦、田渕海運、保有船拡大で船主の経営安定化、ケミカル船の石油製品輸送増加",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200586/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -5456,7 +5411,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200588/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井・田村社長、入社式あいさつ、「各人の挑戦と成長が競争力に」",
+  "title": "商船三井・田村社長、…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200588/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -5564,7 +5519,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200600/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコ、ウルグアイに保税倉庫を開設、中国の小米と",
+  "title": "コスコ、ウルグアイに…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200600/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -5600,7 +5555,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200604/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与・入社式、鈴木社…",
+  "title": "鈴与・入社式、鈴木社長「現場力磨き着実に成長を」",
   "url": "https://www.kaijipress.com/news/container/2026/04/200604/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -5726,7 +5681,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200619/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、ドローン…",
+  "title": "三井E&S、ドローン×クラウドで設備点検効率化、人手依存を解消へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200619/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -5735,7 +5690,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200620/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日阪製作所、舶用熱交換器の保守体制拡充、三菱化工機と連携",
+  "title": "日阪製作所、舶用熱交…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200620/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -6118,5 +6073,23 @@
   "date": "2026/04/03",
   "sd": "04/03",
   "first_seen_iso": "2026-04-03T07:26:35.732675+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-2nd-day/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Rises for 2nd Day",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-2nd-day/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-04-03T07:58:44.954594+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2014-up-13-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2014 up 13 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2014-up-13-points/",
+  "date": "2026/03/26",
+  "sd": "03/26",
+  "first_seen_iso": "2026-04-03T07:58:44.954594+09:00"
  }
 }
