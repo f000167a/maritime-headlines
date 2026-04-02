@@ -5033,7 +5033,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200543/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船・五十嵐社長…",
+  "title": "川崎汽船・五十嵐社長、入社式あいさつ、「アニマルスピリッツを発揮」",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200543/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5060,7 +5060,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200546/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海員組合と内航二団体・全内航、内航春闘、4年連続満額回答",
+  "title": "海員組合と内航二団体…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200546/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5096,7 +5096,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200550/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、田原社長「現場…",
+  "title": "上組、田原社長「現場力を基に価値創造を」、入社式を開催",
   "url": "https://www.kaijipress.com/news/container/2026/04/200550/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5168,7 +5168,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200558/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、パティンバン港と覚書",
+  "title": "横浜市、パティンバン…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200558/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5965,5 +5965,14 @@
   "date": "2026/04/02",
   "sd": "04/02",
   "first_seen_iso": "2026-04-02T15:51:42.221417+09:00"
+ },
+ "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ciner adds six ultramaxes in fresh $204m China order",
+  "url": "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T17:12:04.757731+09:00"
  }
 }
