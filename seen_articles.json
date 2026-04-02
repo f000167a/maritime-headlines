@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/03/200358/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓⑫、商船三井元副社長・小野晃彦氏、CT売却交渉、少数株主が障壁に",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200358/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-03-26T14:24:03.810692+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200359/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "苫小牧港、低・脱炭素燃料船の支援制度創設、CNP形成へ",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200359/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-03-26T14:24:03.810692+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "内海造船、新型40型…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200357/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-03-26T14:24:03.810692+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200362/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》海上コンテナの国内物流危機②、輸送能力を最大限活用へ",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200362/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-03-26T15:47:27.594852+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "佐世保重工、長崎ヴェルカとパートナー契約",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200361/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-03-26T15:47:27.594852+09:00"
- },
- "https://www.kaijipress.com/markets/scrap/2026/03/200360/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【船舶解撤】船舶解撤市場レポート（2026年2月）、前年比で価格の低調推移つづく",
-  "url": "https://www.kaijipress.com/markets/scrap/2026/03/200360/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-03-26T15:47:27.594852+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313771": {
   "src": "j",
   "cat": "外航全般",
@@ -5150,7 +5096,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200550/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、田原社長「現場力を基に価値創造を」、入社式を開催",
+  "title": "上組、田原社長「現場…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200550/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5195,7 +5141,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200555/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "石狩湾新港、新規コン…",
+  "title": "石狩湾新港、新規コンテナ航路開設で式典、航路増加で利便性向上",
   "url": "https://www.kaijipress.com/news/container/2026/04/200555/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5618,7 +5564,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】2月南ア炭輸出は627万トン、2カ月連続で前年上回る3月31日：T/C市場＝14隻・102万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
+  "title": "【本日のトピック】2月インドネシア石炭輸出量は3,658万トン、9カ月ぶり低水準4月1日：T/C市場＝9隻・68万DWT、V/C市場＝鉄鉱石5隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -6001,5 +5947,23 @@
   "date": "2026/04/01",
   "sd": "04/01",
   "first_seen_iso": "2026-04-02T14:21:37.875640+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200584/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "北米主要港、1月は4%減の450万TEU、減少続く",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200584/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T15:51:42.221417+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200585/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "古野電気、42人が入社",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200585/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T15:51:42.221417+09:00"
  }
 }
