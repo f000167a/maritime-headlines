@@ -1,13 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Asia boosts coal use as Iran war squeezes global LNG supplies",
-  "url": "https://www.hellenicshippingnews.com/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-03-26T20:31:41.381469+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313748": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -4745,7 +4736,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200543/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船・五十嵐社長、入社式あいさつ、「アニマルスピリッツを発揮」",
+  "title": "川崎汽船・五十嵐社長…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200543/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4799,7 +4790,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200549/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海洋少年団連盟、優秀…",
+  "title": "海洋少年団連盟、優秀者に褒状山縣賞を授与",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200549/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4808,7 +4799,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200550/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、田原社長「現場力を基に価値創造を」、入社式を開催",
+  "title": "上組、田原社長「現場…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200550/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4880,7 +4871,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200558/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、パティンバン…",
+  "title": "横浜市、パティンバン港と覚書",
   "url": "https://www.kaijipress.com/news/container/2026/04/200558/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4925,7 +4916,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200533/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、高等専門学校との連携強化へ、弓削商船高専と初の意見交換会",
+  "title": "日舶工、高等専門学校…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200533/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4961,7 +4952,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200567/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "神鋼鋼線工業、洋上風…",
+  "title": "神鋼鋼線工業、洋上風力係留索で製造法・型式承認、高耐食型ケーブルでNKから",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200567/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -6109,5 +6100,14 @@
   "date": "2026/04/02",
   "sd": "04/02",
   "first_seen_iso": "2026-04-02T19:32:00.366030+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/03/200375/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "パシフィックベイスンCEO、星港移管も引き続き香港重要拠点、5年で船隊1/3更新",
+  "url": "https://www.kaijipress.com/news/tramper/2026/03/200375/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T20:34:15.872036+09:00"
  }
 }
