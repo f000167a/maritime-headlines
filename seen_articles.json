@@ -1,13 +1,4 @@
 {
- "http://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2060号」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-03-26T08:56:51.657895+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/03/200358/": {
   "src": "k",
   "cat": "コラム",
@@ -4502,7 +4493,7 @@
  "https://www.kaijipress.com/person/jinji/2026/04/200525/": {
   "src": "k",
   "cat": "コラム",
-  "title": "NYKバルク・プロジェクト、新経営体制",
+  "title": "NYKバルク・プロジェクト、新役員体制",
   "url": "https://www.kaijipress.com/person/jinji/2026/04/200525/",
   "date": "2026/03/31",
   "sd": "03/31",
@@ -5096,7 +5087,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200543/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船・五十嵐社長、入社式あいさつ、「アニマルスピリッツを発揮」",
+  "title": "川崎汽船・五十嵐社長…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200543/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5123,7 +5114,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200546/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海員組合と内航二団体…",
+  "title": "海員組合と内航二団体・全内航、内航春闘、4年連続満額回答",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200546/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5204,7 +5195,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200555/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "石狩湾新港、新規コンテナ航路開設で式典、航路増加で利便性向上",
+  "title": "石狩湾新港、新規コン…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200555/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5231,7 +5222,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200558/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、パティンバン…",
+  "title": "横浜市、パティンバン港と覚書",
   "url": "https://www.kaijipress.com/news/container/2026/04/200558/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5276,7 +5267,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200533/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、高等専門学校との連携強化へ、弓削商船高専と初の意見交換会",
+  "title": "日舶工、高等専門学校…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200533/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -5312,7 +5303,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200567/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "神鋼鋼線工業、洋上風…",
+  "title": "神鋼鋼線工業、洋上風力係留索で製造法・型式承認、高耐食型ケーブルでNKから",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200567/",
   "date": "2026/04/01",
   "sd": "04/01",
