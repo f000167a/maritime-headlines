@@ -4700,7 +4700,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200539/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井マリテックス・新田恭哉社長に聞く、現場とデジタルの融合で拓く",
+  "title": "商船三井マリテックス…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200539/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4736,7 +4736,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200543/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船・五十嵐社長…",
+  "title": "川崎汽船・五十嵐社長、入社式あいさつ、「アニマルスピリッツを発揮」",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200543/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4799,7 +4799,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200550/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、田原社長「現場…",
+  "title": "上組、田原社長「現場力を基に価値創造を」、入社式を開催",
   "url": "https://www.kaijipress.com/news/container/2026/04/200550/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4844,7 +4844,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200555/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "石狩湾新港、新規コンテナ航路開設で式典、航路増加で利便性向上",
+  "title": "石狩湾新港、新規コン…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200555/",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -6109,5 +6109,23 @@
   "date": "2026/04/02",
   "sd": "04/02",
   "first_seen_iso": "2026-04-02T20:34:15.872036+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-36-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2066 up 36 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-36-points/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-02T21:39:15.631332+09:00"
+ },
+ "https://www.hellenicshippingnews.com/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Asia boosts coal use as Iran war squeezes global LNG supplies",
+  "url": "https://www.hellenicshippingnews.com/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies/",
+  "date": "2026/03/26",
+  "sd": "03/26",
+  "first_seen_iso": "2026-04-02T21:39:15.631332+09:00"
  }
 }
