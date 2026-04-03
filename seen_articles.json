@@ -1,31 +1,4 @@
 {
- "https://splash247.com/norden-moves-into-ice-class-with-lkab-deal-and-newbuild-order/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Norden moves into ice-class with LKAB deal and newbuild order",
-  "url": "https://splash247.com/norden-moves-into-ice-class-with-lkab-deal-and-newbuild-order/",
-  "date": "2026/03/27",
-  "sd": "03/27",
-  "first_seen_iso": "2026-03-27T18:09:35.825940+09:00"
- },
- "https://splash247.com/qatar-lng-damage-yanbu-strikes-and-hormuz-toll-threats-deepen-shipping-crisis/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Qatar LNG damage, Yanbu strikes and Hormuz toll threats deepen shipping crisis",
-  "url": "https://splash247.com/qatar-lng-damage-yanbu-strikes-and-hormuz-toll-threats-deepen-shipping-crisis/",
-  "date": "2026/03/20",
-  "sd": "03/20",
-  "first_seen_iso": "2026-03-27T18:09:35.825940+09:00"
- },
- "https://splash247.com/maple-leaf-shipping-marks-70-years-with-its-first-newcastlemax-purchase/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Maple Leaf Shipping marks 70 years with its first newcastlemax purchase",
-  "url": "https://splash247.com/maple-leaf-shipping-marks-70-years-with-its-first-newcastlemax-purchase/",
-  "date": "2026/03/20",
-  "sd": "03/20",
-  "first_seen_iso": "2026-03-27T18:09:35.825940+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200400/": {
   "src": "k",
   "cat": "別冊特集号",
@@ -4079,7 +4052,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200586/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》内航オペレー…",
+  "title": "《連載》内航オペレーターの針路⑦、田渕海運、保有船拡大で船主の経営安定化、ケミカル船の石油製品輸送増加",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200586/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4097,7 +4070,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200588/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井・田村社長、入社式あいさつ、「各人の挑戦と成長が競争力に」",
+  "title": "商船三井・田村社長、…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200588/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4205,7 +4178,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200600/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコ、ウルグアイに…",
+  "title": "コスコ、ウルグアイに保税倉庫を開設、中国の小米と",
   "url": "https://www.kaijipress.com/news/container/2026/04/200600/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4241,7 +4214,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200604/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与・入社式、鈴木社長「現場力磨き着実に成長を」",
+  "title": "鈴与・入社式、鈴木社…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200604/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -5452,5 +5425,23 @@
   "date": "2026/03/27",
   "sd": "03/27",
   "first_seen_iso": "2026-04-03T17:05:56.185923+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314127": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "New!18:04福岡市港湾空港局、人事異動",
+  "url": "https://www.jmd.co.jp/article.php?no=314127",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-04-03T18:11:30.209925+09:00"
+ },
+ "https://splash247.com/splash-wrap-hormuz-bells-are-ringing/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Hormuz bells are ringing",
+  "url": "https://splash247.com/splash-wrap-hormuz-bells-are-ringing/",
+  "date": "2026/04/03",
+  "sd": "04/03",
+  "first_seen_iso": "2026-04-03T18:11:30.210877+09:00"
  }
 }
