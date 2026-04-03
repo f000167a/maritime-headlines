@@ -4142,7 +4142,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200586/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》内航オペレーターの針路⑦、田渕海運、保有船拡大で船主の経営安定化、ケミカル船の石油製品輸送増加",
+  "title": "《連載》内航オペレー…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200586/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4160,7 +4160,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200588/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井・田村社長、…",
+  "title": "商船三井・田村社長、入社式あいさつ、「各人の挑戦と成長が競争力に」",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200588/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4268,7 +4268,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200600/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコ、ウルグアイに…",
+  "title": "コスコ、ウルグアイに保税倉庫を開設、中国の小米と",
   "url": "https://www.kaijipress.com/news/container/2026/04/200600/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4304,7 +4304,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200604/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与・入社式、鈴木社長「現場力磨き着実に成長を」",
+  "title": "鈴与・入社式、鈴木社…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200604/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4439,7 +4439,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200620/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日阪製作所、舶用熱交換器の保守体制拡充、三菱化工機と連携",
+  "title": "日阪製作所、舶用熱交…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200620/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4466,7 +4466,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200623/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "船技協、内航船のタブ…",
+  "title": "船技協、内航船のタブレット活用促進へ指針作成",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200623/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4840,5 +4840,14 @@
   "date": "2026/03/26",
   "sd": "03/26",
   "first_seen_iso": "2026-04-03T07:58:44.954594+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313370": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/五味宜範】国内造船 「耐える」から「攻める」へ。好転する環境追い風に",
+  "url": "https://www.jmd.co.jp/article.php?no=313370",
+  "date": "2026/03/13",
+  "sd": "03/13",
+  "first_seen_iso": "2026-04-03T09:04:13.548433+09:00"
  }
 }
