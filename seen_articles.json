@@ -4043,7 +4043,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200585/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、42人が入…",
+  "title": "古野電気、42人が入社",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200585/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -4367,7 +4367,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200619/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、ドローン×クラウドで設備点検効率化、人手依存を解消へ",
+  "title": "三井E&S、ドローン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200619/",
   "date": "2026/04/02",
   "sd": "04/02",
@@ -5443,5 +5443,14 @@
   "date": "2026/04/03",
   "sd": "04/03",
   "first_seen_iso": "2026-04-03T15:49:08.521018+09:00"
+ },
+ "https://splash247.com/sea-glory-enters-the-cape-segment-with-newcastlemax-buy/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Sea Glory enters the cape segment with newcastlemax buy",
+  "url": "https://splash247.com/sea-glory-enters-the-cape-segment-with-newcastlemax-buy/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-04-03T17:05:56.185923+09:00"
  }
 }
