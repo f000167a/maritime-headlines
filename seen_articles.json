@@ -1,49 +1,4 @@
 {
- "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Dry bulk takeover battle heats up between Diana and Genco",
-  "url": "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-30T07:58:01.201231+09:00"
- },
- "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Fredriksen back in dry bulk newbuilds with up to eight newcastlemaxes",
-  "url": "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-30T07:58:01.201231+09:00"
- },
- "https://splash247.com/fleet-trim-continues-at-jinhui/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Fleet trim continues at Jinhui",
-  "url": "https://splash247.com/fleet-trim-continues-at-jinhui/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-30T07:58:01.201231+09:00"
- },
- "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-on-a-high-note/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Dry Bulk Market: Capesizes End the Week on a High Note",
-  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-on-a-high-note/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-30T07:58:01.201381+09:00"
- },
- "https://www.hellenicshippingnews.com/european-thermal-coal-imports-may-rise-as-middle-east-war-jolts-gas-supply-outlook/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "European thermal coal imports may rise as Middle East war jolts gas supply outlook",
-  "url": "https://www.hellenicshippingnews.com/european-thermal-coal-imports-may-rise-as-middle-east-war-jolts-gas-supply-outlook/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-30T07:58:01.201381+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313440": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -4835,7 +4790,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200634/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、仏公的機関と…",
+  "title": "横浜市、仏公的機関と覚書を締結、11月に燃料脱炭素化セミナー",
   "url": "https://www.kaijipress.com/news/container/2026/04/200634/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -4889,7 +4844,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200637/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船舶リースNML・ア…",
+  "title": "船舶リースNML・アントニウCEOに聞く、日本との協業機会を模索",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200637/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -4898,7 +4853,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200638/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "神戸大学と日本郵船が協定、食堂施設の命名権取得",
+  "title": "神戸大学と日本郵船が…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200638/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -4961,7 +4916,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200645/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "HPS CONNECT、カレンダー型の貿易管理PFを開発、関西物流展で出展",
+  "title": "HPS CONNEC…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200645/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -5051,7 +5006,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200656/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "NK、“げんぶ”に自…",
+  "title": "NK、“げんぶ”に自動運航の船級付記、MEGURI実証船、中長期航路で世界初",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200656/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -5078,7 +5033,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200659/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、APMで日本の舶用製品・最新技術などPR",
+  "title": "日舶工、APMで日本…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200659/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -5398,5 +5353,50 @@
   "date": "2026/03/27",
   "sd": "03/27",
   "first_seen_iso": "2026-04-06T07:25:43.519532+09:00"
+ },
+ "https://splash247.com/erasmus-lines-up-kamsarmax-series-at-new-hantong/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Erasmus lines up kamsarmax series at New Hantong",
+  "url": "https://splash247.com/erasmus-lines-up-kamsarmax-series-at-new-hantong/",
+  "date": "2026/03/30",
+  "sd": "03/30",
+  "first_seen_iso": "2026-04-06T07:58:47.516460+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-in-recovery-mode/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Market: Capesizes End The Week in Recovery Mode",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-in-recovery-mode/",
+  "date": "2026/03/30",
+  "sd": "03/30",
+  "first_seen_iso": "2026-04-06T07:58:47.516608+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-3rd-day-still-posts-weekly-loss/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Up for 3rd Day, Still Posts Weekly Loss",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-3rd-day-still-posts-weekly-loss/",
+  "date": "2026/03/28",
+  "sd": "03/28",
+  "first_seen_iso": "2026-04-06T07:58:47.516608+09:00"
+ },
+ "https://www.hellenicshippingnews.com/sagitta-marine-we-are-moving-beyond-routine-volatility-operational-resilience-is-a-competitive-advantage/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Sagitta Marine: “We are moving beyond routine volatility; operational resilience is a competitive advantage”",
+  "url": "https://www.hellenicshippingnews.com/sagitta-marine-we-are-moving-beyond-routine-volatility-operational-resilience-is-a-competitive-advantage/",
+  "date": "2026/03/28",
+  "sd": "03/28",
+  "first_seen_iso": "2026-04-06T07:58:47.516608+09:00"
+ },
+ "https://www.hellenicshippingnews.com/brazil-sets-new-records-as-global-soybean-leader-amid-us-china-trade-tensions/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Brazil sets new records as global soybean leader amid US-China trade tensions",
+  "url": "https://www.hellenicshippingnews.com/brazil-sets-new-records-as-global-soybean-leader-amid-us-china-trade-tensions/",
+  "date": "2026/03/28",
+  "sd": "03/28",
+  "first_seen_iso": "2026-04-06T07:58:47.516608+09:00"
  }
 }
