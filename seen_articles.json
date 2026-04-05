@@ -4853,7 +4853,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200638/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "神戸大学と日本郵船が…",
+  "title": "神戸大学と日本郵船が協定、食堂施設の命名権取得",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200638/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -4871,7 +4871,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200640/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "大阪港湾局、フェリー見学会を開催",
+  "title": "大阪港湾局、フェリー…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200640/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -5398,5 +5398,32 @@
   "date": "2026/03/28",
   "sd": "03/28",
   "first_seen_iso": "2026-04-06T07:58:47.516608+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314115": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "岐本金属、三井E&Sドック取得。千葉、海洋土木・船舶修繕 想定",
+  "url": "https://www.jmd.co.jp/article.php?no=314115",
+  "date": "2026/04/06",
+  "sd": "04/06",
+  "first_seen_iso": "2026-04-06T08:38:36.664419+09:00"
+ },
+ "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Dry bulk takeover battle heats up between Diana and Genco",
+  "url": "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-04-06T08:38:36.665158+09:00"
+ },
+ "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fredriksen back in dry bulk newbuilds with up to eight newcastlemaxes",
+  "url": "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-04-06T08:38:36.665158+09:00"
  }
 }
