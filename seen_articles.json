@@ -4988,7 +4988,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200656/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "NK、“げんぶ”に自動運航の船級付記、MEGURI実証船、中長期航路で世界初",
+  "title": "NK、“げんぶ”に自…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200656/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -5015,7 +5015,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200659/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、APMで日本…",
+  "title": "日舶工、APMで日本の舶用製品・最新技術などPR",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200659/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -5407,5 +5407,23 @@
   "date": "2026/03/23",
   "sd": "03/23",
   "first_seen_iso": "2026-04-06T08:38:36.665158+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313440": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【お知らせ】別冊「人材特集2026」",
+  "url": "https://www.jmd.co.jp/article.php?no=313440",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-04-06T12:32:34.461766+09:00"
+ },
+ "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Will it be onwards and upwards for the dry bulk market in 2026?",
+  "url": "https://splash247.com/will-it-be-onwards-and-upwards-for-the-dry-bulk-market-in-2026/",
+  "date": "2026/03/23",
+  "sd": "03/23",
+  "first_seen_iso": "2026-04-06T12:32:34.462530+09:00"
  }
 }
