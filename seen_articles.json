@@ -4835,7 +4835,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200638/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "神戸大学と日本郵船が協定、食堂施設の命名権取得",
+  "title": "神戸大学と日本郵船が…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200638/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -4853,7 +4853,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200640/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "大阪港湾局、フェリー…",
+  "title": "大阪港湾局、フェリー見学会を開催",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200640/",
   "date": "2026/04/03",
   "sd": "04/03",
@@ -5425,5 +5425,32 @@
   "date": "2026/03/23",
   "sd": "03/23",
   "first_seen_iso": "2026-04-06T12:32:34.462530+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200667/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》海運アナリストはこう見る②、SBI證券経済企業調査部　早田慎太朗アナリスト、非コンテナ船の成長戦略に注目",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200667/",
+  "date": "2026/04/06",
+  "sd": "04/06",
+  "first_seen_iso": "2026-04-06T14:51:58.988526+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200669/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・アジア域内運賃、前週比28%増の865ドル/FEU",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200669/",
+  "date": "2026/04/06",
+  "sd": "04/06",
+  "first_seen_iso": "2026-04-06T14:51:58.988526+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200668/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ローリッツェン・バルカーズのサトウCEO、今年以降日系造船所で10隻竣工",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200668/",
+  "date": "2026/04/06",
+  "sd": "04/06",
+  "first_seen_iso": "2026-04-06T14:51:58.988526+09:00"
  }
 }
