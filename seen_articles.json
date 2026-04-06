@@ -1,49 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313612": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/神子真人】コンテナ船事業の競争力、不確実性対応力が重み増す",
-  "url": "https://www.jmd.co.jp/article.php?no=313612",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-31T08:05:40.404523+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/03/200446/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "住友大阪セメント、AI配船計画最適化の本格運用開始、アルゴアーティスの「Optium」",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200446/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-03-31T08:05:40.404888+09:00"
- },
- "https://splash247.com/diana-secures-improved-kamsarmax-earnings-with-nyk/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana secures improved kamsarmax earnings with NYK",
-  "url": "https://splash247.com/diana-secures-improved-kamsarmax-earnings-with-nyk/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-03-31T08:05:40.405512+09:00"
- },
- "https://www.hellenicshippingnews.com/dry-bulk-shipping-is-bauxite-trade-under-pressure/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Dry Bulk Shipping: Is Bauxite Trade Under Pressure?",
-  "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-is-bauxite-trade-under-pressure/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-31T08:05:40.405665+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-1-week-low/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index at Near 1-Week Low",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-1-week-low/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-03-31T08:05:40.405665+09:00"
- },
  "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yYWo3eDJVa0ltUVJVb3ZVYzJVeUotb2xGbFhkZXlhRUtUUm9OU1FWNEIxX3ZVbEQ4dWF0VC10d0pUSy1WZV9DOVBDRHRnVlJEOEhnUlB6bDdqNzhsUDZET3ZORWQ4dVM3bl8wckJuVDRNcnlpUFo3anRuT2Z3emM?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3961,7 +3916,7 @@
  },
  "https://splash247.com/splash-wrap-hormuz-bells-are-ringing/": {
   "src": "s",
-  "cat": "Dry Cargo",
+  "cat": "Bunkering",
   "title": "Splash Wrap: Hormuz bells are ringing",
   "url": "https://splash247.com/splash-wrap-hormuz-bells-are-ringing/",
   "date": "2026/04/03",
@@ -4609,7 +4564,7 @@
  },
  "https://splash247.com/open-the-fin-strait-trump/": {
   "src": "s",
-  "cat": "Dry Cargo",
+  "cat": "Containers",
   "title": "‘Open the F***in’ Strait’: Trump",
   "url": "https://splash247.com/open-the-fin-strait-trump/",
   "date": "2026/04/06",
@@ -4817,7 +4772,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ナロック、軽量・細径の係留用ロープ拡販、造船所の省力化・安全性向上に寄与",
+  "title": "ナロック、軽量・細径…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -4826,7 +4781,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、技術報告…",
+  "title": "三井E&S、技術報告書「三井E&S 技報」第1号発行",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -5200,5 +5155,41 @@
   "date": "2026/03/27",
   "sd": "03/27",
   "first_seen_iso": "2026-04-07T07:30:42.960832+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313841": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（406）日本支える先行発注。恒力重工、破竹の勢い",
+  "url": "https://www.jmd.co.jp/article.php?no=313841",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-07T08:20:27.640292+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313828": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/有村智成】神戸・大阪両港予算、船社から選ばれる港づくり進めよ",
+  "url": "https://www.jmd.co.jp/article.php?no=313828",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-07T08:20:27.640292+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-3-day-advance/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Snaps 3-Day Advance",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-3-day-advance/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-07T08:20:27.641164+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2017-down-14-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 2017 down 14 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2017-down-14-points/",
+  "date": "2026/03/30",
+  "sd": "03/30",
+  "first_seen_iso": "2026-04-07T08:20:27.641164+09:00"
  }
 }
