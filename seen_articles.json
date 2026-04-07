@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313914": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "東京港、脱炭素化計画策定。既定計画をアップデート",
-  "url": "https://www.jmd.co.jp/article.php?no=313914",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-03-31T19:39:56.584713+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/03/200270/": {
   "src": "k",
   "cat": "コラム",
@@ -4966,5 +4957,23 @@
   "date": "2026/03/31",
   "sd": "03/31",
   "first_seen_iso": "2026-04-07T18:46:25.708005+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200494/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井が経営計画フェーズ2、30年度税前純利益4200億円、「成果実現」、アセットリサイクル促進",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200494/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T20:07:33.547294+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/04/200530/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会/海運この1カ月＜上＞、ホルムズ海峡が実質封鎖、影響多方面に、日本関係船45隻が湾内滞留、市況急騰",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/04/200530/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T20:07:33.547294+09:00"
  }
 }
