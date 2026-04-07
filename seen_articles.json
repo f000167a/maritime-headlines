@@ -1,49 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/ship-owners-focusing-on-bulkers-and-suezmaxes/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Ship Owners Focusing on Bulkers and Suezmaxes",
-  "url": "https://www.hellenicshippingnews.com/ship-owners-focusing-on-bulkers-and-suezmaxes/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
- },
- "https://www.hellenicshippingnews.com/china-drives-5-increase-in-iron-ore-shipments-despite-weak-demand/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "China drives 5% increase in iron ore shipments despite weak demand",
-  "url": "https://www.hellenicshippingnews.com/china-drives-5-increase-in-iron-ore-shipments-despite-weak-demand/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-further-to-near-2-week-low/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Falls Further to Near 2-Week Low",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-further-to-near-2-week-low/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
- },
- "https://www.hellenicshippingnews.com/india-to-rely-more-on-coal-as-lng-disruptions-limit-gas-fired-support/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "India to rely more on coal as LNG disruptions limit gas-fired support",
-  "url": "https://www.hellenicshippingnews.com/india-to-rely-more-on-coal-as-lng-disruptions-limit-gas-fired-support/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1989-down-48-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index falls to 1989 down 48 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1989-down-48-points/",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-04-01T08:01:49.093053+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200533/": {
   "src": "k",
   "cat": "コラム",
@@ -4529,7 +4484,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200721/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ボルカノ、新燃料対応…",
+  "title": "ボルカノ、新燃料対応へ試験設備を拡張、量産体制を構築",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200721/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -4547,7 +4502,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200723/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、海況予測データサービス提供開始、過去・将来の海の変化を高精度に予測",
+  "title": "古野電気、海況予測デ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200723/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -4939,5 +4894,41 @@
   "date": "2026/04/07",
   "sd": "04/07",
   "first_seen_iso": "2026-04-08T07:33:15.757056+09:00"
+ },
+ "https://splash247.com/maltas-polidano-steps-into-shipping-with-damen-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Malta’s Polidano steps into shipping with Damen order",
+  "url": "https://splash247.com/maltas-polidano-steps-into-shipping-with-damen-order/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-08T08:22:34.953626+09:00"
+ },
+ "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Zhejiang Shipping Group expands capesize fleet with second acquisition",
+  "url": "https://splash247.com/zhejiang-shipping-group-expands-capesize-fleet-with-second-acquisition/",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-04-08T08:22:34.953626+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-3-week-low-posts-monthly-loss/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index at Near 3-Week Low, Posts Monthly Loss",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-3-week-low-posts-monthly-loss/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-08T08:22:34.953776+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1995-down-22-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 1995 down 22 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1995-down-22-points/",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-08T08:22:34.953776+09:00"
  }
 }
