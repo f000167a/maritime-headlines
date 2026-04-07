@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/03/200266/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑩、マースクCEOからの一言",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200266/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-03-31T17:12:58.834217+09:00"
- },
- "https://splash247.com/genco-warns-shareholders-over-diana-proxy-push/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Genco warns shareholders over Diana proxy push",
-  "url": "https://splash247.com/genco-warns-shareholders-over-diana-proxy-push/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-03-31T17:12:58.834866+09:00"
- },
- "https://splash247.com/japanese-built-cape-prices-jump-15-in-two-months/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Japanese-built cape prices jump 15% in two months",
-  "url": "https://splash247.com/japanese-built-cape-prices-jump-15-in-two-months/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-03-31T17:12:58.834866+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313912": {
   "src": "j",
   "cat": "外航全般",
@@ -3953,7 +3926,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200673/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "波方・唐津海技短大体…",
+  "title": "波方・唐津海技短大体育館のネーミングライツ、「太平洋沿海汽船アリーナ」除幕",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200673/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -3962,7 +3935,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200674/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "「日本郵船博物館」、2027年春以降にリニューアルオープン、横濱ビルディングへ移転",
+  "title": "「日本郵船博物館」、…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200674/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -4025,7 +3998,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200681/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "エラスムスとベナジー…",
+  "title": "エラスムスとベナジー、中船黄埔文冲にコンテナ船発注",
   "url": "https://www.kaijipress.com/news/container/2026/04/200681/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -4070,7 +4043,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200686/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "三井化学、ドレージ不足対応で地方港活用、海外中継拠点で物流安定化",
+  "title": "三井化学、ドレージ不…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200686/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -4133,7 +4106,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ナロック、軽量・細径の係留用ロープ拡販、造船所の省力化・安全性向上に寄与",
+  "title": "ナロック、軽量・細径…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -4142,7 +4115,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、技術報告…",
+  "title": "三井E&S、技術報告書「三井E&S 技報」第1号発行",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -5101,5 +5074,14 @@
   "date": "2026/04/07",
   "sd": "04/07",
   "first_seen_iso": "2026-04-07T15:54:35.103732+09:00"
+ },
+ "https://splash247.com/trump-floats-us-toll-on-hormuz/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Trump floats US toll on Hormuz",
+  "url": "https://splash247.com/trump-floats-us-toll-on-hormuz/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T17:17:27.498361+09:00"
  }
 }
