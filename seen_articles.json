@@ -3953,7 +3953,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200673/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "波方・唐津海技短大体育館のネーミングライツ、「太平洋沿海汽船アリーナ」除幕",
+  "title": "波方・唐津海技短大体…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200673/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -3962,7 +3962,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200674/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "「日本郵船博物館」、…",
+  "title": "「日本郵船博物館」、2027年春以降にリニューアルオープン、横濱ビルディングへ移転",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200674/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -5065,5 +5065,41 @@
   "date": "2026/04/07",
   "sd": "04/07",
   "first_seen_iso": "2026-04-07T14:27:30.963319+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200706/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃10 MTI・鈴木英樹社長、安藤英幸常務取締役、重要なのは未来に備え「動く」こと",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200706/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T15:54:35.103234+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200707/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ONE、Visaと提携、B2Bカード決済提供、取引のデジタル化を加速",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200707/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T15:54:35.103234+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200705/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、新来島どっく建造の1番船竣工、LNG燃料自動車船12隻シリーズ",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200705/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T15:54:35.103234+09:00"
+ },
+ "https://splash247.com/india-secures-its-first-ammonia-dual-fuel-bulk-carrier-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "India secures its first ammonia dual-fuel bulk carrier order",
+  "url": "https://splash247.com/india-secures-its-first-ammonia-dual-fuel-bulk-carrier-order/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T15:54:35.103732+09:00"
  }
 }
