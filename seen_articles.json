@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/03/200270/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "国内船主、船価上昇予想が増加、発注に動く、投資行動さらに二極化",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200270/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-03-31T20:36:47.034502+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200296/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】ホルムズ封鎖、造船工程の影響懸念、切断用ガスや試運転時燃料など供給不安顕在化",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200296/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-03-31T20:36:47.034502+09:00"
- },
  "https://splash247.com/maltas-polidano-steps-into-shipping-with-damen-order/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3638,7 +3620,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200681/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "エラスムスとベナジー、中船黄埔文冲にコンテナ船発注",
+  "title": "エラスムスとベナジー…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200681/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -3683,7 +3665,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200686/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "三井化学、ドレージ不…",
+  "title": "三井化学、ドレージ不足対応で地方港活用、海外中継拠点で物流安定化",
   "url": "https://www.kaijipress.com/news/container/2026/04/200686/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -3746,7 +3728,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ナロック、軽量・細径…",
+  "title": "ナロック、軽量・細径の係留用ロープ拡販、造船所の省力化・安全性向上に寄与",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -3755,7 +3737,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、技術報告書「三井E&S 技報」第1号発行",
+  "title": "三井E&S、技術報告…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/",
   "date": "2026/04/06",
   "sd": "04/06",
@@ -4975,5 +4957,14 @@
   "date": "2026/04/07",
   "sd": "04/07",
   "first_seen_iso": "2026-04-07T20:07:33.547294+09:00"
+ },
+ "https://splash247.com/icap-rolls-out-dry-ffa-desk/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "ICAP rolls out dry FFA desk",
+  "url": "https://splash247.com/icap-rolls-out-dry-ffa-desk/",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-07T21:04:25.245386+09:00"
  }
 }
