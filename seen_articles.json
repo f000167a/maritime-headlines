@@ -1,58 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313953": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "三井E&S、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=313953",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313992": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "ヤマトグループ、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=313992",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313991": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "富士物流、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=313991",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313990": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "間口運輸、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=313990",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313969": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "阪神国際港湾、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=313969",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-01T18:18:51.242604+09:00"
- },
- "https://splash247.com/geneva-dry-dialogues-veson-nautical-2/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry Dialogues: Veson Nautical",
-  "url": "https://splash247.com/geneva-dry-dialogues-veson-nautical-2/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T18:18:51.243562+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313993": {
   "src": "j",
   "cat": "港湾",
@@ -4412,7 +4358,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200721/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ボルカノ、新燃料対応…",
+  "title": "ボルカノ、新燃料対応へ試験設備を拡張、量産体制を構築",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200721/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -4430,7 +4376,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200723/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、海況予測データサービス提供開始、過去・将来の海の変化を高精度に予測",
+  "title": "古野電気、海況予測デ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200723/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -5452,5 +5398,14 @@
   "date": "2026/04/08",
   "sd": "04/08",
   "first_seen_iso": "2026-04-08T17:17:06.726264+09:00"
+ },
+ "https://splash247.com/hormuz-closure-drives-global-coal-comeback/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz closure drives global coal comeback",
+  "url": "https://splash247.com/hormuz-closure-drives-global-coal-comeback/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-08T18:47:15.914707+09:00"
  }
 }
