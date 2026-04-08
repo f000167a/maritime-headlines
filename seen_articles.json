@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/200535/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、2月の定時順守率は60%割れ、25年4月以来",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200535/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200534/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本郵船グループ、NYKバルクシップパートナーズ発足、海運・船主・船舶管理一体で",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200534/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200536/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "今治造船、日立造船エンジンの株式取得完了、出資比率60%に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200536/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200313/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓/商船三井元副社長・小野晃彦氏⑪、人材配置と当局承認取得に奔走",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200313/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T16:46:00.011369+09:00"
- },
- "https://splash247.com/hormuz-closure-drives-global-coal-comeback/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz closure drives global coal comeback",
-  "url": "https://splash247.com/hormuz-closure-drives-global-coal-comeback/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T16:46:00.011918+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313953": {
   "src": "j",
   "cat": "造船/舶用",
@@ -4322,7 +4277,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200705/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船、新来島どっ…",
+  "title": "日本郵船、新来島どっく建造の1番船竣工、LNG燃料自動車船12隻シリーズ",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200705/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -4421,7 +4376,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200716/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船・郵船商事ら、再生繊維固縛ベルト本格導入、新造自動車船に",
+  "title": "日本郵船・郵船商事ら…",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200716/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -5488,5 +5443,14 @@
   "date": "2026/04/08",
   "sd": "04/08",
   "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-vts-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: VTS Shipping",
+  "url": "https://splash247.com/geneva-dry-dialogues-vts-shipping/",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-08T17:17:06.726264+09:00"
  }
 }
