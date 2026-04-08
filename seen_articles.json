@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200533/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日舶工、高等専門学校との連携強化へ、弓削商船高専と初の意見交換会",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200533/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T14:48:29.199555+09:00"
- },
- "https://www.kaijipress.com/feature/discussion/2026/04/200532/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "記者座談会/海運この1カ月＜下＞、コンテナ船、中東情勢悪化で市況に影響、追加コストの転嫁進む",
-  "url": "https://www.kaijipress.com/feature/discussion/2026/04/200532/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T14:48:29.199555+09:00"
- },
- "https://www.kaijipress.com/markets/secondhand/2026/04/200531/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【中古船価】中古船価市況週間レポート（3月23日～27日）、バルカー/タンカーの全船型で続伸",
-  "url": "https://www.kaijipress.com/markets/secondhand/2026/04/200531/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T14:48:29.199555+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/04/200535/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -722,7 +695,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国、3月は中古住宅市場活発化、一線都市の底堅い需要が牽引役に4月2日：T/C市場＝20隻・172万DWT、V/C市場＝鉄鉱石2隻、石炭4隻、穀物1隻",
+  "title": "【本日のトピック】3月伯鉄鉱石輸出は前年比微減、2月の水準も下回る4月7日：T/C市場＝25隻・168万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/01",
   "sd": "04/01",
@@ -4349,7 +4322,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200705/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船、新来島どっく建造の1番船竣工、LNG燃料自動車船12隻シリーズ",
+  "title": "日本郵船、新来島どっ…",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200705/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -4448,7 +4421,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200716/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船・郵船商事ら…",
+  "title": "日本郵船・郵船商事ら、再生繊維固縛ベルト本格導入、新造自動車船に",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200716/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -4484,7 +4457,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200721/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ボルカノ、新燃料対応へ試験設備を拡張、量産体制を構築",
+  "title": "ボルカノ、新燃料対応…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200721/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -4502,7 +4475,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200723/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、海況予測デ…",
+  "title": "古野電気、海況予測データサービス提供開始、過去・将来の海の変化を高精度に予測",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200723/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -5479,5 +5452,41 @@
   "date": "2026/04/08",
   "sd": "04/08",
   "first_seen_iso": "2026-04-08T09:00:27.104520+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200732/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名門大洋フェリー、新社長に小林氏",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200732/",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200734/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コスコ、日本発米国中西部向け販売強化、プリンスルパート経由で",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200734/",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200735/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ハチソン、マースクに仲裁申し立て、パナマCT運営権巡り",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200735/",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
+ },
+ "https://www.kaijipress.com/markets/newbuilding/2026/04/200733/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "新造船市況月間レポート（2026年3月）、大型船建造への新規参入続く",
+  "url": "https://www.kaijipress.com/markets/newbuilding/2026/04/200733/",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
  }
 }
