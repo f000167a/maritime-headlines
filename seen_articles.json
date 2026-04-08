@@ -1,166 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313994": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "日本通運と関西エアポート、戦略的パートナーシップ締結、上屋拡張など貨物強化図る",
-  "url": "https://www.jmd.co.jp/article.php?no=313994",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-01T20:39:08.126962+09:00"
- },
- "https://www.kaijipress.com/news/shipping/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜経営・全般＞",
-  "url": "https://www.kaijipress.com/news/shipping/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/news/container/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜コンテナ・物流＞",
-  "url": "https://www.kaijipress.com/news/container/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/news/tramper/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜不定期専用船＞・海洋",
-  "url": "https://www.kaijipress.com/news/tramper/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/news/information/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "Information",
-  "url": "https://www.kaijipress.com/news/information/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/person/profile/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "プロフィール",
-  "url": "https://www.kaijipress.com/person/profile/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/person/senkun/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "次代への戦訓",
-  "url": "https://www.kaijipress.com/person/senkun/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/person/zosentop/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "造船新トップの素顔",
-  "url": "https://www.kaijipress.com/person/zosentop/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/feature/highlight/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "話題の新造船",
-  "url": "https://www.kaijipress.com/feature/highlight/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/feature/forecast/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "市況予測特集",
-  "url": "https://www.kaijipress.com/feature/forecast/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/03/200318/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "長澤船協会長会見、ペルシャ湾内船の早期脱出求める、通峡再開「戦闘停止が大前提」",
-  "url": "https://www.kaijipress.com/news/shipping/2026/03/200318/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.127383+09:00"
- },
- "https://splash247.com/shipping-faces-diplomatic-promise-but-practical-peril-in-the-strait-of-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Shipping faces diplomatic promise but practical peril in the Strait of Hormuz",
-  "url": "https://splash247.com/shipping-faces-diplomatic-promise-but-practical-peril-in-the-strait-of-hormuz/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-04-01T20:39:08.128213+09:00"
- },
- "https://www.tramp.co.jp/fenet/daily_report": {
-  "src": "t",
-  "cat": "TDS Daily",
-  "title": "【本日のトピック】3月伯鉄鉱石輸出は前年比微減、2月の水準も下回る4月7日：T/C市場＝25隻・168万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、その他1隻",
-  "url": "https://www.tramp.co.jp/fenet/daily_report",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.128530+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "目次（計7部門）",
-  "url": "https://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.128530+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "鉄鉱石部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.128530+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "マイナーバルク部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.128530+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "新造・中古船部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.128530+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-01T20:39:08.128530+09:00"
- },
  "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/": {
   "src": "h",
   "cat": "Dry Bulk Market",
@@ -3737,7 +3575,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200705/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船、新来島どっ…",
+  "title": "日本郵船、新来島どっく建造の1番船竣工、LNG燃料自動車船12隻シリーズ",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200705/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -3836,7 +3674,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200716/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船・郵船商事ら、再生繊維固縛ベルト本格導入、新造自動車船に",
+  "title": "日本郵船・郵船商事ら…",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200716/",
   "date": "2026/04/07",
   "sd": "04/07",
@@ -5245,5 +5083,32 @@
   "date": "2026/04/08",
   "sd": "04/08",
   "first_seen_iso": "2026-04-08T20:08:51.462502+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200538/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アンカー社セミナー、郵船・河野氏、商船三井・梅村氏が対談、三井住友信託・平野氏登壇",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200538/",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-08T21:04:23.282973+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200537/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アンカー社、インパクト投資の新ファンド創設、船舶と組み合わせ収益性と社会性両立",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200537/",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-08T21:04:23.282973+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-london-stock-exchange-group/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: LSEG",
+  "url": "https://splash247.com/geneva-dry-dialogues-london-stock-exchange-group/",
+  "date": "2026/03/25",
+  "sd": "03/25",
+  "first_seen_iso": "2026-04-08T21:04:23.283617+09:00"
  }
 }
