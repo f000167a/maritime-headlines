@@ -1,13 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2001-up-12-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2001 up 12 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2001-up-12-points/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-04-02T08:21:21.568918+09:00"
- },
  "https://www.kaijipress.com/news/tramper/2026/04/200581/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
@@ -4430,7 +4421,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200734/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコ、日本発米国中…",
+  "title": "コスコ、日本発米国中西部向け販売強化、プリンスルパート経由で",
   "url": "https://www.kaijipress.com/news/container/2026/04/200734/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4520,7 +4511,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200742/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "HMM、アルヘシラスCTの拡張を推進、CEOが初訪問",
+  "title": "HMM、アルヘシラス…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200742/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4592,7 +4583,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200750/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "檜垣造船、新型ツイン…",
+  "title": "檜垣造船、新型ツインデッカー竣工、NOx3次規制適合と大型化、欧米配船対応",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200750/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4601,7 +4592,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200755/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、米オフショア展OTC2026に出展",
+  "title": "日舶工、米オフショア…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200755/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -5218,5 +5209,23 @@
   "date": "2026/04/09",
   "sd": "04/09",
   "first_seen_iso": "2026-04-09T07:34:21.809067+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-losing-run-2/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Snaps 2-Day Losing Run",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-losing-run-2/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-09T08:23:53.767658+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2030 up 35 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/",
+  "date": "2026/04/01",
+  "sd": "04/01",
+  "first_seen_iso": "2026-04-09T08:23:53.767658+09:00"
  }
 }
