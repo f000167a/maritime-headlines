@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/tramper/2026/04/200581/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "インターカーゴ、ST…",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200581/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T14:21:37.874786+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】シンナー不足、造船所の工程懸念、塗装全般で利用、調達の見通し不透明に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T14:21:37.874786+09:00"
- },
- "https://www.kaijipress.com/feature/discussion/2026/04/200583/": {
-  "src": "k",
-  "cat": "各船種への分散投資を継続ナビオス・フランゴウ会長兼CEO",
-  "title": "記者座談会/造船この1カ月中東情勢で供給リスク再認識日本造船のLNG船再開や修繕強化テーマに",
-  "url": "https://www.kaijipress.com/feature/discussion/2026/04/200583/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T14:21:37.874786+09:00"
- },
- "http://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2061号」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-02T14:21:37.875640+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/04/200584/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -4421,7 +4385,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200734/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコ、日本発米国中西部向け販売強化、プリンスルパート経由で",
+  "title": "コスコ、日本発米国中…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200734/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4511,7 +4475,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200742/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "HMM、アルヘシラス…",
+  "title": "HMM、アルヘシラスCTの拡張を推進、CEOが初訪問",
   "url": "https://www.kaijipress.com/news/container/2026/04/200742/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4592,7 +4556,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200755/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、米オフショア…",
+  "title": "日舶工、米オフショア展OTC2026に出展",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200755/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4619,7 +4583,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200753/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国メーカー、MET過給機ライセンス初号機納入",
+  "title": "中国メーカー、MET…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200753/",
   "date": "2026/04/08",
   "sd": "04/08",
