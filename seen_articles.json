@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/200584/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "北米主要港、1月は4%減の450万TEU、減少続く",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200584/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T15:51:42.221417+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200585/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "古野電気、42人が入社",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200585/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T15:51:42.221417+09:00"
- },
  "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -4439,7 +4421,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200737/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "西部ガス、クルーズ船…",
+  "title": "西部ガス、クルーズ船にLNG燃料供給、商船三井テクノトレードと連携",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200737/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4466,7 +4448,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200740/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ジャパンP&I、FD&D強化へ海外海事弁護士採用",
+  "title": "ジャパンP&I、FD…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200740/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4583,7 +4565,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200753/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国メーカー、MET…",
+  "title": "中国メーカー、MET過給機ライセンス初号機納入",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200753/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4592,7 +4574,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200754/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、学生向け舶用工業の紹介動画を公開",
+  "title": "日舶工、学生向け舶用…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200754/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -5123,7 +5105,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】3月伯鉄鉱石輸出は前年比微減、2月の水準も下回る4月7日：T/C市場＝25隻・168万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、その他1隻",
+  "title": "【本日のトピック】伯大豆輸出、3月は9カ月ぶりの前年比マイナス4月8日：T/C市場＝9隻・72万DWT、V/C市場＝鉄鉱石6隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -5425,5 +5407,59 @@
   "date": "2026/04/08",
   "sd": "04/08",
   "first_seen_iso": "2026-04-09T08:57:49.017242+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200765/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "清水港・外貿コンテナ、3月は7%増の3.7万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200765/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200766/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国小売りコンテナ輸入、3・4月は前回予想から上振れ",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200766/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200764/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "1～3月のブラジル大豆輸出量、1.9%増の2880万トンで過去最高",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200764/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200767/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JFEテクノリサーチ、引張装置で安全評価、船舶向けも、受託試験サービス開始",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200767/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】シンナー不足、造船所の工程懸念、塗装全般で利用、調達の見通し不透明に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2061号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-09T16:02:48.025645+09:00"
  }
 }
