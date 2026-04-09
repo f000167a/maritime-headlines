@@ -1,22 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-2nd-day/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Rises for 2nd Day",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-for-2nd-day/",
-  "date": "2026/03/27",
-  "sd": "03/27",
-  "first_seen_iso": "2026-04-03T07:58:44.954594+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2014-up-13-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2014 up 13 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2014-up-13-points/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-04-03T07:58:44.954594+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313370": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -4727,7 +4709,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200767/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "JFEテクノリサーチ…",
+  "title": "JFEテクノリサーチ、引張装置で安全評価、船舶向けも、受託試験サービス開始",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200767/",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -4934,7 +4916,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200785/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川重/NACKS、64型バルカー“MARIDORA”竣工",
+  "title": "川重/NACKS、6…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200785/",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -5452,5 +5434,23 @@
   "date": "2026/04/02",
   "sd": "04/02",
   "first_seen_iso": "2026-04-10T07:35:59.271288+09:00"
+ },
+ "https://www.hellenicshippingnews.com/guineas-simandou-to-become-largest-driver-of-seaborne-iron-ore-supply-growth-wood-mackenzie-says/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Guinea’s Simandou to become largest driver of seaborne iron ore supply growth, Wood Mackenzie says",
+  "url": "https://www.hellenicshippingnews.com/guineas-simandou-to-become-largest-driver-of-seaborne-iron-ore-supply-growth-wood-mackenzie-says/",
+  "date": "2026/04/03",
+  "sd": "04/03",
+  "first_seen_iso": "2026-04-10T08:25:00.468167+09:00"
+ },
+ "https://www.hellenicshippingnews.com/china-consolidates-iron-ore-demand-to-challenge-bhp-reshape-pricing/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "China consolidates iron ore demand to challenge BHP, reshape pricing",
+  "url": "https://www.hellenicshippingnews.com/china-consolidates-iron-ore-demand-to-challenge-bhp-reshape-pricing/",
+  "date": "2026/04/03",
+  "sd": "04/03",
+  "first_seen_iso": "2026-04-10T08:25:00.468167+09:00"
  }
 }
