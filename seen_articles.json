@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/tramper/2026/03/200375/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "パシフィックベイスンCEO、星港移管も引き続き香港重要拠点、5年で船隊1/3更新",
-  "url": "https://www.kaijipress.com/news/tramper/2026/03/200375/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T20:34:15.872036+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-36-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2066 up 36 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-36-points/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T21:39:15.631332+09:00"
- },
- "https://www.hellenicshippingnews.com/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Asia boosts coal use as Iran war squeezes global LNG supplies",
-  "url": "https://www.hellenicshippingnews.com/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies/",
-  "date": "2026/03/26",
-  "sd": "03/26",
-  "first_seen_iso": "2026-04-02T21:39:15.631332+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314069": {
   "src": "j",
   "cat": "コンテナ",
@@ -3989,7 +3962,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200737/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "西部ガス、クルーズ船…",
+  "title": "西部ガス、クルーズ船にLNG燃料供給、商船三井テクノトレードと連携",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200737/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4016,7 +3989,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200740/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ジャパンP&I、FD&D強化へ海外海事弁護士採用",
+  "title": "ジャパンP&I、FD…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200740/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4133,7 +4106,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200753/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国メーカー、MET過給機ライセンス初号機納入",
+  "title": "中国メーカー、MET…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200753/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4142,7 +4115,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200754/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、学生向け舶用…",
+  "title": "日舶工、学生向け舶用工業の紹介動画を公開",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200754/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -5452,5 +5425,41 @@
   "date": "2026/04/09",
   "sd": "04/09",
   "first_seen_iso": "2026-04-09T20:32:39.503451+09:00"
+ },
+ "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ciner adds six ultramaxes in fresh $204m China order",
+  "url": "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-09T21:48:17.981924+09:00"
+ },
+ "https://splash247.com/australian-owner-thompson-expands-dry-bulk-arm-with-handysize-buy/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Australian owner Thompson expands dry bulk arm with handysize buy",
+  "url": "https://splash247.com/australian-owner-thompson-expands-dry-bulk-arm-with-handysize-buy/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-09T21:48:17.981924+09:00"
+ },
+ "https://splash247.com/icon-energy-fixes-ultramax-for-up-to-20-months-on-index-linked-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Icon Energy fixes ultramax for up to 20 months on index-linked deal",
+  "url": "https://splash247.com/icon-energy-fixes-ultramax-for-up-to-20-months-on-index-linked-deal/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-09T21:48:17.981924+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2161-up-22-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2161 up 22 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2161-up-22-points/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T21:48:17.982073+09:00"
  }
 }
