@@ -1,13 +1,4 @@
 {
- "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ciner adds six ultramaxes in fresh $204m China order",
-  "url": "https://splash247.com/ciner-adds-six-ultramaxes-in-fresh-204m-china-order/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-02T17:12:04.757731+09:00"
- },
  "https://splash247.com/australian-owner-thompson-expands-dry-bulk-arm-with-handysize-buy/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -4421,7 +4412,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200737/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "西部ガス、クルーズ船にLNG燃料供給、商船三井テクノトレードと連携",
+  "title": "西部ガス、クルーズ船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200737/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4448,7 +4439,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200740/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ジャパンP&I、FD…",
+  "title": "ジャパンP&I、FD&D強化へ海外海事弁護士採用",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200740/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -4556,7 +4547,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200752/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "Sea Japanでトルコのオンラインセミナー、修繕ら紹介",
+  "title": "Sea Japanでトルコのオンラインセミナー、修繕ら紹介無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200752/",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -5461,5 +5452,32 @@
   "date": "2026/04/08",
   "sd": "04/08",
   "first_seen_iso": "2026-04-09T16:02:48.025645+09:00"
+ },
+ "https://splash247.com/global-orderbook-hits-17-year-high/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Global orderbook hits 17-year high",
+  "url": "https://splash247.com/global-orderbook-hits-17-year-high/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T17:48:17.545005+09:00"
+ },
+ "https://splash247.com/near-standstill-at-hormuz-with-ceasefire-failing-to-unlock-gulf-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Near-standstill at Hormuz with ceasefire failing to unlock Gulf shipping",
+  "url": "https://splash247.com/near-standstill-at-hormuz-with-ceasefire-failing-to-unlock-gulf-shipping/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T17:48:17.545005+09:00"
+ },
+ "https://splash247.com/hong-glory-bulk-sets-course-for-atlantic-growth-with-athens-office-opening/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hong Glory Bulk sets course for Atlantic growth with Athens office opening",
+  "url": "https://splash247.com/hong-glory-bulk-sets-course-for-atlantic-growth-with-athens-office-opening/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-09T17:48:17.545005+09:00"
  }
 }
