@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/200634/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、仏公的機関と覚書を締結、11月に燃料脱炭素化セミナー",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200634/",
-  "date": "2026/04/03",
-  "sd": "04/03",
-  "first_seen_iso": "2026-04-03T15:49:08.521018+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200635/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・コンテナ運賃指標、5週連続で運賃上昇",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200635/",
-  "date": "2026/04/03",
-  "sd": "04/03",
-  "first_seen_iso": "2026-04-03T15:49:08.521018+09:00"
- },
  "https://splash247.com/sea-glory-enters-the-cape-segment-with-newcastlemax-buy/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3728,7 +3710,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】伯大豆輸出、3月は9カ月ぶりの前年比マイナス4月8日：T/C市場＝9隻・72万DWT、V/C市場＝鉄鉱石6隻",
+  "title": "【本日のトピック】1～2月コロンビア炭輸出は835万トンと前年比▲1%減、欧州需要低調4月9日：T/C市場＝7隻・54万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -4196,7 +4178,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200777/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM/ネオライン、風力推進船を大西洋航路に投入、商業運航開始",
+  "title": "CMA-CGM/ネオ…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200777/",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -4205,7 +4187,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200778/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、ジャ…",
+  "title": "CMA-CGM、ジャクソンビル港に追加寄港、日本―北米東岸CBXで",
   "url": "https://www.kaijipress.com/news/container/2026/04/200778/",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -4831,5 +4813,59 @@
   "date": "2026/04/10",
   "sd": "04/10",
   "first_seen_iso": "2026-04-10T14:50:30.667489+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200796/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "スエズ運河庁、大型コンテナ船の15%減免を停止",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200796/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-10T16:53:44.036419+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200797/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "苫小牧埠頭、新中計策定、28年度経常益20億円超、最大230億円を投資",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200797/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-10T16:53:44.036419+09:00"
+ },
+ "https://splash247.com/toll-wars-and-diverging-agendas-cloud-hormuz-outlook/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Toll wars and diverging agendas cloud Hormuz outlook",
+  "url": "https://splash247.com/toll-wars-and-diverging-agendas-cloud-hormuz-outlook/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
+ },
+ "https://splash247.com/splash-wrap-fragile-hormuz-ceasefire-fails-to-lift-traffic/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Fragile Hormuz ceasefire fails to lift traffic",
+  "url": "https://splash247.com/splash-wrap-fragile-hormuz-ceasefire-fails-to-lift-traffic/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
+ },
+ "https://splash247.com/ethanol-enters-ore-trades-as-vale-signs-for-shandong-vloc-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ethanol enters ore trades as Vale signs for Shandong VLOC newbuilds",
+  "url": "https://splash247.com/ethanol-enters-ore-trades-as-vale-signs-for-shandong-vloc-newbuilds/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
+ },
+ "https://splash247.com/bulk-carrier-banned-from-australia-over-unpaid-wages/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Bulk carrier banned from Australia over unpaid wages",
+  "url": "https://splash247.com/bulk-carrier-banned-from-australia-over-unpaid-wages/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
  }
 }
