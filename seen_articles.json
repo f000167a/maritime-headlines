@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314115": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "岐本金属、三井E&Sドック取得。千葉、海洋土木・船舶修繕 想定",
-  "url": "https://www.jmd.co.jp/article.php?no=314115",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T08:38:36.664419+09:00"
- },
- "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Dry bulk takeover battle heats up between Diana and Genco",
-  "url": "https://splash247.com/dry-bulk-takeover-battle-heats-up-between-diana-and-genco/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-04-06T08:38:36.665158+09:00"
- },
- "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Fredriksen back in dry bulk newbuilds with up to eight newcastlemaxes",
-  "url": "https://splash247.com/fredriksen-back-in-dry-bulk-newbuilds-with-up-to-eight-newcastlemaxes/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-04-06T08:38:36.665158+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313440": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -4421,7 +4394,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200815/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "HD現代/エクスマー…",
+  "title": "HD現代/エクスマール、世界初の外航アンモニア燃料船命名、今年5月に竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200815/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -4439,7 +4412,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200817/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "大洋電機、新型軸発電システムを本格展開、PM式でケープサイズ対応",
+  "title": "大洋電機、新型軸発電…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200817/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -5074,5 +5047,41 @@
   "date": "2026/03/27",
   "sd": "03/27",
   "first_seen_iso": "2026-04-13T08:03:42.561886+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-in-recovery-mode/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Market: Capesizes End The Week in Recovery Mode",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-end-the-week-in-recovery-mode/",
+  "date": "2026/03/30",
+  "sd": "03/30",
+  "first_seen_iso": "2026-04-13T08:51:03.990345+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-3rd-day-still-posts-weekly-loss/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Up for 3rd Day, Still Posts Weekly Loss",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-3rd-day-still-posts-weekly-loss/",
+  "date": "2026/03/28",
+  "sd": "03/28",
+  "first_seen_iso": "2026-04-13T08:51:03.990345+09:00"
+ },
+ "https://www.hellenicshippingnews.com/sagitta-marine-we-are-moving-beyond-routine-volatility-operational-resilience-is-a-competitive-advantage/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Sagitta Marine: “We are moving beyond routine volatility; operational resilience is a competitive advantage”",
+  "url": "https://www.hellenicshippingnews.com/sagitta-marine-we-are-moving-beyond-routine-volatility-operational-resilience-is-a-competitive-advantage/",
+  "date": "2026/03/28",
+  "sd": "03/28",
+  "first_seen_iso": "2026-04-13T08:51:03.990345+09:00"
+ },
+ "https://www.hellenicshippingnews.com/brazil-sets-new-records-as-global-soybean-leader-amid-us-china-trade-tensions/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Brazil sets new records as global soybean leader amid US-China trade tensions",
+  "url": "https://www.hellenicshippingnews.com/brazil-sets-new-records-as-global-soybean-leader-amid-us-china-trade-tensions/",
+  "date": "2026/03/28",
+  "sd": "03/28",
+  "first_seen_iso": "2026-04-13T08:51:03.990345+09:00"
  }
 }
