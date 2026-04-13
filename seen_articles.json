@@ -1,40 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313841": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（406）日本支える先行発注。恒力重工、破竹の勢い",
-  "url": "https://www.jmd.co.jp/article.php?no=313841",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-07T08:20:27.640292+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313828": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/有村智成】神戸・大阪両港予算、船社から選ばれる港づくり進めよ",
-  "url": "https://www.jmd.co.jp/article.php?no=313828",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-07T08:20:27.640292+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-3-day-advance/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Snaps 3-Day Advance",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-3-day-advance/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-07T08:20:27.641164+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2017-down-14-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index falls to 2017 down 14 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2017-down-14-points/",
-  "date": "2026/03/30",
-  "sd": "03/30",
-  "first_seen_iso": "2026-04-07T08:20:27.641164+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313612": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -4655,7 +4619,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、LNG船修繕増強、由良と常石でも、政府支援が海外対象になれば「活用も」",
+  "title": "常石造船、LNG船修…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4952,7 +4916,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200843/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川重・ソフトバンク・…",
+  "title": "川重・ソフトバンク・損保ジャパンが新ソリューション、操船支援技術と保険を融合へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200843/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -5236,5 +5200,32 @@
   "date": "2026/04/07",
   "sd": "04/07",
   "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://splash247.com/last-chance-to-get-tickets-to-geneva-dry-the-worlds-annual-commodities-shipping-summit/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Last chance to get tickets to Geneva Dry, the world’s annual commodities shipping summit",
+  "url": "https://splash247.com/last-chance-to-get-tickets-to-geneva-dry-the-worlds-annual-commodities-shipping-summit/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T08:27:53.990635+09:00"
+ },
+ "https://splash247.com/diana-turns-up-heat-on-genco-with-shareholder-offensive/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana turns up heat on Genco with shareholder offensive",
+  "url": "https://splash247.com/diana-turns-up-heat-on-genco-with-shareholder-offensive/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T08:27:53.990635+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2031-up-17-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2031 up 17 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2031-up-17-points/",
+  "date": "2026/03/27",
+  "sd": "03/27",
+  "first_seen_iso": "2026-04-14T08:27:53.990790+09:00"
  }
 }
