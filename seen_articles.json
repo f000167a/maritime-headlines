@@ -1,292 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314153": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "商船三井関係船、3隻ホルムズ通過。LNG船1隻・LPG船2隻",
-  "url": "https://www.jmd.co.jp/article.php?no=314153",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314151": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "米国、再保険枠400億ドルに倍増。新たにバークシャーなど参画",
-  "url": "https://www.jmd.co.jp/article.php?no=314151",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314160": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "コンテナ運賃、欧米向け横ばい。中東向けは過去最高値",
-  "url": "https://www.jmd.co.jp/article.php?no=314160",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314159": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "マースク、福岡に九州営業所新設。西日本で顧客支援強化",
-  "url": "https://www.jmd.co.jp/article.php?no=314159",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314158": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "ドゥルーリー、アジア域内運賃急騰。前週比28%高の865ドル",
-  "url": "https://www.jmd.co.jp/article.php?no=314158",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314152": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "【Global Lens】【欧州ドライ船社の事業戦略】ウルトラバルクCEO　ハンス・クリスチャン・オレセン氏、一貫輸送で差別化",
-  "url": "https://www.jmd.co.jp/article.php?no=314152",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314148": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "自工会、2月自動車輸出、2%増36万9529台",
-  "url": "https://www.jmd.co.jp/article.php?no=314148",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314154": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "三徳船舶、2元燃料船 管理開始。LNG焚き自動車船、船主専業で先駆け",
-  "url": "https://www.jmd.co.jp/article.php?no=314154",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314149": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "【インタビュー　オリックスと共創】三徳船舶　代表取締役社長・多賀純一氏、代表取締役専務・伊藤良恭氏、取締役・伊吹拓時氏、保有・管理100隻体制目標",
-  "url": "https://www.jmd.co.jp/article.php?no=314149",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314147": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "TMI総合法律事務所、参与に久保氏就任。海上保険・海損の体制強化",
-  "url": "https://www.jmd.co.jp/article.php?no=314147",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314161": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "ゼロ、タイACTの株式取得。商船三井の完成車物流会社",
-  "url": "https://www.jmd.co.jp/article.php?no=314161",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314146": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "HD現代G、さらに追加で受注。プロダクト船など計10隻",
-  "url": "https://www.jmd.co.jp/article.php?no=314146",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314145": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "船技協、安全評価指針を作成。内航船でタブレット活用促進",
-  "url": "https://www.jmd.co.jp/article.php?no=314145",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314156": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "【竣工】岩城造船、64型バルカー「BARISM　BETTY」",
-  "url": "https://www.jmd.co.jp/article.php?no=314156",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314150": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "武漢青山船廠、新造船建造再開。中谷物流から小型コンテナ船受注",
-  "url": "https://www.jmd.co.jp/article.php?no=314150",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314165": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "【入社式メッセージ】中谷康夫・ロジスティード社長、自らの可能性切り開いて",
-  "url": "https://www.jmd.co.jp/article.php?no=314165",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314140": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "HPSコネクト、貿易管理PFリリース。動静・書類・連絡、カレンダーに集約",
-  "url": "https://www.jmd.co.jp/article.php?no=314140",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314139": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "三井倉庫BP、法人解散・結了をサポート。保存文書管理の課題解決",
-  "url": "https://www.jmd.co.jp/article.php?no=314139",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314138": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "三井倉庫BP、ISO9001 認証範囲拡大。重要文書保管を追加",
-  "url": "https://www.jmd.co.jp/article.php?no=314138",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314162": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "阪神国際港湾、大阪港ゲート時間延長、GW後の事業者募集",
-  "url": "https://www.jmd.co.jp/article.php?no=314162",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314164": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "福岡市港湾空港局、人事異動",
-  "url": "https://www.jmd.co.jp/article.php?no=314164",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314143": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "神戸港、外内貿コンテナ、25年2%減",
-  "url": "https://www.jmd.co.jp/article.php?no=314143",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314144": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "中国運輸局指定港湾、25年積み降ろし、3%減1.3億トン",
-  "url": "https://www.jmd.co.jp/article.php?no=314144",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314157": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "ANA・NCA、燃油サーチャージ2―3倍に。航空燃料高騰で",
-  "url": "https://www.jmd.co.jp/article.php?no=314157",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314141": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "DHLGF、アジア―欧州 輸送能力拡大。エクスプレスと連携",
-  "url": "https://www.jmd.co.jp/article.php?no=314141",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314155": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "海上保安庁、人事異動",
-  "url": "https://www.jmd.co.jp/article.php?no=314155",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314163": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "25年10―12月の内航積載率、中・長距離F 北東北―北海道下り、30―35%と余裕",
-  "url": "https://www.jmd.co.jp/article.php?no=314163",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314131": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "【ニュース深読み/内航】適正な運賃・用船料収受へ。海事局、「標準的な考え方」策定",
-  "url": "https://www.jmd.co.jp/article.php?no=314131",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=314132": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "商船三井さんふらわあ、HTBとコラボ企画。大洗―苫小牧 船内イベント、北海道の魅力創出",
-  "url": "https://www.jmd.co.jp/article.php?no=314132",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.959880+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200472/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "世界造船の25年決算、造船の収益拡大、最高益も相次ぐ、今後はインフレ懸念も",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200472/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.960215+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/03/200474/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "北日本造船、ゲートラダー搭載ケミカル船初竣工、世界初のEEDI5相当達成の40型",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/03/200474/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T07:30:42.960215+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2031-up-17-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2031 up 17 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2031-up-17-points/",
-  "date": "2026/03/27",
-  "sd": "03/27",
-  "first_seen_iso": "2026-04-07T07:30:42.960832+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313841": {
   "src": "j",
   "cat": "国内船主の今",
@@ -3898,8 +3610,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200798/": {
   "src": "k",
-  "cat": "トップ",
-  "title": "《連載》海運アナリストはこう見る③買収事業のキャッシュ創出力焦点ゴールドマン・サックス証券投資調査部門 宮崎忠洋アナリスト",
+  "cat": "コラム",
+  "title": "《連載》海運アナリストはこう見る③、ゴールドマン・サックス証券投資調査部門 宮崎忠洋アナリスト、買収事業のキャッシュ創出力焦点",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200798/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -3907,7 +3619,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200800/": {
   "src": "k",
-  "cat": "海運＜経営・全般＞",
+  "cat": "コラム",
   "title": "【イラン・中東緊迫】経産省、国家備蓄原油20日分を追加放出、米など代替調達進展で規模抑制",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200800/",
   "date": "2026/04/10",
@@ -3916,8 +3628,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200799/": {
   "src": "k",
-  "cat": "トップ",
-  "title": "【イラン・中東緊迫】イランは再封鎖表明ホルムズ海峡、停戦合意後も通航限定的",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】ホルムズ海峡、イランは再封鎖表明、停戦合意後も通航限定的",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200799/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -3925,8 +3637,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200801/": {
   "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "【イラン・中東緊迫】…",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】国交省、燃料油流通の目詰まり解消へ、日本関係船の情報収集徹底",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200801/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -3997,7 +3709,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/04/200810/": {
   "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
+  "cat": "コラム",
   "title": "ヴァーレ、世界初のエタノール三元燃料VLOC、中国山東海運から新造用船",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200810/",
   "date": "2026/04/10",
@@ -4024,8 +3736,8 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200813/": {
   "src": "k",
-  "cat": "トップ",
-  "title": "世界の造船業、拡大志向が鮮明に各国が商船・艦船で能力強化投資、先進国も積極化世界の造船業で生産能力の拡大志向が鮮明になっている。日本造船業が1兆円の官民投資で商船の建造能力倍増を目指すが、他国も旺盛な商船の新造需要が長期化するとの見込みを背景に設備投資に...続き最大手のHD現代はベトナムなど海外で規模拡大投資を進める",
+  "cat": "コラム",
+  "title": "世界の造船業、拡大志向が鮮明に、各国が商船・艦船で能力強化投資、先進国も積極化",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200813/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -4042,7 +3754,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200815/": {
   "src": "k",
-  "cat": "造船・舶用",
+  "cat": "コラム",
   "title": "HD現代/エクスマール、世界初の外航アンモニア燃料船命名、今年5月に竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200815/",
   "date": "2026/04/10",
@@ -4051,7 +3763,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200816/": {
   "src": "k",
-  "cat": "造船・舶用",
+  "cat": "コラム",
   "title": "造船ワーキンググループ、次世代船舶・修繕で投資方針",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200816/",
   "date": "2026/04/10",
@@ -4087,7 +3799,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/04/200821/": {
   "src": "k",
-  "cat": "ひと",
+  "cat": "コラム",
   "title": "【ログブック】鈴木英樹・MTI社長",
   "url": "https://www.kaijipress.com/person/logbook/2026/04/200821/",
   "date": "2026/04/10",
@@ -4438,7 +4150,7 @@
  },
  "https://www.jmd.co.jp/article.php?no=314332": {
   "src": "j",
-  "cat": "コンテナ",
+  "cat": "激震 イラン軍事衝突",
   "title": "短期停戦、混乱解消せず。コンテナ運賃高止まり。船社、代替ルート維持。ゼネタ分析",
   "url": "https://www.jmd.co.jp/article.php?no=314332",
   "date": "2026/04/13",
@@ -4744,8 +4456,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200826/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】金子国交相、「日本関係船の安全確保に全力」",
+  "cat": "海運＜経営・全般＞",
+  "title": "【イラン・中東緊迫】…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200826/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4753,7 +4465,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/04/200824/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "コンテナ船短期運賃、欧州下落も米国向けは上昇基調",
   "url": "https://www.kaijipress.com/news/container/2026/04/200824/",
   "date": "2026/04/13",
@@ -4762,7 +4474,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/04/200825/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "金子国交相、横浜港CTを視察、港湾機能強化と脱炭素化を加速",
   "url": "https://www.kaijipress.com/news/container/2026/04/200825/",
   "date": "2026/04/13",
@@ -4771,7 +4483,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/04/200827/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "OOCL、1～3月期は売上高8%減、コンテナ輸送量は2%増",
   "url": "https://www.kaijipress.com/news/container/2026/04/200827/",
   "date": "2026/04/13",
@@ -4816,8 +4528,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200828/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "NYKバルクシップパートナーズ・浦上社長に聞く、将来を見据えてより強い会社に",
+  "cat": "トップ",
+  "title": "将来を見据えてより強い会社にNYKバルクシップパートナーズ・浦上社長に聞く日本郵船グループの旭海運、八馬汽船、三菱鉱石輸送が4月1日付で合併してNYKバルクシップパートナーズ（略称＝NBSP）が発足した。初代社長に就任した浦上宏一氏は本紙インタビューで...続き旭海運、八馬汽船、三菱鉱石輸送が合併",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200828/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4825,8 +4537,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200829/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "川崎汽船・金森専務、「環境」ユニット新設で機能強化、エネルギーは横連携で提案力向上",
+  "cat": "トップ",
+  "title": "「環境」ユニット新設で機能強化川崎汽船・金森専務、エネルギーは横連携で提案力向上",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200829/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4834,7 +4546,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200830/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "【中東・イラン緊迫】米イラン協議とん挫、湾外への退避に暗雲、正常化遠のく、湾内の日本関係船動けず",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200830/",
   "date": "2026/04/13",
@@ -4843,7 +4555,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/04/200831/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "日本郵船、「NYK Group Dining」がオープン、神戸大学深江キャンパスに",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200831/",
   "date": "2026/04/13",
@@ -4852,7 +4564,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/04/200832/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "ドゥルーリー・アジア域内運賃、4週ぶりマイナス、前週比3%減",
   "url": "https://www.kaijipress.com/news/container/2026/04/200832/",
   "date": "2026/04/13",
@@ -4861,8 +4573,8 @@
  },
  "https://www.kaijipress.com/news/container/2026/04/200833/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "神原汽船、定航事業でホーチミンに現法設立へ、東南アジア新規展開、比内航参入も",
+  "cat": "海運＜コンテナ・物流＞",
+  "title": "神原汽船、定航事業で…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200833/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4870,7 +4582,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/04/200834/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜不定期専用船＞・海洋",
   "title": "ウェスタンバルク、ホルムズ海峡封鎖、業績を圧迫",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200834/",
   "date": "2026/04/13",
@@ -4879,7 +4591,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/04/200836/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜不定期専用船＞・海洋",
   "title": "中国自動車輸出、3月は73％増、ガソリン高追い風",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200836/",
   "date": "2026/04/13",
@@ -4888,8 +4600,8 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200837/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "常石グループ、2035年に売上8000億円に倍増へ、「ニッチトップ」で成長",
+  "cat": "トップ",
+  "title": "2035年に売上8000億円に倍増へ常石グループ、「ニッチトップ」で成長",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200837/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4897,7 +4609,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200838/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "日本の新造船受注、1～3月は5%増の227万トン、一定量確保、タンカー増加",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200838/",
   "date": "2026/04/13",
@@ -4906,7 +4618,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200839/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "日本の新造船受注、3月は155万トンで1年9カ月ぶり高水準、ケープやVL・スエズ成約",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200839/",
   "date": "2026/04/13",
@@ -4915,7 +4627,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200840/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "日本造船業の新造船受注残、3.5年分の2936万トン",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200840/",
   "date": "2026/04/13",
@@ -4924,7 +4636,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200841/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "官民造船投資策、海外工場や舶用工場も支援検討、LNG船再開は継続協議に",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200841/",
   "date": "2026/04/13",
@@ -4933,7 +4645,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200842/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "カナデビア、舶用SCR累計受注300基に、NOx規制海域拡大で受注増",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200842/",
   "date": "2026/04/13",
@@ -4942,7 +4654,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "常石造船、LNG船修繕増強、由良と常石でも、政府支援が海外対象になれば「活用も」",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/",
   "date": "2026/04/13",
@@ -4951,8 +4663,8 @@
  },
  "https://www.kaijipress.com/markets/dry/2026/04/200835/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "ドライバルク市況週間レポート（4月7日～4月10日）、ケープ小幅上昇、3万ドル",
+  "cat": "マーケット",
+  "title": "【ドライ】ドライバルク市況週間レポート（4月7日～4月10日）、ケープ小幅上昇、3万ドル",
   "url": "https://www.kaijipress.com/markets/dry/2026/04/200835/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4960,7 +4672,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/04/200847/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】猪飼康之・日本カーフェリー労務協会会長",
   "url": "https://www.kaijipress.com/person/logbook/2026/04/200847/",
   "date": "2026/04/13",
@@ -4969,7 +4681,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/04/200848/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】宮武宜史・日本海事協会副会長",
   "url": "https://www.kaijipress.com/person/logbook/2026/04/200848/",
   "date": "2026/04/13",
@@ -4978,7 +4690,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/04/200849/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】ラモン・フランコパナマ海事庁商船局長",
   "url": "https://www.kaijipress.com/person/logbook/2026/04/200849/",
   "date": "2026/04/13",
@@ -4987,7 +4699,7 @@
  },
  "https://www.kaijipress.com/person/jinji/2026/04/200845/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "商船三井さんふらわあ、新役員体制",
   "url": "https://www.kaijipress.com/person/jinji/2026/04/200845/",
   "date": "2026/04/13",
@@ -5020,5 +4732,509 @@
   "date": "2026/04/13",
   "sd": "04/13",
   "first_seen_iso": "2026-04-13T20:52:40.090112+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314369": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "米国、イラン港湾封鎖へ。和平交渉決裂、通航料徴収を非難",
+  "url": "https://www.jmd.co.jp/article.php?no=314369",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314370": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "コンテナ運賃、中東8週連続上昇。最高値、値上げ姿勢強める",
+  "url": "https://www.jmd.co.jp/article.php?no=314370",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314360": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "ホルムズ封鎖、海洋法の弱点 浮き彫り。米ポテン分析、「元の姿には戻らず」",
+  "url": "https://www.jmd.co.jp/article.php?no=314360",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314377": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "ドゥルーリー、アジア域内運賃反落。前週比3%安の839ドル",
+  "url": "https://www.jmd.co.jp/article.php?no=314377",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314378": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "OOCL、1―3月期8%減収。平均収入低下が響く",
+  "url": "https://www.jmd.co.jp/article.php?no=314378",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314376": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "ONE、西アフリカ向け新航路。地中海ハブ活用、7月開始",
+  "url": "https://www.jmd.co.jp/article.php?no=314376",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314366": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "【アンカー・シップ　セミナー（下）】日本郵船・商船三井 両首脳と鼎談、問われるホルムズ危機対応",
+  "url": "https://www.jmd.co.jp/article.php?no=314366",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314365": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "中国、パナマ籍船 拘留5倍。PSCで。港湾接収で報復か",
+  "url": "https://www.jmd.co.jp/article.php?no=314365",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314379": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "神原汽船、アジア基盤強化、越法人設立検討。日本発着拡大で、比では内航・物流も",
+  "url": "https://www.jmd.co.jp/article.php?no=314379",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314368": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "常石グループ、事業規模8000億円へ。ニッチトップ・エリアトップで",
+  "url": "https://www.jmd.co.jp/article.php?no=314368",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314367": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "造船WG、修繕 特定国依存解消を。官民投資の方向性提示、LNG船は議論継続",
+  "url": "https://www.jmd.co.jp/article.php?no=314367",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314364": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "川重・ソフトバンク・損保ジャパン、運航支援統合 新サービス。新技術導入、保険でサポート",
+  "url": "https://www.jmd.co.jp/article.php?no=314364",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314363": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "輸組まとめ、25年度受注904万総トン。5年ぶり1000万総トン割れ",
+  "url": "https://www.jmd.co.jp/article.php?no=314363",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314372": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "日本通運、近距離電動車導入実証。ウィル・東大と共同、作業専用型開発へ",
+  "url": "https://www.jmd.co.jp/article.php?no=314372",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314351": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "日立製作所、CLO向けソリューション提供。KPI可視化、経営課題分析など支援",
+  "url": "https://www.jmd.co.jp/article.php?no=314351",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314352": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "SBSHD、鹿児島に物流センター。九州初の自社開発施設",
+  "url": "https://www.jmd.co.jp/article.php?no=314352",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314350": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "北海道運輸局管内7港、25年11月船舶積み降ろし、4%減の583万トン。2カ月連続マイナス",
+  "url": "https://www.jmd.co.jp/article.php?no=314350",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314375": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "国交省港湾局、内航フェリー・RORO船ターミナル、シャーシ位置管理にICT、3分の1を補助。Mシフト受け皿確保",
+  "url": "https://www.jmd.co.jp/article.php?no=314375",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314374": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "横浜港、金子国交相が南本牧視察。「迅速に機能強化進める」",
+  "url": "https://www.jmd.co.jp/article.php?no=314374",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314371": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "米環境NGO、国交省・横浜市にリポート提出。CNPに着目し政策研究",
+  "url": "https://www.jmd.co.jp/article.php?no=314371",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314355": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "政府、自衛隊・海保が円滑利用、10空港7港湾追加",
+  "url": "https://www.jmd.co.jp/article.php?no=314355",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314373": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "成田空港周辺IC、国交省が事業許可。圏央道のアクセス強化",
+  "url": "https://www.jmd.co.jp/article.php?no=314373",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314349": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "【空港統計月報】2026年2月",
+  "url": "https://www.jmd.co.jp/article.php?no=314349",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314357": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "海事局、「SSS大賞」選定 取り組み募集。6月12日まで",
+  "url": "https://www.jmd.co.jp/article.php?no=314357",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354276+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200843/": {
+  "src": "k",
+  "cat": "造船・舶用",
+  "title": "川重・ソフトバンク・…",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200843/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.354617+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWU5TMEpHcEtaZ2Y4STlXNExTbkM0bldUdHhyeHdmY1dNOEhsX0F5MjFDajZwWmRwWm5RMEFVOG9vbW1BTXdFR0ExRy1jcl93dFhJN3VOcTJVSlMtRE82cUVmcHlpOHBiR3lNckJlTVpzeUgtaWh1YnYzdEdQV1ZQQg?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Sweden detains bulker carrying Russian coal to Spain",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWU5TMEpHcEtaZ2Y4STlXNExTbkM0bldUdHhyeHdmY1dNOEhsX0F5MjFDajZwWmRwWm5RMEFVOG9vbW1BTXdFR0ExRy1jcl93dFhJN3VOcTJVSlMtRE82cUVmcHlpOHBiR3lNckJlTVpzeUgtaWh1YnYzdEdQV1ZQQg?oc=5",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-14T07:38:28.355032+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0s0dEFvTmtSRzBqNVI2WmhWV3N5YlVJdThUOGVZczd1SF80c2IzZWc5cDFFbXBpeWFXSzJROWpJTkVoTzZja3dkcEpSTlBDM2xORE5BeV91dHVYWU5WRkJKVGdLYjhPS3I3RVNYTDhWMlByRHZXdHJqLXZwYUxRelpGREdVai1OOHMyc1ViakJRQ29u?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ethanol enters ore trades as Vale signs for Shandong VLOC newbuilds",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX0s0dEFvTmtSRzBqNVI2WmhWV3N5YlVJdThUOGVZczd1SF80c2IzZWc5cDFFbXBpeWFXSzJROWpJTkVoTzZja3dkcEpSTlBDM2xORE5BeV91dHVYWU5WRkJKVGdLYjhPS3I3RVNYTDhWMlByRHZXdHJqLXZwYUxRelpGREdVai1OOHMyc1ViakJRQ29u?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355032+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGtDUXFIWktwMXN6RmdqSFdlc1ZibGdzZ2FTQzZuT0s5QnYwVzRfcHhiVTVIZ2Rwd1JkYkhyMnNGMkJ5dEYyak1RM0NjX1R6UlFOYjNoTjRVNzhnQUVxNGM4WEFZemJtMmw2OVA3Wk1KRnRxOTVuTHZYb3BJZC1mU3JiVDF3T2FlNTF4em1NSmFXbXhub2ZuSXk0S29mcGNuZEgtOXBMTnB2VnZleFE?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Last chance to get tickets to Geneva Dry, the world’s annual commodities shipping summit",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTGtDUXFIWktwMXN6RmdqSFdlc1ZibGdzZ2FTQzZuT0s5QnYwVzRfcHhiVTVIZ2Rwd1JkYkhyMnNGMkJ5dEYyak1RM0NjX1R6UlFOYjNoTjRVNzhnQUVxNGM4WEFZemJtMmw2OVA3Wk1KRnRxOTVuTHZYb3BJZC1mU3JiVDF3T2FlNTF4em1NSmFXbXhub2ZuSXk0S29mcGNuZEgtOXBMTnB2VnZleFE?oc=5",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.355032+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdElpTmpjQnpYSE4wTmVlaFVfWEdMYjJuenVOSEtnLVhFSVpaQ1N2dTdFZ2h3VEpzTW5zVnRoT2tqRHU2ellIY3ZNODRlMW9JaEQwSGRKdTFFdGFua2JvSkY1SUEyTV94aG5sRGQwc0FCRUY2TWVNZ0M0VVRxWmpaOGQtS3A?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana turns up heat on Genco with shareholder offensive",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdElpTmpjQnpYSE4wTmVlaFVfWEdMYjJuenVOSEtnLVhFSVpaQ1N2dTdFZ2h3VEpzTW5zVnRoT2tqRHU2ellIY3ZNODRlMW9JaEQwSGRKdTFFdGFua2JvSkY1SUEyTV94aG5sRGQwc0FCRUY2TWVNZ0M0VVRxWmpaOGQtS3A?oc=5",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T07:38:28.355032+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5idGdyTUZTOEtmVV8tb3FVclhra0NMVXpyMHdCZGthNk9hNTlBSWxfejd6YnV4U3B4RnBZam5FdGdxb3NNQzVsckNfbTJubHZ2eUxfWGZoSVhpU2c?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Get code",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5idGdyTUZTOEtmVV8tb3FVclhra0NMVXpyMHdCZGthNk9hNTlBSWxfejd6YnV4U3B4RnBZam5FdGdxb3NNQzVsckNfbTJubHZ2eUxfWGZoSVhpU2c?oc=5",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDBCczZZdXVrUzR5UGNCU3lkMm04VVNJTjZXVE5JUEJZSXU1U040RmczS1ZCel9uVVp0QkhwODJmcmNzQ3NtZ29vS1JCWHYtanBpaGgzZWdieVhRd21JZjBLdVplYVVwOGp2dl9iZXpVS0tkVHh6TC16QTlVckxwQmpGZGxQVWdxZGFaOFg0Z2IwYVg3UTY1ZlpLYlNKRE1EWEMwaDdsMHdvZUk?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Revised IMO recommendations for entering enclosed spaces aboard ships",
+  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVDBCczZZdXVrUzR5UGNCU3lkMm04VVNJTjZXVE5JUEJZSXU1U040RmczS1ZCel9uVVp0QkhwODJmcmNzQ3NtZ29vS1JCWHYtanBpaGgzZWdieVhRd21JZjBLdVplYVVwOGp2dl9iZXpVS0tkVHh6TC16QTlVckxwQmpGZGxQVWdxZGFaOFg0Z2IwYVg3UTY1ZlpLYlNKRE1EWEMwaDdsMHdvZUk?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSVdoR2dxZkxQMWZkcm9aMDYtT2NDSmpyX0ZrZXl6QV80OXdkN01na2EyR1JDQmR5akhTM0hJRWxQQktYU3RFbVlUWjVwb3JYMVh4SWZhXzRYOE12eFJlWTJ1eFZfS29OQUZOMEtTZ1J6eEgzTWlhNXZQN19kV0c5amVPNzBERi1sMmZ6QnJRV3dCd00?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Suez Canal Authority suspends container ship rebate",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSVdoR2dxZkxQMWZkcm9aMDYtT2NDSmpyX0ZrZXl6QV80OXdkN01na2EyR1JDQmR5akhTM0hJRWxQQktYU3RFbVlUWjVwb3JYMVh4SWZhXzRYOE12eFJlWTJ1eFZfS29OQUZOMEtTZ1J6eEgzTWlhNXZQN19kV0c5amVPNzBERi1sMmZ6QnJRV3dCd00?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHgybmZIZXVqRWV4Y0NaTTB3V0htZHdaRzhJY1hNZm1CS3ZTMEZaSmR4aHh0cFVNZ2dKQWtqZVI3ZGdxMVZZeWNVam9oMHlreEhvbWw3SUh3bHVDWFZJbkw1cW16MVg5d3hiMmhvU3BWYnhFckFzQlpnV0pqbGlYNkpET0I3MFg1Y0Zua1h0R2hvdTlvUzcwY05OYVc2Qmx6bGNQckJLSUV5SHdXQTlGVXZQQ29jSndEY29ad1JB?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "The Strait of Hormuz crisis affects more than just oil. Here are 9 other commodities",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHgybmZIZXVqRWV4Y0NaTTB3V0htZHdaRzhJY1hNZm1CS3ZTMEZaSmR4aHh0cFVNZ2dKQWtqZVI3ZGdxMVZZeWNVam9oMHlreEhvbWw3SUh3bHVDWFZJbkw1cW16MVg5d3hiMmhvU3BWYnhFckFzQlpnV0pqbGlYNkpET0I3MFg1Y0Zua1h0R2hvdTlvUzcwY05OYVc2Qmx6bGNQckJLSUV5SHdXQTlGVXZQQ29jSndEY29ad1JB?oc=5",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3RUc2xya2tvcnZSQTQtZGRJNHZWN2l0TXFvVmlhTUNYekNNZVJqaGNjWENXRVNfRjc5ODlYbjdTbzc3WE0zSXZxWnM5LUo4VTQ0TmUzLVg1VVVRbzFSbkxnVi1GSUN5akZWdFloNy1sUWtkTktyeVkyaWQ5bmtrU0hMSHdLMzRyNlRnMXFmYTVrY21TX0sxeGRlWHRTOVdOR0NmLUtnUUptMmx6Wktv?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Qatar LNG Tankers Turn Back at Strait of Hormuz, Materializing Gas Crisis",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3RUc2xya2tvcnZSQTQtZGRJNHZWN2l0TXFvVmlhTUNYekNNZVJqaGNjWENXRVNfRjc5ODlYbjdTbzc3WE0zSXZxWnM5LUo4VTQ0TmUzLVg1VVVRbzFSbkxnVi1GSUN5akZWdFloNy1sUWtkTktyeVkyaWQ5bmtrU0hMSHdLMzRyNlRnMXFmYTVrY21TX0sxeGRlWHRTOVdOR0NmLUtnUUptMmx6Wktv?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHVJT0h4ZDk0Wkd1TWtCZnlnLUNaaldQY2FERWxWMWd0YzdrZWlYaURxR0tTLTNIVWhxWExONnJTRzZVZ0tXM2lXNlNvOV81RGpwZFJHbnhoTjdCOGIyYm84a3NGcEtob25NdW5DRHh2ODJjVEdmUDYtSU1PNVlYaGpoTGN6Qi1DRXQwcTJick95VzQtUlhtN0NlYXY?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Flows over economics: Supply risks drive global crude flows",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTHVJT0h4ZDk0Wkd1TWtCZnlnLUNaaldQY2FERWxWMWd0YzdrZWlYaURxR0tTLTNIVWhxWExONnJTRzZVZ0tXM2lXNlNvOV81RGpwZFJHbnhoTjdCOGIyYm84a3NGcEtob25NdW5DRHh2ODJjVEdmUDYtSU1PNVlYaGpoTGN6Qi1DRXQwcTJick95VzQtUlhtN0NlYXY?oc=5",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakhydF9VRHgwMC15NUdBN0FpRlg4cVNtVWtjTzZlVGRXVlBOc0E3LTBQRnc0T3gwV1pPQUo3Rnk0QlFfNzFUZjJWZERxanFWajNBd0tRbkdVdE8yNm9XNUZDbGplX2E0cldqMEp1ZHBJN2llOVZTWmlUZERqMzFqRDlDdzJUX19mT0hsVEY0bFFZbFAtcndHRndoRXlDNEtEUVE?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Natural gas storage report shows higher-than-expected increase",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakhydF9VRHgwMC15NUdBN0FpRlg4cVNtVWtjTzZlVGRXVlBOc0E3LTBQRnc0T3gwV1pPQUo3Rnk0QlFfNzFUZjJWZERxanFWajNBd0tRbkdVdE8yNm9XNUZDbGplX2E0cldqMEp1ZHBJN2llOVZTWmlUZERqMzFqRDlDdzJUX19mT0hsVEY0bFFZbFAtcndHRndoRXlDNEtEUVE?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0JhOGxnRHltSHI3SHhwejhQVDdmdXZpS2xzTTY5NnZYWnk5SE9oZUo0NkhiSFI3blJUZ2NoRHR3NkM5VG5USDhpbGdhd0NrR3Y0THdKMmdqY1dPanp3MW1PSUUzSHJGc1BWMlp3UFFEX1RiM3lMRTk1eFp3dGRfNjJORWM1Zm9MNG5BeGxuQVVKYkFpTzBwSDdCNzA?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Ministry: China, US to maintain economic, trade communication",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0JhOGxnRHltSHI3SHhwejhQVDdmdXZpS2xzTTY5NnZYWnk5SE9oZUo0NkhiSFI3blJUZ2NoRHR3NkM5VG5USDhpbGdhd0NrR3Y0THdKMmdqY1dPanp3MW1PSUUzSHJGc1BWMlp3UFFEX1RiM3lMRTk1eFp3dGRfNjJORWM1Zm9MNG5BeGxuQVVKYkFpTzBwSDdCNzA?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTVyel9FRkNIdklacVdXMVZlT2hYRUJzbWwxR3N2NUdRWkZVWkVHWlpIRWplRlJuSjVTY3Zrcjk4Z3dMazdtcTNTdnhnS3RMTDN2bjhRQjFuX3FraVptUkZjWDVBUG1tTzU4NjFqcHdrTlFTV3ZyTl9MRGF3MDlUSFd1MV84MlZ2VEk3aTZZX29wMDc0dW1hYVRMWVVOcmJHbUJEMEdEQjhHQ3BTOENVb3RCaWFFeUowcnotZnFKOXFUQQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Russian crude deliveries reach three-year high as loadings fall amid Ukrainian attacks",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOTVyel9FRkNIdklacVdXMVZlT2hYRUJzbWwxR3N2NUdRWkZVWkVHWlpIRWplRlJuSjVTY3Zrcjk4Z3dMazdtcTNTdnhnS3RMTDN2bjhRQjFuX3FraVptUkZjWDVBUG1tTzU4NjFqcHdrTlFTV3ZyTl9MRGF3MDlUSFd1MV84MlZ2VEk3aTZZX29wMDc0dW1hYVRMWVVOcmJHbUJEMEdEQjhHQ3BTOENVb3RCaWFFeUowcnotZnFKOXFUQQ?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVdkM3l3aGR4VG1WS0pMWFZ2d3JDX19VZmE2dS1WYUxaeVF6aVZoWnhWY1VJUWszaTJZU3JZbWU0UmFUbWRKWUtJRTZjWWlYNGx3NmNCRVMwVjN2UFJ6emhWYlJrb0JqdFlRYXhlazFFcWM2OEVSVVNOekFJY2RvX0Zaa1dJRm8wM1dSNndFNU9WSnpWY0s4UXlB?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "ENGINE: Europe & Africa Bunker Fuel Availability Outlook",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVdkM3l3aGR4VG1WS0pMWFZ2d3JDX19VZmE2dS1WYUxaeVF6aVZoWnhWY1VJUWszaTJZU3JZbWU0UmFUbWRKWUtJRTZjWWlYNGx3NmNCRVMwVjN2UFJ6emhWYlJrb0JqdFlRYXhlazFFcWM2OEVSVVNOekFJY2RvX0Zaa1dJRm8wM1dSNndFNU9WSnpWY0s4UXlB?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1JKQkd5Y3Nac2RRaXZtOVQxTVJycDRFTnNpMW0yNkgtQUFQek9CUzlxb0dIa1BjTmNUcXJiUUxEVUItZmQzcm9xajV3Vi1iQkhGc3FONWd0UDJ3OG1ORzg3Yy1wT213Zkk1SGZXRUsyRDJGVDRXLVpoSGFzc2Naak9xUjhxRk5yX2p6Yzg3cFdrZHc?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "LNG Shock: From Supply Disruption to System Strain",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1JKQkd5Y3Nac2RRaXZtOVQxTVJycDRFTnNpMW0yNkgtQUFQek9CUzlxb0dIa1BjTmNUcXJiUUxEVUItZmQzcm9xajV3Vi1iQkhGc3FONWd0UDJ3OG1ORzg3Yy1wT213Zkk1SGZXRUsyRDJGVDRXLVpoSGFzc2Naak9xUjhxRk5yX2p6Yzg3cFdrZHc?oc=5",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamxELXhCZlhqYzZ6QU9hank1dHFaRHRweHpZbExhTlllMnE4VXdoT0dCWS1IRk00OVh4VGd3SHBXS3Q3RFduTHRNaEc4RzRzRzBndHppa18zRzQtVVl5OWVjZEhCWDgzTmZVODlSQ0ZkbFd3WWI5T2M0emYxS2EyN2ZkM0lyWHV1RTNpaWlQUnRnU21iSnFLQ3MzYi1MSEJEUFJ5M2FKNHJWVUNKUENZ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "TTI ALGECIRAS welcomes HMM CEO at a key milestone for terminal expansion",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamxELXhCZlhqYzZ6QU9hank1dHFaRHRweHpZbExhTlllMnE4VXdoT0dCWS1IRk00OVh4VGd3SHBXS3Q3RFduTHRNaEc4RzRzRzBndHppa18zRzQtVVl5OWVjZEhCWDgzTmZVODlSQ0ZkbFd3WWI5T2M0emYxS2EyN2ZkM0lyWHV1RTNpaWlQUnRnU21iSnFLQ3MzYi1MSEJEUFJ5M2FKNHJWVUNKUENZ?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3g0ODBmQjVNZXZ6cVNFYVdrdHgwWjFNWWRIN3J4ajRTSHVhOWdzdXZNZGliNzl1MFFJUkRKN2NqSXI2LWhSVWE1eHNsdW1CbmJPclJRLU5MQ21jelNSVjJmY3R3YUZBcWFUREdzYUt5YW9tNFMtR2xTOHRtSUxCWUJZNW9Xd29JVWFEZmd1SQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Iran, Oman to charge for Strait of Hormuz passage",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3g0ODBmQjVNZXZ6cVNFYVdrdHgwWjFNWWRIN3J4ajRTSHVhOWdzdXZNZGliNzl1MFFJUkRKN2NqSXI2LWhSVWE1eHNsdW1CbmJPclJRLU5MQ21jelNSVjJmY3R3YUZBcWFUREdzYUt5YW9tNFMtR2xTOHRtSUxCWUJZNW9Xd29JVWFEZmd1SQ?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGV6aElhTUNVSlF5ZkFmMVBONmJIVWs3SnpNRHJnWWJEUi1pTFFIMEVJaWZ4cHB3Vk9xdjMyUUZOR0VuVlRRbGw2c3laNHBhUEY1ZFpDdFdyZl92eXdGem9zT3dhT2F5RnNEaGNXZHNpY2lmT21UUHlHVVZUaVNfTU5VUzVrMnJoNUkwU21xNjBCOUJaSjNYWFdMZVcyV0JOSmNyM0F2RS1VbnJVZFJZY2lR?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Malaysia’s palm oil stocks to fall for third straight month in March: survey",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRGV6aElhTUNVSlF5ZkFmMVBONmJIVWs3SnpNRHJnWWJEUi1pTFFIMEVJaWZ4cHB3Vk9xdjMyUUZOR0VuVlRRbGw2c3laNHBhUEY1ZFpDdFdyZl92eXdGem9zT3dhT2F5RnNEaGNXZHNpY2lmT21UUHlHVVZUaVNfTU5VUzVrMnJoNUkwU21xNjBCOUJaSjNYWFdMZVcyV0JOSmNyM0F2RS1VbnJVZFJZY2lR?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDY4YVZZUDZvT05kd2V5UnRhSGNpajVUalNldUkzeVl6UzdzbS1yczQ0NWFzWlJvVGdwUlFzLTI4dEotWWY1TXBKYVIzWUlsMkJuV1RpMmZIUzlYZGxLdDNXRHlSV1pKSDdJbGt0QXl6WG1qV1hBY0YzU1BBSEVNdURsM3VfaUl5Tk5wd29QS3lGLTJqZ0MzdlVLZWgzcGo4enRoakIxWVdUUHEz?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Stolt-Nielsen Limited Reports First Quarter Net Profit of $47.5 Million",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONDY4YVZZUDZvT05kd2V5UnRhSGNpajVUalNldUkzeVl6UzdzbS1yczQ0NWFzWlJvVGdwUlFzLTI4dEotWWY1TXBKYVIzWUlsMkJuV1RpMmZIUzlYZGxLdDNXRHlSV1pKSDdJbGt0QXl6WG1qV1hBY0YzU1BBSEVNdURsM3VfaUl5Tk5wd29QS3lGLTJqZ0MzdlVLZWgzcGo4enRoakIxWVdUUHEz?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1ZubmNPeVpidXNkQTQ5Y01HR1Y3a0I1clJMZ0d3Yk5GRVItNENkUVZVeVdjYzBKV09EQXhrajZnWEtUTXVhcWNDRVR5bkN6TVFieExrY1BOdmhNVS0zZDA4MzhMV3ZPYjF3R0VvaXB6Y1VHUFozR0thV2U4QUgtZE9GWnJaYW85WEJJSEFNMlQyaXFWWVhTWUZmQUxwWWowZ0RSeUxkV2JoSzc2bHhaQnZUTktOZm4welo4YkJIaVJBUEo4cDNZTEtzNEY?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "ZAWYA: Egypt’s Safaga 2 terminal receives giant cranes as logistics hub project nears completion",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1ZubmNPeVpidXNkQTQ5Y01HR1Y3a0I1clJMZ0d3Yk5GRVItNENkUVZVeVdjYzBKV09EQXhrajZnWEtUTXVhcWNDRVR5bkN6TVFieExrY1BOdmhNVS0zZDA4MzhMV3ZPYjF3R0VvaXB6Y1VHUFozR0thV2U4QUgtZE9GWnJaYW85WEJJSEFNMlQyaXFWWVhTWUZmQUxwWWowZ0RSeUxkV2JoSzc2bHhaQnZUTktOZm4welo4YkJIaVJBUEo4cDNZTEtzNEY?oc=5",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkh6RFE0ck9vUUN4ODhnbXJXb0c3VUFCbFAtMDRLYktYaERXcFlwVVB0RmowMXZDOWpzNDgyVmRhTUc2TGlBN1J5MTNISm8xSmJMNG0wT2F0Tkl6dmk5REJVVFVOMmh1a0RDMVRHTGxfajhjQ2pHa0szalVYMUNzdTFielZ4Q0RVX0ZHUEdfVHc3M3hXbE4zMmJEaVRFeGNOdFdxOHQwSzhoamwzXzhFRThpamNSbkpsXzQtZFg4SV93YVJqc1E?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Egypt targets 5 million tonnes of local wheat as strategic reserves reach six-month level",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbkh6RFE0ck9vUUN4ODhnbXJXb0c3VUFCbFAtMDRLYktYaERXcFlwVVB0RmowMXZDOWpzNDgyVmRhTUc2TGlBN1J5MTNISm8xSmJMNG0wT2F0Tkl6dmk5REJVVFVOMmh1a0RDMVRHTGxfajhjQ2pHa0szalVYMUNzdTFielZ4Q0RVX0ZHUEdfVHc3M3hXbE4zMmJEaVRFeGNOdFdxOHQwSzhoamwzXzhFRThpamNSbkpsXzQtZFg4SV93YVJqc1E?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpVVduT1BYT1RLLWZNekhfSndCX0NzQzV2cUZybHRtZUFiYlhvWlFYcDZvZTczUkdKcjZhQWpnWi1VWEZ4NU9pQnlxaDdYSFUtUkwzV1JzZDQxdXhwTk54OTBrY3FLbmRNbWV4VGx2TUZwZlRQV3ZsQmEtUUhQZw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Copper Steadies as US-Iran in Focus",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpVVduT1BYT1RLLWZNekhfSndCX0NzQzV2cUZybHRtZUFiYlhvWlFYcDZvZTczUkdKcjZhQWpnWi1VWEZ4NU9pQnlxaDdYSFUtUkwzV1JzZDQxdXhwTk54OTBrY3FLbmRNbWV4VGx2TUZwZlRQV3ZsQmEtUUhQZw?oc=5",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd21SSW54ZjB6eDFac2JIUFc0b2VrTzVtOWktVlEtMFZIcnNCU2NXZk1EckJYZllNQktENERJckdjcXY1TkNRVGJFQ2lod3Z4Vmd5Q3ZLeGFwYlRUU1pyVk1ua3diSXJnQ09QSGtMaEZzZVpaM2VQTWUxWGZsd0w5WW5Wb3BmbERONGhV?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "The US refinery now processing Venezuelan oil",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd21SSW54ZjB6eDFac2JIUFc0b2VrTzVtOWktVlEtMFZIcnNCU2NXZk1EckJYZllNQktENERJckdjcXY1TkNRVGJFQ2lod3Z4Vmd5Q3ZLeGFwYlRUU1pyVk1ua3diSXJnQ09QSGtMaEZzZVpaM2VQTWUxWGZsd0w5WW5Wb3BmbERONGhV?oc=5",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlJjT0Y2dVdNRHR3ZUVxWnI5ck9BQnFXQ1N0YkhOaFdpdGQweFhTc1BLN3FqMk5jMmhESE1SY0VrdEpCNWZRc1FZY1VUM1d2ekQxUkZDbjh4ZlF2Y2lOeFJzclZQRGpkZ2s1Zkw4MVhKcm5ydXhFb293eGJVc3pNM0JWUmhheEhCdDhpUFdRbkh0X2xSMkxlRmZ4RW14Y1BRQTNNMUpRQi1PTTZ3U2VNSjRoQ3NORE5hYUc5T2pIZ183Zw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "MariApps Marine Solutions Completes Strategic Acquisition of EffiaSoft Private Limited",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlJjT0Y2dVdNRHR3ZUVxWnI5ck9BQnFXQ1N0YkhOaFdpdGQweFhTc1BLN3FqMk5jMmhESE1SY0VrdEpCNWZRc1FZY1VUM1d2ekQxUkZDbjh4ZlF2Y2lOeFJzclZQRGpkZ2s1Zkw4MVhKcm5ydXhFb293eGJVc3pNM0JWUmhheEhCdDhpUFdRbkh0X2xSMkxlRmZ4RW14Y1BRQTNNMUpRQi1PTTZ3U2VNSjRoQ3NORE5hYUc5T2pIZ183Zw?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2M2YkJ4UlVlWktUajdkc2wwWlZlQmQ0ZFg3OWVxMDE0XzRvbm9ERTh6ekZpS2ZBR2ZkV2xCaG91eUwxZWtVRjl5YnN0dWJrZ3dZckZkOGUzWmx0Y1pyaHVVak90SE1KaFhhSWFjVDZmWkU5VjdxTFRDQVlUa3pDYm4yVlpYOGxGclBjNHpoMGVIeTFfbjZ0S2d3?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Neurodiversity, opportunity and inclusion in shipbuilding",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa2M2YkJ4UlVlWktUajdkc2wwWlZlQmQ0ZFg3OWVxMDE0XzRvbm9ERTh6ekZpS2ZBR2ZkV2xCaG91eUwxZWtVRjl5YnN0dWJrZ3dZckZkOGUzWmx0Y1pyaHVVak90SE1KaFhhSWFjVDZmWkU5VjdxTFRDQVlUa3pDYm4yVlpYOGxGclBjNHpoMGVIeTFfbjZ0S2d3?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHlIbk9sb2pURUVRRFBDWXRramtBMkVXQUxObFVfQlhRWmRSMWRLODdwWWdTMGlGQ2NsbExhX3B3Qll3X0lEb3VSQkNrT1NzbkxWLVJnRHdOU2wteE5mWUJiWFItU2VvaUNmeGJMaF9kZnU1YWZSZGdPMFcyQ2JZallHWGU3YUhnOTdJa1AxYURlMmNSVkxtUDVWc1lDSzJiWWtDQmlxZmJyZ0VPWkpMMk1DNjRSbXhnaS1sdE5kckZDeWh5YmpFYWdR?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Cyber risk moves to the frontline for shipping after Greek authority warning, says CSM Greece",
+  "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeHlIbk9sb2pURUVRRFBDWXRramtBMkVXQUxObFVfQlhRWmRSMWRLODdwWWdTMGlGQ2NsbExhX3B3Qll3X0lEb3VSQkNrT1NzbkxWLVJnRHdOU2wteE5mWUJiWFItU2VvaUNmeGJMaF9kZnU1YWZSZGdPMFcyQ2JZallHWGU3YUhnOTdJa1AxYURlMmNSVkxtUDVWc1lDSzJiWWtDQmlxZmJyZ0VPWkpMMk1DNjRSbXhnaS1sdE5kckZDeWh5YmpFYWdR?oc=5",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY1E5cnFPMFlzNndWdGdObnFXVVpjQV9ndTBaY1BGQmZCV2N6Xy04Xy04LTM3YkI0bU13LWJTV3piVWNZbXRZQjZTYnJvRF9Ka0Z1MTJvMkZId2JNZEdIWi1wSTdkUGo0YzNkMXRPSDlBRFZ1aVVjeE1Yb3JpdXJxRGVGWHphdw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Grieg Maritime Group invests in Jet Sails",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY1E5cnFPMFlzNndWdGdObnFXVVpjQV9ndTBaY1BGQmZCV2N6Xy04Xy04LTM3YkI0bU13LWJTV3piVWNZbXRZQjZTYnJvRF9Ka0Z1MTJvMkZId2JNZEdIWi1wSTdkUGo0YzNkMXRPSDlBRFZ1aVVjeE1Yb3JpdXJxRGVGWHphdw?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmctdXl0VFhmTExaZmx5LXNTRXdTY1BqMmJmeDZ3ZmZHTEVGekRNbS1yaHU2Ql9SalZPaFAxSHNNWTZBVjVpcjVkREZDd2ZEcXJ1cXdFVF9Edlg2eVZmQVNEamVYbWo4MDJCR1dwYzRaenNPSk1vb2x1TEZ2WGU0NE5vMXMzSTFKdDJKVFJhNExLU3pVc1A2dm1zWk1fVHlPdGRPSjV5Z1FhM280cmNZclBB?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "South Korea allows refiners to swap delayed crude for immediate SPR supply",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONmctdXl0VFhmTExaZmx5LXNTRXdTY1BqMmJmeDZ3ZmZHTEVGekRNbS1yaHU2Ql9SalZPaFAxSHNNWTZBVjVpcjVkREZDd2ZEcXJ1cXdFVF9Edlg2eVZmQVNEamVYbWo4MDJCR1dwYzRaenNPSk1vb2x1TEZ2WGU0NE5vMXMzSTFKdDJKVFJhNExLU3pVc1A2dm1zWk1fVHlPdGRPSjV5Z1FhM280cmNZclBB?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVJ5X1d6dXhBS2RCeENKSFdJREN1YkVjVXpQbmRvSzd3eVNENm0wel8wc3Flejd3S3BnbWpaZl9sbkhrRE1vdkE0TmFQRF9KVWU4R0FjNG1oTGdqWEZjb3J0WW4tN2tHY0dnSFJCM1hMSmhSakxfT1pzeHo5VVdXcW5IVW1VMF80UUhOX29kdVJKcjQwRl96VVVka2VvdThwRXlkVFBHODM2ZFpyN05haDVzSXJJUEk5T25tci0xZmN1Zw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Industrial data shows German economy was headed for contraction before Middle East war",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVJ5X1d6dXhBS2RCeENKSFdJREN1YkVjVXpQbmRvSzd3eVNENm0wel8wc3Flejd3S3BnbWpaZl9sbkhrRE1vdkE0TmFQRF9KVWU4R0FjNG1oTGdqWEZjb3J0WW4tN2tHY0dnSFJCM1hMSmhSakxfT1pzeHo5VVdXcW5IVW1VMF80UUhOX29kdVJKcjQwRl96VVVka2VvdThwRXlkVFBHODM2ZFpyN05haDVzSXJJUEk5T25tci0xZmN1Zw?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkJSUW9XSnJWS2pGUnk0T3ZfbERlU3VDNnNwV1lkbHNMQVBtWGQ4NWFhVVZBdkRRcllVQ2Q1LVlqOXhBdF9sNDFqclZzY0cxbXduS3o3QzN4cUtXLUVndWhMRHBTWVhFMUhXRzh6Q0poR0hYOUtsR0VWX0NYam1jYW14SnRWbHg1dUpTX1VQNnZZTlR6amdJNGNMbkpHSVhSWDRJRjFNa0p0dw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Korea turns to Red Sea routes for crude as Hormuz blockade continues",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbkJSUW9XSnJWS2pGUnk0T3ZfbERlU3VDNnNwV1lkbHNMQVBtWGQ4NWFhVVZBdkRRcllVQ2Q1LVlqOXhBdF9sNDFqclZzY0cxbXduS3o3QzN4cUtXLUVndWhMRHBTWVhFMUhXRzh6Q0poR0hYOUtsR0VWX0NYam1jYW14SnRWbHg1dUpTX1VQNnZZTlR6amdJNGNMbkpHSVhSWDRJRjFNa0p0dw?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlJBYUhqQjhHbVN4LVNPM2lqenYzNC01eUZkMTllbjY3a2lBTmJ1QXVlRjZGY1E1c1pTcHo0VmNwSTVqWDNiWlg0dy1lWkwxak1iSVJpWkctUEV6bURMSG4ta0RUaGVzV3oxdnlibnYwcENHTUwyaUthY1hLU2pIMjg5TDMwYm9xbks3dlNyTXZibVVyS2s1N3FQWTFkZDl4ZXNFMQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "How escalation in Middle East spills over, impacts global economy",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRlJBYUhqQjhHbVN4LVNPM2lqenYzNC01eUZkMTllbjY3a2lBTmJ1QXVlRjZGY1E1c1pTcHo0VmNwSTVqWDNiWlg0dy1lWkwxak1iSVJpWkctUEV6bURMSG4ta0RUaGVzV3oxdnlibnYwcENHTUwyaUthY1hLU2pIMjg5TDMwYm9xbks3dlNyTXZibVVyS2s1N3FQWTFkZDl4ZXNFMQ?oc=5",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-14T07:38:28.355149+09:00"
  }
 }
