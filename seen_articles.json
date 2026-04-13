@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200667/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》海運アナリストはこう見る②、SBI證券経済企業調査部　早田慎太朗アナリスト、非コンテナ船の成長戦略に注目",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200667/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T14:51:58.988526+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200669/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・アジア域内運賃、前週比28%増の865ドル/FEU",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200669/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T14:51:58.988526+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200668/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "ローリッツェン・バルカーズのサトウCEO、今年以降日系造船所で10隻竣工",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200668/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T14:51:58.988526+09:00"
- },
  "https://splash247.com/open-the-fin-strait-trump/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -4376,7 +4349,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200815/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "HD現代/エクスマール、世界初の外航アンモニア燃料船命名、今年5月に竣工",
+  "title": "HD現代/エクスマー…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200815/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -4394,7 +4367,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200817/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "大洋電機、新型軸発電…",
+  "title": "大洋電機、新型軸発電システムを本格展開、PM式でケープサイズ対応",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200817/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -5065,5 +5038,50 @@
   "date": "2026/03/28",
   "sd": "03/28",
   "first_seen_iso": "2026-04-13T08:51:03.990345+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313440": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【お知らせ】別冊「人材特集2026」",
+  "url": "https://www.jmd.co.jp/article.php?no=313440",
+  "date": "2026/03/16",
+  "sd": "03/16",
+  "first_seen_iso": "2026-04-13T15:05:19.664117+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200826/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】金子国交相、「日本関係船の安全確保に全力」",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200826/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200824/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船短期運賃、欧州下落も米国向けは上昇基調",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200824/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200825/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "金子国交相、横浜港CTを視察、港湾機能強化と脱炭素化を加速",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200825/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200827/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "OOCL、1～3月期は売上高8%減、コンテナ輸送量は2%増",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200827/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
  }
 }
