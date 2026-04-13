@@ -1,292 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200670/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "三徳船舶の多賀純一社長、LNG二元燃料船の自社管理開始、管理受託拡大も視野に",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200670/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200672/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "三井物産ら、アンモニア供給拠点整備で認定取得、苫小牧地域で",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200672/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200673/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "波方・唐津海技短大体育館のネーミングライツ、「太平洋沿海汽船アリーナ」除幕",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200673/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200674/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "「日本郵船博物館」、2027年春以降にリニューアルオープン、横濱ビルディングへ移転",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200674/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200675/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "ジャパンP&I、船主のリーガルサポート体制強化、実務的な解決策を提案",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200675/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200676/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】商船三井の3隻がホルムズ通峡、ペルシャ湾内の日本関係船42隻に減少",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200676/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200677/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井テクノ、“HANARIA”が大阪初就航",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200677/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200678/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "TMI総合法律事務所、元東京海上の久保氏入所",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200678/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200679/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "上海発コンテナ短期運賃、欧州向けが下落",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200679/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200680/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "釜山発コンテナ運賃指標、欧州下落、北米は上昇",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200680/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200681/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "エラスムスとベナジー…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200681/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200682/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "寧波遠洋運輸、北部湾港が5%出資、連携を強化、第三者割当増資を実施",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200682/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200683/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "サイバーポート、航空貨物NACCS業務の一部に対応、4月中に機能提供",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200683/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200684/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "MSC、アジア―北米西岸航路を再編、スケジュール安定化",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200684/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200685/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "寧波遠洋運輸、1900TEU型4+2隻を新造整備へ、コンテナも購入",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200685/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200686/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "三井化学、ドレージ不足対応で地方港活用、海外中継拠点で物流安定化",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200686/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200688/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "1～2月の中国ボーキサイト輸入量、9%増の約3510万トン",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200688/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200690/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "豪船社、日本製バルカー中古買船",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200690/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200691/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "再稼働の青山船廠、1800TEU型船10隻ロット受注、中国・中谷物流向け",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200691/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200692/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "HD現代、新造船12隻受注、MR型プロダクト船とVLGCなど",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200692/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200693/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "中国造船の新規顧客向け受注相次ぐ、外高橋・広船国際・韓通が新たに成約",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200693/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200694/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "韓国造船業、造船のスコープ3基準策定に連携、排出把握で競争力強化",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200694/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "ナロック、軽量・細径の係留用ロープ拡販、造船所の省力化・安全性向上に寄与",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200695/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "三井E&S、技術報告書「三井E&S 技報」第1号発行",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200696/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200697/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "マツイ、Sea Japanで各種舶用関連製品を紹介無料",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200697/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/markets/dry/2026/04/200689/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【ドライ】ドライバルク市況週間レポート（3月30日～4月2日）、ケープ4週続伸、2.7万ドル",
-  "url": "https://www.kaijipress.com/markets/dry/2026/04/200689/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/markets/tanker/2026/04/200687/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【タンカー】VLCC市況週間レポート（3月30日～4月3日）、中東―極東、週平均WS361でほぼ横ばい",
-  "url": "https://www.kaijipress.com/markets/tanker/2026/04/200687/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/200699/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】上田孝彦・トヨタ自動車マリン事業部部長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/200699/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/200700/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】栁瀨純一・内海造船取締役常務執行役員",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/200700/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/200701/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】トーレ・モートン・オルセン/マーリンク・マリタイム部門社長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/200701/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/column/aotou/2026/04/200698/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【青灯】船の未来をのぞく",
-  "url": "https://www.kaijipress.com/column/aotou/2026/04/200698/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/03/200433/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》次代への戦訓⑭、商船三井元副社長・小野晃彦氏、5年後に3人で美味しいお酒を",
-  "url": "https://www.kaijipress.com/news/container/2026/03/200433/",
-  "date": "2026/04/06",
-  "sd": "04/06",
-  "first_seen_iso": "2026-04-06T18:20:01.524320+09:00"
- },
  "https://splash247.com/new-front-opens-up-with-houthis-entering-the-war/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -4349,7 +4061,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200816/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "造船ワーキンググループ、次世代船舶・修繕で投資方針",
+  "title": "造船ワーキンググルー…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200816/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -4358,7 +4070,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200817/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "大洋電機、新型軸発電…",
+  "title": "大洋電機、新型軸発電システムを本格展開、PM式でケープサイズ対応",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200817/",
   "date": "2026/04/10",
   "sd": "04/10",
@@ -5110,5 +4822,203 @@
   "date": "2026/04/13",
   "sd": "04/13",
   "first_seen_iso": "2026-04-13T17:24:13.912308+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200828/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "NYKバルクシップパートナーズ・浦上社長に聞く、将来を見据えてより強い会社に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200828/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200829/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船・金森専務、「環境」ユニット新設で機能強化、エネルギーは横連携で提案力向上",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200829/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200830/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【中東・イラン緊迫】米イラン協議とん挫、湾外への退避に暗雲、正常化遠のく、湾内の日本関係船動けず",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200830/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200831/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、「NYK Group Dining」がオープン、神戸大学深江キャンパスに",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200831/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200832/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・アジア域内運賃、4週ぶりマイナス、前週比3%減",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200832/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200833/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "神原汽船、定航事業でホーチミンに現法設立へ、東南アジア新規展開、比内航参入も",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200833/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200834/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ウェスタンバルク、ホルムズ海峡封鎖、業績を圧迫",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200834/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200836/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国自動車輸出、3月は73％増、ガソリン高追い風",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200836/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200837/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "常石グループ、2035年に売上8000億円に倍増へ、「ニッチトップ」で成長",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200837/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200838/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本の新造船受注、1～3月は5%増の227万トン、一定量確保、タンカー増加",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200838/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200839/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本の新造船受注、3月は155万トンで1年9カ月ぶり高水準、ケープやVL・スエズ成約",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200839/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200840/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本造船業の新造船受注残、3.5年分の2936万トン",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200840/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200841/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "官民造船投資策、海外工場や舶用工場も支援検討、LNG船再開は継続協議に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200841/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200842/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "カナデビア、舶用SCR累計受注300基に、NOx規制海域拡大で受注増",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200842/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "常石造船、LNG船修繕増強、由良と常石でも、政府支援が海外対象になれば「活用も」",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/markets/dry/2026/04/200835/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドライバルク市況週間レポート（4月7日～4月10日）、ケープ小幅上昇、3万ドル",
+  "url": "https://www.kaijipress.com/markets/dry/2026/04/200835/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/04/200847/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】猪飼康之・日本カーフェリー労務協会会長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/04/200847/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/04/200848/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】宮武宜史・日本海事協会副会長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/04/200848/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/04/200849/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】ラモン・フランコパナマ海事庁商船局長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/04/200849/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/04/200845/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井さんふらわあ、新役員体制",
+  "url": "https://www.kaijipress.com/person/jinji/2026/04/200845/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/04/200846/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】船舶投資と歴史",
+  "url": "https://www.kaijipress.com/column/aotou/2026/04/200846/",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-13T19:17:05.840982+09:00"
+ },
+ "https://splash247.com/open-the-fin-strait-trump/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "‘Open the F***in’ Strait’: Trump",
+  "url": "https://splash247.com/open-the-fin-strait-trump/",
+  "date": "2026/04/06",
+  "sd": "04/06",
+  "first_seen_iso": "2026-04-13T19:17:05.841507+09:00"
  }
 }
