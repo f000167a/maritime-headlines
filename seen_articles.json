@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313612": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/神子真人】コンテナ船事業の競争力、不確実性対応力が重み増す",
-  "url": "https://www.jmd.co.jp/article.php?no=313612",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-04-07T08:58:06.715388+09:00"
- },
- "https://splash247.com/diana-secures-improved-kamsarmax-earnings-with-nyk/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana secures improved kamsarmax earnings with NYK",
-  "url": "https://splash247.com/diana-secures-improved-kamsarmax-earnings-with-nyk/",
-  "date": "2026/03/23",
-  "sd": "03/23",
-  "first_seen_iso": "2026-04-07T08:58:06.716210+09:00"
- },
  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRlpIUEppQV9GYzFpYTc0dEg4N1NPcG9XbDAyUTNlMkluc0taWU5NY3ZkY1NJcDhiWjVUNC1aRkw2UmVoUFhqcnVFMHM1MEVmYlI3U1MyWmt1dzNjYTJpbjZ6QTdScS1vbGxUbE81VVJxV1JCYnVpLXRZOTRYOHNhbmstWQ?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -5227,5 +5209,50 @@
   "date": "2026/03/27",
   "sd": "03/27",
   "first_seen_iso": "2026-04-14T08:27:53.990790+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313841": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（406）日本支える先行発注。恒力重工、破竹の勢い",
+  "url": "https://www.jmd.co.jp/article.php?no=313841",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-14T09:06:34.228764+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313828": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/有村智成】神戸・大阪両港予算、船社から選ばれる港づくり進めよ",
+  "url": "https://www.jmd.co.jp/article.php?no=313828",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-14T09:06:34.228764+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2dVX0FsSDVjN0tXY2ZELUVWRy1SQWZHQlBaSWZmc3lKOVVaSnVSb3ZwZ0VfVXJfQ2tzNnJ0aVNqSk1iMUNINnl1ZVRINXR2QWFQVmwwbVgzX0JJOFNoNTgwSERTV0Jnd3NfMm5HVklpLVl6bGo0ZUg0Ni1Va256N2hObWVSak1pNkZTanIweHRqUkM1NGhBN0FmZWE2Mlo3TENQWDZhSE5IMFdoVXZCS3Nn?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Two More Indian LPG Tankers Cross Strait Of Hormuz Amid Gas Crisis: Reports",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ2dVX0FsSDVjN0tXY2ZELUVWRy1SQWZHQlBaSWZmc3lKOVVaSnVSb3ZwZ0VfVXJfQ2tzNnJ0aVNqSk1iMUNINnl1ZVRINXR2QWFQVmwwbVgzX0JJOFNoNTgwSERTV0Jnd3NfMm5HVklpLVl6bGo0ZUg0Ni1Va256N2hObWVSak1pNkZTanIweHRqUkM1NGhBN0FmZWE2Mlo3TENQWDZhSE5IMFdoVXZCS3Nn?oc=5",
+  "date": "2026/04/08",
+  "sd": "04/08",
+  "first_seen_iso": "2026-04-14T09:06:34.229211+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2QzWkItNTYzRkhoQ0NvM3pvSUpzLUgxX01uMERHNjN4OUw3dkZMRm5VeTZOZ3FGTDJjQkNCTXhEMjdFTjVqc010ZEJaZFYzVW95MFp5NnktajdfOHBvY0pfZ2NqVm9LU1Q1S2phSFRVb2J5MUdQazBQcFRwZk1CTEJIaGczbk1RUnpKbW1sZDVnTVRMZjRIRVk1NWZKMGp0UTRsbzhzaWczN1hNZFlZWGhsYzhXdw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "EXMAR: World’s First Ocean-Going Ammonia Dual-Fuel Vessels Named In South-Korea",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM2QzWkItNTYzRkhoQ0NvM3pvSUpzLUgxX01uMERHNjN4OUw3dkZMRm5VeTZOZ3FGTDJjQkNCTXhEMjdFTjVqc010ZEJaZFYzVW95MFp5NnktajdfOHBvY0pfZ2NqVm9LU1Q1S2phSFRVb2J5MUdQazBQcFRwZk1CTEJIaGczbk1RUnpKbW1sZDVnTVRMZjRIRVk1NWZKMGp0UTRsbzhzaWczN1hNZFlZWGhsYzhXdw?oc=5",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T09:06:34.229211+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2NMVkx0bU9uU1pDNTNoM0pNRDVjVHpMQlgxRnBUQlZXQjJ0V1hwcm9nRk1kZ1U0b1RvZ2JZWFhxN0FMT0ppd2hXSmQzbDB2RUo2YWMwQURmR0xDbHNHcV9saFVwTzJ3VDRQZ3VGTDZPcDhyTjZGNmRFcUZQczNqeENOTEpiVjJEekNaSTRmM1UzcjZzNExrSmQ5aVJlcHBEc1NIUjRJaDhTV2gzYkQ0UmxTRnA?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Platts Dubai trading activity hits record high in March amid Middle East war",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2NMVkx0bU9uU1pDNTNoM0pNRDVjVHpMQlgxRnBUQlZXQjJ0V1hwcm9nRk1kZ1U0b1RvZ2JZWFhxN0FMT0ppd2hXSmQzbDB2RUo2YWMwQURmR0xDbHNHcV9saFVwTzJ3VDRQZ3VGTDZPcDhyTjZGNmRFcUZQczNqeENOTEpiVjJEekNaSTRmM1UzcjZzNExrSmQ5aVJlcHBEc1NIUjRJaDhTV2gzYkQ0UmxTRnA?oc=5",
+  "date": "2026/04/07",
+  "sd": "04/07",
+  "first_seen_iso": "2026-04-14T09:06:34.229211+09:00"
  }
 }
