@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/200702/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "兵庫県、グリーンアウ…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200702/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T14:27:30.963319+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200703/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "【イラン・中東緊迫】、博多港・香椎CT、軽油供給制限で昼ゲートを休止、ICCTは変更なし",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200703/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T14:27:30.963319+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200704/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "世界のタンクコンテナ、26年は90万本、伸び率は鈍化",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200704/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T14:27:30.963319+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200706/": {
   "src": "k",
   "cat": "コラム",
@@ -3953,7 +3926,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200825/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "金子国交相、横浜港C…",
+  "title": "金子国交相、横浜港CTを視察、港湾機能強化と脱炭素化を加速",
   "url": "https://www.kaijipress.com/news/container/2026/04/200825/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4052,7 +4025,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200833/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神原汽船、定航事業でホーチミンに現法設立へ、東南アジア新規展開、比内航参入も",
+  "title": "神原汽船、定航事業で…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200833/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4813,5 +4786,32 @@
   "date": "2026/03/30",
   "sd": "03/30",
   "first_seen_iso": "2026-04-14T12:32:40.700966+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200850/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "飯野ビル、ウェルビーイング認証で最高ランク取得",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200850/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T14:51:35.209430+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200852/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "MSC、ディエゴ社長・アレクサCFOに継承、ジャンルイジ会長から所有権移転",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200852/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T14:51:35.209430+09:00"
+ },
+ "https://www.kaijipress.com/markets/tanker/2026/04/200851/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "VLCC市況週間レポート（4月6日～10日）、中東―極東、停戦合意背景に急騰局面",
+  "url": "https://www.kaijipress.com/markets/tanker/2026/04/200851/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T14:51:35.209430+09:00"
  }
 }
