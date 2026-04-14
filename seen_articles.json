@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200706/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】＃10 MTI・鈴木英樹社長、安藤英幸常務取締役、重要なのは未来に備え「動く」こと",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200706/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T15:54:35.103234+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200707/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、Visaと提携、B2Bカード決済提供、取引のデジタル化を加速",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200707/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T15:54:35.103234+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200705/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本郵船、新来島どっく建造の1番船竣工、LNG燃料自動車船12隻シリーズ",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200705/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T15:54:35.103234+09:00"
- },
- "https://splash247.com/india-secures-its-first-ammonia-dual-fuel-bulk-carrier-order/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "India secures its first ammonia dual-fuel bulk carrier order",
-  "url": "https://splash247.com/india-secures-its-first-ammonia-dual-fuel-bulk-carrier-order/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T15:54:35.103732+09:00"
- },
  "https://splash247.com/trump-floats-us-toll-on-hormuz/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -1901,7 +1865,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国3月の自動車販売は前月比6割増も4カ月連続の前年割れ4月10日：T/C市場＝9隻・73万DWT、V/C市場＝鉄鉱石3隻",
+  "title": "【本日のトピック】中国1～3月の鉄鉱石輸入量は3.14億トン、Q1期としては過去最高4月13日：T/C市場＝4隻・29万DWT、V/C市場＝石炭3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -4106,7 +4070,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、LNG船修…",
+  "title": "常石造船、LNG船修繕増強、由良と常石でも、政府支援が海外対象になれば「活用も」",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200844/",
   "date": "2026/04/13",
   "sd": "04/13",
@@ -4403,7 +4367,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200843/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川重・ソフトバンク・損保ジャパンが新ソリューション、操船支援技術と保険を融合へ",
+  "title": "川重・ソフトバンク・…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200843/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -4813,5 +4777,41 @@
   "date": "2026/04/14",
   "sd": "04/14",
   "first_seen_iso": "2026-04-14T14:51:35.209430+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200854/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、バイオ燃料原料植物を試験栽培、フォープライドらと、炭鉱跡地活用",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200854/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T16:59:22.688077+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200855/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "5大港・25年実績、実入りコンテナは1%増の1090万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200855/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T16:59:22.688077+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200856/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "上海港、3月は9%増の469万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200856/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T16:59:22.688077+09:00"
+ },
+ "https://splash247.com/hormuz-day-46-blockades-and-backchannels/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz day 46: blockades and backchannels",
+  "url": "https://splash247.com/hormuz-day-46-blockades-and-backchannels/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T16:59:22.688526+09:00"
  }
 }
