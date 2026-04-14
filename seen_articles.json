@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200494/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井が経営計画フェーズ2、30年度税前純利益4200億円、「成果実現」、アセットリサイクル促進",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200494/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T20:07:33.547294+09:00"
- },
- "https://www.kaijipress.com/feature/discussion/2026/04/200530/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "記者座談会/海運この1カ月＜上＞、ホルムズ海峡が実質封鎖、影響多方面に、日本関係船45隻が湾内滞留、市況急騰",
-  "url": "https://www.kaijipress.com/feature/discussion/2026/04/200530/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-07T20:07:33.547294+09:00"
- },
  "https://splash247.com/icap-rolls-out-dry-ffa-desk/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -4903,5 +4885,23 @@
   "date": "2026/04/07",
   "sd": "04/07",
   "first_seen_iso": "2026-04-14T19:53:20.909574+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200708/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "NK、船級を高度化・拡張へ、AIなど活用、日本造船再生にはAIとロボ開発で連携",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200708/",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-14T21:03:39.622257+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2201-up-40-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2201 up 40 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2201-up-40-points/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-14T21:03:39.623095+09:00"
  }
 }
