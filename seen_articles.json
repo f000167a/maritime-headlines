@@ -1,22 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-losing-run-2/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Snaps 2-Day Losing Run",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-losing-run-2/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-09T08:23:53.767658+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2030 up 35 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-09T08:23:53.767658+09:00"
- },
  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SNkdHcGlQSHRjaEhGUnRwaHgyTVhiRGJ6bXdxaGR0Rnd4SlVqb3VGMGpYMWJCMG9iS1JEUG1hMExxN3dtd1ROTmdYeWFTR1JPWUpMUG1KUi1sOF9FZEd1bWdZQ1lMeGM?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -4669,5 +4651,626 @@
   "date": "2026/04/15",
   "sd": "04/15",
   "first_seen_iso": "2026-04-16T07:37:01.425708+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314231": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/鈴木隆史】中東緊迫下の船員交代、コロナ禍の教訓生かし持続へ",
+  "url": "https://www.jmd.co.jp/article.php?no=314231",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-16T08:27:53.283077+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.283443+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3FlWi1tbU5jWTlaQnVBSnI4blVkN1B5NnNyeURmLUQ3T3RnemhKNkR5MkszeWRmajV1bkRiTDl3azRIVWhLZ2hzNVZ1dmFmUnpzOF9fOHpna0I3SmNyTmRrbnlGcUxTdWozQUFJd0pQcDBYZEs2M01kNmVLV0stR1VzZmhOdU5pYXc?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipping caught between ceasefire talk and blockade reality",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3FlWi1tbU5jWTlaQnVBSnI4blVkN1B5NnNyeURmLUQ3T3RnemhKNkR5MkszeWRmajV1bkRiTDl3azRIVWhLZ2hzNVZ1dmFmUnpzOF9fOHpna0I3SmNyTmRrbnlGcUxTdWozQUFJd0pQcDBYZEs2M01kNmVLV0stR1VzZmhOdU5pYXc?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zTERFTENNek5UZ3g2aWhEaFczb1EtOFF4ajdNWXgzZk4xOFpydmc3UG9uUy01RVBJUWdZOXpraUdmNUw0TS1RbmdXR2dDXzN0QkZzRm9SQ3R5UGxkSWg0YjNYa3d6d1BMMTFlZjlDa2I?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz day 46: blockades and backchannels",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zTERFTENNek5UZ3g2aWhEaFczb1EtOFF4ajdNWXgzZk4xOFpydmc3UG9uUy01RVBJUWdZOXpraUdmNUw0TS1RbmdXR2dDXzN0QkZzRm9SQ3R5UGxkSWg0YjNYa3d6d1BMMTFlZjlDa2I?oc=5",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JVEt3WnFFcTdjZW92emFLVXV4QkloVDI2bmRGZWV5aTVxZ2toblNXd2FnTTFmNmg4Ull3VGdheFpEUGdkOUtHbGZWakQ2cU1DLVNZb29zc1hwR2VucHlaWENhZzI5eXEyTTRMWE04akZfUEhG?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Four centuries of maritime freedom at stake",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JVEt3WnFFcTdjZW92emFLVXV4QkloVDI2bmRGZWV5aTVxZ2toblNXd2FnTTFmNmg4Ull3VGdheFpEUGdkOUtHbGZWakQ2cU1DLVNZb29zc1hwR2VucHlaWENhZzI5eXEyTTRMWE04akZfUEhG?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkhaei02RFFfMllNX3ZFYVFNek01eWtiS0RyR2JvVXF0eGg5ZzhoeUkwbnZkTUYwMDN1Sk1GeDVBR0I2ZUppdHVLSXhfb2paak01TnU0aVJpaXEtU0piVndyTjh5bENzQ181djZaVXFYa0NMdzlMOXc4RUJEb3hlTFVYVExhd2I2eGRmdTgzRXROZktGcDFoRDJMZ28?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "SBM Offshore put in charge of FPSO construction on Petrobras’ $12bn project",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkhaei02RFFfMllNX3ZFYVFNek01eWtiS0RyR2JvVXF0eGg5ZzhoeUkwbnZkTUYwMDN1Sk1GeDVBR0I2ZUppdHVLSXhfb2paak01TnU0aVJpaXEtU0piVndyTjh5bENzQ181djZaVXFYa0NMdzlMOXc4RUJEb3hlTFVYVExhd2I2eGRmdTgzRXROZktGcDFoRDJMZ28?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84MDRRb0Fmc0JRUlN5OXg3NlBYdjF1dXl2NzdKYXBEa21nNGduZWhYWTRObWgxX2JUTHhMYnFfQVNJVmNRb29MOWI0ZWh3Ym1NYmV4TjROX3U?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "MSC hits 1,000 boxships",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84MDRRb0Fmc0JRUlN5OXg3NlBYdjF1dXl2NzdKYXBEa21nNGduZWhYWTRObWgxX2JUTHhMYnFfQVNJVmNRb29MOWI0ZWh3Ym1NYmV4TjROX3U?oc=5",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjTmRtLXBKS2RHSk8tSTdIMjVyWG9ySEhLSGsxWlBzd3R0YXFmNE1Ta3hQSWxCRHhyRGk3TVhSNnZXTW1xT1RaQ0hWNTNHQ3p1b0kxOFZjSEhhUDlyVHB6RHJUYVBTTktMQnp5OA?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Crews trapped between duty and danger",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjTmRtLXBKS2RHSk8tSTdIMjVyWG9ySEhLSGsxWlBzd3R0YXFmNE1Ta3hQSWxCRHhyRGk3TVhSNnZXTW1xT1RaQ0hWNTNHQ3p1b0kxOFZjSEhhUDlyVHB6RHJUYVBTTktMQnp5OA?oc=5",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGtqTzAwWHVhUzNTTnZhbXpZSGhhMW5Nc3Q4aEV1YjVMaGhqYVgwVnJKUG40R1dPNi14c1ViLU9BOTBlODBmX3FIWHdTRklmTXR0bEdjUFRDcXdiYnktS0h5R2hDamV2YTM2VUEzUkpyN1pyaE80c2RwOG5XNmdhWVUyVmMtZ2V5YUpiazBNVDRLTG1YRE0w?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Gulf disruption unwinds as Borr Drilling reactivates Middle East rigs",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVGtqTzAwWHVhUzNTTnZhbXpZSGhhMW5Nc3Q4aEV1YjVMaGhqYVgwVnJKUG40R1dPNi14c1ViLU9BOTBlODBmX3FIWHdTRklmTXR0bEdjUFRDcXdiYnktS0h5R2hDamV2YTM2VUEzUkpyN1pyaE80c2RwOG5XNmdhWVUyVmMtZ2V5YUpiazBNVDRLTG1YRE0w?oc=5",
+  "date": "2026/04/13",
+  "sd": "04/13",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VcjF4MlZkdzB5V0taelhVUmdFTmREa3UzbzZXNEJienpCRVIyeFQxazlDM0JzNDRwYktIbXAxLVNBa0hUOU5LMlZCM25uVEVXTUZCSzJ5RlVQMmdEZXRfb29jQTg5RXJhY3lMb3pGdjVwVVNDS0dSYzkwekRJZw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "MastChain: Ship tracking enters the sharing economy",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VcjF4MlZkdzB5V0taelhVUmdFTmREa3UzbzZXNEJienpCRVIyeFQxazlDM0JzNDRwYktIbXAxLVNBa0hUOU5LMlZCM25uVEVXTUZCSzJ5RlVQMmdEZXRfb29jQTg5RXJhY3lMb3pGdjVwVVNDS0dSYzkwekRJZw?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEtFU01xc0RMYlZlS01yUWQzUlVuX3ZTR0prM25CSlpmOXdzN1NscWpEWldtZmZpaHhxU2lOTTZlNFVnWW91WTBtVG4zSFBEQ1FvazhMUVBtOVpWR19CM09wdW5TaTUwU2xuTFhmRVcta25GNEg3bW4wbXAtcm00ejludnpDVW1r?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ernst Russ moves into tankers with four-ship newbuild deal",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEtFU01xc0RMYlZlS01yUWQzUlVuX3ZTR0prM25CSlpmOXdzN1NscWpEWldtZmZpaHhxU2lOTTZlNFVnWW91WTBtVG4zSFBEQ1FvazhMUVBtOVpWR19CM09wdW5TaTUwU2xuTFhmRVcta25GNEg3bW4wbXAtcm00ejludnpDVW1r?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNzM4WUNpRGs0cUtrMVlQREpRWHMtQk5vdU8zZENqbWV0VlpFQWxQZjZBdmRCZDhOYXh0VkhlY2pzOTJNUjdJNVg3MVlZbVpFQ0dGOUxwckZGVW1oWk82ZXRGOThwX1lQUEdWZFlERUFiaHhjaW05NzNn?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Dolphin Drilling lines up $230m semisub contract",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zNzM4WUNpRGs0cUtrMVlQREpRWHMtQk5vdU8zZENqbWV0VlpFQWxQZjZBdmRCZDhOYXh0VkhlY2pzOTJNUjdJNVg3MVlZbVpFQ0dGOUxwckZGVW1oWk82ZXRGOThwX1lQUEdWZFlERUFiaHhjaW05NzNn?oc=5",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXM1Q0Zra1JzNC1JSEt0X0FHeGsxLWFIYjVRV2JxQjludXgtUVVJM05xQ20yUEJnYkI5dVJ5VE5UekppbVBWNEpiRDd0TkNWS05idnZ6U2FhN0twc1lHSXNxMlpoUEJlUjBPcjFnMGNWc2hXV1Y3ZlFTZVM4MmVVRFpQSklhV0trYWQ3MDdnX0YtYW41NEhxcg?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Industry alliance launches platform to tackle sexual misconduct at sea",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXM1Q0Zra1JzNC1JSEt0X0FHeGsxLWFIYjVRV2JxQjludXgtUVVJM05xQ20yUEJnYkI5dVJ5VE5UekppbVBWNEpiRDd0TkNWS05idnZ6U2FhN0twc1lHSXNxMlpoUEJlUjBPcjFnMGNWc2hXV1Y3ZlFTZVM4MmVVRFpQSklhV0trYWQ3MDdnX0YtYW41NEhxcg?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkdkTWdmd1k3TngyNE5NOEJseldmZUVoSzB0ejRaYkpvRmtkeUVtQUlGSU1QUnA5aW1rbzU4Y0o3T1pfQlF4Smh0NnhMZ1BJVWcxNGxCNWs5WGU4T3F5VjAwS0ZOdWpOOUxHNFJlTGFvWDNlb3ktMUpHdXd3ejFCT0JNLVY1dTJVTFJUU0FuVWJzMzg?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Navigator lines up $183m exit from Unigas pool with eight-ship sale",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkdkTWdmd1k3TngyNE5NOEJseldmZUVoSzB0ejRaYkpvRmtkeUVtQUlGSU1QUnA5aW1rbzU4Y0o3T1pfQlF4Smh0NnhMZ1BJVWcxNGxCNWs5WGU4T3F5VjAwS0ZOdWpOOUxHNFJlTGFvWDNlb3ktMUpHdXd3ejFCT0JNLVY1dTJVTFJUU0FuVWJzMzg?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGtEM1JtSU9xZkkycWZtX1A3WDdjYThGeU9mWk1NMGc4V3RpOUFPOGgzX19IVEhlUzRVWDRQM2dQNkllRVJ6eFVIdW5MX0lqWktmTWNmY0VKLWhNOS0tN25sTUM2a3hqQU92ckZDMTYtV19nMVNpeTdDZmJaUHBlYmJ3?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "NextGeo wins $33m contract for Italy HVDC link surveys",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGtEM1JtSU9xZkkycWZtX1A3WDdjYThGeU9mWk1NMGc4V3RpOUFPOGgzX19IVEhlUzRVWDRQM2dQNkllRVJ6eFVIdW5MX0lqWktmTWNmY0VKLWhNOS0tN25sTUM2a3hqQU92ckZDMTYtV19nMVNpeTdDZmJaUHBlYmJ3?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVHZrQ0hkZmRCY1o0NkRwMGVfOGhlTlRkN19KUGs0YW82cEZBUVp1YTlXNTNscXRYZGVqOHlrcm5MRFJVbkxUSlY0bUwwZGpQWU5pd3YxdG5zalJHdmtwLThBMDJOdUdYbHl0UDJOaHNxZjlpV1R1eEF1OUZjODh4U1pNRmptc3l1UDl1b2F3?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Stena drillship lined up for historic Greece drilling campaign",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVHZrQ0hkZmRCY1o0NkRwMGVfOGhlTlRkN19KUGs0YW82cEZBUVp1YTlXNTNscXRYZGVqOHlrcm5MRFJVbkxUSlY0bUwwZGpQWU5pd3YxdG5zalJHdmtwLThBMDJOdUdYbHl0UDJOaHNxZjlpV1R1eEF1OUZjODh4U1pNRmptc3l1UDl1b2F3?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YUld4UV9LVjBmZ2JoOGhNT0V6TnNOeHBHNjJFTTVFQUZPUzhQQm43MGMtYkhjVWV1UDNtYktHY1VGVEdHb1Z0aVR4XzNBZXRWOVREdVdacHJ5R29RVFF6cVlUMzYxVER1RDc0?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hunter Group flags leadership change",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YUld4UV9LVjBmZ2JoOGhNT0V6TnNOeHBHNjJFTTVFQUZPUzhQQm43MGMtYkhjVWV1UDNtYktHY1VGVEdHb1Z0aVR4XzNBZXRWOVREdVdacHJ5R29RVFF6cVlUMzYxVER1RDc0?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zOHVxaGUtMjM4enNOc1lWNkhJSDlfaC1jUDRfMEVKbkxEeF9IN2NYbDNMTk16WDN4WXJtT25Tal9ZWDZEclNUYmJYQXdtNVNsSHVCM1hpNTNRblNPbmNMMWkwSmpoMWRKVUJ4d1pxR0xWMjZQSnFpVGdvNm1QZVE?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Norse Shipholding books up to six boxship newbuilds",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zOHVxaGUtMjM4enNOc1lWNkhJSDlfaC1jUDRfMEVKbkxEeF9IN2NYbDNMTk16WDN4WXJtT25Tal9ZWDZEclNUYmJYQXdtNVNsSHVCM1hpNTNRblNPbmNMMWkwSmpoMWRKVUJ4d1pxR0xWMjZQSnFpVGdvNm1QZVE?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0pOa2pDOVdjMWFLTUt5dzB4Yi1laldPWEZFMmFwQ08tcklLbjdZTjBtdVhEVGdFYmFRbnpaR0NCRWtSRFFRd0ZudEFMeUwyWllUR29TakRTTHNmaU5ZYkZPZlBqaEZ6cnZVY2c2T2ZQQ3dEeGFUMVVDQlJEUzNNZXdSN0ZCZ05MMGpiNkJqZFBfUQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Capital Clean Energy Carriers brings in BGN on LNG vessel venture",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0pOa2pDOVdjMWFLTUt5dzB4Yi1laldPWEZFMmFwQ08tcklLbjdZTjBtdVhEVGdFYmFRbnpaR0NCRWtSRFFRd0ZudEFMeUwyWllUR29TakRTTHNmaU5ZYkZPZlBqaEZ6cnZVY2c2T2ZQQ3dEeGFUMVVDQlJEUzNNZXdSN0ZCZ05MMGpiNkJqZFBfUQ?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tQllZT20yb0tfemV2QkpzLTFpZ1hhSXVmbkVOdFZRVUF1UUk5Nzk5T0h1MW4zNmVOUXc3dV9GUFlOWVpJSVctUVA2UjRXaGNHTXZvdGxGTWJ2WW54QzZxaWRBcUNOX2E1TExxeXRCMUtIc2ZSQ09MQkVicw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "World’s biggest cranes take shape at Hengli Heavy",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9tQllZT20yb0tfemV2QkpzLTFpZ1hhSXVmbkVOdFZRVUF1UUk5Nzk5T0h1MW4zNmVOUXc3dV9GUFlOWVpJSVctUVA2UjRXaGNHTXZvdGxGTWJ2WW54QzZxaWRBcUNOX2E1TExxeXRCMUtIc2ZSQ09MQkVicw?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.283855+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmwtMVE2eUZFNUQ3OF9QLVZlZFkwRXhQLVFFX0h1b0JIVUlBMlBlOW5DOXVQWEwyVUhzeFhsaThUSnNnVjZJajJCYkZFWlg4bENPZlYydXE5M3psQjJOTmNXZVNDSEpteVo4WWpBX2VqVEpySjJCUEotYUxHYWlBQUNmdXRTeXNEZm8w?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2484 up 130 points",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNmwtMVE2eUZFNUQ3OF9QLVZlZFkwRXhQLVFFX0h1b0JIVUlBMlBlOW5DOXVQWEwyVUhzeFhsaThUSnNnVjZJajJCYkZFWlg4bENPZlYydXE5M3psQjJOTmNXZVNDSEpteVo4WWpBX2VqVEpySjJCUEotYUxHYWlBQUNmdXRTeXNEZm8w?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWQyeDByNzNTSzc3T2RQMmZQc3B0RlY0b2FwSk5STVRlWlRSWEhWVWZCQXJVZklOZVQ3cF9vZUtLQjNvUVRQY3Jkc1ZGNzVtUjJnUklkTHV4SkxLeE5uV3FVTFY0dHh4UG1pMGVBUVdXekRxb2RBd2ZTSlBDVDFmbFNHUlFvcUhpdkVqcmE0X045clU4U3pqcVl0TmpRTGg1TEYzd1NrY0h6SGxZYW10cmRRZmQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Rupee depreciation fuels incremental gains in India’s dry bulk export volumes",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMWQyeDByNzNTSzc3T2RQMmZQc3B0RlY0b2FwSk5STVRlWlRSWEhWVWZCQXJVZklOZVQ3cF9vZUtLQjNvUVRQY3Jkc1ZGNzVtUjJnUklkTHV4SkxLeE5uV3FVTFY0dHh4UG1pMGVBUVdXekRxb2RBd2ZTSlBDVDFmbFNHUlFvcUhpdkVqcmE0X045clU4U3pqcVl0TmpRTGg1TEYzd1NrY0h6SGxZYW10cmRRZmQ?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWt0VWhjdXJJQlZySnBKdkpKTHZ4N3JPLXlMcEdFOVQySnIyNjNHNnpyMlByeEtHc1RZRDFqN2N5VHU4RG43WE1fRWltMU0yYVdJQnRQd0VJdFF1WkZ4SGJ4NUNWV1Z1NEFWaTk1U0lBR2VWT0dNZVZ2Rkt4aDQ1YXA0SS1ZdDBBWkVoYS1STzJEYVBObzB0WUJZZUd0LTVnNDB6bjNZQnhhUFVBdXVvSGFB?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Hong Glory Bulk sets course for Atlantic growth with Athens office opening",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWt0VWhjdXJJQlZySnBKdkpKTHZ4N3JPLXlMcEdFOVQySnIyNjNHNnpyMlByeEtHc1RZRDFqN2N5VHU4RG43WE1fRWltMU0yYVdJQnRQd0VJdFF1WkZ4SGJ4NUNWV1Z1NEFWaTk1U0lBR2VWT0dNZVZ2Rkt4aDQ1YXA0SS1ZdDBBWkVoYS1STzJEYVBObzB0WUJZZUd0LTVnNDB6bjNZQnhhUFVBdXVvSGFB?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTViTEFqcjNXakZRSW1iNnBJMHQtX0xiaGVCV3B2alVDc2s2MjVVaFotS2NxRVI1eGJHNGNkNFYwdWw4SmxVQ0k2OFFCSUZzNFg3cFJZRmNWSG8yV01OQ3R3OFlHbV9BdlJ3SVZsbFMyd2RDT0l5U3g1aFo3Q0FXUDJ0NmNieW9HS3l4MWhKTEdMVnl2cWc2SU53V1JJXzBMX09KUktQRHg5cUFEY0E?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Revised interpretation of requirements to Permanent Means of Access (PMA)",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQTViTEFqcjNXakZRSW1iNnBJMHQtX0xiaGVCV3B2alVDc2s2MjVVaFotS2NxRVI1eGJHNGNkNFYwdWw4SmxVQ0k2OFFCSUZzNFg3cFJZRmNWSG8yV01OQ3R3OFlHbV9BdlJ3SVZsbFMyd2RDT0l5U3g1aFo3Q0FXUDJ0NmNieW9HS3l4MWhKTEdMVnl2cWc2SU53V1JJXzBMX09KUktQRHg5cUFEY0E?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZndGY19SWGxhOFJqUjJ2YW1nS0dDNFhPMXVMZlFGU0YydUVFak9CeEUwX19KSGVnU0I5ZnV4cWR1ZTFVT0tqLXBHcnI5OEVLS0FacG56V3NxcHFpdExmbTBFRG44V2otc2o2VnRqcUdTbkZKZ0tpcld4em0wRnEtaTZXR3U3Ul9sakVBVEFn?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Weekly Dry Time Charter Estimates, April 15 2026",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZndGY19SWGxhOFJqUjJ2YW1nS0dDNFhPMXVMZlFGU0YydUVFak9CeEUwX19KSGVnU0I5ZnV4cWR1ZTFVT0tqLXBHcnI5OEVLS0FacG56V3NxcHFpdExmbTBFRG44V2otc2o2VnRqcUdTbkZKZ0tpcld4em0wRnEtaTZXR3U3Ul9sakVBVEFn?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DNEk4eWgySmNnZTE2bnZMZUxJQW1kN3FJOFBIWWpHVWFjbWdHUTVGSnVTcmdhUUt5MmhEdzlxMEhpY1N5WjdZbEVEUWZ4b19wY3A2UnBySkZlX2tyNmp5cjUyOVIxWllpX1ZEMTB1bnNON3ROSmZCcWV3?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Ship Recycling Demand Picking Up",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DNEk4eWgySmNnZTE2bnZMZUxJQW1kN3FJOFBIWWpHVWFjbWdHUTVGSnVTcmdhUUt5MmhEdzlxMEhpY1N5WjdZbEVEUWZ4b19wY3A2UnBySkZlX2tyNmp5cjUyOVIxWllpX1ZEMTB1bnNON3ROSmZCcWV3?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNTB2YzB2STUtMnlwdDZ6R3dkUGw2Y1hGNnFMTGdtWWNfTWhwd19pV3N1Rkh3NVM4aTJlaEpSTW9wUmg5TkRCaC1hVV9pY1gzNjY1a2RVaHJ0cHVqekIzYkRuT0ZETkxUWjE5eTRoT05MYUplaWdTZ3dMWVZSRmRIZ3cxSXpQM2FTVG1jYUhZT3U4YWNqV0Z0aVZ0MTN1djUzT2wyTGZwLXV3NzYtUVJsd1JLeElfN2NzempRZDN4UlJ1VmpGQ3NfZEtNSmJwVjFSeTdrLWdvbUtpM3J5RkMyRXdranItUk9pZUw0Z2tsSU5aNzlC?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "India’s coal demand is rising, but high inventories are delaying imports, setting up a potential step-change in seaborne demand",
+  "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNTB2YzB2STUtMnlwdDZ6R3dkUGw2Y1hGNnFMTGdtWWNfTWhwd19pV3N1Rkh3NVM4aTJlaEpSTW9wUmg5TkRCaC1hVV9pY1gzNjY1a2RVaHJ0cHVqekIzYkRuT0ZETkxUWjE5eTRoT05MYUplaWdTZ3dMWVZSRmRIZ3cxSXpQM2FTVG1jYUhZT3U4YWNqV0Z0aVZ0MTN1djUzT2wyTGZwLXV3NzYtUVJsd1JLeElfN2NzempRZDN4UlJ1VmpGQ3NfZEtNSmJwVjFSeTdrLWdvbUtpM3J5RkMyRXdranItUk9pZUw0Z2tsSU5aNzlC?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2UtZzhxYUpBdnZPd2YyWWNISnVXc3YtZmdNMFFveWpRVXVWSm1aeXlnR21ocjFEMlVDQ0k4OHFOMTNHUWZjaEFYQXFLZW90TnZQbkpNV3lRXzM3ZERjSnlOcUx3YzJsa3NOOHhQWmxLRThWSng0bVdfWnI4WjJvR0ZXUTFISGJnekVWajdfS3Z2aV82aklnazVqbUxuM09GM0lWVnNxOA?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Ernst Russ AG Acquires Four Intermediate-Class Tanker Newbuildings",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2UtZzhxYUpBdnZPd2YyWWNISnVXc3YtZmdNMFFveWpRVXVWSm1aeXlnR21ocjFEMlVDQ0k4OHFOMTNHUWZjaEFYQXFLZW90TnZQbkpNV3lRXzM3ZERjSnlOcUx3YzJsa3NOOHhQWmxLRThWSng0bVdfWnI4WjJvR0ZXUTFISGJnekVWajdfS3Z2aV82aklnazVqbUxuM09GM0lWVnNxOA?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifEFVX3lxTE12ZWlhd2NPdVNGazhpZHk2RS04LWhrY3Q0NmVTWDVMeTF0S3VVSkJaQlVIbGVzanRXR0NrVG5UMmgyRExtcEdBMUdFQjFUcE5aOTZSZk9fWW5weUVvbnYtb3p1NlNLUnlrYzhBdmVJNmRBZ3lJazN0TU5lbFg?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "DHT Holdings, Inc. Business Update",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12ZWlhd2NPdVNGazhpZHk2RS04LWhrY3Q0NmVTWDVMeTF0S3VVSkJaQlVIbGVzanRXR0NrVG5UMmgyRExtcEdBMUdFQjFUcE5aOTZSZk9fWW5weUVvbnYtb3p1NlNLUnlrYzhBdmVJNmRBZ3lJazN0TU5lbFg?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkxUaGJVWDZlU1dLaWlSb3I3WWJGX1llRTJrdVdVNFY0My1kTTU0aGwtMWUzeHFYQ3VlUllOSEV4MTlCcVZ3S25pSDhuWlU5ZjczV2ZVWWpnNDk0d19pOTFHR3VOb3liT0RYdFF3eXZMUHFFUURNVUpRbUFIa0VzSklXNXAyOVNONUFGdTB2Ri1teEdFYXplc3MtRWNvYXlYUVVJYlowV05KdV9SdUxuWGp5WWtoMFBP?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Fertilizer markets face prolonged disruption even if Hormuz reopens, sources say",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVkxUaGJVWDZlU1dLaWlSb3I3WWJGX1llRTJrdVdVNFY0My1kTTU0aGwtMWUzeHFYQ3VlUllOSEV4MTlCcVZ3S25pSDhuWlU5ZjczV2ZVWWpnNDk0d19pOTFHR3VOb3liT0RYdFF3eXZMUHFFUURNVUpRbUFIa0VzSklXNXAyOVNONUFGdTB2Ri1teEdFYXplc3MtRWNvYXlYUVVJYlowV05KdV9SdUxuWGp5WWtoMFBP?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjFnTzRVZDVraG5wTkVteHJ0UVhIN2JKMHVFaW4waWZ1alhYdWZ3LXV1dWpHZkZsU1UwLXBpTHlJcUUycmg1bF9qOFBydVpFUkRiZ21DNFRRYlNTMVNFdGZVXy1TcGRyLUxRZ2RNMWluTVdLZ0ZrcFZscEFyTkRoMGNHQW1DdUVqVHY1cEpWOA?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "How many ships are crossing the Strait of Hormuz?",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjFnTzRVZDVraG5wTkVteHJ0UVhIN2JKMHVFaW4waWZ1alhYdWZ3LXV1dWpHZkZsU1UwLXBpTHlJcUUycmg1bF9qOFBydVpFUkRiZ21DNFRRYlNTMVNFdGZVXy1TcGRyLUxRZ2RNMWluTVdLZ0ZrcFZscEFyTkRoMGNHQW1DdUVqVHY1cEpWOA?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlFlMXRiS3N3dXF6R1A3eDhqT1N4emk0ZDlkT1l0RTJhd1c2QWtreWxfbGhUQjRndlpMTXZKSExIQVlTbTBsUDJiY1B3UHF2U3hjU3hSU19CN1QwLTd3S0djck5PMzN1R2dfRmVnb3VEZ1VfSjNpczVKWFZPSVdaTjFQTjJsSk1PSGx1TFNyUi1hNl9VSnRMTnFQaFNPRkYycTA5ckd2LTRvTE12a2Foa1A2cEdxd2ZQSWlPZFUtN0tkQVpObldSZlVZSDBsczdkdTJfakoxZ2g4OEk1aW9wZVNYbVRPbWh2cWJObGdMc1I?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Wärtsilä Gas Solutions Cargo Handling and Fuel Gas Supply Systems will secure efficient operation of two new VLEC vessels",
+  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWlFlMXRiS3N3dXF6R1A3eDhqT1N4emk0ZDlkT1l0RTJhd1c2QWtreWxfbGhUQjRndlpMTXZKSExIQVlTbTBsUDJiY1B3UHF2U3hjU3hSU19CN1QwLTd3S0djck5PMzN1R2dfRmVnb3VEZ1VfSjNpczVKWFZPSVdaTjFQTjJsSk1PSGx1TFNyUi1hNl9VSnRMTnFQaFNPRkYycTA5ckd2LTRvTE12a2Foa1A2cEdxd2ZQSWlPZFUtN0tkQVpObldSZlVZSDBsczdkdTJfakoxZ2g4OEk1aW9wZVNYbVRPbWh2cWJObGdMc1I?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3V0R4TU9pMlZvQ3UtSUt5bzQ1Z2lENjNlaW0taVU5OVFFdnhBVW8xanBWUXNpNzVSMlNTUG51UUN2SERvRHJvXy0yQm9aQ1hZTFZXeVdYeEoxYU9Va21XQ2lBcjRwUVg0UzdhX25aQnRZUjk0Y1h4QkdrUQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Iron Ore Rises on Stronger Demand",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3V0R4TU9pMlZvQ3UtSUt5bzQ1Z2lENjNlaW0taVU5OVFFdnhBVW8xanBWUXNpNzVSMlNTUG51UUN2SERvRHJvXy0yQm9aQ1hZTFZXeVdYeEoxYU9Va21XQ2lBcjRwUVg0UzdhX25aQnRZUjk0Y1h4QkdrUQ?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE51dUk4RnFPQmZCVDh2bmxGYTdCZ0JBNVFTWVFsbkVmeTkzSUJ4R0ZER1lNbmljWjdYRXp3c1B6UWFkemRHX1B1MnRsbE10eWtjdC0xcXNkeGRjVlJKbVJLZzlXNDZtbHM5Y05Neg?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Fearnleys Week 16 2026",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51dUk4RnFPQmZCVDh2bmxGYTdCZ0JBNVFTWVFsbkVmeTkzSUJ4R0ZER1lNbmljWjdYRXp3c1B6UWFkemRHX1B1MnRsbE10eWtjdC0xcXNkeGRjVlJKbVJLZzlXNDZtbHM5Y05Neg?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0dYTnBWb3NNaTI0LU14X0ZSWF82aUluNWpSZXVYaE02Y3hrYXBOV3lsS2pjVzZEQnZYcG5xZkZhWTI2U3dSa0lqY091a2NsdjNFSHI1ZG9Dd2R6bjNUXzhtZTJUWmtxVjlMRFBSMkk1SDZXRVplRFh5b1prTVdmX19VemFtQUdPXzE0NF81Qnl2Qk5MR3QtdlFHQ280My01LVlydVBHMDFxOXhTeWlFS1U3R0VNZzlDdjh5TW5R?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Shipping companies ‘see opportunities’ but seek clarity on Strait of Hormuz reopening",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX0dYTnBWb3NNaTI0LU14X0ZSWF82aUluNWpSZXVYaE02Y3hrYXBOV3lsS2pjVzZEQnZYcG5xZkZhWTI2U3dSa0lqY091a2NsdjNFSHI1ZG9Dd2R6bjNUXzhtZTJUWmtxVjlMRFBSMkk1SDZXRVplRFh5b1prTVdmX19VemFtQUdPXzE0NF81Qnl2Qk5MR3QtdlFHQ280My01LVlydVBHMDFxOXhTeWlFS1U3R0VNZzlDdjh5TW5R?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEVvZzlfVEdLbjNtb1NMOE05cXo3aHZEdVZLSlVUSUtOTXhJUVAtSFFkS3E2Q3Iwd0ZKRm9ET0IxdFByMF9ueG1kZWdJTEhrS0s3Q3cwTlpVMkFFZWg1dzZJSzVjMHRnUTdBbFFMZ25ZdXdsTDFuMksyNW1KLTVINnNwMHh5NzlmdDhDU08xSVV5Zw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "April 14, 2026: Iran War Maritime Intelligence Daily",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEVvZzlfVEdLbjNtb1NMOE05cXo3aHZEdVZLSlVUSUtOTXhJUVAtSFFkS3E2Q3Iwd0ZKRm9ET0IxdFByMF9ueG1kZWdJTEhrS0s3Q3cwTlpVMkFFZWg1dzZJSzVjMHRnUTdBbFFMZ25ZdXdsTDFuMksyNW1KLTVINnNwMHh5NzlmdDhDU08xSVV5Zw?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1JoelNMZlVwTjE3aGxfV2k5NFhUU3o2bnpxTndGaWlNMVZOcnJpZE1tZE05TnNvTHh1bzBKb2lJNlR2R1JlWjE2NEZmakp2bWVfM2I2ZUNWSzVFRmR1OEV5aS0xemRFVVFNb3NJbHZUYXpxcnVsNGl0OC0yTk1WN1E2UEFURWZuQ1FR?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "MMI Daily Iron Ore Index Report April 15 2026",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPU1JoelNMZlVwTjE3aGxfV2k5NFhUU3o2bnpxTndGaWlNMVZOcnJpZE1tZE05TnNvTHh1bzBKb2lJNlR2R1JlWjE2NEZmakp2bWVfM2I2ZUNWSzVFRmR1OEV5aS0xemRFVVFNb3NJbHZUYXpxcnVsNGl0OC0yTk1WN1E2UEFURWZuQ1FR?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOWEo1d0Vrel9Xd05QMjZIVWY3blZxZTUtZHJjMnQwRW4wNlJzTy1IUDRERWRMcUhMRWJLZWZET05mSURzTk1ra3FZTXJrV0RpTVU0TTRGT0ViQnZKZUdaNWtBTUFHZGotSGxmVXY3THp5czE1S2k4?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Steel Rises on Stronger Demand",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOWEo1d0Vrel9Xd05QMjZIVWY3blZxZTUtZHJjMnQwRW4wNlJzTy1IUDRERWRMcUhMRWJLZWZET05mSURzTk1ra3FZTXJrV0RpTVU0TTRGT0ViQnZKZUdaNWtBTUFHZGotSGxmVXY3THp5czE1S2k4?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdHE1a1VEcmZDX3JRbHpuQ2MwRUlaNEdEdDg2VUp5cXFaM0g3X1JtQkJ6UFppSGlhUWdGLVhpY2pOaWNPUHhzbko4V2hxZ1k3bG1aYXhIVlUyYkQ3Wkk5WHlvTHhwdTNWMGFqWWhXaVhSYmd2R2J4RTdNYzZvVVZfTzNrd1NmWjJZMExzZ0hTWG1qU2pDZHBibV9XMXprTUluWlY1QmhXdGl4MUJFUk1Kd2dvS29hTFBucl80UXlnWEJkak9UM0lLSGlKR0J4V2lWb2NzbmZ3eUhFM1JIWjFXYmJndnREdUVFN0hTMkNGNzhORlJuZmlxc1JOQk9RTGYzY0gxRzd0WEljMm1qMG9uUU5UU05zbEJCN3A2Y2paZ3ZtSTl1cGl0cUFEUQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Castor Maritime Inc. Reports Net Income of $17.6 Million for the Three Months Ended December 31, 2025 and Net Income of $21.5 Million for the Year Ended December 31, 2025",
+  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNdHE1a1VEcmZDX3JRbHpuQ2MwRUlaNEdEdDg2VUp5cXFaM0g3X1JtQkJ6UFppSGlhUWdGLVhpY2pOaWNPUHhzbko4V2hxZ1k3bG1aYXhIVlUyYkQ3Wkk5WHlvTHhwdTNWMGFqWWhXaVhSYmd2R2J4RTdNYzZvVVZfTzNrd1NmWjJZMExzZ0hTWG1qU2pDZHBibV9XMXprTUluWlY1QmhXdGl4MUJFUk1Kd2dvS29hTFBucl80UXlnWEJkak9UM0lLSGlKR0J4V2lWb2NzbmZ3eUhFM1JIWjFXYmJndnREdUVFN0hTMkNGNzhORlJuZmlxc1JOQk9RTGYzY0gxRzd0WEljMm1qMG9uUU5UU05zbEJCN3A2Y2paZ3ZtSTl1cGl0cUFEUQ?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTlNoTXkyUFp3ZGZKUVRNME1OdENUdlhXQWN4MG82SVdkM1U4TWh3czltN0kzZkd4bkZZdWFNd053ck5XYkt2LW1GeVRNb25XZVhsLXRvU25ZeXhiS3RaaE8wb195YWJ1bEg3RjB4NjVXcDhiLWdxUWFXVi1Yd1FtUDRpRVNzdk8zQXhvT2NyQmpZbWRObGwwR2JhNmNha0R1Z1Mxb0o1eXVwbWljVDdCRFFvSm5oTzMtQkRkWVBfZFhBeXcxYi1nOUljTVQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Anemoi and NACKS Rotor Sail integration design for Ultramax segment receives AiP from Class NK",
+  "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTlNoTXkyUFp3ZGZKUVRNME1OdENUdlhXQWN4MG82SVdkM1U4TWh3czltN0kzZkd4bkZZdWFNd053ck5XYkt2LW1GeVRNb25XZVhsLXRvU25ZeXhiS3RaaE8wb195YWJ1bEg3RjB4NjVXcDhiLWdxUWFXVi1Yd1FtUDRpRVNzdk8zQXhvT2NyQmpZbWRObGwwR2JhNmNha0R1Z1Mxb0o1eXVwbWljVDdCRFFvSm5oTzMtQkRkWVBfZFhBeXcxYi1nOUljTVQ?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUpKV2JzaGNpMThCSkhWSGx6SmxMSWRLS2dUN1FVenpGNHZjcjF5NXFFMzRKczh4eFM2bXB2ejg4U2VHVnE3aVdGbWxqLWFOdXhXMkJXNldvUGplU21QUllpNHI1eHBrOHJXWWduMWYwcWZoZllEV2lXU2psOE1UdDJScnBjMU5VVkY0bk5aSVAxRm9JQ0RXZW84Q2M0eVA0SnJhUmZYQ2hvOEZB?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "VHBS New ConTex Container Ship Time Charter Assessment Index Week 15",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUpKV2JzaGNpMThCSkhWSGx6SmxMSWRLS2dUN1FVenpGNHZjcjF5NXFFMzRKczh4eFM2bXB2ejg4U2VHVnE3aVdGbWxqLWFOdXhXMkJXNldvUGplU21QUllpNHI1eHBrOHJXWWduMWYwcWZoZllEV2lXU2psOE1UdDJScnBjMU5VVkY0bk5aSVAxRm9JQ0RXZW84Q2M0eVA0SnJhUmZYQ2hvOEZB?oc=5",
+  "date": "2026/04/11",
+  "sd": "04/11",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZoaXpyaDJRLTR0TndZZnRJMUhEYlk5TWttWlB2VDRGdm1mTjJqbWp6NVUxV3ZQZ0ZUNFRJRW1VaGNBN3JNLUxOR2JwNWpwa0VZZGg3Q3lwVk9UUVNZYlMtTHRRUmJLV2MycXVjT0VYZnc5WDVnWmc0S1NYTUl6eHBGZ0h3dkxQdmJWTVFQVnBiYXJvYTZyQm5PXy1qMlJkNHBuN1NqVXZRUQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Eurozone industrial production was sluggish ahead of Middle East war",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQczZoaXpyaDJRLTR0TndZZnRJMUhEYlk5TWttWlB2VDRGdm1mTjJqbWp6NVUxV3ZQZ0ZUNFRJRW1VaGNBN3JNLUxOR2JwNWpwa0VZZGg3Q3lwVk9UUVNZYlMtTHRRUmJLV2MycXVjT0VYZnc5WDVnWmc0S1NYTUl6eHBGZ0h3dkxQdmJWTVFQVnBiYXJvYTZyQm5PXy1qMlJkNHBuN1NqVXZRUQ?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHRSZXg3OEYyYnd3QTktLWl2Q2hVbW41azFHei1Xb1RkWnltV3R5TWp6dnplOWV0anlCUmh0QktCeEcyQXhtNFJ2M09Id2JtVEV5RnJnQUxud1EyQjFtem5EVW1obHdNYVhqUUJ4Sk5DaWp4Q1JYS2tVSHpEMDE4X0lfLU5hYWNETEFUR2ZKZ0RJNmc?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Eurozone Industrial Production Rebounds in February",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHRSZXg3OEYyYnd3QTktLWl2Q2hVbW41azFHei1Xb1RkWnltV3R5TWp6dnplOWV0anlCUmh0QktCeEcyQXhtNFJ2M09Id2JtVEV5RnJnQUxud1EyQjFtem5EVW1obHdNYVhqUUJ4Sk5DaWp4Q1JYS2tVSHpEMDE4X0lfLU5hYWNETEFUR2ZKZ0RJNmc?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzI4UzNIcm83ODZYYmZVOUFqVWRCckE0Umx4RUc2TnJJNmd6a081ck9QWWtHNWRFVkFINlR4V1VJMTVyTDRwNzhkSTgxaGVsTGZUbWVJWHpiYk93bHA2bWNsdnZIZnZXNDFhRVVTbEdReXpZNkFxNlZzcVMtSk9MUFZYdXMzdw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Aluminum Prices Retreat from 4-Year Highs",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSzI4UzNIcm83ODZYYmZVOUFqVWRCckE0Umx4RUc2TnJJNmd6a081ck9QWWtHNWRFVkFINlR4V1VJMTVyTDRwNzhkSTgxaGVsTGZUbWVJWHpiYk93bHA2bWNsdnZIZnZXNDFhRVVTbEdReXpZNkFxNlZzcVMtSk9MUFZYdXMzdw?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUJnNGRPWm5oa1NwOWhlcEV0TTFhZ3RwQ0liR1dWY1QwVnlKZzMwcERnN3JzMzJGN0F6UjU2dldoYXU1bU14RXo2Z3IxYTVQWE00QUJ5cG5OYks0cXBHSmZXMzFYSnpKVWd6Sk9Vdmc2SkhvblI0SEdtdFIxY05OUXVzaFRpXzAyalM1NFdnRXlBQ21lYUxpNzJTMWVjRjBFQWgtS0RtQjZ5Tkh1S2gyaEZiZw?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "ASIA FUEL OIL MOC: Loadings reach three-month high of 1.36 million mt in Feb",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUJnNGRPWm5oa1NwOWhlcEV0TTFhZ3RwQ0liR1dWY1QwVnlKZzMwcERnN3JzMzJGN0F6UjU2dldoYXU1bU14RXo2Z3IxYTVQWE00QUJ5cG5OYks0cXBHSmZXMzFYSnpKVWd6Sk9Vdmc2SkhvblI0SEdtdFIxY05OUXVzaFRpXzAyalM1NFdnRXlBQ21lYUxpNzJTMWVjRjBFQWgtS0RtQjZ5Tkh1S2gyaEZiZw?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTFFUVY3OWFrcTZ2Y3pNdW5XYUh4R1prTVUxT3hvY2tyOW9wYk94V2pKdUc2RVBkNzRPX2U4aUxkeUxjVXhBOGhlb1JsaDNwdkNnRHg5dmc4dkZHTVoyLXpRc3lfX09lYTlsbHBpSnhrbXBnclFUVkFrcjJWNi1DTk9XckFpR0hGWDF1d3Q4Z0RmbHQ5WjNWSS1ZMVdjMUJLb1A3dnJjT1VFTWQ4MUl5bW5EWW0?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "New study to assess renewable fuels and infrastructure for net-zero shipping",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTFFUVY3OWFrcTZ2Y3pNdW5XYUh4R1prTVUxT3hvY2tyOW9wYk94V2pKdUc2RVBkNzRPX2U4aUxkeUxjVXhBOGhlb1JsaDNwdkNnRHg5dmc4dkZHTVoyLXpRc3lfX09lYTlsbHBpSnhrbXBnclFUVkFrcjJWNi1DTk9XckFpR0hGWDF1d3Q4Z0RmbHQ5WjNWSS1ZMVdjMUJLb1A3dnJjT1VFTWQ4MUl5bW5EWW0?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGx5OWZtSHFZYkkzVkJ6UjVfQnJtSlp5UWhPaVE4WlA1RWZRaHN2Z3hmalk0dk9RTzNpcXlodExOUVVhZEtqWDZGcWk2M0RHSmpPR0pJeVF1ZmhFSHZVYThxUWR5dDAxOVdGa3VqZllQdTBMYTRPWS0tcWZZVWY3bnhpM3JrcHVxX2I0LS14LW5HT2xyYkI2czF2bjhENW1CN2xPeEpPZDVMWVF4RVNnN3BsTE1JUDQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "India spots opportunity in Venezuelan crude as Hormuz crisis squeezes supplies",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGx5OWZtSHFZYkkzVkJ6UjVfQnJtSlp5UWhPaVE4WlA1RWZRaHN2Z3hmalk0dk9RTzNpcXlodExOUVVhZEtqWDZGcWk2M0RHSmpPR0pJeVF1ZmhFSHZVYThxUWR5dDAxOVdGa3VqZllQdTBMYTRPWS0tcWZZVWY3bnhpM3JrcHVxX2I0LS14LW5HT2xyYkI2czF2bjhENW1CN2xPeEpPZDVMWVF4RVNnN3BsTE1JUDQ?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUmh5LVB4UTk0TUYxQXFXLWt5RXRjR09QcXZGSDZ1MWdPVFpJSVVJcUNVamJZUUR0X0kzMTQ3RXNiODg2blVVOUZfamhQV0JCMFVHWlNrRmJ6QTBZZUVJSm5selJGZVYyN0VVZEduVllBT0lYaEV6dk82RlM5UlZDb0dnVnlRUQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "SSY ATLANTIC CAPESIZE INDEX 13 APRIL 2026",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUmh5LVB4UTk0TUYxQXFXLWt5RXRjR09QcXZGSDZ1MWdPVFpJSVVJcUNVamJZUUR0X0kzMTQ3RXNiODg2blVVOUZfamhQV0JCMFVHWlNrRmJ6QTBZZUVJSm5selJGZVYyN0VVZEduVllBT0lYaEV6dk82RlM5UlZDb0dnVnlRUQ?oc=5",
+  "date": "2026/04/14",
+  "sd": "04/14",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS09xWEhmWWFfUWgzR0t0WktnSjBtVlJLb1RtV2xjZ1pXa3BMZTlpRnR2M0xQREdZQ3c4bWtYd20tTk9UOFJCdGhTY2ZRU29femhLYnk0alJCVDNvYVYzdXRGZUZyUmZfcVJiWFdLNkY2ai04Um84YkNPa2k1RlFwRXhJdVhhUQ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Saudi Arabia Oil Output Lowest since 2020",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS09xWEhmWWFfUWgzR0t0WktnSjBtVlJLb1RtV2xjZ1pXa3BMZTlpRnR2M0xQREdZQ3c4bWtYd20tTk9UOFJCdGhTY2ZRU29femhLYnk0alJCVDNvYVYzdXRGZUZyUmZfcVJiWFdLNkY2ai04Um84YkNPa2k1RlFwRXhJdVhhUQ?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1pPaXFFVG5qYjVNcEl1OFJqUnVuUHpkVzlMR2FpUlcwbS1iQ01QaFZOMWg3aU5zTGZWUTNReUMyeUZrckRQVGhQUUNRSEJ1S0pIU2FNbkRyc2FjeWdfd3c4aDM3UC1sOWkwdEJCSEU0OG1RTVRaakZOdHdlQ1FPTktwSlNYeEZqZXh2alpPRVMxRjZvMEtwdjhMY2hnY29KMGc?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Port of Long Beach Gets Record Funds to Bolster Infrastructure",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV1pPaXFFVG5qYjVNcEl1OFJqUnVuUHpkVzlMR2FpUlcwbS1iQ01QaFZOMWg3aU5zTGZWUTNReUMyeUZrckRQVGhQUUNRSEJ1S0pIU2FNbkRyc2FjeWdfd3c4aDM3UC1sOWkwdEJCSEU0OG1RTVRaakZOdHdlQ1FPTktwSlNYeEZqZXh2alpPRVMxRjZvMEtwdjhMY2hnY29KMGc?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYlhIajBac094MDZpOTlMQTQzbTBSZHV2TlNTZS1YQWNGV01MUVk0cm9qc2N3cTRpMUVBTWtTWFROR2VDdjNGbVF1amZlZ2ZKV2x0b05sRG51bXZRQUxQa3lBOEtMZmRYbGkxOVhRaThSZ3pnSE9iUHFVUGdJTlFmQWZ4SmwySFB3OV9aOERteElpeURoTHBLbEpybURYd1o0cUZHQnk4bDZUUVl2RjZaeWctdTBLWXhWN1BTV2d5aW1udWFxQTdGM1BSUmdaUHQ2cnRDSG12bFpMbEtSUjlHX2plQjZaZDJaX2tfQzl3?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "First-ever global study reveals wind propulsion can cut fleet-wide emissions today but only with stronger policy action",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYlhIajBac094MDZpOTlMQTQzbTBSZHV2TlNTZS1YQWNGV01MUVk0cm9qc2N3cTRpMUVBTWtTWFROR2VDdjNGbVF1amZlZ2ZKV2x0b05sRG51bXZRQUxQa3lBOEtMZmRYbGkxOVhRaThSZ3pnSE9iUHFVUGdJTlFmQWZ4SmwySFB3OV9aOERteElpeURoTHBLbEpybURYd1o0cUZHQnk4bDZUUVl2RjZaeWctdTBLWXhWN1BTV2d5aW1udWFxQTdGM1BSUmdaUHQ2cnRDSG12bFpMbEtSUjlHX2plQjZaZDJaX2tfQzl3?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFVkRVFaemxpNk9mOGd3U2xMT3F0aTU2VEdHUWpDVnJUX1k2VkQ2ekpvVTQ0blJJSTA1c0hyeWdvOENMTFRqdGdrNnV4Q1hNRFlZNmlmQlBMYTV3TWJVM3dMSnNkWjRQckNkczRTcUFCOExlMVRMOG1SeWF0NTBSbUZULTFjZjc0dk1lT1ZJQnd1Ui1XV0lLVVNMUnA4NTFTRDFocE9ZTXZJSG1sdmZ5VGxLNi1JYnlVanpZeXBGbWk?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Singapore conventional bunker sales edged higher in March amid the Middle East crisis",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFVkRVFaemxpNk9mOGd3U2xMT3F0aTU2VEdHUWpDVnJUX1k2VkQ2ekpvVTQ0blJJSTA1c0hyeWdvOENMTFRqdGdrNnV4Q1hNRFlZNmlmQlBMYTV3TWJVM3dMSnNkWjRQckNkczRTcUFCOExlMVRMOG1SeWF0NTBSbUZULTFjZjc0dk1lT1ZJQnd1Ui1XV0lLVVNMUnA4NTFTRDFocE9ZTXZJSG1sdmZ5VGxLNi1JYnlVanpZeXBGbWk?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWliQXBYMWtNNDl0ZG9ud0JTODA4N1VsX0lySXNmdXlvMkNLY1k2emR0MXVmN3ptVW9Fb2haS0hUaUlDS0NyN1ZURDRFaklXaERiemI3TDJoUW5obTlKNE90Z2RDZ0hmbEpXMlowelpFY05NU1hvaWZ1R2I3VjJ4Y1NndFhmNVdvVUlrblQ5OWdTdDRIOFJjQms2Z3lrWV8wRDRJRW1wMm5sc3pLbkd2TW5MQ2dXbE5DT3NZ?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Green Instruments secures significant growth and sets course for further progress",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWliQXBYMWtNNDl0ZG9ud0JTODA4N1VsX0lySXNmdXlvMkNLY1k2emR0MXVmN3ptVW9Fb2haS0hUaUlDS0NyN1ZURDRFaklXaERiemI3TDJoUW5obTlKNE90Z2RDZ0hmbEpXMlowelpFY05NU1hvaWZ1R2I3VjJ4Y1NndFhmNVdvVUlrblQ5OWdTdDRIOFJjQms2Z3lrWV8wRDRJRW1wMm5sc3pLbkd2TW5MQ2dXbE5DT3NZ?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWV4Xzd0bFY4MGxDYzNWOTE4N1UzNTNZbVRLN25ZQllnU2dHd0FZd3diMmhTN0FJN0N4UTY0SWxDWTBDczlLeEZkMnNkOG5wZ3BRejhRR0MzZVptMS1pQWhabTNocFhrejc5UXFXdFRGcFRkMjY5NzVFcVZsMWV4SUZlbGwwdW9tbEF2Sld6RkFGVDZqVU9EeFhHQlYtWEtkU0ZZNENxN2hSX1RLUFpLNmFqSW4xdWpwckhweg?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Leadership change at Port of Antwerp-Bruges: Jacques Vandermeiren steps down as CEO",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSWV4Xzd0bFY4MGxDYzNWOTE4N1UzNTNZbVRLN25ZQllnU2dHd0FZd3diMmhTN0FJN0N4UTY0SWxDWTBDczlLeEZkMnNkOG5wZ3BRejhRR0MzZVptMS1pQWhabTNocFhrejc5UXFXdFRGcFRkMjY5NzVFcVZsMWV4SUZlbGwwdW9tbEF2Sld6RkFGVDZqVU9EeFhHQlYtWEtkU0ZZNENxN2hSX1RLUFpLNmFqSW4xdWpwckhweg?oc=5",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVRIRmFSSVE2VFdHNi1YbHFaWDhUX29jLThKMW5OZ1dXUzdNS2lRbVZHS0hSNXdkRDlEMWJWVEJKcUFXOWxSMFNjMmV5RElUZGE3RFFKZWZtUXZpNDVpTi1GcDB5MUpnQ0d4anRtTFAwdlE0aFd4akY3aENVWU1yMzh5R19XeWZoZWl1ODJucXlseUhhZjg2V1dyRGFPSXZ5cUlndlBXUDhnbUk2cWhTeEVHN1Q?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Hormuz risks stall tankers despite high rates, yet reopening may flood market",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVRIRmFSSVE2VFdHNi1YbHFaWDhUX29jLThKMW5OZ1dXUzdNS2lRbVZHS0hSNXdkRDlEMWJWVEJKcUFXOWxSMFNjMmV5RElUZGE3RFFKZWZtUXZpNDVpTi1GcDB5MUpnQ0d4anRtTFAwdlE0aFd4akY3aENVWU1yMzh5R19XeWZoZWl1ODJucXlseUhhZjg2V1dyRGFPSXZ5cUlndlBXUDhnbUk2cWhTeEVHN1Q?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-16T08:27:53.284088+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】WSA予測、世界鉄鋼需要は2026年で底打ち、2027年は成長軌道に4月14日：T/C市場＝16隻・114万DWT、V/C市場＝鉄鉱石9隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284804+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284804+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284804+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284804+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284804+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T08:27:53.284804+09:00"
  }
 }
