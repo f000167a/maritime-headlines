@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200732/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "名門大洋フェリー、新社長に小林氏",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200732/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200734/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコ、日本発米国中…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200734/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200735/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ハチソン、マースクに仲裁申し立て、パナマCT運営権巡り",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200735/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
- },
- "https://www.kaijipress.com/markets/newbuilding/2026/04/200733/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【新造船】新造船市況月間レポート（2026年3月）、大型船建造への新規参入続く",
-  "url": "https://www.kaijipress.com/markets/newbuilding/2026/04/200733/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-08T15:57:49.848326+09:00"
- },
  "https://splash247.com/geneva-dry-dialogues-vts-shipping/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -749,7 +713,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国1～3月の鉄鉱石輸入量は3.14億トン、Q1期としては過去最高4月13日：T/C市場＝4隻・29万DWT、V/C市場＝石炭3隻",
+  "title": "【本日のトピック】WSA予測、世界鉄鋼需要は2026年で底打ち、2027年は成長軌道に4月14日：T/C市場＝16隻・114万DWT、V/C市場＝鉄鉱石9隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/09",
   "sd": "04/09",
@@ -3638,7 +3602,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200850/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "飯野ビル、ウェルビーイング認証で最高ランク取得",
+  "title": "飯野ビル、ウェルビー…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200850/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3647,7 +3611,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200852/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "MSC、ディエゴ社長…",
+  "title": "MSC、ディエゴ社長・アレクサCFOに継承、ジャンルイジ会長から所有権移転",
   "url": "https://www.kaijipress.com/news/container/2026/04/200852/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3665,7 +3629,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200854/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、バイオ燃料…",
+  "title": "商船三井、バイオ燃料原料植物を試験栽培、フォープライドらと、炭鉱跡地活用",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200854/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3836,7 +3800,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200872/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、静岡県立大施設に愛称付与",
+  "title": "鈴与、静岡県立大施設…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200872/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3845,7 +3809,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200873/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船の自動車船、パティンバン港に初寄港、現地で記念式典",
+  "title": "日本郵船の自動車船、…",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200873/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3854,7 +3818,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200874/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ホーグオートライナー…",
+  "title": "ホーグオートライナーズ、2450台積み自動車船竣工、中米・カリブ海航路に投入",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200874/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -4786,5 +4750,113 @@
   "date": "2026/03/31",
   "sd": "03/31",
   "first_seen_iso": "2026-04-15T09:07:24.592440+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200891/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎港、25年は11%増の11万TEU、5年ぶりにコンテナ増加",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200891/",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.809396+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200892/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "LA港、3月は3%減の75万TEU、インフレ影響を懸念",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200892/",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.809396+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200894/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アジア発米国向け、3月は1.3%増の167万TEU、データマイン調査",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200894/",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.809396+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200895/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コスコ、マニラへの直航を開始、OOCL運航航路活用",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200895/",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.809396+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200893/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "海技研、実海域性能評価ツールを更新、最低推進出力ガイドラインに対応",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200893/",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.809396+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JTzM4SkVkZi0wa3ZEV3p0alBNeHlQMzBUWVMxX1gzMVYta1V4RV9hQ3hybEJsSFlFQ2ZSa2tnTFNhajlSRmhWX2FxNWZEWnFPRC01NFl1QVdlYUVNbVhYc3k0NTY5TTNKVG1BbjgzeHVnYUFjWl9z?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Methane removal goes to sea in industry first",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JTzM4SkVkZi0wa3ZEV3p0alBNeHlQMzBUWVMxX1gzMVYta1V4RV9hQ3hybEJsSFlFQ2ZSa2tnTFNhajlSRmhWX2FxNWZEWnFPRC01NFl1QVdlYUVNbVhYc3k0NTY5TTNKVG1BbjgzeHVnYUFjWl9z?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.809924+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVRsTVFOb2V2ZmQ1NjRxY3VnNV9OR240ZFZjNXpZYW9LSjRUdFhHbkJSd0ZWSmlEc1dsMGtvVDdYazdPMEdvdzV4ZFRMYU14NGFhczI1UFlNWDhrSm82ajdIbzJ0b3pxUGR6OHBGOUNDNkxLVDFha3JPYTdwckNXR2RGbHBCQkpscURhWmhEZmNHcTdTQWxXb3J6MllLS1U?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Factory orders remain flat, defying expectations of a decline",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSVRsTVFOb2V2ZmQ1NjRxY3VnNV9OR240ZFZjNXpZYW9LSjRUdFhHbkJSd0ZWSmlEc1dsMGtvVDdYazdPMEdvdzV4ZFRMYU14NGFhczI1UFlNWDhrSm82ajdIbzJ0b3pxUGR6OHBGOUNDNkxLVDFha3JPYTdwckNXR2RGbHBCQkpscURhWmhEZmNHcTdTQWxXb3J6MllLS1U?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.810020+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWNQS1JiTzZpQm5hSmw2LXBERUFySlo3RzROU3V0cjRwWWh4N19JNUlfX0ZrVHR6Nnp2NktYWUNzOTl6aXBGNjBnTjRleVBDUkFUZWhhMkZtanNjSTZUR1NaNk9SVFpPUHA1VU9udlFJdjlzbDBtX3JxZ0cyTE1Wd21oNjNpTzhRZXJSanBqM1MtWlo2Y21DSEtDSDV5NFF1dFVjN1pkRV94RzJsWHR2ag?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "DP World Perspective: Why Energy Security Is Becoming a Core Port Strategy",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWNQS1JiTzZpQm5hSmw2LXBERUFySlo3RzROU3V0cjRwWWh4N19JNUlfX0ZrVHR6Nnp2NktYWUNzOTl6aXBGNjBnTjRleVBDUkFUZWhhMkZtanNjSTZUR1NaNk9SVFpPUHA1VU9udlFJdjlzbDBtX3JxZ0cyTE1Wd21oNjNpTzhRZXJSanBqM1MtWlo2Y21DSEtDSDV5NFF1dFVjN1pkRV94RzJsWHR2ag?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.810020+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUElDVVJVQVBMZVE0XzBObG5SaGF5b0RkZlVTbFVRZmoxWlliOWlYR0NIWDNXSjVBVWlKdUJjcVlvVzZjQ2txOUd2N2RjaTZnekNrRzBYQktBWjNqVkxCS3Jpemt3T19aTFd6VDNRNVBlVTAyRTNzdnhPSFdyMmtUWDgtZUM1ZWk5aE9EUV9HeU9WZ216RFlBQ3hGTUhMWWZQR1k4RG9fOTdUVlpVWGc?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "G7 crude tankers withdraw from Russia with Urals rising above price cap",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUElDVVJVQVBMZVE0XzBObG5SaGF5b0RkZlVTbFVRZmoxWlliOWlYR0NIWDNXSjVBVWlKdUJjcVlvVzZjQ2txOUd2N2RjaTZnekNrRzBYQktBWjNqVkxCS3Jpemt3T19aTFd6VDNRNVBlVTAyRTNzdnhPSFdyMmtUWDgtZUM1ZWk5aE9EUV9HeU9WZ216RFlBQ3hGTUhMWWZQR1k4RG9fOTdUVlpVWGc?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.810020+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEFQX1M2aXhkT2dPSFJpSGlJOFIxaDNZWGg1R0dzdVNKWi1iM3c5NUtWaUQ1UXhGdFp0LVFEdEp6Y1dpOEtCeWFlcng0bXBXVE1pNmd5bFItclU0LXBPbjg1Y2w0NkY3TFZHQkxUQVVjTHhZLWlBRW5od19VcWZpc0Rack5SamNtdFhqVUtjUHQ2RnZYSE9NMW1kMUxKeXl1cVE?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "US-sanctioned tanker turns back after exiting Strait of Hormuz",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdEFQX1M2aXhkT2dPSFJpSGlJOFIxaDNZWGg1R0dzdVNKWi1iM3c5NUtWaUQ1UXhGdFp0LVFEdEp6Y1dpOEtCeWFlcng0bXBXVE1pNmd5bFItclU0LXBPbjg1Y2w0NkY3TFZHQkxUQVVjTHhZLWlBRW5od19VcWZpc0Rack5SamNtdFhqVUtjUHQ2RnZYSE9NMW1kMUxKeXl1cVE?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.810020+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkptUmxjOEsyR0N0cVFxOEs1RUgxSTFuTWRIVTNuWE96SVUxeUlhSWtyd3lOTHlHQUIxYTNYeThnNGJRMEJCNlViVkZ0bHJQNUtvR3ZoRDJzVExjNnFYS2dZWTBET2NNZDNjUVhlelRZUlZObUp3MG5KUVJVOFljbVBqUy0wcUp3N1lJTDdUZWdIdnJwZ2YzM01LM18zMC1QVlBPNkxtV0JXc0c2TmZrbVIzWEpseDZxNkE?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Korea looks to scale up oil storage capacity as Middle East producers seek hedge",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVkptUmxjOEsyR0N0cVFxOEs1RUgxSTFuTWRIVTNuWE96SVUxeUlhSWtyd3lOTHlHQUIxYTNYeThnNGJRMEJCNlViVkZ0bHJQNUtvR3ZoRDJzVExjNnFYS2dZWTBET2NNZDNjUVhlelRZUlZObUp3MG5KUVJVOFljbVBqUy0wcUp3N1lJTDdUZWdIdnJwZ2YzM01LM18zMC1QVlBPNkxtV0JXc0c2TmZrbVIzWEpseDZxNkE?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.810020+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkluLWtBNXlUZHp1SHhpR25PYlBMSVdKS3Z2bzEwem9tZlJwd19TSVpPV1BNYkdseHZUN1AtR1NHYVpWZjB2UERJcFVOdG92N3RnNkJ2aVRRUng2ZGxSZ0c3Z0U0YldMc0JmNm5vRVhfV2E1dFV5c0dHME1Ld2g3M0w3Z2JpTjdhWXFXOFdfcmdxdFVfbkRQVzZoWW9YTzdj?oc=5": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Athenian Shipbrokers S.A. DEMOLITION QUICK UPDATE Week 15, 2026",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkluLWtBNXlUZHp1SHhpR25PYlBMSVdKS3Z2bzEwem9tZlJwd19TSVpPV1BNYkdseHZUN1AtR1NHYVpWZjB2UERJcFVOdG92N3RnNkJ2aVRRUng2ZGxSZ0c3Z0U0YldMc0JmNm5vRVhfV2E1dFV5c0dHME1Ld2g3M0w3Z2JpTjdhWXFXOFdfcmdxdFVfbkRQVzZoWW9YTzdj?oc=5",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T17:00:42.810020+09:00"
  }
 }
