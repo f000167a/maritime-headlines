@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200538/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "アンカー社セミナー、郵船・河野氏、商船三井・梅村氏が対談、三井住友信託・平野氏登壇",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200538/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-08T21:04:23.282973+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200537/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "アンカー社、インパクト投資の新ファンド創設、船舶と組み合わせ収益性と社会性両立",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200537/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-08T21:04:23.282973+09:00"
- },
- "https://splash247.com/geneva-dry-dialogues-london-stock-exchange-group/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry Dialogues: LSEG",
-  "url": "https://splash247.com/geneva-dry-dialogues-london-stock-exchange-group/",
-  "date": "2026/03/25",
-  "sd": "03/25",
-  "first_seen_iso": "2026-04-08T21:04:23.283617+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314257": {
   "src": "j",
   "cat": "外航全般",
@@ -722,7 +695,7 @@
  "http://www.tramp.co.jp/fenet/weekly_report": {
   "src": "t",
   "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2061号」",
+  "title": "「TDS WEEKLY REPORT 2062号」",
   "url": "http://www.tramp.co.jp/fenet/weekly_report",
   "date": "2026/04/08",
   "sd": "04/08",
@@ -3467,7 +3440,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200873/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船の自動車船、パティンバン港に初寄港、現地で記念式典",
+  "title": "日本郵船の自動車船、…",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200873/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3476,7 +3449,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/200874/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ホーグオートライナー…",
+  "title": "ホーグオートライナーズ、2450台積み自動車船竣工、中米・カリブ海航路に投入",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/200874/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3521,7 +3494,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200880/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "JMU、自動運航船の運用構想でAiP、内航の自動化船計画に活用",
+  "title": "JMU、自動運航船の…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200880/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -3539,7 +3512,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200882/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "カシワテック、高膨張…",
+  "title": "カシワテック、高膨張泡消火機器を納入、SUBARUの衝突実験棟向け",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200882/",
   "date": "2026/04/14",
   "sd": "04/14",
@@ -4741,5 +4714,86 @@
   "date": "2026/04/08",
   "sd": "04/08",
   "first_seen_iso": "2026-04-15T20:08:59.333016+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200736/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】停戦合意で湾内船の脱出なるか、安全確認や通航制約など課題",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200736/",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.993244+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7870/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門：3月伯鉄鉱石輸出は前年比微減、2月の水準も下回る●ブラジル開発・商工省が発表した速報値によると、同国3月の鉄鉱石輸出量は2,793万トンと前月比▲1.9%・前年同月比▲1.6%減で、2月の水準を下回った。なお、1～3月の累計では8,496万トンと前・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7870/1",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7869/2": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "石炭部門：インド、25/26年度の石炭生産量は前年度比▲0.6%減少●インド石炭省によると、同国3月の石炭生産量は1億1,370万トンと前月比で13.1%増加したものの前年同月比では▲4.1%減少、4カ月ぶりに前年水準を下回った。ただし、4カ月連続で1億トン以上をマー・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7869/2",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7868/3": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "穀物部門：伯大豆輸出、3月は9カ月ぶりの前年比マイナス●米国農務省(USDA)によると、25/26年度直近(9月～4月2日)までの米国大豆輸出量は3,052万トン(前年同期比▲26.8%)。直近週の週間輸出量は64万トン(前週比▲6.7%・前年同期比▲1・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7868/3",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7867/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門：中国2026年1～2月のニッケル鉱石輸入量、前年比+26.7%増●週末10日時点の動静データを見ると、仕向け地未定のフリー船隻数はハンディマックスが前週末比▲4隻減・前年同期比+3隻増の35隻。一方、ハンディサイズは前週末+11隻増・前年同期比+36隻増の67隻。・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7867/4",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7866/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門：世界初エタノール対応の三元燃料VLOC、Vale向けに新造●2026年4月第二週(-10日)のバルカー中古船市場は、前週に続きケープサイズを除く部門で10隻の売買事例が判明した。・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7866/6",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7864/7": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "証券部門：半導体関連株に改めて資金流入・海運株は高値もみ合い●米国とイランは2週間の一時停戦と戦闘終結に向けた交渉入りに同意したが、仲介役であるパキスタンのイスラマバードで開かれた最初の交渉では合意に至らなかった。イランが核開発の放棄やホルムズ海峡の開放を拒否・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7864/7",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7865/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門：イラン戦争長期化で忍び寄る食料危機●トランプ米2.0政権誕生から1年3カ月、イラン戦争が始まって40日が経過した。8日とされたイランの発電所や橋梁など重要インフラへの大規模攻撃は、直前になって2週間延期された。しかし、21時間に及ぶ協・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7865/8",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_general/detail2/1216": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧問題を語る - 柴田明夫の視点 - 「イラン戦争長期化で忍び寄る食料危機」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_general/detail2/1216",
+  "date": "2026/04/15",
+  "sd": "04/15",
+  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
  }
 }
