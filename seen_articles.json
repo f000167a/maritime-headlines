@@ -5065,5 +5065,23 @@
   "date": "2026/04/01",
   "sd": "04/01",
   "first_seen_iso": "2026-04-16T09:06:33.417748+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200918/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国内造船の建造量、1～3月9%増で年1000万トン水準、中東影響も注視",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200918/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T14:52:00.191462+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200919/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】、国際海事セミナー、米大使らが講演、米の造船振興策と日米協力テーマに",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200919/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T14:52:00.191462+09:00"
  }
 }
