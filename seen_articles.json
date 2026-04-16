@@ -1,355 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200768/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "国内船主・船舶管理会社、LNG燃料船、自社管理体制構築に着手、中堅オペも",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200768/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200769/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "【イラン・中東緊迫】事前調整なしの湾外脱出はリスクBIMCO、停戦合意受け専門家見解",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200769/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200770/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "商船三井、舶用低炭素燃料の環境価値活用で実証、シェルと",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200770/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200771/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "ザブーン、近郵船舶管理が船員労務管理機能を導入",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200771/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200772/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "港湾春闘、夜荷役拒否を20日からに延期、次回団交は15日",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200772/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200773/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、欧州域内航路を新設、5月から",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200773/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200774/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ハパックロイドHGT、フロリダCTの取得を完了",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200774/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200775/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "エバーグリーン、2.4万TEU型LNG燃料船6隻を発注、ハンファオーシャンに",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200775/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200776/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "国交省港湾局、NACCS連携で仕向港情報を追加、サイバーポートで",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200776/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200777/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM/ネオ…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200777/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200778/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、ジャクソンビル港に追加寄港、日本―北米東岸CBXで",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200778/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200779/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "名古屋港管理組合、港湾脱炭素化推進計画を変更、18事業追加",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200779/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200780/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、南米東岸の改編開始船公表",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200780/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200781/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "LPG燃料VLGC6隻目を命名クミアイ、川重で、初のアルタガス向け",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200781/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200782/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "【イラン・中東緊迫】ドライバルク、燃油価格・供給の正常化に期待、輸送需要回復見込みも",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200782/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200783/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "ハンファオーシャン、30年納期でVLCC初受注、受注残3年分以上確保",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200783/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200784/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "VLCCの新造船市場、発注が早くも年初来100隻超、造船ブーム上回る水準",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200784/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200785/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "川重/NACKS、6…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200785/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200786/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "JMU、スエズ型タンカー“NISSOS DELOS”竣工",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200786/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200787/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "＜Sea Japan 2026＞J-ENG、次世代燃料エンジンを紹介無料",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200787/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200788/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "IoS-OP、5月から運航性能解析の勉強会",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200788/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/200790/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【ログブック】黒柳智丸/クミアイ・ナビゲーション・マネージング・ダイレクター",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/200790/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/200791/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】佐藤芳昭・ナロック東京支店支店長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/200791/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/200792/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】松浦満晴・全日本海員組合組合長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/200792/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://www.kaijipress.com/column/aotou/2026/04/200789/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【青灯】イラン情勢と海運、3つの局面",
-  "url": "https://www.kaijipress.com/column/aotou/2026/04/200789/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.527648+09:00"
- },
- "https://news.google.com/rss/articles/CBMingFBVV95cUxNakdFNDZvSXNYaVp0aWg2LUF3aDhuVzR4MzFVN0Z1RWU4d2dua21mWG8xQnF2Y2MxaVpWdFZrWS1rdXUtMUJKOHUwbGdoLTloUE1xY2xOenZfOUR0SzB6Tm5qc3owVXpIYlp6VHhFTktncDlJSVpJd0lZeGxFeWtiTWdSWXFFV0loOFJPNldaM0hCbFRMVHEtT1VDT096UQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hong Glory Bulk sets course for Atlantic growth with Athens office opening",
-  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNakdFNDZvSXNYaVp0aWg2LUF3aDhuVzR4MzFVN0Z1RWU4d2dua21mWG8xQnF2Y2MxaVpWdFZrWS1rdXUtMUJKOHUwbGdoLTloUE1xY2xOenZfOUR0SzB6Tm5qc3owVXpIYlp6VHhFTktncDlJSVpJd0lZeGxFeWtiTWdSWXFFV0loOFJPNldaM0hCbFRMVHEtT1VDT096UQ?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52NE5lTW1mREJxbWVJV2ZrSjgyQ1ZqaGZWOVRIN1FEcGtwUzhQZ3NqWkZ0UHFJMGhfTVJBRDR3N3pSamxwMGFWRkxiRUpmS3VZbngwTDE3d0JYZ1ZaaW5EbUU0MjZqX2Jy?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Global orderbook hits 17-year high",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52NE5lTW1mREJxbWVJV2ZrSjgyQ1ZqaGZWOVRIN1FEcGtwUzhQZ3NqWkZ0UHFJMGhfTVJBRDR3N3pSamxwMGFWRkxiRUpmS3VZbngwTDE3d0JYZ1ZaaW5EbUU0MjZqX2Jy?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tYVNvNjZyaXZRQU5femszbE05bEpLcmJGYjcxcXJSQzQtcEJwUFV2WGo0bXFReWcxaGFXTUhpX01IbjU1dE5LNUJ3cUp5SENIUlJTOHg0UDlNaXRoUEFxRFVTUks?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "North Star fixes PSV to EnQuest",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tYVNvNjZyaXZRQU5femszbE05bEpLcmJGYjcxcXJSQzQtcEJwUFV2WGo0bXFReWcxaGFXTUhpX01IbjU1dE5LNUJ3cUp5SENIUlJTOHg0UDlNaXRoUEFxRFVTUks?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUVHWE9kd3puajJnR0NJQkxwcU54Zm5TZVhxX0FtWGxFdmc2MG93b2Mwc3lOTTNSalMtQmJoY3BkNzNCQkJucFdMQ3RpdVBLSFBveHd5YjA0VXRtQkpRUUhvLVNGdUxoYnJnWUF1ZVZtRzhPLUM5RTRCV1lLNXlaYUtEcHNveWpFOTh0bFVrTzJnWngyWDVB?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "HD Hyundai pioneers ‘half-ship’ construction to tackle record orderbook",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUVHWE9kd3puajJnR0NJQkxwcU54Zm5TZVhxX0FtWGxFdmc2MG93b2Mwc3lOTTNSalMtQmJoY3BkNzNCQkJucFdMQ3RpdVBLSFBveHd5YjA0VXRtQkpRUUhvLVNGdUxoYnJnWUF1ZVZtRzhPLUM5RTRCV1lLNXlaYUtEcHNveWpFOTh0bFVrTzJnWngyWDVB?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRzAzYUtSbFo4Z1VGWENNVlJwUk1qdUZFcy1WY3lfaXFVNGZ0THhqandobnA0bFQ2YmxMMnNlTTVGcVdja09WOEJFc0h2em5MWVhsUU5FNG9WX0ppeGRBVnBtQnFjX2c?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "How to secure the Arctic frontier",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnRzAzYUtSbFo4Z1VGWENNVlJwUk1qdUZFcy1WY3lfaXFVNGZ0THhqandobnA0bFQ2YmxMMnNlTTVGcVdja09WOEJFc0h2em5MWVhsUU5FNG9WX0ppeGRBVnBtQnFjX2c?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2w2aWY4MTBMUV9JYzF3M3pFYldFOFhLa2FSRUg3OUoxLVN4aXBYUnpIX2lrZ2d1UFBoN3JnZk5mb0xhXzZ0LXdVY0NzakFQb2g0eS1fTWVvUWxyb19GRTltVW5hRWxaUHJuNDZSN3BqMGhQNWotMVg5STFaQmlJOG1ZUGlVZw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Rig-sharing plan lined up for offshore Timor-Leste wells",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2w2aWY4MTBMUV9JYzF3M3pFYldFOFhLa2FSRUg3OUoxLVN4aXBYUnpIX2lrZ2d1UFBoN3JnZk5mb0xhXzZ0LXdVY0NzakFQb2g0eS1fTWVvUWxyb19GRTltVW5hRWxaUHJuNDZSN3BqMGhQNWotMVg5STFaQmlJOG1ZUGlVZw?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXRoVVRkemNXRUM4YUNXWDNPcEowRy0zbW1IdXp6UzNZMjU4djg0cTNwRnBXQkdHRHZaS1g5UGNvLVhZbDc4UWpLc053OG5WUEthVmJLb3BMcEl4NE53WkI2d0U4NXU1X2R5dzRHWjVxUm1Ta1BUZXRhdl9BUHgzQnd3?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Exmar names world’s first ammonia-powered gas carriers",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVXRoVVRkemNXRUM4YUNXWDNPcEowRy0zbW1IdXp6UzNZMjU4djg0cTNwRnBXQkdHRHZaS1g5UGNvLVhZbDc4UWpLc053OG5WUEthVmJLb3BMcEl4NE53WkI2d0U4NXU1X2R5dzRHWjVxUm1Ta1BUZXRhdl9BUHgzQnd3?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Gbkh6YjFBejZBLUpBbG9QeUUwb3VpdFVzYXlteHRWN0phMHF4TkNPbkxpSlpocV85SzNRMFI1QmplUlpJcWp4Vy1wNC1hcVFQWVJqdm0wWXZRemwydzBweDlIYXgwZw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "DeepOcean brings in Boskalis CSV",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Gbkh6YjFBejZBLUpBbG9QeUUwb3VpdFVzYXlteHRWN0phMHF4TkNPbkxpSlpocV85SzNRMFI1QmplUlpJcWp4Vy1wNC1hcVFQWVJqdm0wWXZRemwydzBweDlIYXgwZw?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528279+09:00"
- },
- "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTMzX0VqbVJSbHQ2alZ2VFU1d1B3NEJtZkZOZWYzNDkxMUt1NFltVUZyQTJPbENBMHdQbHhTNTJ4NTQtTmdodkFSWkpOMEVuaXNmckRIdkdQXzVURGJyZU5Xd0xrYjFhZjdTREdWaTExekNkQ2txZVUwbkFLbnFCdzd1Z0k4cHluc1U2UGlhNVlkNlpUellfSmpXV2d1WEdXTkpUdzhwd2VjUk16VGc5ZHdyakNiYnA4Tk1zbVdodjNLQmVkbGFIMU9aR19ULUt6ZkwzNDB3SU05aFpkRlY1aTZEYllUS3RrR0E?oc=5": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Container shipping is one of the last major global commodities without a liquid futures market. That’s about to change.",
-  "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeTMzX0VqbVJSbHQ2alZ2VFU1d1B3NEJtZkZOZWYzNDkxMUt1NFltVUZyQTJPbENBMHdQbHhTNTJ4NTQtTmdodkFSWkpOMEVuaXNmckRIdkdQXzVURGJyZU5Xd0xrYjFhZjdTREdWaTExekNkQ2txZVUwbkFLbnFCdzd1Z0k4cHluc1U2UGlhNVlkNlpUellfSmpXV2d1WEdXTkpUdzhwd2VjUk16VGc5ZHdyakNiYnA4Tk1zbVdodjNLQmVkbGFIMU9aR19ULUt6ZkwzNDB3SU05aFpkRlY1aTZEYllUS3RrR0E?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528482+09:00"
- },
- "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVIwR3ZFbXlLbzVmRnA1Q3JqRWtSdGUweWd6RG9nV3RTbklCendtWEhYMzVNWUVPM2RabU96WlZRWVEwdlhsNF9xOVR1QmVmNW9mZV9XVk92amx5Q012eV9HLUNpU0NhWXNTZlpzWG5VM3hMQjl3MnQ5cVdXV0N1VnZJNElET3EyWGwxWGJFZllpX3hhbGpjWm5TRlNwbGp0c0RFVDVFbldORWdGSEx2azJOTEVkM1Jyd1k4UQ?oc=5": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Strait of Hormuz: Early pickup in vessel traffic even before ceasefire announcement",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdVIwR3ZFbXlLbzVmRnA1Q3JqRWtSdGUweWd6RG9nV3RTbklCendtWEhYMzVNWUVPM2RabU96WlZRWVEwdlhsNF9xOVR1QmVmNW9mZV9XVk92amx5Q012eV9HLUNpU0NhWXNTZlpzWG5VM3hMQjl3MnQ5cVdXV0N1VnZJNElET3EyWGwxWGJFZllpX3hhbGpjWm5TRlNwbGp0c0RFVDVFbldORWdGSEx2azJOTEVkM1Jyd1k4UQ?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528482+09:00"
- },
- "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWWpoX0NwOUNwWFBhNERsWUVicy10cUNzWnBpcGNSR1d5MDRjcFI3Q1ZDbnpvUHYwRWl0aEpmdTk4Rk5KV2VMdC1mY2xxMTNVbFNwOVRvTmIwa2RoeGNWdlpLZGJGZVdYOGdjN0VSemUxbGdOTEtKaFhMRThnVzRtSWZZNlk4bzc1QnBpZlFUXzRubG1GakE?oc=5": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "China Seeks Shipbuilding Cooperation with South Korea",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWWpoX0NwOUNwWFBhNERsWUVicy10cUNzWnBpcGNSR1d5MDRjcFI3Q1ZDbnpvUHYwRWl0aEpmdTk4Rk5KV2VMdC1mY2xxMTNVbFNwOVRvTmIwa2RoeGNWdlpLZGJGZVdYOGdjN0VSemUxbGdOTEtKaFhMRThnVzRtSWZZNlk4bzc1QnBpZlFUXzRubG1GakE?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528482+09:00"
- },
- "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnJQaGloU09Fa0xTVWI2a2ZvSnVReDR5ckcyRzQzWHZKdVViYWFiLU9NbVoyR01tS0dyM1hFczhMTkY4YlhyQWpYQ3BUSEYwMVlqY1lzV3pWSEhqbmlBU3I0VUVkRm1abTVVZWVkMS1PRW5OLTJ4RFFidWJKVG4zSDlnNjlURWxRNG84b2I4SXk5TEJXRkljRg?oc=5": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Alternative fuel vessel orders lose pace in March – DNV",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnJQaGloU09Fa0xTVWI2a2ZvSnVReDR5ckcyRzQzWHZKdVViYWFiLU9NbVoyR01tS0dyM1hFczhMTkY4YlhyQWpYQ3BUSEYwMVlqY1lzV3pWSEhqbmlBU3I0VUVkRm1abTVVZWVkMS1PRW5OLTJ4RFFidWJKVG4zSDlnNjlURWxRNG84b2I4SXk5TEJXRkljRg?oc=5",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-09T19:18:42.528482+09:00"
- },
- "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHdhUHJtS2ZjeGdRRk5TZVFFREYxdnhkVTR6VUtiS2llUXZpRWdzYzlyRUlmQTRMLTA1b2EwMHVWbVdXaG5xWG1TMVNDMHZKdG9nSW1wWHBncHVDaDd4QmpaRjZfT3BISk0wOWhGZGxUZ2pZQ0JBT20tOF9tSVN4QVh1TUZadHJTR09NZ1M2U3oxbjgydXNTcTFMV0EyRVlha1Y4?oc=5": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "HD Hyundai backs partners with materials, funding amid war risks",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaHdhUHJtS2ZjeGdRRk5TZVFFREYxdnhkVTR6VUtiS2llUXZpRWdzYzlyRUlmQTRMLTA1b2EwMHVWbVdXaG5xWG1TMVNDMHZKdG9nSW1wWHBncHVDaDd4QmpaRjZfT3BISk0wOWhGZGxUZ2pZQ0JBT20tOF9tSVN4QVh1TUZadHJTR09NZ1M2U3oxbjgydXNTcTFMV0EyRVlha1Y4?oc=5",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T19:18:42.528482+09:00"
- },
- "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN29KazFLaTNpU0lTOUppSVdhVlZ6eVhkaGE4Qm5SZWFFSloxeWdLNDdUWkNsODFnZGV2d2p6X3VSUEgydDZDeU1ONk9fQ1Z0cEtSYTAtbnNiamFZT240c19TN2IxRkd5bGM2TEpkbzltTktFSXV3eDNEWkFSUnJ6ZXJ3OU1JZU1QN2Jabk1WS3RacC1rNlBLcmM3cTVNamM?oc=5": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Weekly Market Report",
-  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN29KazFLaTNpU0lTOUppSVdhVlZ6eVhkaGE4Qm5SZWFFSloxeWdLNDdUWkNsODFnZGV2d2p6X3VSUEgydDZDeU1ONk9fQ1Z0cEtSYTAtbnNiamFZT240c19TN2IxRkd5bGM2TEpkbzltTktFSXV3eDNEWkFSUnJ6ZXJ3OU1JZU1QN2Jabk1WS3RacC1rNlBLcmM3cTVNamM?oc=5",
-  "date": "2026/04/03",
-  "sd": "04/03",
-  "first_seen_iso": "2026-04-09T19:18:42.528482+09:00"
- },
  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakZqczVIcVVnaGJZZVFkS0JpYVBKRXZYeGN6YWZCVVBhcElud3BwbGtvMFRiYy1DejVkS3VVd182bXd2Y1JXVGc2dHE1cjhfRTJyaUY4eFpZSEloNENNQldsVlFHcmVwVDk5VTExSnhWNjRfLXZIWnlWV3hvUmN2aW1sUUc?oc=5": {
   "src": "h",
   "cat": "Dry Bulk Market",
@@ -5308,5 +4957,41 @@
   "date": "2026/04/15",
   "sd": "04/15",
   "first_seen_iso": "2026-04-16T18:51:07.427097+09:00"
+ },
+ "https://splash247.com/geneva-broker-lightship-reshuffles-top-team/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva broker Lightship reshuffles top team",
+  "url": "https://splash247.com/geneva-broker-lightship-reshuffles-top-team/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
+ },
+ "https://splash247.com/near-standstill-at-hormuz-with-ceasefire-failing-to-unlock-gulf-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Near-standstill at Hormuz with ceasefire failing to unlock Gulf shipping",
+  "url": "https://splash247.com/near-standstill-at-hormuz-with-ceasefire-failing-to-unlock-gulf-shipping/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
+ },
+ "https://splash247.com/global-orderbook-hits-17-year-high/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Global orderbook hits 17-year high",
+  "url": "https://splash247.com/global-orderbook-hits-17-year-high/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
+ },
+ "https://splash247.com/hong-glory-bulk-sets-course-for-atlantic-growth-with-athens-office-opening/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hong Glory Bulk sets course for Atlantic growth with Athens office opening",
+  "url": "https://splash247.com/hong-glory-bulk-sets-course-for-atlantic-growth-with-athens-office-opening/",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
  }
 }
