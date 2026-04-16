@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/200765/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "清水港・外貿コンテナ、3月は7%増の3.7万TEU",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200765/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200766/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "米国小売りコンテナ輸入、3・4月は前回予想から上振れ",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200766/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200764/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "1～3月のブラジル大豆輸出量、1.9%増の2880万トンで過去最高",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200764/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200767/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "JFEテクノリサーチ、引張装置で安全評価、船舶向けも、受託試験サービス開始",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200767/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】シンナー不足、造船所の工程懸念、塗装全般で利用、調達の見通し不透明に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200582/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-09T16:02:48.024861+09:00"
- },
- "http://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2062号」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-09T16:02:48.025645+09:00"
- },
  "https://splash247.com/global-orderbook-hits-17-year-high/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -4988,7 +4934,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】WSA予測、世界鉄鋼需要は2026年で底打ち、2027年は成長軌道に4月14日：T/C市場＝16隻・114万DWT、V/C市場＝鉄鉱石9隻",
+  "title": "【本日のトピック】3月中国粗鋼生産は8,704万トンと前月比加速も前年比では▲6%減4月15日：T/C市場＝16隻・144万DWT、V/C市場＝鉄鉱石6隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -5083,5 +5029,41 @@
   "date": "2026/04/16",
   "sd": "04/16",
   "first_seen_iso": "2026-04-16T14:52:00.191462+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200922/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】、初の「学生Day」で各社イベント、海運・造船・舶用が仕事と技術伝える",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200922/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T17:00:27.786486+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200921/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "MSC/VIMC、ベトナムでカンジオ港開発へ、47年に1690万TEU目指す",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200921/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T17:00:27.786486+09:00"
+ },
+ "https://www.kaijipress.com/markets/tanker/2026/04/200920/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "プロダクト船市況月間レポート（2026年3月）、湾内積み大型船型、実勢失う",
+  "url": "https://www.kaijipress.com/markets/tanker/2026/04/200920/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T17:00:27.786486+09:00"
+ },
+ "https://splash247.com/wah-kwong-spins-off-dry-bulk-arm-with-60-ship-target/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Wah Kwong spins off dry bulk arm with 60-ship target",
+  "url": "https://splash247.com/wah-kwong-spins-off-dry-bulk-arm-with-60-ship-target/",
+  "date": "2026/04/16",
+  "sd": "04/16",
+  "first_seen_iso": "2026-04-16T17:00:27.786949+09:00"
  }
 }
