@@ -1,22 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/guineas-simandou-to-become-largest-driver-of-seaborne-iron-ore-supply-growth-wood-mackenzie-says/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Guinea’s Simandou to become largest driver of seaborne iron ore supply growth, Wood Mackenzie says",
-  "url": "https://www.hellenicshippingnews.com/guineas-simandou-to-become-largest-driver-of-seaborne-iron-ore-supply-growth-wood-mackenzie-says/",
-  "date": "2026/04/03",
-  "sd": "04/03",
-  "first_seen_iso": "2026-04-10T08:25:00.468167+09:00"
- },
- "https://www.hellenicshippingnews.com/china-consolidates-iron-ore-demand-to-challenge-bhp-reshape-pricing/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "China consolidates iron ore demand to challenge BHP, reshape pricing",
-  "url": "https://www.hellenicshippingnews.com/china-consolidates-iron-ore-demand-to-challenge-bhp-reshape-pricing/",
-  "date": "2026/04/03",
-  "sd": "04/03",
-  "first_seen_iso": "2026-04-10T08:25:00.468167+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200795/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -5092,5 +5074,23 @@
   "date": "2026/04/09",
   "sd": "04/09",
   "first_seen_iso": "2026-04-17T08:24:57.734203+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-5th-day/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Up for 5th Day",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-5th-day/",
+  "date": "2026/04/10",
+  "sd": "04/10",
+  "first_seen_iso": "2026-04-17T09:03:26.518409+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-36-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2066 up 36 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2066-up-36-points/",
+  "date": "2026/04/02",
+  "sd": "04/02",
+  "first_seen_iso": "2026-04-17T09:03:26.518409+09:00"
  }
 }
