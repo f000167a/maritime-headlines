@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/200796/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "スエズ運河庁、大型コンテナ船の15%減免を停止",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200796/",
-  "date": "2026/04/10",
-  "sd": "04/10",
-  "first_seen_iso": "2026-04-10T16:53:44.036419+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200797/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "苫小牧埠頭、新中計策定、28年度経常益20億円超、最大230億円を投資",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200797/",
-  "date": "2026/04/10",
-  "sd": "04/10",
-  "first_seen_iso": "2026-04-10T16:53:44.036419+09:00"
- },
- "https://splash247.com/toll-wars-and-diverging-agendas-cloud-hormuz-outlook/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Toll wars and diverging agendas cloud Hormuz outlook",
-  "url": "https://splash247.com/toll-wars-and-diverging-agendas-cloud-hormuz-outlook/",
-  "date": "2026/04/10",
-  "sd": "04/10",
-  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
- },
- "https://splash247.com/splash-wrap-fragile-hormuz-ceasefire-fails-to-lift-traffic/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Fragile Hormuz ceasefire fails to lift traffic",
-  "url": "https://splash247.com/splash-wrap-fragile-hormuz-ceasefire-fails-to-lift-traffic/",
-  "date": "2026/04/10",
-  "sd": "04/10",
-  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
- },
- "https://splash247.com/ethanol-enters-ore-trades-as-vale-signs-for-shandong-vloc-newbuilds/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ethanol enters ore trades as Vale signs for Shandong VLOC newbuilds",
-  "url": "https://splash247.com/ethanol-enters-ore-trades-as-vale-signs-for-shandong-vloc-newbuilds/",
-  "date": "2026/04/10",
-  "sd": "04/10",
-  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
- },
- "https://splash247.com/bulk-carrier-banned-from-australia-over-unpaid-wages/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Bulk carrier banned from Australia over unpaid wages",
-  "url": "https://splash247.com/bulk-carrier-banned-from-australia-over-unpaid-wages/",
-  "date": "2026/04/10",
-  "sd": "04/10",
-  "first_seen_iso": "2026-04-10T16:53:44.036869+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200798/": {
   "src": "k",
   "cat": "コラム",
@@ -4187,7 +4133,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】3月中国粗鋼生産は8,704万トンと前月比加速も前年比では▲6%減4月15日：T/C市場＝16隻・144万DWT、V/C市場＝鉄鉱石6隻、石炭1隻",
+  "title": "【本日のトピック】伯CONAB、4月度穀物需給見通しを発表4月16日：T/C市場＝25隻・166万DWT、V/C市場＝鉄鉱石=3隻、石炭2隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -4295,7 +4241,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200921/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "MSC/VIMC、ベ…",
+  "title": "MSC/VIMC、ベトナムでカンジオ港開発へ、47年に1690万TEU目指す",
   "url": "https://www.kaijipress.com/news/container/2026/04/200921/",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -4394,7 +4340,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200931/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、中小荷主向け新サービスをPR、B2Bカード決済で資金繰り支援",
+  "title": "ONE、中小荷主向け…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200931/",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -5083,5 +5029,77 @@
   "date": "2026/04/03",
   "sd": "04/03",
   "first_seen_iso": "2026-04-17T12:34:32.340939+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200957/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》海運アナリストはこう見る⑤、野村證券エクイティ・リサーチ部インフラストラクチャー・チーム 広兼賢治 運輸担当エグゼクティブ・ディレクター、邦船大手2～3割増益、コンテナ船堅調",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200957/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200955/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・コンテナ運賃指標、7週ぶり下落、欧米向けマイナス",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200955/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200953/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "クラブネス兼用船部門、26年1～3月期TCEは3万3432ドル",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200953/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200956/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】飯野海運、インマルサット主催のパネル討論に登壇",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200956/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/200958/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "Pベイスン、メタノールDF船を従来燃料に変更、「規制の先行き不透明」",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/200958/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200954/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "江南造船、大型アンモニア運搬船2隻受注、テナマリスと初取引",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200954/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
+ },
+ "https://splash247.com/splash-wrap-next-generation-msc/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Next generation MSC",
+  "url": "https://splash247.com/splash-wrap-next-generation-msc/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.530334+09:00"
+ },
+ "https://splash247.com/seaspan-breaks-into-mpp-segment-with-four-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Seaspan breaks into MPP segment with four newbuilds",
+  "url": "https://splash247.com/seaspan-breaks-into-mpp-segment-with-four-newbuilds/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-17T17:01:26.530334+09:00"
  }
 }
