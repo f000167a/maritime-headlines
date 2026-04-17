@@ -4322,7 +4322,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200921/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "MSC/VIMC、ベトナムでカンジオ港開発へ、47年に1690万TEU目指す",
+  "title": "MSC/VIMC、ベ…",
   "url": "https://www.kaijipress.com/news/container/2026/04/200921/",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -4421,7 +4421,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200931/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、中小荷主向け…",
+  "title": "ONE、中小荷主向け新サービスをPR、B2Bカード決済で資金繰り支援",
   "url": "https://www.kaijipress.com/news/container/2026/04/200931/",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -5092,5 +5092,23 @@
   "date": "2026/04/02",
   "sd": "04/02",
   "first_seen_iso": "2026-04-17T09:03:26.518409+09:00"
+ },
+ "https://www.hellenicshippingnews.com/guineas-simandou-to-become-largest-driver-of-seaborne-iron-ore-supply-growth-wood-mackenzie-says/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Guinea’s Simandou to become largest driver of seaborne iron ore supply growth, Wood Mackenzie says",
+  "url": "https://www.hellenicshippingnews.com/guineas-simandou-to-become-largest-driver-of-seaborne-iron-ore-supply-growth-wood-mackenzie-says/",
+  "date": "2026/04/03",
+  "sd": "04/03",
+  "first_seen_iso": "2026-04-17T12:34:32.340939+09:00"
+ },
+ "https://www.hellenicshippingnews.com/china-consolidates-iron-ore-demand-to-challenge-bhp-reshape-pricing/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "China consolidates iron ore demand to challenge BHP, reshape pricing",
+  "url": "https://www.hellenicshippingnews.com/china-consolidates-iron-ore-demand-to-challenge-bhp-reshape-pricing/",
+  "date": "2026/04/03",
+  "sd": "04/03",
+  "first_seen_iso": "2026-04-17T12:34:32.340939+09:00"
  }
 }
