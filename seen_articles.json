@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/tramper/2026/04/200668/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "ローリッツェン・バルカーズのサトウCEO、今年以降日系造船所で10隻竣工",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200668/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T17:24:13.911929+09:00"
- },
- "https://splash247.com/trumps-blockade-brinkmanship-fuels-oil-surge/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Trump’s blockade brinkmanship fuels oil surge",
-  "url": "https://splash247.com/trumps-blockade-brinkmanship-fuels-oil-surge/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T17:24:13.912308+09:00"
- },
- "https://splash247.com/sweden-detains-bulker-carrying-russian-coal-to-spain/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Sweden detains bulker carrying Russian coal to Spain",
-  "url": "https://splash247.com/sweden-detains-bulker-carrying-russian-coal-to-spain/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T17:24:13.912308+09:00"
- },
- "https://splash247.com/chinese-bulker-owner-yangpu-zhongxin-doubles-down-on-tankers/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Chinese bulker owner Yangpu Zhongxin doubles down on tankers",
-  "url": "https://splash247.com/chinese-bulker-owner-yangpu-zhongxin-doubles-down-on-tankers/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T17:24:13.912308+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200828/": {
   "src": "k",
   "cat": "コラム",
@@ -3251,7 +3215,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】伯CONAB、4月度穀物需給見通しを発表4月16日：T/C市場＝25隻・166万DWT、V/C市場＝鉄鉱石=3隻、石炭2隻、その他1隻",
+  "title": "【本日のトピック】3月中国全国発電量は前年比+3%増、火力発電が堅調4月17日：T/C市場＝20隻・143万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -4151,7 +4115,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200957/": {
   "src": "k",
   "cat": "トップ",
-  "title": "《連載》海運アナリストはこう見る⑤邦船大手2～3割増益　コンテナ船堅調野村證券エクイティ・リサーチ部インフラストラクチャー・チーム広兼賢治 運輸担当エグゼクティブ・ディレクター",
+  "title": "《連載》海運アナリストはこう見る⑤邦船大手2～3割増益　コンテナ船堅調野村證券エクイティ・リサーチ部インフラストラクチャー・チーム広兼賢治 運輸担当エグゼクティブ・ディレクター無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200957/",
   "date": "2026/04/17",
   "sd": "04/17",
@@ -4367,7 +4331,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200975/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&Sがライセンス生産、三井製MET過給機の累計生産100台達成、ラインアップ拡充へ",
+  "title": "三井E&Sがライセン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200975/",
   "date": "2026/04/17",
   "sd": "04/17",
@@ -4385,7 +4349,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200977/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "九州大学、造船用AI…",
+  "title": "九州大学、造船用AIなどの中核研究拠点に、次世代造船センター新設",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200977/",
   "date": "2026/04/17",
   "sd": "04/17",
@@ -5560,5 +5524,23 @@
   "date": "2026/04/20",
   "sd": "04/20",
   "first_seen_iso": "2026-04-20T15:05:52.328245+09:00"
+ },
+ "https://splash247.com/strait-standoff-reshapes-fertiliser-trade-and-crop-economics/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Strait standoff reshapes fertiliser trade and crop economics",
+  "url": "https://splash247.com/strait-standoff-reshapes-fertiliser-trade-and-crop-economics/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-20T17:29:04.431277+09:00"
+ },
+ "https://splash247.com/rio-tinto-sale-headlines-the-dry-bulk-market/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Rio Tinto sale headlines the dry bulk market",
+  "url": "https://splash247.com/rio-tinto-sale-headlines-the-dry-bulk-market/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-20T17:29:04.431277+09:00"
  }
 }
