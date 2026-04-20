@@ -1,49 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313440": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【お知らせ】別冊「人材特集2026」",
-  "url": "https://www.jmd.co.jp/article.php?no=313440",
-  "date": "2026/03/16",
-  "sd": "03/16",
-  "first_seen_iso": "2026-04-13T15:05:19.664117+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/200826/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】金子国交相、「日本関係船の安全確保に全力」",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200826/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200824/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船短期運賃、欧州下落も米国向けは上昇基調",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200824/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200825/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "金子国交相、横浜港C…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200825/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200827/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "OOCL、1～3月期は売上高8%減、コンテナ輸送量は2%増",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200827/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-13T15:05:19.664435+09:00"
- },
  "https://www.kaijipress.com/news/tramper/2026/04/200668/": {
   "src": "k",
   "cat": "コラム",
@@ -5578,5 +5533,32 @@
   "date": "2026/04/20",
   "sd": "04/20",
   "first_seen_iso": "2026-04-20T08:52:21.438574+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200986/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、新造船戦略、連携と選択肢が肝に、技術ユニット統括の池田真吾常務に聞く",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200986/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-20T15:05:52.328245+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/200988/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ運賃、米国上昇も欧州向け続落、中東向けも下落",
+  "url": "https://www.kaijipress.com/news/container/2026/04/200988/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-20T15:05:52.328245+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/2026/04/200987/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【プロフィール】浜野義明 氏・日本郵船執行役員",
+  "url": "https://www.kaijipress.com/person/profile/2026/04/200987/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-20T15:05:52.328245+09:00"
  }
 }
