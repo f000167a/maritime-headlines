@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200708/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "NK、船級を高度化・拡張へ、AIなど活用、日本造船再生にはAIとロボ開発で連携",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200708/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T21:03:39.622257+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2201-up-40-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2201 up 40 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2201-up-40-points/",
-  "date": "2026/04/10",
-  "sd": "04/10",
-  "first_seen_iso": "2026-04-14T21:03:39.623095+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314408": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -4367,7 +4349,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200992/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、インドに船…",
+  "title": "日本郵船、インドに船員研修所を新設、自国内で研修可能に",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200992/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4376,7 +4358,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200993/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、星港で低炭素アンモニア燃料供給へ、ヤラらと、30年代前半の事業化目指す",
+  "title": "日本郵船、星港で低炭…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200993/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4448,7 +4430,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201001/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM/ジェ…",
+  "title": "CMA-CGM/ジェマデプト、ベトナム南部のCT拡張に着工、年300万TEUに",
   "url": "https://www.kaijipress.com/news/container/2026/04/201001/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4475,7 +4457,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201004/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "寧波遠洋運輸、電気推進コンテナ船が商業運航、第2船も6月引き渡し",
+  "title": "寧波遠洋運輸、電気推…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201004/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4538,7 +4520,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201012/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工とアイディア…",
+  "title": "川崎重工とアイディア、船舶の「カルテ」を共同開発、トラブル対応を一元管理",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201012/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4556,7 +4538,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "小型内航船用に簡易型自律操船、常石ソリューションズ・YAMAX・戸高製作所が製品化へ",
+  "title": "小型内航船用に簡易型…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -5722,5 +5704,14 @@
   "date": "2026/04/21",
   "sd": "04/21",
   "first_seen_iso": "2026-04-21T20:16:40.640253+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2640-up-7-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2640 up 7 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2640-up-7-points/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T21:42:44.326366+09:00"
  }
 }
