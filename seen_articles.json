@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200850/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "飯野ビル、ウェルビー…",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200850/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T14:51:35.209430+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200852/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "MSC、ディエゴ社長…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200852/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T14:51:35.209430+09:00"
- },
- "https://www.kaijipress.com/markets/tanker/2026/04/200851/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【タンカー】VLCC市況週間レポート（4月6日～10日）、中東―極東、停戦合意背景に急騰局面",
-  "url": "https://www.kaijipress.com/markets/tanker/2026/04/200851/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T14:51:35.209430+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200854/": {
   "src": "k",
   "cat": "コラム",
@@ -4772,7 +4745,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200993/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、星港で低炭…",
+  "title": "日本郵船、星港で低炭素アンモニア燃料供給へ、ヤラらと、30年代前半の事業化目指す",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200993/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4790,7 +4763,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200995/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ワキタ、グラブ浚渫を自動化、長時間の反復動作代替",
+  "title": "ワキタ、グラブ浚渫を…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200995/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4844,7 +4817,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201001/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM/ジェ…",
+  "title": "CMA-CGM/ジェマデプト、ベトナム南部のCT拡張に着工、年300万TEUに",
   "url": "https://www.kaijipress.com/news/container/2026/04/201001/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4871,7 +4844,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201004/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "寧波遠洋運輸、電気推進コンテナ船が商業運航、第2船も6月引き渡し",
+  "title": "寧波遠洋運輸、電気推…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201004/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4880,7 +4853,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/201005/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "商船三井、石炭船に硬…",
+  "title": "商船三井、石炭船に硬翼帆搭載完了、既存船へは初",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/201005/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4907,7 +4880,7 @@
  "https://www.kaijipress.com/news/tramper/2026/04/201009/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、「イイノの森」自然共生サイト認定",
+  "title": "飯野海運、「イイノの…",
   "url": "https://www.kaijipress.com/news/tramper/2026/04/201009/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4925,7 +4898,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201011/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "福井製作所、4万㎥型…",
+  "title": "福井製作所、4万㎥型液化水素船に安全弁採用、川重建造船に鋳物製を適用",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201011/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4952,7 +4925,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "小型内航船用に簡易型自律操船、常石ソリューションズ・YAMAX・戸高製作所が製品化へ",
+  "title": "小型内航船用に簡易型…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -5767,5 +5740,32 @@
   "date": "2026/04/14",
   "sd": "04/14",
   "first_seen_iso": "2026-04-21T12:35:47.403726+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313841": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（406）日本支える先行発注。恒力重工、破竹の勢い",
+  "url": "https://www.jmd.co.jp/article.php?no=313841",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-21T14:53:47.245047+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313828": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/有村智成】神戸・大阪両港予算、船社から選ばれる港づくり進めよ",
+  "url": "https://www.jmd.co.jp/article.php?no=313828",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-21T14:53:47.245047+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313612": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神子真人】コンテナ船事業の競争力、不確実性対応力が重み増す",
+  "url": "https://www.jmd.co.jp/article.php?no=313612",
+  "date": "2026/03/24",
+  "sd": "03/24",
+  "first_seen_iso": "2026-04-21T14:53:47.245047+09:00"
  }
 }
