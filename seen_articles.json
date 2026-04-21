@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200854/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井、バイオ燃料原料植物を試験栽培、フォープライドらと、炭鉱跡地活用",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200854/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T16:59:22.688077+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200855/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "5大港・25年実績、実入りコンテナは1%増の1090万TEU",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200855/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T16:59:22.688077+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200856/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "上海港、3月は9%増の469万TEU",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200856/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T16:59:22.688077+09:00"
- },
- "https://splash247.com/hormuz-day-46-blockades-and-backchannels/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz day 46: blockades and backchannels",
-  "url": "https://splash247.com/hormuz-day-46-blockades-and-backchannels/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-14T16:59:22.688526+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200857/": {
   "src": "k",
   "cat": "コラム",
@@ -2378,7 +2342,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】3月中国全国発電量は前年比+3%増、火力発電が堅調4月17日：T/C市場＝20隻・143万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、穀物1隻",
+  "title": "【本日のトピック】3月の中国石炭輸入、一般炭が前年比▲12%減、原料炭は+45%増4月20日：T/C市場＝6隻・35万DWT、V/C市場＝鉄鉱石5隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/16",
   "sd": "04/16",
@@ -4745,7 +4709,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200993/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、星港で低炭素アンモニア燃料供給へ、ヤラらと、30年代前半の事業化目指す",
+  "title": "日本郵船、星港で低炭…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200993/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4763,7 +4727,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200995/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ワキタ、グラブ浚渫を…",
+  "title": "ワキタ、グラブ浚渫を自動化、長時間の反復動作代替",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200995/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4907,7 +4871,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201012/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工とアイディア、船舶の「カルテ」を共同開発、トラブル対応を一元管理",
+  "title": "川崎重工とアイディア…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201012/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4925,7 +4889,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "小型内航船用に簡易型…",
+  "title": "小型内航船用に簡易型自律操船、常石ソリューションズ・YAMAX・戸高製作所が製品化へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -5767,5 +5731,50 @@
   "date": "2026/03/24",
   "sd": "03/24",
   "first_seen_iso": "2026-04-21T14:53:47.245047+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201023/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》転換期迎えた船舶通信①、変化する船舶通信インフラ、低軌道衛星の登場で高速化",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201023/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T17:05:10.469501+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》自動運航技術の最前線、古野電気、航海判断と船陸連携を一体設計、認知・判断技術を高度化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T17:05:10.469501+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "トルコ修繕クゼイスター、FSRUやLNG船で差別化、ドック増設、シリアに新工場も計画",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T17:05:10.469501+09:00"
+ },
+ "https://splash247.com/rio-tinto-locks-in-methanol-ready-bulker-charters/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Rio Tinto locks in methanol-ready bulker charters",
+  "url": "https://splash247.com/rio-tinto-locks-in-methanol-ready-bulker-charters/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T17:05:10.469994+09:00"
+ },
+ "https://splash247.com/geneva-dry-set-to-tackle-shippings-biggest-stress-points/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry set to tackle shipping’s biggest stress points",
+  "url": "https://splash247.com/geneva-dry-set-to-tackle-shippings-biggest-stress-points/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T17:05:10.469994+09:00"
  }
 }
