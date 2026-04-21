@@ -1,13 +1,4 @@
 {
- "https://splash247.com/trump-floats-us-toll-on-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Trump floats US toll on Hormuz",
-  "url": "https://splash247.com/trump-floats-us-toll-on-hormuz/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-14T19:53:20.909574+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200708/": {
   "src": "k",
   "cat": "コラム",
@@ -4376,7 +4367,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200992/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、インドに船員研修所を新設、自国内で研修可能に",
+  "title": "日本郵船、インドに船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200992/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4403,7 +4394,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/200995/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ワキタ、グラブ浚渫を…",
+  "title": "ワキタ、グラブ浚渫を自動化、長時間の反復動作代替",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/200995/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4430,7 +4421,7 @@
  "https://www.kaijipress.com/news/container/2026/04/200998/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、ブラジル南…",
+  "title": "マースク、ブラジル南部でデポ整備、内陸増強と混雑緩和へ",
   "url": "https://www.kaijipress.com/news/container/2026/04/200998/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4457,7 +4448,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201001/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM/ジェマデプト、ベトナム南部のCT拡張に着工、年300万TEUに",
+  "title": "CMA-CGM/ジェ…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201001/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4547,7 +4538,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201012/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工とアイディア、船舶の「カルテ」を共同開発、トラブル対応を一元管理",
+  "title": "川崎重工とアイディア…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201012/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -4565,7 +4556,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "小型内航船用に簡易型…",
+  "title": "小型内航船用に簡易型自律操船、常石ソリューションズ・YAMAX・戸高製作所が製品化へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201014/",
   "date": "2026/04/20",
   "sd": "04/20",
@@ -5713,5 +5704,23 @@
   "date": "2026/04/14",
   "sd": "04/14",
   "first_seen_iso": "2026-04-21T18:53:17.190089+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/200877/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】造船所の引き渡しや新規商談に懸念、カタール向けLNG船の建造本格化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200877/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T20:16:40.640253+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200857/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》海運アナリストはこう見る④、モルガン・スタンレーMUFG証券 調査統括本部株式調査部 尾坂拓也アナリスト、4～5割減益、コンテナ船赤字予想",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200857/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-21T20:16:40.640253+09:00"
  }
 }
