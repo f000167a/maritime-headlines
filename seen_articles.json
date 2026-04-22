@@ -1,49 +1,4 @@
 {
- "https://splash247.com/icap-rolls-out-dry-ffa-desk/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "ICAP rolls out dry FFA desk",
-  "url": "https://splash247.com/icap-rolls-out-dry-ffa-desk/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-15T09:07:24.592294+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-rises-to-over-1-month-high/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Rises to Over 1-Month High",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rises-to-over-1-month-high/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-15T09:07:24.592440+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2095-up-29-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2095 up 29 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2095-up-29-points/",
-  "date": "2026/04/07",
-  "sd": "04/07",
-  "first_seen_iso": "2026-04-15T09:07:24.592440+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-3-week-low-posts-monthly-loss/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index at Near 3-Week Low, Posts Monthly Loss",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-near-3-week-low-posts-monthly-loss/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-15T09:07:24.592440+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1995-down-22-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index falls to 1995 down 22 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-1995-down-22-points/",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-15T09:07:24.592440+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/04/200891/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -4700,7 +4655,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術…",
+  "title": "《連載》自動運航技術の最前線、古野電気、航海判断と船陸連携を一体設計、認知・判断技術を高度化",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/",
   "date": "2026/04/21",
   "sd": "04/21",
@@ -4709,7 +4664,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "トルコ修繕クゼイスター、FSRUやLNG船で差別化、ドック増設、シリアに新工場も計画",
+  "title": "トルコ修繕クゼイスタ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/",
   "date": "2026/04/21",
   "sd": "04/21",
@@ -4799,7 +4754,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201033/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【シンガポールマリタイムウィーク2026】SMW2026、商船三井・田村社長が登壇、不確実性の高まりに対応",
+  "title": "【シンガポールマリタ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201033/",
   "date": "2026/04/21",
   "sd": "04/21",
@@ -4817,7 +4772,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201035/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【シンガポールマリタ…",
+  "title": "【シンガポールマリタイムウィーク2026】SMW開幕、20回目の節目、課題解決策を模索、海事関係者が集結",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201035/",
   "date": "2026/04/21",
   "sd": "04/21",
