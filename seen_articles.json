@@ -1,85 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200736/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】停戦合意で湾内船の脱出なるか、安全確認や通航制約など課題",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200736/",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.993244+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7870/1": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "鉄鉱石部門：3月伯鉄鉱石輸出は前年比微減、2月の水準も下回る●ブラジル開発・商工省が発表した速報値によると、同国3月の鉄鉱石輸出量は2,793万トンと前月比▲1.9%・前年同月比▲1.6%減で、2月の水準を下回った。なお、1～3月の累計では8,496万トンと前・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7870/1",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7869/2": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "石炭部門：インド、25/26年度の石炭生産量は前年度比▲0.6%減少●インド石炭省によると、同国3月の石炭生産量は1億1,370万トンと前月比で13.1%増加したものの前年同月比では▲4.1%減少、4カ月ぶりに前年水準を下回った。ただし、4カ月連続で1億トン以上をマー・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7869/2",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7868/3": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "穀物部門：伯大豆輸出、3月は9カ月ぶりの前年比マイナス●米国農務省(USDA)によると、25/26年度直近(9月～4月2日)までの米国大豆輸出量は3,052万トン(前年同期比▲26.8%)。直近週の週間輸出量は64万トン(前週比▲6.7%・前年同期比▲1・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7868/3",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7867/4": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "マイナーバルク部門：中国2026年1～2月のニッケル鉱石輸入量、前年比+26.7%増●週末10日時点の動静データを見ると、仕向け地未定のフリー船隻数はハンディマックスが前週末比▲4隻減・前年同期比+3隻増の35隻。一方、ハンディサイズは前週末+11隻増・前年同期比+36隻増の67隻。・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7867/4",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7866/6": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "新造・中古船部門：世界初エタノール対応の三元燃料VLOC、Vale向けに新造●2026年4月第二週(-10日)のバルカー中古船市場は、前週に続きケープサイズを除く部門で10隻の売買事例が判明した。・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7866/6",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7864/7": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "証券部門：半導体関連株に改めて資金流入・海運株は高値もみ合い●米国とイランは2週間の一時停戦と戦闘終結に向けた交渉入りに同意したが、仲介役であるパキスタンのイスラマバードで開かれた最初の交渉では合意に至らなかった。イランが核開発の放棄やホルムズ海峡の開放を拒否・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7864/7",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7865/8": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧部門：イラン戦争長期化で忍び寄る食料危機●トランプ米2.0政権誕生から1年3カ月、イラン戦争が始まって40日が経過した。8日とされたイランの発電所や橋梁など重要インフラへの大規模攻撃は、直前になって2週間延期された。しかし、21時間に及ぶ協・・・続きを読む",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1216/7865/8",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
- "http://www.tramp.co.jp/fenet/weekly_general/detail2/1216": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧問題を語る - 柴田明夫の視点 - 「イラン戦争長期化で忍び寄る食料危機」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_general/detail2/1216",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-15T21:07:19.994244+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314439": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -4322,7 +4241,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術の最前線、古野電気、航海判断と船陸連携を一体設計、認知・判断技術を高度化",
+  "title": "《連載》自動運航技術…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/",
   "date": "2026/04/21",
   "sd": "04/21",
@@ -4331,7 +4250,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "トルコ修繕クゼイスタ…",
+  "title": "トルコ修繕クゼイスター、FSRUやLNG船で差別化、ドック増設、シリアに新工場も計画",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/",
   "date": "2026/04/21",
   "sd": "04/21",
@@ -4439,7 +4358,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201035/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【シンガポールマリタイムウィーク2026】SMW開幕、20回目の節目、課題解決策を模索、海事関係者が集結",
+  "title": "【シンガポールマリタ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201035/",
   "date": "2026/04/21",
   "sd": "04/21",
@@ -4466,7 +4385,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201038/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "「海上保安の日」、ロ…",
+  "title": "「海上保安の日」、ロゴマーク作成",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201038/",
   "date": "2026/04/21",
   "sd": "04/21",
