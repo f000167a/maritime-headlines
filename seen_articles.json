@@ -1,40 +1,4 @@
 {
- "https://splash247.com/geneva-broker-lightship-reshuffles-top-team/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva broker Lightship reshuffles top team",
-  "url": "https://splash247.com/geneva-broker-lightship-reshuffles-top-team/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
- },
- "https://splash247.com/near-standstill-at-hormuz-with-ceasefire-failing-to-unlock-gulf-shipping/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Near-standstill at Hormuz with ceasefire failing to unlock Gulf shipping",
-  "url": "https://splash247.com/near-standstill-at-hormuz-with-ceasefire-failing-to-unlock-gulf-shipping/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
- },
- "https://splash247.com/global-orderbook-hits-17-year-high/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Global orderbook hits 17-year high",
-  "url": "https://splash247.com/global-orderbook-hits-17-year-high/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
- },
- "https://splash247.com/hong-glory-bulk-sets-course-for-atlantic-growth-with-athens-office-opening/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hong Glory Bulk sets course for Atlantic growth with Athens office opening",
-  "url": "https://splash247.com/hong-glory-bulk-sets-course-for-atlantic-growth-with-athens-office-opening/",
-  "date": "2026/04/09",
-  "sd": "04/09",
-  "first_seen_iso": "2026-04-16T20:12:27.501365+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200768/": {
   "src": "k",
   "cat": "コラム",
@@ -3665,7 +3629,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201065/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【シンガポールマリタ…",
+  "title": "【シンガポールマリタイムウィーク2026】ピライ運輸担当上級大臣、脱炭素・デジタル・人材が鍵",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201065/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3674,7 +3638,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201066/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【シンガポールマリタイムウィーク2026】シンガポール、港湾手続き円滑化、デジタルPF「OCEANS-X」を開発",
+  "title": "【シンガポールマリタ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201066/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3782,7 +3746,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201078/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工マリンマシナ…",
+  "title": "三菱重工マリンマシナリと三菱造船、LNG機関用メタン酸化触媒装置がAiP、NKから取得",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201078/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3791,7 +3755,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201079/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ナカシマプロペラ、100周年で記念パーティー、「BEYOND PROPULSION」掲げ次代へ",
+  "title": "ナカシマプロペラ、1…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201079/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3845,7 +3809,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201089/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】ジャパンパビリオンに130社超、日本クラスターの技術集結無料",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201089/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3854,7 +3818,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201090/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】グラス駐日米大使が基調講演、米国造船再建へ、日米協力重視無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201090/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4669,5 +4633,23 @@
   "date": "2026/04/16",
   "sd": "04/16",
   "first_seen_iso": "2026-04-23T18:58:18.298316+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200923/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井・田村城太郎社長に聞く、ポートフォリオ維持、上振れも狙う",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200923/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T20:19:05.361635+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2063号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/04/22",
+  "sd": "04/22",
+  "first_seen_iso": "2026-04-23T20:19:05.362384+09:00"
  }
 }
