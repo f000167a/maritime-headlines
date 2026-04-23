@@ -1,31 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2139-up-44-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2139 up 44 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2139-up-44-points/",
-  "date": "2026/04/08",
-  "sd": "04/08",
-  "first_seen_iso": "2026-04-16T09:06:33.417748+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-losing-run-2/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Snaps 2-Day Losing Run",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-losing-run-2/",
-  "date": "2026/04/02",
-  "sd": "04/02",
-  "first_seen_iso": "2026-04-16T09:06:33.417748+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2030 up 35 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2030-up-35-points/",
-  "date": "2026/04/01",
-  "sd": "04/01",
-  "first_seen_iso": "2026-04-16T09:06:33.417748+09:00"
- },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/200918/": {
   "src": "k",
   "cat": "トップ",
@@ -3935,7 +3908,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201059/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《シリーズ》新技術開…",
+  "title": "《シリーズ》新技術開発ものがたり、J-ENG、知見蓄積で次世代燃料対応の布石に、純国産アンモニア機関初号機を開発",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201059/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3989,7 +3962,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201062/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海技教育機構・佐々新理事長に聞く、船員養成、基盤整備・強化を目指す",
+  "title": "海技教育機構・佐々新…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201062/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4025,7 +3998,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201066/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【シンガポールマリタ…",
+  "title": "【シンガポールマリタイムウィーク2026】シンガポール、港湾手続き円滑化、デジタルPF「OCEANS-X」を開発",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201066/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4061,7 +4034,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201070/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "【シンガポールマリタイムウィーク2026】シンガポール港とLA・LB港、グリーンデジタル回廊で覚書更新",
+  "title": "【シンガポールマリタ…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201070/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4088,7 +4061,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201073/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ワンハイ、台中で植樹…",
+  "title": "ワンハイ、台中で植樹活動を実施",
   "url": "https://www.kaijipress.com/news/container/2026/04/201073/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4133,7 +4106,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201078/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工マリンマシナリと三菱造船、LNG機関用メタン酸化触媒装置がAiP、NKから取得",
+  "title": "三菱重工マリンマシナ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201078/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4633,5 +4606,149 @@
   "date": "2026/04/15",
   "sd": "04/15",
   "first_seen_iso": "2026-04-23T08:32:50.575121+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314231": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/鈴木隆史】中東緊迫下の船員交代、コロナ禍の教訓生かし持続へ",
+  "url": "https://www.jmd.co.jp/article.php?no=314231",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-23T10:12:52.169543+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.169911+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】中国3月鉄鉱石輸入、伯産が2カ月連続で前年水準下回る4月21日：T/C市場＝6隻・49万DWT、V/C市場＝鉄鉱石=4隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.170682+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.170682+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.170682+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.170682+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.170682+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T10:12:52.170682+09:00"
  }
 }
