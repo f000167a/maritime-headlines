@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200918/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "1～3月9%増で年1000万トン水準国内造船の建造量、中東影響も注視",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200918/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-16T14:52:00.191462+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200919/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "【Sea Japan 2026】、国際海事セミナー、米大使らが講演、米の造船振興策と日米協力テーマに無料",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200919/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-16T14:52:00.191462+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200922/": {
   "src": "k",
   "cat": "コラム",
@@ -3872,7 +3854,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201055/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【未来を探せ～70の…",
+  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜中＞、船舶管理・危機管理で総合力発揮",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201055/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3944,7 +3926,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201060/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "野村HD、独シュルテ系船舶投資会社に出資、船舶投資商品の開発視野に",
+  "title": "野村HD、独シュルテ系船舶投資会社に出資、船舶投資商品の開発視野に無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201060/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3962,7 +3944,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201062/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海技教育機構・佐々新理事長に聞く、船員養成、基盤整備・強化を目指す",
+  "title": "海技教育機構・佐々新…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201062/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4052,7 +4034,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201072/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、北大図書館内施設に愛称付与",
+  "title": "鈴与、北大図書館内施…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201072/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4061,7 +4043,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201073/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ワンハイ、台中で植樹…",
+  "title": "ワンハイ、台中で植樹活動を実施",
   "url": "https://www.kaijipress.com/news/container/2026/04/201073/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4750,5 +4732,32 @@
   "date": "2026/04/23",
   "sd": "04/23",
   "first_seen_iso": "2026-04-23T10:12:52.170682+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201092/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜下＞、好奇心・判断能力が必要に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201092/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T14:55:02.116555+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201093/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》転換期迎えた船舶通信③、「NexusWave」に刷新、インマルサット、変革期に対応",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201093/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T14:55:02.116555+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "神戸舶用工、新会長に平原精機工業・村上氏",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T14:55:02.116555+09:00"
  }
 }
