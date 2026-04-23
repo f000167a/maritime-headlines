@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200922/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【Sea Japan 2026】、初の「学生Day」で各社イベント、海運・造船・舶用が仕事と技術伝える",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200922/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-16T17:00:27.786486+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200921/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "MSC/VIMC、ベ…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200921/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-16T17:00:27.786486+09:00"
- },
- "https://www.kaijipress.com/markets/tanker/2026/04/200920/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【タンカー】プロダクト船市況月間レポート（2026年3月）、湾内積み大型船型、実勢失う",
-  "url": "https://www.kaijipress.com/markets/tanker/2026/04/200920/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-16T17:00:27.786486+09:00"
- },
- "https://splash247.com/wah-kwong-spins-off-dry-bulk-arm-with-60-ship-target/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Wah Kwong spins off dry bulk arm with 60-ship target",
-  "url": "https://splash247.com/wah-kwong-spins-off-dry-bulk-arm-with-60-ship-target/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-16T17:00:27.786949+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200923/": {
   "src": "k",
   "cat": "コラム",
@@ -3890,7 +3854,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201059/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《シリーズ》新技術開…",
+  "title": "《シリーズ》新技術開発ものがたり、J-ENG、知見蓄積で次世代燃料対応の布石に、純国産アンモニア機関初号機を開発",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201059/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3944,7 +3908,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201062/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海技教育機構・佐々新…",
+  "title": "海技教育機構・佐々新理事長に聞く、船員養成、基盤整備・強化を目指す",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201062/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -3971,7 +3935,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201065/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【シンガポールマリタイムウィーク2026】ピライ運輸担当上級大臣、脱炭素・デジタル・人材が鍵",
+  "title": "【シンガポールマリタ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201065/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4016,7 +3980,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201070/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "【シンガポールマリタイムウィーク2026】シンガポール港とLA・LB港、グリーンデジタル回廊で覚書更新",
+  "title": "【シンガポールマリタ…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201070/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4034,7 +3998,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201072/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、北大図書館内施…",
+  "title": "鈴与、北大図書館内施設に愛称付与",
   "url": "https://www.kaijipress.com/news/container/2026/04/201072/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4088,7 +4052,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201078/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工マリンマシナリと三菱造船、LNG機関用メタン酸化触媒装置がAiP、NKから取得",
+  "title": "三菱重工マリンマシナ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201078/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4151,7 +4115,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201089/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】ジャパンパビリオンに130社超、日本クラスターの技術集結無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201089/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4169,7 +4133,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201091/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】船技協、産業標準化、協力者5に感謝状無料",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201091/",
   "date": "2026/04/22",
   "sd": "04/22",
@@ -4682,7 +4646,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国3月鉄鉱石輸入、伯産が2カ月連続で前年水準下回る4月21日：T/C市場＝6隻・49万DWT、V/C市場＝鉄鉱石=4隻",
+  "title": "【本日のトピック】中国3月の主要穀物輸入、軒並み前年水準上回る4月22日：T/C市場＝17隻・132万DWT、V/C市場＝鉄鉱石4隻、石炭2隻、その他2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4759,5 +4723,41 @@
   "date": "2026/04/23",
   "sd": "04/23",
   "first_seen_iso": "2026-04-23T14:55:02.116555+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201095/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》海運アナリストはこう見る⑦、東海東京インテリジェンス・ラボ　土谷康仁シニアアナリスト、海運業の価値向上で株価上昇余地",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201095/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T17:07:00.157882+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "リケンNPR、舶用事業を一体化、統合シナジーで海外展開加速、技術融合も推進",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T17:07:00.157882+09:00"
+ },
+ "https://www.kaijipress.com/news/sea_japan/2026/04/201097/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】ナカシマプロペラ、顧客起点・失敗も糧に事業拡大、挑戦の歩みを語る",
+  "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201097/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T17:07:00.157882+09:00"
+ },
+ "https://splash247.com/asyad-shipping-enters-kamsarmax-space-with-73m-bulker-buy/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Asyad Shipping enters kamsarmax space with $73m bulker buy",
+  "url": "https://splash247.com/asyad-shipping-enters-kamsarmax-space-with-73m-bulker-buy/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-23T17:07:00.158362+09:00"
  }
 }
