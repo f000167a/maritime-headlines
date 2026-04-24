@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200957/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》海運アナリストはこう見る⑤、野村證券エクイティ・リサーチ部インフラストラクチャー・チーム 広兼賢治 運輸担当エグゼクティブ・ディレクター、邦船大手2～3割増益、コンテナ船堅調無料",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200957/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/200955/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・コンテナ運賃指標、7週ぶり下落、欧米向けマイナス",
-  "url": "https://www.kaijipress.com/news/container/2026/04/200955/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200953/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "クラブネス兼用船部門、26年1～3月期TCEは3万3432ドル",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200953/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200956/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "【Sea Japan 2026】飯野海運、インマルサット主催のパネル討論に登壇無料",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200956/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/200958/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "Pベイスン、メタノールDF船を従来燃料に変更、「規制の先行き不透明」",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/200958/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200954/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "江南造船、大型アンモニア運搬船2隻受注、テナマリスと初取引",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200954/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.529818+09:00"
- },
- "https://splash247.com/splash-wrap-next-generation-msc/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Next generation MSC",
-  "url": "https://splash247.com/splash-wrap-next-generation-msc/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.530334+09:00"
- },
- "https://splash247.com/seaspan-breaks-into-mpp-segment-with-four-newbuilds/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Seaspan breaks into MPP segment with four newbuilds",
-  "url": "https://splash247.com/seaspan-breaks-into-mpp-segment-with-four-newbuilds/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-17T17:01:26.530334+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314574": {
   "src": "j",
   "cat": "コンテナ",
@@ -3881,7 +3809,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国3月の主要穀物輸入、軒並み前年水準上回る4月22日：T/C市場＝17隻・132万DWT、V/C市場＝鉄鉱石4隻、石炭2隻、その他2隻",
+  "title": "【本日のトピック】3月世界粗鋼生産量は1.6億トンに加速も7カ月連続前年割れ4月23日：T/C市場＝19隻・133万DWT、V/C市場＝鉄鉱石4隻、石炭2隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3962,7 +3890,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201095/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》海運アナリストはこう見る⑦、東海東京インテリジェンス・ラボ　土谷康仁シニアアナリスト、海運業の価値向上で株価上昇余地",
+  "title": "《連載》海運アナリス…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201095/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3980,7 +3908,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201097/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】ナカシマプロペラ、顧客起点・失敗も糧に事業拡大、挑戦の歩みを語る無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201097/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4034,7 +3962,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201102/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "今治造船社長らが会見…",
+  "title": "今治造船社長らが会見、「バリシップ2027」来年5月開催、10回目迎える",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201102/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4088,7 +4016,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201114/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】NK、菅会長「活気取り戻し、未来へ」、フォーラムのランチビュッフェを提供無料",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201114/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4498,5 +4426,77 @@
   "date": "2026/04/24",
   "sd": "04/24",
   "first_seen_iso": "2026-04-24T14:57:46.583547+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/201121/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "MSC、運航コンテナ船1000隻突破へ、規模拡大",
+  "url": "https://www.kaijipress.com/news/container/2026/04/201121/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.199797+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/04/201119/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "オドフェル、40型の新造ケミカル船4隻取得、日本船主から、北日本造船建造",
+  "url": "https://www.kaijipress.com/news/tramper/2026/04/201119/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.199797+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201120/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "GSC、アンモニア燃料パナマ型バルカー開発、タイプB搭載船でNKから世界初承認",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201120/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.199797+09:00"
+ },
+ "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal prices take flight on Iran butterfly effect",
+  "url": "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
+ },
+ "https://splash247.com/splash-wrap-why-the-hormuz-conflict-is-a-world-war/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Why the Hormuz conflict is a world war",
+  "url": "https://splash247.com/splash-wrap-why-the-hormuz-conflict-is-a-world-war/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-devbulk/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: Devbulk",
+  "url": "https://splash247.com/geneva-dry-dialogues-devbulk/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
+ },
+ "https://splash247.com/greek-bulker-player-m-maritime-crosses-into-boxship-sector-with-korean-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Greek bulker player M/Maritime crosses into boxship sector with Korean newbuilds",
+  "url": "https://splash247.com/greek-bulker-player-m-maritime-crosses-into-boxship-sector-with-korean-newbuilds/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
+ },
+ "https://splash247.com/can-the-net-zero-framework-be-saved-splashs-mepc-curtain-raiser/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Can the Net Zero Framework be saved? Splash’s MEPC curtain-raiser",
+  "url": "https://splash247.com/can-the-net-zero-framework-be-saved-splashs-mepc-curtain-raiser/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
  }
 }
