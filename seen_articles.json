@@ -3602,7 +3602,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "神戸舶用工、新会長に…",
+  "title": "神戸舶用工、新会長に平原精機工業・村上氏",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3620,7 +3620,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "リケンNPR、舶用事業を一体化、統合シナジーで海外展開加速、技術融合も推進",
+  "title": "リケンNPR、舶用事…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3629,7 +3629,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201097/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】ナカシマプロペラ、顧客起点・失敗も糧に事業拡大、挑戦の歩みを語る無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201097/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3665,7 +3665,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201100/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "新垣海事局長、無人船合格は実用化の第一歩",
+  "title": "新垣海事局長、無人船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201100/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3674,7 +3674,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201101/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ジャパンP&I、改正…",
+  "title": "ジャパンP&I、改正中国海商法セミナー、時効・責任限度額など要点解説",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201101/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3746,7 +3746,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201115/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】海事プレス社/インフォーマ、フォーラム開催、海事業界トップが「未来」語る無料",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201115/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4462,5 +4462,14 @@
   "date": "2026/04/17",
   "sd": "04/17",
   "first_seen_iso": "2026-04-24T19:08:29.214970+09:00"
+ },
+ "https://splash247.com/himalaya-shipping-scores-fresh-premium-index-linked-charter/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Himalaya Shipping scores fresh premium index-linked charter",
+  "url": "https://splash247.com/himalaya-shipping-scores-fresh-premium-index-linked-charter/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-24T21:46:05.239208+09:00"
  }
 }
