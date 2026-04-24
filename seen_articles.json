@@ -3953,7 +3953,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "神戸舶用工、新会長に平原精機工業・村上氏",
+  "title": "神戸舶用工、新会長に…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -3971,7 +3971,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "リケンNPR、舶用事…",
+  "title": "リケンNPR、舶用事業を一体化、統合シナジーで海外展開加速、技術融合も推進",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4088,7 +4088,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201114/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】NK、菅会長「活気取り戻し、未来へ」、フォーラムのランチビュッフェを提供無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201114/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4097,7 +4097,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201115/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】海事プレス社/インフォーマ、フォーラム開催、海事業界トップが「未来」語る無料",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201115/",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -4471,5 +4471,32 @@
   "date": "2026/04/16",
   "sd": "04/16",
   "first_seen_iso": "2026-04-24T08:29:20.362948+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201117/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》転換期迎えた船舶通信④、JSAT MOBILE Communications、ネクサスウェーブの導入本格化",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201117/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T14:57:46.583547+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/201116/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "鈴与、エコシップマーク事業者認定",
+  "url": "https://www.kaijipress.com/news/container/2026/04/201116/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T14:57:46.583547+09:00"
+ },
+ "https://www.kaijipress.com/news/sea_japan/2026/04/201118/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】川重・ヤンマー・J-ENGと尾道造船、水素燃料船の成立性を確認、内航・外航で検証",
+  "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201118/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-04-24T14:57:46.583547+09:00"
  }
 }
