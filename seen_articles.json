@@ -4489,5 +4489,41 @@
   "date": "2026/04/24",
   "sd": "04/24",
   "first_seen_iso": "2026-04-27T07:32:50.824976+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314539": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/柏井あづみ】揺らぐ日本のVLCC船隊、エネ安全保障へ用船料改善を",
+  "url": "https://www.jmd.co.jp/article.php?no=314539",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-27T08:23:35.146931+09:00"
+ },
+ "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco and Diana lock horns over meeting timing as takeover battle heats up",
+  "url": "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-04-27T08:23:35.147294+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-showing-strong-momentum/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Market: Capesizes Showing Strong Momentum",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-showing-strong-momentum/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-27T08:23:35.147453+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2567-up-44-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2567 up 44 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2567-up-44-points/",
+  "date": "2026/04/17",
+  "sd": "04/17",
+  "first_seen_iso": "2026-04-27T08:23:35.147453+09:00"
  }
 }
