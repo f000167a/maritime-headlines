@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200828/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "NYKバルクシップパートナーズ・浦上社長に聞く、将来を見据えてより強い会社に",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200828/",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-04-20T20:53:32.134023+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/200837/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "常石グループ、2035年に売上8000億円に倍増へ、「ニッチトップ」で成長",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/200837/",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-04-20T20:53:32.134023+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314620": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -2711,7 +2693,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201117/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》転換期迎えた…",
+  "title": "《連載》転換期迎えた船舶通信④、JSAT MOBILE Communications、ネクサスウェーブの導入本格化",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201117/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -2846,7 +2828,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201125/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "クラークソンズ・ジャパン、バーベキューパーティー開催",
+  "title": "クラークソンズ・ジャ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201125/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -2954,7 +2936,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201144/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】三菱造船、燃料供給装置や船型開発システム紹介、上田社長「エンジニアリング認知度向上へ」無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201144/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -2963,7 +2945,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201145/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】富士貿易、Sea Japanに合わせレセプション、深田社長「海事業界の架け橋へ」無料",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201145/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3679,5 +3661,23 @@
   "date": "2026/04/20",
   "sd": "04/20",
   "first_seen_iso": "2026-04-27T20:19:38.949893+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200989/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "地銀の船舶融資、船主の投資継続で融資残増加へ、一部で変調の兆しも",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200989/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-04-27T22:06:37.042426+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2666-up-1-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2666 up 1 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2666-up-1-points/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-04-27T22:06:37.043099+09:00"
  }
 }
