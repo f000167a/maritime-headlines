@@ -3089,7 +3089,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201117/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》転換期迎えた船舶通信④、JSAT MOBILE Communications、ネクサスウェーブの導入本格化",
+  "title": "《連載》転換期迎えた…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201117/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3224,7 +3224,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201125/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "クラークソンズ・ジャ…",
+  "title": "クラークソンズ・ジャパン、バーベキューパーティー開催",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201125/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3332,7 +3332,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201144/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】三菱造船、燃料供給装置や船型開発システム紹介、上田社長「エンジニアリング認知度向上へ」無料",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201144/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3341,7 +3341,7 @@
  "https://www.kaijipress.com/news/sea_japan/2026/04/201145/": {
   "src": "k",
   "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】富士貿易、Sea Japanに合わせレセプション、深田社長「海事業界の架け橋へ」無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201145/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3742,5 +3742,14 @@
   "date": "2026/04/17",
   "sd": "04/17",
   "first_seen_iso": "2026-04-27T08:23:35.147453+09:00"
+ },
+ "https://splash247.com/enesel-pivots-back-to-bulk-with-capesize-newbuilds-in-china/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Enesel pivots back to bulk with capesize newbuilds in China",
+  "url": "https://splash247.com/enesel-pivots-back-to-bulk-with-capesize-newbuilds-in-china/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-04-27T12:52:03.630434+09:00"
  }
 }
