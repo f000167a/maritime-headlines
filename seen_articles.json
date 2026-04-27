@@ -1,22 +1,4 @@
 {
- "https://splash247.com/strait-standoff-reshapes-fertiliser-trade-and-crop-economics/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Strait standoff reshapes fertiliser trade and crop economics",
-  "url": "https://splash247.com/strait-standoff-reshapes-fertiliser-trade-and-crop-economics/",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-04-20T17:29:04.431277+09:00"
- },
- "https://splash247.com/rio-tinto-sale-headlines-the-dry-bulk-market/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Rio Tinto sale headlines the dry bulk market",
-  "url": "https://splash247.com/rio-tinto-sale-headlines-the-dry-bulk-market/",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-04-20T17:29:04.431277+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200989/": {
   "src": "k",
   "cat": "コラム",
@@ -3062,7 +3044,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201117/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》転換期迎えた…",
+  "title": "《連載》転換期迎えた船舶通信④、JSAT MOBILE Communications、ネクサスウェーブの導入本格化",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201117/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3197,7 +3179,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201125/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "クラークソンズ・ジャパン、バーベキューパーティー開催",
+  "title": "クラークソンズ・ジャ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201125/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3215,7 +3197,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201127/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "サイバーロジテック、…",
+  "title": "サイバーロジテック、ヤード荷役最適化で港湾混雑解消、AI活用で効率化",
   "url": "https://www.kaijipress.com/news/container/2026/04/201127/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3260,7 +3242,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201132/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナリゼーションから70年",
+  "title": "コンテナリゼーション…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201132/",
   "date": "2026/04/24",
   "sd": "04/24",
@@ -3751,5 +3733,14 @@
   "date": "2026/04/27",
   "sd": "04/27",
   "first_seen_iso": "2026-04-27T15:36:42.252273+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/200986/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、新造船戦略、連携と選択肢が肝に、技術ユニット統括の池田真吾常務に聞く",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/200986/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-04-27T18:10:17.248197+09:00"
  }
 }
