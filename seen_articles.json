@@ -2171,7 +2171,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201151/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】マースク研究所がセミナー、脱炭素化に不透明性とリスク克服を、日本関係者ら議論無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201151/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2180,7 +2180,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201152/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、パナマのフランコ商船局長が表敬訪問、長澤会長らと面談",
+  "title": "日本船主協会、パナマ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201152/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2225,7 +2225,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201158/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク/HATECO、越ダナンで新CT起工、年570万TEU、29年稼働目指す",
+  "title": "マースク/HATEC…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201158/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2234,7 +2234,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201159/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "伊藤忠ロジスティクス…",
+  "title": "伊藤忠ロジスティクス、印法人15周年、インド売上高目標200億円",
   "url": "https://www.kaijipress.com/news/container/2026/04/201159/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -3292,5 +3292,23 @@
   "date": "2026/04/21",
   "sd": "04/21",
   "first_seen_iso": "2026-04-29T07:51:57.614366+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-13th-day/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Up for 13th Day",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-up-for-13th-day/",
+  "date": "2026/04/22",
+  "sd": "04/22",
+  "first_seen_iso": "2026-04-29T08:51:06.212098+09:00"
+ },
+ "https://www.hellenicshippingnews.com/what-does-chinas-shifting-grain-supply-strategy-mean-for-global-commodity-trade-flows/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "What Does China’s Shifting Grain Supply Strategy Mean for Global Commodity Trade Flows?",
+  "url": "https://www.hellenicshippingnews.com/what-does-chinas-shifting-grain-supply-strategy-mean-for-global-commodity-trade-flows/",
+  "date": "2026/04/22",
+  "sd": "04/22",
+  "first_seen_iso": "2026-04-29T08:51:06.212098+09:00"
  }
 }
