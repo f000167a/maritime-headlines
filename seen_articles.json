@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314373": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "成田空港周辺IC、国交省が事業許可。圏央道のアクセス強化",
-  "url": "https://www.jmd.co.jp/article.php?no=314373",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-21T09:05:40.424699+09:00"
- },
- "https://splash247.com/last-chance-to-get-tickets-to-geneva-dry-the-worlds-annual-commodities-shipping-summit/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Last chance to get tickets to Geneva Dry, the world’s annual commodities shipping summit",
-  "url": "https://splash247.com/last-chance-to-get-tickets-to-geneva-dry-the-worlds-annual-commodities-shipping-summit/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-21T12:35:47.403726+09:00"
- },
- "https://splash247.com/diana-turns-up-heat-on-genco-with-shareholder-offensive/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana turns up heat on Genco with shareholder offensive",
-  "url": "https://splash247.com/diana-turns-up-heat-on-genco-with-shareholder-offensive/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-21T12:35:47.403726+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=313841": {
   "src": "j",
   "cat": "国内船主の今",
@@ -2819,7 +2792,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201159/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "伊藤忠ロジスティクス、印法人15周年、インド売上高目標200億円",
+  "title": "伊藤忠ロジスティクス…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201159/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2837,7 +2810,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201161/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "伏木富山港、国際物流…",
+  "title": "伏木富山港、国際物流ターミナル大規模改良完了、全地区に耐震強化岸壁",
   "url": "https://www.kaijipress.com/news/container/2026/04/201161/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -3256,5 +3229,32 @@
   "date": "2026/04/28",
   "sd": "04/28",
   "first_seen_iso": "2026-04-28T07:45:22.585962+09:00"
+ },
+ "https://splash247.com/genco-swaps-ageing-supramaxes-for-modern-capesize/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco swaps ageing supramaxes for modern capesize",
+  "url": "https://splash247.com/genco-swaps-ageing-supramaxes-for-modern-capesize/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-28T12:56:28.158020+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-market-is-india-emerging-as-a-major-importer/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Market: Is India Emerging as a Major Importer?",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-is-india-emerging-as-a-major-importer/",
+  "date": "2026/04/21",
+  "sd": "04/21",
+  "first_seen_iso": "2026-04-28T12:56:28.158156+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2633-up-66-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2633 up 66 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2633-up-66-points/",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-04-28T12:56:28.158156+09:00"
  }
 }
