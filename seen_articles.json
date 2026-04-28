@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201023/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》転換期迎えた船舶通信①、変化する船舶通信インフラ、低軌道衛星の登場で高速化",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201023/",
-  "date": "2026/04/21",
-  "sd": "04/21",
-  "first_seen_iso": "2026-04-21T17:05:10.469501+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "《連載》自動運航技術…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201024/",
-  "date": "2026/04/21",
-  "sd": "04/21",
-  "first_seen_iso": "2026-04-21T17:05:10.469501+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "トルコ修繕クゼイスター、FSRUやLNG船で差別化、ドック増設、シリアに新工場も計画",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201025/",
-  "date": "2026/04/21",
-  "sd": "04/21",
-  "first_seen_iso": "2026-04-21T17:05:10.469501+09:00"
- },
- "https://splash247.com/rio-tinto-locks-in-methanol-ready-bulker-charters/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Rio Tinto locks in methanol-ready bulker charters",
-  "url": "https://splash247.com/rio-tinto-locks-in-methanol-ready-bulker-charters/",
-  "date": "2026/04/21",
-  "sd": "04/21",
-  "first_seen_iso": "2026-04-21T17:05:10.469994+09:00"
- },
- "https://splash247.com/geneva-dry-set-to-tackle-shippings-biggest-stress-points/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry set to tackle shipping’s biggest stress points",
-  "url": "https://splash247.com/geneva-dry-set-to-tackle-shippings-biggest-stress-points/",
-  "date": "2026/04/21",
-  "sd": "04/21",
-  "first_seen_iso": "2026-04-21T17:05:10.469994+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201026/": {
   "src": "k",
   "cat": "コラム",
@@ -2702,7 +2657,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201151/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】マースク研究所がセミナー、脱炭素化に不透明性とリスク克服を、日本関係者ら議論無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201151/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2711,7 +2666,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201152/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、パナマのフランコ商船局長が表敬訪問、長澤会長らと面談",
+  "title": "日本船主協会、パナマ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201152/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2747,7 +2702,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201157/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGMグループ、アフリカ地域事務所を開設",
+  "title": "CMA-CGMグルー…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201157/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2801,7 +2756,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201163/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "東京都港湾局・建設局…",
+  "title": "東京都港湾局・建設局、官公庁初の水素燃料電池船が完成、業務艇2艇",
   "url": "https://www.kaijipress.com/news/container/2026/04/201163/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -3292,5 +3247,32 @@
   "date": "2026/04/28",
   "sd": "04/28",
   "first_seen_iso": "2026-04-28T15:38:02.392817+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314854": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!17:04商船三井、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=314854",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-04-28T18:10:20.598452+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313841": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（406）日本支える先行発注。恒力重工、破竹の勢い",
+  "url": "https://www.jmd.co.jp/article.php?no=313841",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-28T18:10:20.598452+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=313828": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/有村智成】神戸・大阪両港予算、船社から選ばれる港づくり進めよ",
+  "url": "https://www.jmd.co.jp/article.php?no=313828",
+  "date": "2026/03/31",
+  "sd": "03/31",
+  "first_seen_iso": "2026-04-28T18:10:20.598452+09:00"
  }
 }
