@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=313841": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（406）日本支える先行発注。恒力重工、破竹の勢い",
-  "url": "https://www.jmd.co.jp/article.php?no=313841",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-21T14:53:47.245047+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313828": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/有村智成】神戸・大阪両港予算、船社から選ばれる港づくり進めよ",
-  "url": "https://www.jmd.co.jp/article.php?no=313828",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-21T14:53:47.245047+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313612": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/神子真人】コンテナ船事業の競争力、不確実性対応力が重み増す",
-  "url": "https://www.jmd.co.jp/article.php?no=313612",
-  "date": "2026/03/24",
-  "sd": "03/24",
-  "first_seen_iso": "2026-04-21T14:53:47.245047+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201023/": {
   "src": "k",
   "cat": "コラム",
@@ -1415,7 +1388,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インド政府、鉄鋼ミルの原料炭使用比率引き上げを計画4月24日：T/C市場＝25隻・193万DWT、V/C市場＝鉄鉱石=3隻、石炭=1隻",
+  "title": "【本日のトピック】インドネシア石炭、増産へ舵切るもRKAB承認の遅れが足枷4月27日：T/C市場＝8隻・60万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/23",
   "sd": "04/23",
@@ -2729,7 +2702,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201151/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan 2026】マースク研究所がセミナー、脱炭素化に不透明性とリスク克服を、日本関係者ら議論無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201151/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2738,7 +2711,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201152/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、パナマ…",
+  "title": "日本船主協会、パナマのフランコ商船局長が表敬訪問、長澤会長らと面談",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201152/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2792,7 +2765,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201159/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "伊藤忠ロジスティクス…",
+  "title": "伊藤忠ロジスティクス、印法人15周年、インド売上高目標200億円",
   "url": "https://www.kaijipress.com/news/container/2026/04/201159/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2828,7 +2801,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201163/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "東京都港湾局・建設局、官公庁初の水素燃料電池船が完成、業務艇2艇",
+  "title": "東京都港湾局・建設局…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201163/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -3256,5 +3229,68 @@
   "date": "2026/04/20",
   "sd": "04/20",
   "first_seen_iso": "2026-04-28T12:56:28.158156+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/201180/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "阪神国際港湾会社・木戸貴文社長に聞く、「選ばれる港の基本に立ち返る」",
+  "url": "https://www.kaijipress.com/news/container/2026/04/201180/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/201181/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アジア発米国向け、3月は3%減の178万TEU、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/04/201181/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/04/201182/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アジア発欧州向け、2月は49%増の166万TEU、中国好調で最高値",
+  "url": "https://www.kaijipress.com/news/container/2026/04/201182/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201178/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "洋上風力製造の大金重工、ケープ8隻正式受注で新規参入、28～29年納期",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201178/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】ボルカノ、4万㎥型液化水素船向けGCUを供給、川重建造船に搭載",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
+ },
+ "https://splash247.com/yangzijiang-maritime-expands-orderbook-with-10-ship-newbuild-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Yangzijiang Maritime expands orderbook with 10-ship newbuild deal",
+  "url": "https://splash247.com/yangzijiang-maritime-expands-orderbook-with-10-ship-newbuild-deal/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-28T15:38:02.392817+09:00"
+ },
+ "https://splash247.com/cmt-returns-to-qingdao-beihai-for-newcastlemax-brace/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "CMT returns to Qingdao Beihai for newcastlemax brace",
+  "url": "https://splash247.com/cmt-returns-to-qingdao-beihai-for-newcastlemax-brace/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-28T15:38:02.392817+09:00"
  }
 }
