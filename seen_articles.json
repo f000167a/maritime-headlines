@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201057/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》海運アナリストはこう見る⑥、JPモルガン証券株式調査部　姫野良太シニアアナリスト、微減益予想も中東情勢で上振れへ",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201057/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-22T17:01:41.319184+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201058/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【Sea Japan 2026】、過去最大規模で開幕、デジタルや海洋の併催展も",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201058/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-22T17:01:41.319184+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201059/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "《シリーズ》新技術開発ものがたり、J-ENG、知見蓄積で次世代燃料対応の布石に、純国産アンモニア機関初号機を開発",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201059/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-22T17:01:41.319184+09:00"
- },
- "https://splash247.com/gunfire-and-gridlock-choke-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Gunfire and gridlock choke Hormuz",
-  "url": "https://splash247.com/gunfire-and-gridlock-choke-hormuz/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-22T17:01:41.319662+09:00"
- },
- "https://splash247.com/geneva-dry-dialogues-hempel-2/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry Dialogues: Hempel",
-  "url": "https://splash247.com/geneva-dry-dialogues-hempel-2/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-22T17:01:41.319662+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314688": {
   "src": "j",
   "cat": "物流/港運",
@@ -2126,7 +2081,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201151/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】マースク研究所がセミナー、脱炭素化に不透明性とリスク克服を、日本関係者ら議論無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201151/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2135,7 +2090,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201152/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、パナマのフランコ商船局長が表敬訪問、長澤会長らと面談",
+  "title": "日本船主協会、パナマ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201152/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2180,7 +2135,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201158/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク/HATEC…",
+  "title": "マースク/HATECO、越ダナンで新CT起工、年570万TEU、29年稼働目指す",
   "url": "https://www.kaijipress.com/news/container/2026/04/201158/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2207,7 +2162,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201161/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "伏木富山港、国際物流ターミナル大規模改良完了、全地区に耐震強化岸壁",
+  "title": "伏木富山港、国際物流…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201161/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -3283,5 +3238,14 @@
   "date": "2026/04/29",
   "sd": "04/29",
   "first_seen_iso": "2026-04-29T15:30:45.685972+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201055/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜中＞、船舶管理・危機管理で総合力発揮",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201055/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-04-29T18:03:20.381071+09:00"
  }
 }
