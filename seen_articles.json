@@ -1,58 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314451": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "25年世界の空港貨物量、香港5年連続首位。越境EC好調、米アンカレジ3位",
-  "url": "https://www.jmd.co.jp/article.php?no=314451",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-23T08:32:50.574352+09:00"
- },
- "https://www.hellenicshippingnews.com/indias-coal-demand-is-rising-but-high-inventories-are-delaying-imports-setting-up-a-potential-step-change-in-seaborne-demand/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "India’s coal demand is rising, but high inventories are delaying imports, setting up a potential step-change in seaborne demand",
-  "url": "https://www.hellenicshippingnews.com/indias-coal-demand-is-rising-but-high-inventories-are-delaying-imports-setting-up-a-potential-step-change-in-seaborne-demand/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-23T08:32:50.575121+09:00"
- },
- "https://www.hellenicshippingnews.com/rupee-depreciation-fuels-incremental-gains-in-indias-dry-bulk-export-volumes/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Rupee depreciation fuels incremental gains in India’s dry bulk export volumes",
-  "url": "https://www.hellenicshippingnews.com/rupee-depreciation-fuels-incremental-gains-in-indias-dry-bulk-export-volumes/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-23T08:32:50.575121+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-rally-continues/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Rally Continues",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rally-continues/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-23T08:32:50.575121+09:00"
- },
- "https://www.hellenicshippingnews.com/fertilizer-markets-face-prolonged-disruption-even-if-hormuz-reopens-sources-say/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Fertilizer markets face prolonged disruption even if Hormuz reopens, sources say",
-  "url": "https://www.hellenicshippingnews.com/fertilizer-markets-face-prolonged-disruption-even-if-hormuz-reopens-sources-say/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-23T08:32:50.575121+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2484-up-130-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2484 up 130 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2484-up-130-points/",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-23T08:32:50.575121+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314231": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -2027,7 +1973,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan 2026】ボルカノ、4万㎥型液化水素船向けGCUを供給、川重建造船に搭載無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/",
   "date": "2026/04/28",
   "sd": "04/28",
@@ -2261,7 +2207,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201206/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、VLGC“…",
+  "title": "川崎重工、VLGC“AURORA GUARDIAN”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201206/",
   "date": "2026/04/28",
   "sd": "04/28",
@@ -2752,5 +2698,32 @@
   "date": "2026/04/30",
   "sd": "04/30",
   "first_seen_iso": "2026-04-30T07:52:39.623427+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314665": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神農達也】名古屋港の新長期構想、物流の価値、創造の継続を期待",
+  "url": "https://www.jmd.co.jp/article.php?no=314665",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-30T08:50:17.322058+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-rally-continues-2/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Rally Continues",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rally-continues-2/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-30T08:50:17.322999+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2675-up-35-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2675 up 35 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2675-up-35-points/",
+  "date": "2026/04/22",
+  "sd": "04/22",
+  "first_seen_iso": "2026-04-30T08:50:17.322999+09:00"
  }
 }
