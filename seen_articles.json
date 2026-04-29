@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314688": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "近鉄エクスプレス、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=314688",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-22T18:54:14.955446+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201060/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -2081,7 +2072,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201151/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan 2026】マースク研究所がセミナー、脱炭素化に不透明性とリスク克服を、日本関係者ら議論無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201151/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2090,7 +2081,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201152/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、パナマ…",
+  "title": "日本船主協会、パナマのフランコ商船局長が表敬訪問、長澤会長らと面談",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201152/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2162,7 +2153,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201161/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "伏木富山港、国際物流…",
+  "title": "伏木富山港、国際物流ターミナル大規模改良完了、全地区に耐震強化岸壁",
   "url": "https://www.kaijipress.com/news/container/2026/04/201161/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2180,7 +2171,7 @@
  "https://www.kaijipress.com/news/container/2026/04/201163/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "東京都港湾局・建設局、官公庁初の水素燃料電池船が完成、業務艇2艇",
+  "title": "東京都港湾局・建設局…",
   "url": "https://www.kaijipress.com/news/container/2026/04/201163/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -3247,5 +3238,23 @@
   "date": "2026/04/28",
   "sd": "04/28",
   "first_seen_iso": "2026-04-29T18:03:20.381071+09:00"
+ },
+ "https://splash247.com/gunfire-and-gridlock-choke-hormuz/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Gunfire and gridlock choke Hormuz",
+  "url": "https://splash247.com/gunfire-and-gridlock-choke-hormuz/",
+  "date": "2026/04/22",
+  "sd": "04/22",
+  "first_seen_iso": "2026-04-29T20:06:59.472038+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-hempel-2/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: Hempel",
+  "url": "https://splash247.com/geneva-dry-dialogues-hempel-2/",
+  "date": "2026/04/22",
+  "sd": "04/22",
+  "first_seen_iso": "2026-04-29T20:06:59.472038+09:00"
  }
 }
