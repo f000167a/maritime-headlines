@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201055/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜中＞、船舶管理・危機管理で総合力発揮",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201055/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-22T14:52:36.552452+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201056/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "《連載》転換期迎えた船舶通信②、スターリンク普及で転機、マルチLEO時代も視野に",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201056/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-22T14:52:36.552452+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201057/": {
   "src": "k",
   "cat": "コラム",
@@ -3283,5 +3265,23 @@
   "date": "2026/04/22",
   "sd": "04/22",
   "first_seen_iso": "2026-04-29T08:51:06.212098+09:00"
+ },
+ "https://splash247.com/dee4-doubles-down-on-ultramax-play/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Dee4 doubles down on ultramax play",
+  "url": "https://splash247.com/dee4-doubles-down-on-ultramax-play/",
+  "date": "2026/04/29",
+  "sd": "04/29",
+  "first_seen_iso": "2026-04-29T15:30:45.685972+09:00"
+ },
+ "https://splash247.com/mercuria-steps-up-fleet-push-with-four-bulker-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Mercuria steps up fleet push with four bulker newbuilds",
+  "url": "https://splash247.com/mercuria-steps-up-fleet-push-with-four-bulker-newbuilds/",
+  "date": "2026/04/29",
+  "sd": "04/29",
+  "first_seen_iso": "2026-04-29T15:30:45.685972+09:00"
  }
 }
