@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314416": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "航空貨物運賃、アジア→欧州 高止まり。台湾7ドル超え、スペース逼迫・値上げで",
-  "url": "https://www.jmd.co.jp/article.php?no=314416",
-  "date": "2026/04/15",
-  "sd": "04/15",
-  "first_seen_iso": "2026-04-22T08:58:49.603683+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2354-up-104-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2354 up 104 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2354-up-104-points/",
-  "date": "2026/04/14",
-  "sd": "04/14",
-  "first_seen_iso": "2026-04-22T08:58:49.604624+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2250-up-49-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2250 up 49 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2250-up-49-points/",
-  "date": "2026/04/13",
-  "sd": "04/13",
-  "first_seen_iso": "2026-04-22T08:58:49.604624+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201055/": {
   "src": "k",
   "cat": "コラム",
@@ -2171,7 +2144,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201151/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan 2026】マースク研究所がセミナー、脱炭素化に不透明性とリスク克服を、日本関係者ら議論無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201151/",
   "date": "2026/04/27",
   "sd": "04/27",
@@ -2180,7 +2153,7 @@
  "https://www.kaijipress.com/news/shipping/2026/04/201152/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、パナマ…",
+  "title": "日本船主協会、パナマのフランコ商船局長が表敬訪問、長澤会長らと面談",
   "url": "https://www.kaijipress.com/news/shipping/2026/04/201152/",
   "date": "2026/04/27",
   "sd": "04/27",
