@@ -1,31 +1,4 @@
 {
- "https://splash247.com/pacific-basin-drops-methanol-dual-fuel-orders-in-newbuild-rethink/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Pacific Basin drops methanol dual-fuel orders in newbuild rethink",
-  "url": "https://splash247.com/pacific-basin-drops-methanol-dual-fuel-orders-in-newbuild-rethink/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-24T08:29:20.362794+09:00"
- },
- "https://www.hellenicshippingnews.com/port-hedland-iron-ore-exports-jump-by-14/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Port Hedland Iron Ore Exports Jump by 14%",
-  "url": "https://www.hellenicshippingnews.com/port-hedland-iron-ore-exports-jump-by-14/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-24T08:29:20.362948+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2523-up-39-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2523 up 39 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2523-up-39-points/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-24T08:29:20.362948+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201117/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -2189,7 +2162,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】理研計器、携帯ガス検知器の規則改正対応無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2198,7 +2171,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
+  "title": "アクセラロンが次世代…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2369,7 +2342,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
+  "title": "関東地整局・中川副局…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2405,7 +2378,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグ…",
+  "title": "鈴与、7人制女子ラグビー大会開催",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2950,5 +2923,23 @@
   "date": "2026/04/30",
   "sd": "04/30",
   "first_seen_iso": "2026-05-01T07:48:16.582432+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-hovers-around-4-month-highs/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Hovers Around 4-Month Highs",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-hovers-around-4-month-highs/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-01T08:47:01.596429+09:00"
+ },
+ "https://www.hellenicshippingnews.com/how-the-strait-of-hormuz-crisis-is-reshaping-the-bulker-market/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "How the Strait of Hormuz Crisis is Reshaping the Bulker Market",
+  "url": "https://www.hellenicshippingnews.com/how-the-strait-of-hormuz-crisis-is-reshaping-the-bulker-market/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-01T08:47:01.596429+09:00"
  }
 }
