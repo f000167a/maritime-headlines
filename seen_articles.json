@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201092/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜下＞、好奇心・判断能力が必要に",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201092/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T14:55:02.116555+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201093/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "《連載》転換期迎えた船舶通信③「NexusWave」に刷新インマルサット、変革期に対応",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201093/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T14:55:02.116555+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "神戸舶用工、新会長に平原精機工業・村上氏",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201094/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T14:55:02.116555+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201095/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -2045,7 +2018,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201204/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ヤローヴァ造船、能力…",
+  "title": "ヤローヴァ造船、能力引き上げへ新ドック検討、設立3年で修繕実績急拡大",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201204/",
   "date": "2026/04/28",
   "sd": "04/28",
@@ -2063,7 +2036,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201206/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、VLGC“AURORA GUARDIAN”竣工",
+  "title": "川崎重工、VLGC“…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201206/",
   "date": "2026/04/28",
   "sd": "04/28",
@@ -2581,5 +2554,194 @@
   "date": "2026/04/22",
   "sd": "04/22",
   "first_seen_iso": "2026-04-30T08:50:17.322999+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314231": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/鈴木隆史】中東緊迫下の船員交代、コロナ禍の教訓生かし持続へ",
+  "url": "https://www.jmd.co.jp/article.php?no=314231",
+  "date": "2026/04/09",
+  "sd": "04/09",
+  "first_seen_iso": "2026-04-30T15:34:31.963304+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201214/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コスコ、神戸港に物流施設を確保、日本で総合物流強化",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201214/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201215/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本―欧州間コンテナ、25年は2.5%減の115万TEU、12月は減少",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201215/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201216/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "OOIL、LNG対応1万3600TEU型12隻を発注、滬東中華造船",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201216/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】理研計器、携帯ガス検知器の規則改正対応",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.963664+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】4月の中国鉄鋼PMIは49.2ポイント、2カ月ぶりに節目割る4月29日：T/C市場＝13隻・104万DWT、V/C市場＝鉄鉱石4隻、石炭5隻、穀物1隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.964426+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.964426+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.964426+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.964426+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.964426+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T15:34:31.964426+09:00"
  }
 }
