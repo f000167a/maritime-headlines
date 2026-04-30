@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201095/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "《連載》海運アナリストはこう見る⑦、東海東京インテリジェンス・ラボ　土谷康仁シニアアナリスト、海運業の価値向上で株価上昇余地",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201095/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T17:07:00.157882+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "リケンNPR、舶用事…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201096/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T17:07:00.157882+09:00"
- },
- "https://www.kaijipress.com/news/sea_japan/2026/04/201097/": {
-  "src": "k",
-  "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
-  "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201097/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T17:07:00.157882+09:00"
- },
- "https://splash247.com/asyad-shipping-enters-kamsarmax-space-with-73m-bulker-buy/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Asyad Shipping enters kamsarmax space with $73m bulker buy",
-  "url": "https://splash247.com/asyad-shipping-enters-kamsarmax-space-with-73m-bulker-buy/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T17:07:00.158362+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201098/": {
   "src": "k",
   "cat": "コラム",
@@ -2743,5 +2707,32 @@
   "date": "2026/04/30",
   "sd": "04/30",
   "first_seen_iso": "2026-04-30T15:34:31.964426+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201092/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜下＞、好奇心・判断能力が必要に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201092/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T18:04:21.171778+09:00"
+ },
+ "https://splash247.com/geneva-drys-digital-workshop-cuts-through-the-hype-to-find-what-actually-works/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry’s digital workshop cuts through the hype to find what actually works",
+  "url": "https://splash247.com/geneva-drys-digital-workshop-cuts-through-the-hype-to-find-what-actually-works/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T18:04:21.172222+09:00"
+ },
+ "https://splash247.com/sweden-confiscates-bulk-carrier-accused-of-carrying-stolen-ukrainian-grain/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Sweden confiscates bulk carrier accused of carrying stolen Ukrainian grain",
+  "url": "https://splash247.com/sweden-confiscates-bulk-carrier-accused-of-carrying-stolen-ukrainian-grain/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T18:04:21.172222+09:00"
  }
 }
