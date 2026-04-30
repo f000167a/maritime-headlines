@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/200923/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井・田村城太郎社長に聞く、ポートフォリオ維持、上振れも狙う",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/200923/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T20:19:05.361635+09:00"
- },
- "http://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2064号」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-23T20:19:05.362384+09:00"
- },
- "https://splash247.com/geneva-broker-lightship-reshuffles-top-team/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva broker Lightship reshuffles top team",
-  "url": "https://splash247.com/geneva-broker-lightship-reshuffles-top-team/",
-  "date": "2026/04/16",
-  "sd": "04/16",
-  "first_seen_iso": "2026-04-23T21:41:29.398579+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2673-down-2-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index falls to 2673 down 2 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2673-down-2-points/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-23T21:41:29.398732+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314723": {
   "src": "j",
   "cat": "コンテナ",
@@ -1586,7 +1550,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan 2026】ボルカノ、4万㎥型液化水素船向けGCUを供給、川重建造船に搭載無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/",
   "date": "2026/04/28",
   "sd": "04/28",
@@ -1820,7 +1784,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201206/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、VLGC“…",
+  "title": "川崎重工、VLGC“AURORA GUARDIAN”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201206/",
   "date": "2026/04/28",
   "sd": "04/28",
@@ -2905,5 +2869,32 @@
   "date": "2026/04/30",
   "sd": "04/30",
   "first_seen_iso": "2026-04-30T20:08:30.955386+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/04/201107/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【Sea Japan 2026】造船トップが討論、造船再生と能力倍増、カギは協業、設計・人手・資機材に連携対応無料",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201107/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T21:55:49.878298+09:00"
+ },
+ "https://splash247.com/war-turns-sulphur-market-toxic-in-acid-supply-shock/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "War turns sulphur market toxic in acid supply shock",
+  "url": "https://splash247.com/war-turns-sulphur-market-toxic-in-acid-supply-shock/",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-04-30T21:55:49.878990+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2686-up-16-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2686 up 16 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2686-up-16-points/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-04-30T21:55:49.879175+09:00"
  }
 }
