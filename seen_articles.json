@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/201121/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "MSC、運航コンテナ船1000隻突破へ、規模拡大",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201121/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.199797+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/201119/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "オドフェル、40型の新造ケミカル船4隻取得、日本船主から、北日本造船建造",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/201119/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.199797+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201120/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "GSC、アンモニア燃料パナマ型バルカー開発、タイプB搭載船でNKから世界初承認",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201120/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.199797+09:00"
- },
- "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Panama Canal prices take flight on Iran butterfly effect",
-  "url": "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
- },
- "https://splash247.com/splash-wrap-why-the-hormuz-conflict-is-a-world-war/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Why the Hormuz conflict is a world war",
-  "url": "https://splash247.com/splash-wrap-why-the-hormuz-conflict-is-a-world-war/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
- },
- "https://splash247.com/geneva-dry-dialogues-devbulk/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry Dialogues: Devbulk",
-  "url": "https://splash247.com/geneva-dry-dialogues-devbulk/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
- },
- "https://splash247.com/greek-bulker-player-m-maritime-crosses-into-boxship-sector-with-korean-newbuilds/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Greek bulker player M/Maritime crosses into boxship sector with Korean newbuilds",
-  "url": "https://splash247.com/greek-bulker-player-m-maritime-crosses-into-boxship-sector-with-korean-newbuilds/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
- },
- "https://splash247.com/can-the-net-zero-framework-be-saved-splashs-mepc-curtain-raiser/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Can the Net Zero Framework be saved? Splash’s MEPC curtain-raiser",
-  "url": "https://splash247.com/can-the-net-zero-framework-be-saved-splashs-mepc-curtain-raiser/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T17:18:30.200231+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314778": {
   "src": "j",
   "cat": "コンテナ",
@@ -2315,7 +2243,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局…",
+  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2351,7 +2279,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグビー大会開催",
+  "title": "鈴与、7人制女子ラグ…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2941,5 +2869,14 @@
   "date": "2026/05/01",
   "sd": "05/01",
   "first_seen_iso": "2026-05-01T15:46:06.913907+09:00"
+ },
+ "https://splash247.com/splash-wrap-regulators-raiders-and-deals-in-geneva-shape-shipping-this-week/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Regulators, raiders and deals in Geneva shape shipping this week",
+  "url": "https://splash247.com/splash-wrap-regulators-raiders-and-deals-in-geneva-shape-shipping-this-week/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-01T18:05:24.539545+09:00"
  }
 }
