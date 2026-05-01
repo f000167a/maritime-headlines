@@ -1,247 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314778": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "ハパックロイド、中東混乱の長期化警戒。荷主の入札判断に遅れも、対談で議論",
-  "url": "https://www.jmd.co.jp/article.php?no=314778",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-24T19:08:29.214243+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201122/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン・中東緊迫】BIMCO、イラン当局名乗る詐欺情報も、ホルムズ海峡の安全状況報告",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201122/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201123/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "商船三井、印でCO2除去クレジット創出",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201123/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201124/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "川崎重工、カナダと水素供給網構築で連携",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201124/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201125/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "クラークソンズ・ジャパン、バーベキューパーティー開催",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201125/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201126/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "OOCL、華南―インドネシア航路新設、5月中旬から",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201126/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201127/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "サイバーロジテック、ヤード荷役最適化で港湾混雑解消、AI活用で効率化",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201127/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201128/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・コンテナ運賃指標、前週比1%減の2232FEU/ドル",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201128/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201129/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコ、南東北・北関東を強化、小名浜寄港、坂東・古河で内陸CY活用",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201129/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201130/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "HMM、本社釜山移転へ定款変更審議、5月8日に株主総会",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201130/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201131/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "釜山港、3月は0.1%減の217万TEU",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201131/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201132/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナリゼーション…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201132/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/201133/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "海外ドライ船社、パーセル事業への投資広がる、高付加価値で収益拡大",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/201133/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/201134/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ポーテン、米国の輸出能力、上限に、輸出インフラ制約などで",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/201134/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/201135/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "スコルピオ、14年建造のプロダクト船6隻売却",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/201135/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201136/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "川崎重工がアヴィバと合意、次世代の設計一貫システムに移行、生産増強にも寄与",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201136/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/sea_japan/2026/04/201144/": {
-  "src": "k",
-  "cat": "Sea Japan関連",
-  "title": "【Sea Japan…",
-  "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201144/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/news/sea_japan/2026/04/201145/": {
-  "src": "k",
-  "cat": "Sea Japan関連",
-  "title": "【Sea Japan 2026】富士貿易、Sea Japanに合わせレセプション、深田社長「海事業界の架け橋へ」無料",
-  "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201145/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/201141/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】小川広美・商運マリン代表取締役",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/201141/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/201142/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【ログブック】廣瀬崇・ジャパンマリンユナイテッド社長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/201142/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/04/201143/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】ケリー・タカノ商船三井IT・デジタル戦略ユニット長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/04/201143/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/04/201137/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本船主協会、人事異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/04/201137/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/04/201138/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "愛媛銀行、役員異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/04/201138/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/04/201139/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "川崎汽船、人事異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/04/201139/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://www.kaijipress.com/column/aotou/2026/04/201140/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【青灯】内航春闘を振り返る",
-  "url": "https://www.kaijipress.com/column/aotou/2026/04/201140/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T19:08:29.214521+09:00"
- },
- "https://splash247.com/splash-wrap-next-generation-msc/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Next generation MSC",
-  "url": "https://splash247.com/splash-wrap-next-generation-msc/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-24T19:08:29.214970+09:00"
- },
- "https://splash247.com/seaspan-breaks-into-mpp-segment-with-four-newbuilds/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Seaspan breaks into MPP segment with four newbuilds",
-  "url": "https://splash247.com/seaspan-breaks-into-mpp-segment-with-four-newbuilds/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-24T19:08:29.214970+09:00"
- },
  "https://splash247.com/himalaya-shipping-scores-fresh-premium-index-linked-charter/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2072,7 +1829,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アクセラロンが次世代…",
+  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2342,7 +2099,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、LNG燃料ケープ“RURI PLANET”竣工",
+  "title": "今治造船、LNG燃料…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2878,5 +2635,50 @@
   "date": "2026/05/01",
   "sd": "05/01",
   "first_seen_iso": "2026-05-01T18:05:24.539545+09:00"
+ },
+ "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal prices take flight on Iran butterfly effect",
+  "url": "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-01T19:44:40.719999+09:00"
+ },
+ "https://splash247.com/splash-wrap-why-the-hormuz-conflict-is-a-world-war/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Why the Hormuz conflict is a world war",
+  "url": "https://splash247.com/splash-wrap-why-the-hormuz-conflict-is-a-world-war/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-01T19:44:40.719999+09:00"
+ },
+ "https://splash247.com/geneva-dry-dialogues-devbulk/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry Dialogues: Devbulk",
+  "url": "https://splash247.com/geneva-dry-dialogues-devbulk/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-01T19:44:40.719999+09:00"
+ },
+ "https://splash247.com/greek-bulker-player-m-maritime-crosses-into-boxship-sector-with-korean-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Greek bulker player M/Maritime crosses into boxship sector with Korean newbuilds",
+  "url": "https://splash247.com/greek-bulker-player-m-maritime-crosses-into-boxship-sector-with-korean-newbuilds/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-01T19:44:40.719999+09:00"
+ },
+ "https://splash247.com/can-the-net-zero-framework-be-saved-splashs-mepc-curtain-raiser/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Can the Net Zero Framework be saved? Splash’s MEPC curtain-raiser",
+  "url": "https://splash247.com/can-the-net-zero-framework-be-saved-splashs-mepc-curtain-raiser/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-01T19:44:40.719999+09:00"
  }
 }
