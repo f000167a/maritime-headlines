@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201117/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "《連載》転換期迎えた船舶通信④、JSAT MOBILE Communications、ネクサスウェーブの導入本格化",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201117/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T14:57:46.583547+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201116/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、エコシップマーク事業者認定",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201116/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T14:57:46.583547+09:00"
- },
- "https://www.kaijipress.com/news/sea_japan/2026/04/201118/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【Sea Japan 2026】川重・ヤンマー・J-ENGと尾道造船、水素燃料船の成立性を確認、内航・外航で検証無料",
-  "url": "https://www.kaijipress.com/news/sea_japan/2026/04/201118/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-04-24T14:57:46.583547+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/04/201121/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2180,7 +2153,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月の中国鉄鋼PMIは49.2ポイント、2カ月ぶりに節目割る4月29日：T/C市場＝13隻・104万DWT、V/C市場＝鉄鉱石4隻、石炭5隻、穀物1隻",
+  "title": "【本日のトピック】3月中国電力消費量、3カ月連続プラス成長4月30日：T/C市場＝13隻・105万DWT、V/C市場＝鉄鉱石=3隻、石炭=1隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2342,7 +2315,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
+  "title": "関東地整局・中川副局…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2378,7 +2351,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグ…",
+  "title": "鈴与、7人制女子ラグビー大会開催",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2941,5 +2914,32 @@
   "date": "2026/04/24",
   "sd": "04/24",
   "first_seen_iso": "2026-05-01T08:47:01.596429+09:00"
+ },
+ "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Goodwill Maritime exits the capesize segment with Genco deal",
+  "url": "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-01T15:46:06.913907+09:00"
+ },
+ "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Complexity, two-tier fleets and bunker fears dominate scene-setting opening panel at Geneva Dry",
+  "url": "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-01T15:46:06.913907+09:00"
+ },
+ "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Clarksons builds Americas footprint with Serpac deal",
+  "url": "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-01T15:46:06.913907+09:00"
  }
 }
