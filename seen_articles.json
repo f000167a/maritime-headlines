@@ -1,40 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314539": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/柏井あづみ】揺らぐ日本のVLCC船隊、エネ安全保障へ用船料改善を",
-  "url": "https://www.jmd.co.jp/article.php?no=314539",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-04-27T08:23:35.146931+09:00"
- },
- "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Genco and Diana lock horns over meeting timing as takeover battle heats up",
-  "url": "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-04-27T08:23:35.147294+09:00"
- },
- "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-showing-strong-momentum/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Dry Bulk Market: Capesizes Showing Strong Momentum",
-  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-capesizes-showing-strong-momentum/",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-04-27T08:23:35.147453+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2567-up-44-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2567 up 44 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2567-up-44-points/",
-  "date": "2026/04/17",
-  "sd": "04/17",
-  "first_seen_iso": "2026-04-27T08:23:35.147453+09:00"
- },
  "https://splash247.com/enesel-pivots-back-to-bulk-with-capesize-newbuilds-in-china/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2644,5 +2608,32 @@
   "date": "2026/05/04",
   "sd": "05/04",
   "first_seen_iso": "2026-05-04T07:35:06.684669+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-market-trending-higher/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Market Trending Higher",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-trending-higher/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-05-04T08:27:02.128952+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-shipping-australian-iron-ore-exports-on-the-rise/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Shipping: Australian Iron Ore Exports On the Rise",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-australian-iron-ore-exports-on-the-rise/",
+  "date": "2026/04/25",
+  "sd": "04/25",
+  "first_seen_iso": "2026-05-04T08:27:02.128952+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2665-down-8-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 2665 down 8 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2665-down-8-points/",
+  "date": "2026/04/24",
+  "sd": "04/24",
+  "first_seen_iso": "2026-05-04T08:27:02.128952+09:00"
  }
 }
