@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/201148/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、上海発欧米向け運賃が下落、ピークアウトか",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201148/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-04-27T15:36:42.252273+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/04/201146/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ドラックス、ウルトラ…",
-  "url": "https://www.kaijipress.com/news/tramper/2026/04/201146/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-04-27T15:36:42.252273+09:00"
- },
- "https://www.kaijipress.com/person/profile/2026/04/201147/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【プロフィール】照木麻子 氏・日本郵船執行役員",
-  "url": "https://www.kaijipress.com/person/profile/2026/04/201147/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-04-27T15:36:42.252273+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/200986/": {
   "src": "k",
   "cat": "コラム",
@@ -1496,7 +1469,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan 2026】理研計器、携帯ガス検知器の規則改正対応無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1775,7 +1748,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、LNG燃料…",
+  "title": "今治造船、LNG燃料ケープ“RURI PLANET”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2644,5 +2617,32 @@
   "date": "2026/04/27",
   "sd": "04/27",
   "first_seen_iso": "2026-05-04T09:10:29.027666+09:00"
+ },
+ "https://splash247.com/us-launches-project-freedom-to-guide-ships-out-of-hormuz/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "US launches Project Freedom to guide ships out of Hormuz",
+  "url": "https://splash247.com/us-launches-project-freedom-to-guide-ships-out-of-hormuz/",
+  "date": "2026/05/04",
+  "sd": "05/04",
+  "first_seen_iso": "2026-05-04T15:48:33.515060+09:00"
+ },
+ "https://splash247.com/average-distance-of-global-seaborne-trade-has-increased-by-10-during-the-disruptive-2020s/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Average distance of global seaborne trade has increased by 10% during the disruptive 2020s",
+  "url": "https://splash247.com/average-distance-of-global-seaborne-trade-has-increased-by-10-during-the-disruptive-2020s/",
+  "date": "2026/05/04",
+  "sd": "05/04",
+  "first_seen_iso": "2026-05-04T15:48:33.515060+09:00"
+ },
+ "https://splash247.com/enesel-pivots-back-to-bulk-with-capesize-newbuilds-in-china/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Enesel pivots back to bulk with capesize newbuilds in China",
+  "url": "https://splash247.com/enesel-pivots-back-to-bulk-with-capesize-newbuilds-in-china/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-05-04T15:48:33.515060+09:00"
  }
 }
