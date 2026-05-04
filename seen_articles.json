@@ -1505,7 +1505,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan 2026】理研計器、携帯ガス検知器の規則改正対応無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1784,7 +1784,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、LNG燃料…",
+  "title": "今治造船、LNG燃料ケープ“RURI PLANET”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2635,5 +2635,23 @@
   "date": "2026/04/24",
   "sd": "04/24",
   "first_seen_iso": "2026-05-04T08:27:02.128952+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314539": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/柏井あづみ】揺らぐ日本のVLCC船隊、エネ安全保障へ用船料改善を",
+  "url": "https://www.jmd.co.jp/article.php?no=314539",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-05-04T09:10:29.026941+09:00"
+ },
+ "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco and Diana lock horns over meeting timing as takeover battle heats up",
+  "url": "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/",
+  "date": "2026/04/27",
+  "sd": "04/27",
+  "first_seen_iso": "2026-05-04T09:10:29.027666+09:00"
  }
 }
