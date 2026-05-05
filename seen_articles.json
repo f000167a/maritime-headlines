@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201026/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜上＞、人材・組織・船舶管理を競争力の源泉に",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201026/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T22:16:54.801248+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2677-up-11-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2677 up 11 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2677-up-11-points/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T22:16:54.802070+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314833": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -560,7 +542,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
+  "title": "アクセラロンが次世代…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -731,7 +713,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局…",
+  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -767,7 +749,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグビー大会開催",
+  "title": "鈴与、7人制女子ラグ…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -830,7 +812,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、LNG燃料…",
+  "title": "今治造船、LNG燃料ケープ“RURI PLANET”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1888,5 +1870,41 @@
   "date": "2026/04/28",
   "sd": "04/28",
   "first_seen_iso": "2026-05-05T19:22:16.016658+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201183/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "地銀、中国建造船への融資に踏み出す、船主ニーズ高く現実対応で",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201183/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-06T07:51:02.881248+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/04/201207/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/04/201207/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-06T07:51:02.881248+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/04/201184/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "瀬野汽船、核融合発電所開発企業に出資、ヘリカル・フュージョンの公式パートナーに",
+  "url": "https://www.kaijipress.com/news/shipping/2026/04/201184/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-06T07:51:02.881248+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2832-up-102-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2832 up 102 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2832-up-102-points/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-06T07:51:02.881795+09:00"
  }
 }
