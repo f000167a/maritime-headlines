@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/04/201180/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "阪神国際港湾会社・木…",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201180/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201181/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "アジア発米国向け、3月は3%減の178万TEU、海事センター調査",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201181/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/04/201182/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "アジア発欧州向け、2月は49%増の166万TEU、中国好調で最高値",
-  "url": "https://www.kaijipress.com/news/container/2026/04/201182/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201178/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "洋上風力製造の大金重工、ケープ8隻正式受注で新規参入、28～29年納期",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201178/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "【Sea Japan…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/04/201179/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T15:38:02.392378+09:00"
- },
- "https://splash247.com/yangzijiang-maritime-expands-orderbook-with-10-ship-newbuild-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Yangzijiang Maritime expands orderbook with 10-ship newbuild deal",
-  "url": "https://splash247.com/yangzijiang-maritime-expands-orderbook-with-10-ship-newbuild-deal/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T15:38:02.392817+09:00"
- },
- "https://splash247.com/cmt-returns-to-qingdao-beihai-for-newcastlemax-brace/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "CMT returns to Qingdao Beihai for newcastlemax brace",
-  "url": "https://splash247.com/cmt-returns-to-qingdao-beihai-for-newcastlemax-brace/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-28T15:38:02.392817+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314854": {
   "src": "j",
   "cat": "外航全般",
@@ -911,7 +848,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan 2026】理研計器、携帯ガス検知器の規則改正対応無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -920,7 +857,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アクセラロンが次世代…",
+  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1091,7 +1028,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局…",
+  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1127,7 +1064,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグビー大会開催",
+  "title": "鈴与、7人制女子ラグ…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -2203,5 +2140,23 @@
   "date": "2026/04/28",
   "sd": "04/28",
   "first_seen_iso": "2026-05-05T08:49:04.795180+09:00"
+ },
+ "https://splash247.com/us-protection-plan-fails-to-calm-hormuz-nerves/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "US protection plan fails to calm Hormuz nerves",
+  "url": "https://splash247.com/us-protection-plan-fails-to-calm-hormuz-nerves/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-05T17:28:30.897092+09:00"
+ },
+ "https://splash247.com/its-the-end-of-the-world-as-we-know-it-geneva-dry-tackles-ai-upheaval/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "‘It’s the end of the world as we know it’: Geneva Dry tackles AI upheaval",
+  "url": "https://splash247.com/its-the-end-of-the-world-as-we-know-it-geneva-dry-tackles-ai-upheaval/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-05T17:28:30.897092+09:00"
  }
 }
