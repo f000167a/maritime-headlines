@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314854": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "商船三井、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=314854",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-28T18:10:20.598452+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313841": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（406）日本支える先行発注。恒力重工、破竹の勢い",
-  "url": "https://www.jmd.co.jp/article.php?no=313841",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-28T18:10:20.598452+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=313828": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/有村智成】神戸・大阪両港予算、船社から選ばれる港づくり進めよ",
-  "url": "https://www.jmd.co.jp/article.php?no=313828",
-  "date": "2026/03/31",
-  "sd": "03/31",
-  "first_seen_iso": "2026-04-28T18:10:20.598452+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/04/201183/": {
   "src": "k",
   "cat": "コラム",
@@ -2158,5 +2131,32 @@
   "date": "2026/05/05",
   "sd": "05/05",
   "first_seen_iso": "2026-05-05T17:28:30.897092+09:00"
+ },
+ "https://splash247.com/reederei-nord-moves-into-capesize-league-with-wuhu-newbuild-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Reederei Nord moves into capesize league with Wuhu newbuild order",
+  "url": "https://splash247.com/reederei-nord-moves-into-capesize-league-with-wuhu-newbuild-order/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-05T19:22:16.016658+09:00"
+ },
+ "https://splash247.com/yangzijiang-maritime-expands-orderbook-with-10-ship-newbuild-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Yangzijiang Maritime expands orderbook with 10-ship newbuild deal",
+  "url": "https://splash247.com/yangzijiang-maritime-expands-orderbook-with-10-ship-newbuild-deal/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-05-05T19:22:16.016658+09:00"
+ },
+ "https://splash247.com/cmt-returns-to-qingdao-beihai-for-newcastlemax-brace/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "CMT returns to Qingdao Beihai for newcastlemax brace",
+  "url": "https://splash247.com/cmt-returns-to-qingdao-beihai-for-newcastlemax-brace/",
+  "date": "2026/04/28",
+  "sd": "04/28",
+  "first_seen_iso": "2026-05-05T19:22:16.016658+09:00"
  }
 }
