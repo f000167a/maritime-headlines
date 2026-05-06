@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314855": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "船協・長澤会長、日本関係船 通峡で謝意。現地足止めは41隻に",
-  "url": "https://www.jmd.co.jp/article.php?no=314855",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-04-29T21:55:40.002739+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2670-down-7-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index falls to 2670 down 7 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2670-down-7-points/",
-  "date": "2026/04/29",
-  "sd": "04/29",
-  "first_seen_iso": "2026-04-29T21:55:40.003885+09:00"
- },
  "https://www.kaijipress.com/news/shipbuilding/2026/04/201076/": {
   "src": "k",
   "cat": "コラム",
@@ -254,7 +236,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】理研計器、携帯ガス検知器の規則改正対応無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -263,7 +245,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
+  "title": "アクセラロンが次世代…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -434,7 +416,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
+  "title": "関東地整局・中川副局…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -470,7 +452,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグ…",
+  "title": "鈴与、7人制女子ラグビー大会開催",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
