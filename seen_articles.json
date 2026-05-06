@@ -1,13 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/04/201055/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】＃11＃12 福神汽船・瀬野会長 × 東慶海運・長谷部会長＜中＞、船舶管理・危機管理で総合力発揮",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201055/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-04-29T18:03:20.381071+09:00"
- },
  "https://splash247.com/gunfire-and-gridlock-choke-hormuz/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -281,7 +272,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】理研計器、携帯ガス検知器の規則改正対応無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201212/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -461,7 +452,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
+  "title": "関東地整局・中川副局…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -497,7 +488,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグ…",
+  "title": "鈴与、7人制女子ラグビー大会開催",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -560,7 +551,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、LNG燃料ケープ“RURI PLANET”竣工",
+  "title": "今治造船、LNG燃料…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1690,5 +1681,32 @@
   "date": "2026/04/29",
   "sd": "04/29",
   "first_seen_iso": "2026-05-06T10:17:23.492487+09:00"
+ },
+ "https://splash247.com/hormuz-toll-authority-goes-live/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz toll authority goes live",
+  "url": "https://splash247.com/hormuz-toll-authority-goes-live/",
+  "date": "2026/05/06",
+  "sd": "05/06",
+  "first_seen_iso": "2026-05-06T18:11:42.940440+09:00"
+ },
+ "https://splash247.com/dee4-doubles-down-on-ultramax-play/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Dee4 doubles down on ultramax play",
+  "url": "https://splash247.com/dee4-doubles-down-on-ultramax-play/",
+  "date": "2026/04/29",
+  "sd": "04/29",
+  "first_seen_iso": "2026-05-06T18:11:42.940440+09:00"
+ },
+ "https://splash247.com/mercuria-steps-up-fleet-push-with-four-bulker-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Mercuria steps up fleet push with four bulker newbuilds",
+  "url": "https://splash247.com/mercuria-steps-up-fleet-push-with-four-bulker-newbuilds/",
+  "date": "2026/04/29",
+  "sd": "04/29",
+  "first_seen_iso": "2026-05-06T18:11:42.940440+09:00"
  }
 }
