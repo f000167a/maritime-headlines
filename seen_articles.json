@@ -245,7 +245,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アクセラロンが次世代…",
+  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -515,7 +515,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、LNG燃料ケープ“RURI PLANET”竣工",
+  "title": "今治造船、LNG燃料…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1690,5 +1690,23 @@
   "date": "2026/05/06",
   "sd": "05/06",
   "first_seen_iso": "2026-05-06T20:22:00.852859+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314855": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "船協・長澤会長、日本関係船 通峡で謝意。現地足止めは41隻に",
+  "url": "https://www.jmd.co.jp/article.php?no=314855",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-07T07:44:08.324727+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2670-down-7-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index falls to 2670 down 7 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2670-down-7-points/",
+  "date": "2026/04/29",
+  "sd": "04/29",
+  "first_seen_iso": "2026-05-07T07:44:08.325558+09:00"
  }
 }
