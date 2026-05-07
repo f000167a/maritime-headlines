@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314665": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/神農達也】名古屋港の新長期構想、物流の価値、創造の継続を期待",
-  "url": "https://www.jmd.co.jp/article.php?no=314665",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-30T08:50:17.322058+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-rally-continues-2/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Rally Continues",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-rally-continues-2/",
-  "date": "2026/04/23",
-  "sd": "04/23",
-  "first_seen_iso": "2026-04-30T08:50:17.322999+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2675-up-35-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2675 up 35 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2675-up-35-points/",
-  "date": "2026/04/22",
-  "sd": "04/22",
-  "first_seen_iso": "2026-04-30T08:50:17.322999+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314231": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -1618,5 +1591,23 @@
   "date": "2026/04/29",
   "sd": "04/29",
   "first_seen_iso": "2026-05-07T07:44:08.325558+09:00"
+ },
+ "https://splash247.com/diana-shipping-fixes-capesize-and-ultramax-at-higher-rates/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana Shipping fixes capesize and ultramax at higher rates",
+  "url": "https://splash247.com/diana-shipping-fixes-capesize-and-ultramax-at-higher-rates/",
+  "date": "2026/04/29",
+  "sd": "04/29",
+  "first_seen_iso": "2026-05-07T10:22:42.058604+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-advance/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Snaps 2-Day Advance",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-snaps-2-day-advance/",
+  "date": "2026/04/30",
+  "sd": "04/30",
+  "first_seen_iso": "2026-05-07T10:22:42.058746+09:00"
  }
 }
