@@ -1,22 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/baltic-dry-index-hovers-around-4-month-highs/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Hovers Around 4-Month Highs",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-hovers-around-4-month-highs/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-05-01T08:47:01.596429+09:00"
- },
- "https://www.hellenicshippingnews.com/how-the-strait-of-hormuz-crisis-is-reshaping-the-bulker-market/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "How the Strait of Hormuz Crisis is Reshaping the Bulker Market",
-  "url": "https://www.hellenicshippingnews.com/how-the-strait-of-hormuz-crisis-is-reshaping-the-bulker-market/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-05-01T08:47:01.596429+09:00"
- },
  "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -758,7 +740,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201247/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "郵船ロジ、新開トラン…",
+  "title": "郵船ロジ、新開トランスポートに出資、資本業務提携、販売・営業で連携",
   "url": "https://www.kaijipress.com/news/container/2026/05/201247/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1037,7 +1019,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201255/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】和幸船舶・SIM-SHIP、次世代内航RORO船を一般公開、2200人が見学無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201255/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1046,7 +1028,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201256/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "シー・アークトス、煙突設置型装置で排ガス分析",
+  "title": "シー・アークトス、煙…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201256/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1127,7 +1109,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201265/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ジャパンエキスプレス、神戸港の新物流施設を操業開始、本社も移転",
+  "title": "ジャパンエキスプレス…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201265/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -2014,5 +1996,41 @@
   "date": "2026/04/30",
   "sd": "04/30",
   "first_seen_iso": "2026-05-08T07:57:10.542644+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314890": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "BIMCO分析、ドライ船隊1%足止め。封鎖長期化なら需給バランス悪化",
+  "url": "https://www.jmd.co.jp/article.php?no=314890",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-08T08:52:35.855621+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314870": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/山田智史】ギリシャ船主、経営の要諦　しなやかに市況リスクと対峙",
+  "url": "https://www.jmd.co.jp/article.php?no=314870",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-08T08:52:35.855621+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-carriers-repricing-hard-to-explain-but-still-evident/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Carriers Repricing Hard to Explain, But Still Evident",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-carriers-repricing-hard-to-explain-but-still-evident/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-08T08:52:35.856615+09:00"
+ },
+ "https://www.hellenicshippingnews.com/mitsui-o-s-k-lines-sees-firming-market-conditions-in-dry-bulk/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Mitsui O.S.K. Lines Sees Firming Market Conditions in Dry Bulk",
+  "url": "https://www.hellenicshippingnews.com/mitsui-o-s-k-lines-sees-firming-market-conditions-in-dry-bulk/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-08T08:52:35.856615+09:00"
  }
 }
