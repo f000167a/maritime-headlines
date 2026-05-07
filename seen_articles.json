@@ -128,7 +128,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アクセラロンが次世代過給機、カートリッジ式で保守効率化、管理自由度高める",
+  "title": "アクセラロンが次世代…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201213/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -299,7 +299,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201226/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関東地整局・中川副局長、就任会見、首都圏の港湾・空港の機能強化",
+  "title": "関東地整局・中川副局…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201226/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -335,7 +335,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201230/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、7人制女子ラグ…",
+  "title": "鈴与、7人制女子ラグビー大会開催",
   "url": "https://www.kaijipress.com/news/container/2026/05/201230/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -398,7 +398,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、LNG燃料…",
+  "title": "今治造船、LNG燃料ケープ“RURI PLANET”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201237/",
   "date": "2026/04/30",
   "sd": "04/30",
@@ -1054,7 +1054,7 @@
  },
  "https://www.jmd.co.jp/article.php?no=314939": {
   "src": "j",
-  "cat": "外航全般",
+  "cat": "内航/フェリー",
   "title": "NSユナイテッド内航海運、会社人事",
   "url": "https://www.jmd.co.jp/article.php?no=314939",
   "date": "2026/05/07",
@@ -1609,5 +1609,23 @@
   "date": "2026/04/30",
   "sd": "04/30",
   "first_seen_iso": "2026-05-07T10:22:42.058746+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314938": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "NSユナイテッドタンカー、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=314938",
+  "date": "2026/05/07",
+  "sd": "05/07",
+  "first_seen_iso": "2026-05-07T12:53:34.053711+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314665": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神農達也】名古屋港の新長期構想、物流の価値、創造の継続を期待",
+  "url": "https://www.jmd.co.jp/article.php?no=314665",
+  "date": "2026/04/23",
+  "sd": "04/23",
+  "first_seen_iso": "2026-05-07T12:53:34.053711+09:00"
  }
 }
