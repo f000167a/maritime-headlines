@@ -1,13 +1,4 @@
 {
- "https://splash247.com/splash-wrap-regulators-raiders-and-deals-in-geneva-shape-shipping-this-week/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Regulators, raiders and deals in Geneva shape shipping this week",
-  "url": "https://splash247.com/splash-wrap-regulators-raiders-and-deals-in-geneva-shape-shipping-this-week/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-01T18:05:24.539545+09:00"
- },
  "https://splash247.com/panama-canal-prices-take-flight-on-iran-butterfly-effect/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -1073,7 +1064,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201264/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、北米…",
+  "title": "CMA-CGM、北米西岸「EX1」が神戸初入港、「大きな価値提供」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201264/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1100,7 +1091,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201267/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "HMM労使、釜山への本社移転で合意、8日の株主総会で決定へ",
+  "title": "HMM労使、釜山への…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201267/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -2068,5 +2059,32 @@
   "date": "2026/05/08",
   "sd": "05/08",
   "first_seen_iso": "2026-05-08T16:51:29.028754+09:00"
+ },
+ "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Complexity, two-tier fleets and bunker fears dominate scene-setting opening panel at Geneva Dry",
+  "url": "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-08T18:46:40.179639+09:00"
+ },
+ "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Clarksons builds Americas footprint with Serpac deal",
+  "url": "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-08T18:46:40.179639+09:00"
+ },
+ "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Goodwill Maritime exits the capesize segment with Genco deal",
+  "url": "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-08T18:46:40.179639+09:00"
  }
 }
