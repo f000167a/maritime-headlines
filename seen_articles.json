@@ -1,31 +1,4 @@
 {
- "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Goodwill Maritime exits the capesize segment with Genco deal",
-  "url": "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-01T15:46:06.913907+09:00"
- },
- "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Complexity, two-tier fleets and bunker fears dominate scene-setting opening panel at Geneva Dry",
-  "url": "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-01T15:46:06.913907+09:00"
- },
- "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Clarksons builds Americas footprint with Serpac deal",
-  "url": "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-01T15:46:06.913907+09:00"
- },
  "https://splash247.com/splash-wrap-regulators-raiders-and-deals-in-geneva-shape-shipping-this-week/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -947,7 +920,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】3月インドネシア石炭輸出量は3,760万トン、前年比▲8%減5月6日：T/C市場＝15隻・113万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
+  "title": "【本日のトピック】4月伯鉄鉱石輸出は前年比+14%増、3月の鈍化局面から一転堅調に5月7日：T/C市場＝22隻・161万DWT、V/C市場＝鉄鉱石4隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/07",
   "sd": "05/07",
@@ -1019,7 +992,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201255/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan 2026】和幸船舶・SIM-SHIP、次世代内航RORO船を一般公開、2200人が見学無料",
+  "title": "【Sea Japan…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201255/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1028,7 +1001,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201256/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "シー・アークトス、煙…",
+  "title": "シー・アークトス、煙突設置型装置で排ガス分析",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201256/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1100,7 +1073,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201264/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、北米西岸「EX1」が神戸初入港、「大きな価値提供」",
+  "title": "CMA-CGM、北米…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201264/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1109,7 +1082,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201265/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ジャパンエキスプレス…",
+  "title": "ジャパンエキスプレス、神戸港の新物流施設を操業開始、本社も移転",
   "url": "https://www.kaijipress.com/news/container/2026/05/201265/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1640,7 +1613,7 @@
  "https://splash247.com/genco-steps-up-fight-against-diana-takeover-push/": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Genco steps up fight against Diana takeover push",
+  "title": "Genco and Diana dig in ahead of crunch shareholder showdown",
   "url": "https://splash247.com/genco-steps-up-fight-against-diana-takeover-push/",
   "date": "2026/05/07",
   "sd": "05/07",
@@ -2059,5 +2032,41 @@
   "date": "2026/05/08",
   "sd": "05/08",
   "first_seen_iso": "2026-05-08T14:49:03.931047+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201295/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "成長戦略会議、サイバーポート、1万1000社連携、港湾ロジ素案",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201295/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-08T16:51:29.028175+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201297/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースクCEO、燃料高で月5億ドルの追加コスト、減速航海も検討",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201297/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-08T16:51:29.028175+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201296/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "関西ライン、昨年41型ハンディを新造用船、越バイオマス輸送に投入",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201296/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-08T16:51:29.028175+09:00"
+ },
+ "https://splash247.com/splash-wrap-trumps-hormuz-escort-mission-lasted-less-than-a-netflix-free-trial/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Trump’s Hormuz escort mission lasted less than a Netflix free trial",
+  "url": "https://splash247.com/splash-wrap-trumps-hormuz-escort-mission-lasted-less-than-a-netflix-free-trial/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-08T16:51:29.028754+09:00"
  }
 }
