@@ -938,7 +938,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201255/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【Sea Japan…",
+  "title": "【Sea Japan 2026】和幸船舶・SIM-SHIP、次世代内航RORO船を一般公開、2200人が見学無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201255/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -947,7 +947,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201256/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "シー・アークトス、煙突設置型装置で排ガス分析",
+  "title": "シー・アークトス、煙…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201256/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1019,7 +1019,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201264/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、北米西岸「EX1」が神戸初入港、「大きな価値提供」",
+  "title": "CMA-CGM、北米…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201264/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1046,7 +1046,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201267/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "HMM労使、釜山への…",
+  "title": "HMM労使、釜山への本社移転で合意、8日の株主総会で決定へ",
   "url": "https://www.kaijipress.com/news/container/2026/05/201267/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -2500,5 +2500,23 @@
   "date": "2026/05/01",
   "sd": "05/01",
   "first_seen_iso": "2026-05-08T20:24:55.617539+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315054": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "New!21:05ハパックロイド、ベナンに新拠点。西アフリカ事業強化",
+  "url": "https://www.jmd.co.jp/article.php?no=315054",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-05-08T21:54:56.922886+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315053": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!21:05ロジスティード、トール子会社に出資へ。日本郵便、海外で協業加速",
+  "url": "https://www.jmd.co.jp/article.php?no=315053",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-05-08T21:54:56.922886+09:00"
  }
 }
