@@ -1100,7 +1100,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201264/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、北米…",
+  "title": "CMA-CGM、北米西岸「EX1」が神戸初入港、「大きな価値提供」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201264/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -1109,7 +1109,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201265/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ジャパンエキスプレス、神戸港の新物流施設を操業開始、本社も移転",
+  "title": "ジャパンエキスプレス…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201265/",
   "date": "2026/05/01",
   "sd": "05/01",
@@ -2032,5 +2032,32 @@
   "date": "2026/05/01",
   "sd": "05/01",
   "first_seen_iso": "2026-05-08T08:52:35.856615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201293/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン・中東緊迫】ドバイ港、1～3月期コンテナは31%減、中東情勢悪化で大幅減",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201293/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-08T14:49:03.930510+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/05/201294/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会/海運この1カ月＜下＞コンテナ市況の変動要素が増加、中東情勢悪化、需給に影響可能性も",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/05/201294/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-08T14:49:03.930510+09:00"
+ },
+ "https://splash247.com/small-inefficiencies-still-costing-dry-bulk-millions-geneva-dry/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Small inefficiencies still costing dry bulk millions: Geneva Dry",
+  "url": "https://splash247.com/small-inefficiencies-still-costing-dry-bulk-millions-geneva-dry/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-08T14:49:03.931047+09:00"
  }
 }
