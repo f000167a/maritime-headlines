@@ -1,31 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/dry-bulk-market-trending-higher/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Dry Bulk Market Trending Higher",
-  "url": "https://www.hellenicshippingnews.com/dry-bulk-market-trending-higher/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-05-04T08:27:02.128952+09:00"
- },
- "https://www.hellenicshippingnews.com/dry-bulk-shipping-australian-iron-ore-exports-on-the-rise/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Dry Bulk Shipping: Australian Iron Ore Exports On the Rise",
-  "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-australian-iron-ore-exports-on-the-rise/",
-  "date": "2026/04/25",
-  "sd": "04/25",
-  "first_seen_iso": "2026-05-04T08:27:02.128952+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2665-down-8-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index falls to 2665 down 8 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2665-down-8-points/",
-  "date": "2026/04/24",
-  "sd": "04/24",
-  "first_seen_iso": "2026-05-04T08:27:02.128952+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314539": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -1811,7 +1784,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201299/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、世界4拠点で安全運航会議、船員813人が参加",
+  "title": "商船三井、世界4拠点…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201299/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -1856,7 +1829,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201304/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、韓国船…",
+  "title": "日本船主協会、韓国船主協会と協力覚書締結、海運政策など情報共有",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201304/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -2171,7 +2144,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201339/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "VLGCの新造発注がじわり増加、現代・ハンファ・恒力が今週成約",
+  "title": "VLGCの新造発注がじわり増加、現代・ハンファ・恒力が成約",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201339/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -2518,5 +2491,59 @@
   "date": "2026/05/09",
   "sd": "05/09",
   "first_seen_iso": "2026-05-11T07:40:45.731149+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314947": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "NSU内航、新社長に遠藤氏",
+  "url": "https://www.jmd.co.jp/article.php?no=314947",
+  "date": "2026/05/07",
+  "sd": "05/07",
+  "first_seen_iso": "2026-05-11T08:34:37.727187+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314939": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "NSユナイテッド内航海運、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=314939",
+  "date": "2026/05/07",
+  "sd": "05/07",
+  "first_seen_iso": "2026-05-11T08:34:37.727187+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314925": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "和幸船舶など、「SEA JAPAN」で新造RORO船公開。陸上支援など新機軸導入",
+  "url": "https://www.jmd.co.jp/article.php?no=314925",
+  "date": "2026/05/07",
+  "sd": "05/07",
+  "first_seen_iso": "2026-05-11T08:34:37.727187+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314927": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "海事局、海上運送法許可・登録を周知。リーフレット作成",
+  "url": "https://www.jmd.co.jp/article.php?no=314927",
+  "date": "2026/05/07",
+  "sd": "05/07",
+  "first_seen_iso": "2026-05-11T08:34:37.727187+09:00"
+ },
+ "https://splash247.com/geneva-dry-high-sets-the-stage-for-splash-singapore-debut/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry high sets the stage for Splash Singapore debut",
+  "url": "https://splash247.com/geneva-dry-high-sets-the-stage-for-splash-singapore-debut/",
+  "date": "2026/05/04",
+  "sd": "05/04",
+  "first_seen_iso": "2026-05-11T08:34:37.728045+09:00"
+ },
+ "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesize-market-lacking-momentum/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Dry Bulk Shipping: Capesize Market Lacking Momentum",
+  "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-capesize-market-lacking-momentum/",
+  "date": "2026/05/04",
+  "sd": "05/04",
+  "first_seen_iso": "2026-05-11T08:34:37.728189+09:00"
  }
 }
