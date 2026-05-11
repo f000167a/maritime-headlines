@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314539": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/柏井あづみ】揺らぐ日本のVLCC船隊、エネ安全保障へ用船料改善を",
-  "url": "https://www.jmd.co.jp/article.php?no=314539",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-05-04T09:10:29.026941+09:00"
- },
- "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Genco and Diana lock horns over meeting timing as takeover battle heats up",
-  "url": "https://splash247.com/genco-and-diana-lock-horns-over-meeting-timing-as-takeover-battle-heats-up/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-05-04T09:10:29.027666+09:00"
- },
  "https://splash247.com/us-launches-project-freedom-to-guide-ships-out-of-hormuz/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -1784,7 +1766,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201299/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、世界4拠点…",
+  "title": "商船三井、世界4拠点で安全運航会議、船員813人が参加",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201299/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -1829,7 +1811,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201304/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会、韓国船主協会と協力覚書締結、海運政策など情報共有",
+  "title": "日本船主協会、韓国船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201304/",
   "date": "2026/05/08",
   "sd": "05/08",
