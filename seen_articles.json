@@ -1982,7 +1982,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201323/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、九大文系地区施…",
+  "title": "鈴与、九大文系地区施設に愛称命名",
   "url": "https://www.kaijipress.com/news/container/2026/05/201323/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -1991,7 +1991,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201324/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、大相撲に懸賞旗を掲出",
+  "title": "上組、大相撲に懸賞旗…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201324/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -2527,5 +2527,23 @@
   "date": "2026/05/04",
   "sd": "05/04",
   "first_seen_iso": "2026-05-11T08:34:37.728189+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314539": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/柏井あづみ】揺らぐ日本のVLCC船隊、エネ安全保障へ用船料改善を",
+  "url": "https://www.jmd.co.jp/article.php?no=314539",
+  "date": "2026/04/20",
+  "sd": "04/20",
+  "first_seen_iso": "2026-05-11T13:14:07.712681+09:00"
+ },
+ "https://splash247.com/carbon-costs-fuel-choices-and-uncertainty-shape-geneva-dry-debate/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Carbon costs, fuel choices and uncertainty shape Geneva Dry debate",
+  "url": "https://splash247.com/carbon-costs-fuel-choices-and-uncertainty-shape-geneva-dry-debate/",
+  "date": "2026/05/11",
+  "sd": "05/11",
+  "first_seen_iso": "2026-05-11T13:14:07.713485+09:00"
  }
 }
