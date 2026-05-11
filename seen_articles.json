@@ -1,58 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/the-panamax-market-a-supply-side-story/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "The Panamax market: A supply-side story",
-  "url": "https://www.hellenicshippingnews.com/the-panamax-market-a-supply-side-story/",
-  "date": "2026/05/05",
-  "sd": "05/05",
-  "first_seen_iso": "2026-05-05T07:52:37.728756+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2730-up-44-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2730 up 44 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2730-up-44-points/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-05T07:52:37.728756+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2666-up-1-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2666 up 1 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2666-up-1-points/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-05-05T07:52:37.728756+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/04/201153/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "春の褒章、海事関係者11人受章",
-  "url": "https://www.kaijipress.com/news/shipping/2026/04/201153/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-05T08:49:04.794796+09:00"
- },
- "https://splash247.com/fujian-highton-ramps-up-mpp-push-with-fresh-newbuilds/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Fujian Highton ramps up MPP push with fresh newbuilds",
-  "url": "https://splash247.com/fujian-highton-ramps-up-mpp-push-with-fresh-newbuilds/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-05-05T08:49:04.795180+09:00"
- },
- "https://splash247.com/cosco-linked-shanghai-time-orders-trio-of-bulkers-at-nantong-xiangyu/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "COSCO-linked Shanghai Time orders trio of bulkers at Nantong Xiangyu",
-  "url": "https://splash247.com/cosco-linked-shanghai-time-orders-trio-of-bulkers-at-nantong-xiangyu/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-05-05T08:49:04.795180+09:00"
- },
  "https://splash247.com/us-protection-plan-fails-to-calm-hormuz-nerves/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2774,7 +2720,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201385/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "GSCワークショップ…",
+  "title": "GSCワークショップ、NZF議論、28年GHG戦略改定前が山場に、交渉長期化で投資判断に懸念",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201385/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2783,7 +2729,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201386/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、サイバーコンテストを初開催、約30人参加で人材育成に手応え",
+  "title": "日舶工、サイバーコン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201386/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -3130,5 +3076,14 @@
   "date": "2026/05/08",
   "sd": "05/08",
   "first_seen_iso": "2026-05-12T07:49:20.919937+09:00"
+ },
+ "https://splash247.com/diana-takes-hostile-route-in-push-for-genco/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana takes hostile route in push for Genco",
+  "url": "https://splash247.com/diana-takes-hostile-route-in-push-for-genco/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-12T08:53:17.955305+09:00"
  }
 }
