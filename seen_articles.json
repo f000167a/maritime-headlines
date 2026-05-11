@@ -1,31 +1,4 @@
 {
- "https://splash247.com/us-launches-project-freedom-to-guide-ships-out-of-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "US launches Project Freedom to guide ships out of Hormuz",
-  "url": "https://splash247.com/us-launches-project-freedom-to-guide-ships-out-of-hormuz/",
-  "date": "2026/05/04",
-  "sd": "05/04",
-  "first_seen_iso": "2026-05-04T15:48:33.515060+09:00"
- },
- "https://splash247.com/average-distance-of-global-seaborne-trade-has-increased-by-10-during-the-disruptive-2020s/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Average distance of global seaborne trade has increased by 10% during the disruptive 2020s",
-  "url": "https://splash247.com/average-distance-of-global-seaborne-trade-has-increased-by-10-during-the-disruptive-2020s/",
-  "date": "2026/05/04",
-  "sd": "05/04",
-  "first_seen_iso": "2026-05-04T15:48:33.515060+09:00"
- },
- "https://splash247.com/enesel-pivots-back-to-bulk-with-capesize-newbuilds-in-china/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Enesel pivots back to bulk with capesize newbuilds in China",
-  "url": "https://splash247.com/enesel-pivots-back-to-bulk-with-capesize-newbuilds-in-china/",
-  "date": "2026/04/27",
-  "sd": "04/27",
-  "first_seen_iso": "2026-05-04T15:48:33.515060+09:00"
- },
  "https://www.kaijipress.com/person/profile/2026/04/201147/": {
   "src": "k",
   "cat": "コラム",
@@ -578,7 +551,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月伯鉄鉱石輸出は前年比+14%増、3月の鈍化局面から一転堅調に5月7日：T/C市場＝22隻・161万DWT、V/C市場＝鉄鉱石4隻、石炭2隻",
+  "title": "【本日のトピック】中国4月の石炭輸入量は3,308万トン、前年比▲13%減5月8日：T/C市場＝11隻・87万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/07",
   "sd": "05/07",
@@ -1982,7 +1955,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201323/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、九大文系地区施設に愛称命名",
+  "title": "鈴与、九大文系地区施…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201323/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -1991,7 +1964,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201324/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、大相撲に懸賞旗…",
+  "title": "上組、大相撲に懸賞旗を掲出",
   "url": "https://www.kaijipress.com/news/container/2026/05/201324/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -2090,7 +2063,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201335/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIE、売上が…",
+  "title": "ダイハツIE、売上が初の1000億円突破、26年度、舶用エンジン拡大",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201335/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -2162,7 +2135,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201343/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "IoS-OPコンソーシアム議長に商船三井杉本執行役員",
+  "title": "IoS-OPコンソー…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201343/",
   "date": "2026/05/08",
   "sd": "05/08",
@@ -2545,5 +2518,59 @@
   "date": "2026/05/11",
   "sd": "05/11",
   "first_seen_iso": "2026-05-11T13:14:07.713485+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201351/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿商船三井クルーズ、“にっぽん丸”35年の歴史に幕、横浜港で引退セレモニー",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201351/",
+  "date": "2026/05/11",
+  "sd": "05/11",
+  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201349/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿コンテナ船、上海発欧米向け短期運賃が上昇",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201349/",
+  "date": "2026/05/11",
+  "sd": "05/11",
+  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201350/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿世界コンテナ荷動き、1～3月期は4.4%増、3月は減少、中東情勢影響",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201350/",
+  "date": "2026/05/11",
+  "sd": "05/11",
+  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201348/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "世界の新造船受注量、1～3月は6割増の5517万トン、中国がシェア8割",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201348/",
+  "date": "2026/05/11",
+  "sd": "05/11",
+  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
+ },
+ "https://splash247.com/one-lng-transit-zero-breakthrough-in-hormuz-crisis/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "One LNG transit, zero breakthrough in Hormuz crisis",
+  "url": "https://splash247.com/one-lng-transit-zero-breakthrough-in-hormuz-crisis/",
+  "date": "2026/05/11",
+  "sd": "05/11",
+  "first_seen_iso": "2026-05-11T16:56:03.583519+09:00"
+ },
+ "https://splash247.com/japanese-built-ultramax-values-jump/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Japanese-built ultramax values jump",
+  "url": "https://splash247.com/japanese-built-ultramax-values-jump/",
+  "date": "2026/05/11",
+  "sd": "05/11",
+  "first_seen_iso": "2026-05-11T16:56:03.583519+09:00"
  }
 }
