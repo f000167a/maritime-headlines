@@ -1,13 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2677-up-11-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2677 up 11 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2677-up-11-points/",
-  "date": "2026/04/28",
-  "sd": "04/28",
-  "first_seen_iso": "2026-05-06T08:42:29.811679+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314833": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -2981,7 +2972,7 @@
  "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3001-up-23-points/": {
   "src": "h",
   "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 3001  up 23 points",
+  "title": "Baltic Dry Index climbs to 3001 up 23 points",
   "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3001-up-23-points/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -5416,5 +5407,59 @@
   "date": "2026/05/13",
   "sd": "05/13",
   "first_seen_iso": "2026-05-13T07:54:59.055019+09:00"
+ },
+ "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana launches campaign site while Genco fires back with ‘myths and facts’ rebuttal",
+  "url": "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T08:55:36.515595+09:00"
+ },
+ "https://www.hellenicshippingnews.com/newbuilding-activity-growing-while-more-deals-evident-in-the-second-hand-market/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Newbuilding Activity Growing, While More Deals Evident in the Second Hand Market",
+  "url": "https://www.hellenicshippingnews.com/newbuilding-activity-growing-while-more-deals-evident-in-the-second-hand-market/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
+ },
+ "https://www.hellenicshippingnews.com/what-a-guinea-bauxite-export-cap-could-mean-for-dry-bulk/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "What a Guinea Bauxite Export Cap Could Mean for Dry Bulk",
+  "url": "https://www.hellenicshippingnews.com/what-a-guinea-bauxite-export-cap-could-mean-for-dry-bulk/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-highest-since-2023/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index Highest since 2023",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-highest-since-2023/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3063-up-62-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 3063 up 62 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3063-up-62-points/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2832-up-102-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2832 up 102 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2832-up-102-points/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
  }
 }
