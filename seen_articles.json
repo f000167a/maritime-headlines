@@ -2522,7 +2522,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201365/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CUラインズ、6400TEU型船4隻を発注、中船黄埔文冲に",
+  "title": "CUラインズ、640…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201365/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2603,7 +2603,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201374/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、少年剣道大会に…",
+  "title": "鈴与、少年剣道大会に冠協賛",
   "url": "https://www.kaijipress.com/news/container/2026/05/201374/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -4921,5 +4921,14 @@
   "date": "2026/05/05",
   "sd": "05/05",
   "first_seen_iso": "2026-05-12T20:32:48.779868+09:00"
+ },
+ "https://splash247.com/reederei-nord-moves-into-capesize-league-with-wuhu-newbuild-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Reederei Nord moves into capesize league with Wuhu newbuild order",
+  "url": "https://splash247.com/reederei-nord-moves-into-capesize-league-with-wuhu-newbuild-order/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-12T22:26:34.250659+09:00"
  }
 }
