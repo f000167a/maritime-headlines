@@ -2720,7 +2720,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201385/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "GSCワークショップ、NZF議論、28年GHG戦略改定前が山場に、交渉長期化で投資判断に懸念",
+  "title": "GSCワークショップ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201385/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201386/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、サイバーコン…",
+  "title": "日舶工、サイバーコンテストを初開催、約30人参加で人材育成に手応え",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201386/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -3085,5 +3085,23 @@
   "date": "2026/05/05",
   "sd": "05/05",
   "first_seen_iso": "2026-05-12T08:53:17.955305+09:00"
+ },
+ "https://www.hellenicshippingnews.com/the-panamax-market-a-supply-side-story/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "The Panamax market: A supply-side story",
+  "url": "https://www.hellenicshippingnews.com/the-panamax-market-a-supply-side-story/",
+  "date": "2026/05/05",
+  "sd": "05/05",
+  "first_seen_iso": "2026-05-12T12:57:40.633634+09:00"
+ },
+ "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2730-up-44-points/": {
+  "src": "h",
+  "cat": "Dry Bulk Market",
+  "title": "Baltic Dry Index climbs to 2730 up 44 points",
+  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2730-up-44-points/",
+  "date": "2026/05/01",
+  "sd": "05/01",
+  "first_seen_iso": "2026-05-12T12:57:40.633634+09:00"
  }
 }
