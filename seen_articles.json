@@ -434,7 +434,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国4月の石炭輸入量は3,308万トン、前年比▲13%減5月8日：T/C市場＝11隻・87万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
+  "title": "【本日のトピック】中国4月の自動車販売は5カ月連続前年割れ、好調な輸出と明暗5月11日：T/C市場＝15隻・108万DWT、V/C市場＝鉄鉱石1隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/07",
   "sd": "05/07",
@@ -2405,7 +2405,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201351/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井クルーズ、“…",
+  "title": "商船三井クルーズ、“にっぽん丸”35年の歴史に幕、横浜港で引退セレモニー",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201351/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2531,7 +2531,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201361/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "伊藤忠グループのアイメックス、「Vessellink」採用",
+  "title": "伊藤忠グループのアイ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201361/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2567,7 +2567,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201365/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CUラインズ、640…",
+  "title": "CUラインズ、6400TEU型船4隻を発注、中船黄埔文冲に",
   "url": "https://www.kaijipress.com/news/container/2026/05/201365/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2648,7 +2648,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201374/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、少年剣道大会に冠協賛",
+  "title": "鈴与、少年剣道大会に…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201374/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2720,7 +2720,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201385/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "GSCワークショップ…",
+  "title": "GSCワークショップ、NZF議論、28年GHG戦略改定前が山場に、交渉長期化で投資判断に懸念",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201385/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201386/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、サイバーコンテストを初開催、約30人参加で人材育成に手応え",
+  "title": "日舶工、サイバーコン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201386/",
   "date": "2026/05/11",
   "sd": "05/11",
@@ -3103,5 +3103,77 @@
   "date": "2026/05/01",
   "sd": "05/01",
   "first_seen_iso": "2026-05-12T12:57:40.633634+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201394/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "吉田運送、MSC・コスコと船社CY契約、ICD活用で陸送効率化",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201394/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.097590+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201395/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿LA港、4月は6%増の89万TEU、過去2番目",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201395/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.097590+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201396/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、買収のヘルスケア物流事業、EBITDA、30年度に3倍の2.4億ユーロ",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201396/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.097590+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201398/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿《連載》キーマンに聞く東京港の港湾運営①、東京都港湾局・田中彰局長、大井ふ頭を最先端CTに刷新",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201398/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.097590+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201397/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿輸組、造船9社とポシドニア出展、セミナーやパーティー開催",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201397/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.097590+09:00"
+ },
+ "https://splash247.com/panama-canal-slot-auctions-hit-record-4m/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal slot auctions hit record $4m",
+  "url": "https://splash247.com/panama-canal-slot-auctions-hit-record-4m/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.098184+09:00"
+ },
+ "https://splash247.com/geopolitical-shocks-tighten-geared-bulker-availability/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geopolitical shocks tighten geared bulker availability",
+  "url": "https://splash247.com/geopolitical-shocks-tighten-geared-bulker-availability/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.098184+09:00"
+ },
+ "https://splash247.com/shipping-faces-decade-defining-split-as-geopolitics-overcapacity-and-decarbonisation-collide/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipping faces decade-defining split as geopolitics, overcapacity and decarbonisation collide",
+  "url": "https://splash247.com/shipping-faces-decade-defining-split-as-geopolitics-overcapacity-and-decarbonisation-collide/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-12T15:44:26.098184+09:00"
  }
 }
