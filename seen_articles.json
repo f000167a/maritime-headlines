@@ -1,22 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/baltic-dry-index-at-5-month-high/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index at 5-Month High",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-at-5-month-high/",
-  "date": "2026/05/06",
-  "sd": "05/06",
-  "first_seen_iso": "2026-05-06T20:22:00.852859+09:00"
- },
- "https://www.hellenicshippingnews.com/india-is-burning-more-coal-as-extreme-heat-and-the-iran-war-squeeze-energy-supplies/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "India is burning more coal as extreme heat and the Iran war squeeze energy supplies",
-  "url": "https://www.hellenicshippingnews.com/india-is-burning-more-coal-as-extreme-heat-and-the-iran-war-squeeze-energy-supplies/",
-  "date": "2026/05/06",
-  "sd": "05/06",
-  "first_seen_iso": "2026-05-06T20:22:00.852859+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314855": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -3134,7 +3116,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201409/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CPKC、安全性とス…",
+  "title": "CPKC、安全性とスピードで強み、メキシコ発着鉄道を強化",
   "url": "https://www.kaijipress.com/news/container/2026/05/201409/",
   "date": "2026/05/12",
   "sd": "05/12",
@@ -3143,7 +3125,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201410/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、ケニアと戦略的協定締結、港湾・物流発展へ",
+  "title": "CMA-CGM、ケニ…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201410/",
   "date": "2026/05/12",
   "sd": "05/12",
@@ -5713,5 +5695,95 @@
   "date": "2026/05/13",
   "sd": "05/13",
   "first_seen_iso": "2026-05-13T19:06:55.895785+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315168": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "New!19:05CMA CGM、北米東岸便の神戸寄港休止へ",
+  "url": "https://www.jmd.co.jp/article.php?no=315168",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-05-13T21:25:04.962512+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7891/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門：4月伯鉄鉱石輸出は前年比+14%増、3月の鈍化局面から一転堅調に●ブラジル開発・商工省が発表した速報値によると、同国4月の鉄鉱石輸出量は3,457万トンと前月比+23.8%・前年同月比+13.9%増で、3月の落ち込みから一転堅調を呈して今年最高水準を付けた。なお、・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7891/1",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7890/2": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "石炭部門：3月インドネシア石炭輸出量は3,760万トン、前年比▲8%減●インドネシア統計局が発表した最新統計によると、同国3月のインドネシア石炭輸出量は3,760万トンと前月比+2.8%増・前年同月比▲8.1%減、前月からは僅かに増加したものの3月としては2021年以来・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7890/2",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7889/3": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "穀物部門：伯大豆輸出、4月は1,675万トンと前年比+9.7%増●米国農務省(USDA)によると、25/26年度直近(9月～4月30日)までの米国大豆輸出量は3,324万トン(前年同期比▲23.5%)。直近週の週間輸出量は53万トン(前週比▲13.1%・前年同期比・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7889/3",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7888/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門：中国2026年3月のボーキサイト輸入量、過去最高の2,178万トン●週末8日時点の動静データを見ると、仕向け地未定のフリー船隻数はハンディマックスが前週末比▲5隻減・前年同期比▲5隻減の27隻。一方、ハンディサイズは前週末比+12隻・前年同期比+7隻増の60隻。・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7888/4",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7887/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門：中国Hengli、ギリシャ3船主からCAPE計8隻受注●2026年4月最終週～5月初週(4月27日～5月8日)のバルカー中古船市場は、パナマックス以下の船型を中心に2週間で40件以上の売買事例が判明した。・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7887/6",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7885/7": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "証券部門：好決算銘柄に資金流入・海運株はまちまち●最近の東京市場では半導体メモリー専業のキオクシアの活況が継続しており、同社は15日の取引終了後に26年3月期決算を発表予定。AI需要の拡大を背景にしたメモリー価格の高騰を受けて純利益は最高値を大きく・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7885/7",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7886/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門：ホルムズ海峡封鎖で忍び寄る食料市場●イランはホルムズ海峡での管理継続を要求しており本格的な原油供給の目詰まりが解消される見込みは薄い。原油価格の下値も限られると見るべきで、世界経済への影響が気になる。農業分野でも、燃料はじめ生産資材(・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1219/7886/8",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2065号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_general/detail2/1219": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧問題を語る - 柴田明夫の視点 - 「ホルムズ海峡封鎖で忍び寄る食料市場」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_general/detail2/1219",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-13T21:25:04.963658+09:00"
  }
 }
