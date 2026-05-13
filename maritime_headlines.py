@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
-海事ニュース見出しスクレイパー v6 (5ソース)
+海事ニュース見出しスクレイパー v6 (4ソース)
 ============================================
-日本海事新聞 + 海事プレスONLINE + Splash247 + Hellenic Shipping News
-+ TDS (Tramp Data Service) の公開見出しを取得。
-ドライバルク特化スコアリング + 初検出時刻付きHTMLを生成。
+日本海事新聞 + 海事プレスONLINE + Splash247 + TDS (Tramp Data Service)
+の公開見出しを取得。ドライバルク特化スコアリング + 初検出時刻付きHTMLを生成。
 
 英語ソース: WordPress REST API → RSS フィード の二段フォールバック。
 TDS: トップページの Daily/Weekly 見出し（認証不要部分のみ）。
@@ -91,14 +90,6 @@ CATEGORY_PRIORITY = {
     "Ports and Logistics":  30,
     "Contributions":        25,
     "Press Releases":       15,
-    # --- Hellenic Shipping News ---
-    "Dry Bulk Market":      90,
-    "International Shipping News": 55,
-    "Hellenic Shipping News": 50,
-    "Commodities":          60,
-    "Stock Market":         25,
-    "Global Economy":       30,
-    "Weekly Shipbrokers Reports": 70,
     # --- TDS (Tramp Data Service) ---
     "TDS Daily":            85,
     "TDS Weekly":           80,
@@ -128,7 +119,7 @@ BOOST_KEYWORDS = {
     "封鎖":       15, "LNG":       15,
     # 洋上風力
     "洋上風力":    15,
-    # --- English keywords (Splash247 / Hellenic) ---
+    # --- English keywords (Splash247) ---
     "dry bulk":   25, "iron ore":   25, "coal trade": 20,
     "Kamsarmax":  20, "Ultramax":   20, "Handysize":  15,
     "Newcastlemax": 25, "freight rate": 15, "tonne-mile": 15,
@@ -428,7 +419,7 @@ def _fetch_google_news_rss(site_domain, search_terms, src_key, default_cat):
                 except (ValueError, TypeError):
                     pass
             # Google News タイトルから " - サイト名" を除去
-            title = re.sub(r'\s*-\s*(Splash247|Hellenic Shipping News)\s*$', '', title)
+            title = re.sub(r'\s*-\s*Splash247\s*$', '', title)
             if any(r["title"] == title for r in results):
                 continue
             results.append({
@@ -456,26 +447,6 @@ def fetch_splash247():
         print("  [Splash247] → Google News フォールバック...")
         results = _fetch_google_news_rss(
             "splash247.com", "dry cargo bulk", "s", "Dry Cargo"
-        )
-    return results
-
-
-def fetch_hellenic():
-    """Hellenic Shipping News: WP REST API → RSS → Google News フォールバック"""
-    print("  [Hellenic] WP API...")
-    results = _fetch_wp_api(
-        "www.hellenicshippingnews.com", "dry-bulk-market", "h", "Dry Bulk Market"
-    )
-    if not results:
-        print("  [Hellenic] → RSS フォールバック...")
-        results = _fetch_rss(
-            "https://www.hellenicshippingnews.com/category/dry-bulk-market/feed/",
-            "h", "Dry Bulk Market"
-        )
-    if not results:
-        print("  [Hellenic] → Google News フォールバック...")
-        results = _fetch_google_news_rss(
-            "hellenicshippingnews.com", "dry bulk shipping", "h", "Dry Bulk Market"
         )
     return results
 
@@ -634,8 +605,7 @@ def apply_recency_bonus(articles):
 # ============================================================
 CSS = """
 :root{--bg:#f5f5f0;--card:#fff;--jmd:#1b3a4b;--jmd-l:#e8eff3;--kp:#6b2737;--kp-l:#f5e8eb;
---sp:#0066aa;--sp-l:#e5f0fa;--hl:#2e7d32;--hl-l:#e8f5e9;--td:#d35400;--td-l:#fdf2e9;
---text:#1a1a1a;--tm:#555;--tl:#888;--bdr:#ddd;--acc:#c4841d;--acc-bg:#fdf6ec;--hov:#f0f4f8;--r:6px;
+--sp:#0066aa;--sp-l:#e5f0fa;--text:#1a1a1a;--tm:#555;--tl:#888;--bdr:#ddd;--acc:#c4841d;--acc-bg:#fdf6ec;--hov:#f0f4f8;--r:6px;
 --hi:#e74c3c;--hi-bg:#fdedec;--md:#f39c12;--md-bg:#fef9e7;--lo:#95a5a6;--lo-bg:#f2f3f4}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN","Meiryo",sans-serif;background:var(--bg);color:var(--text);line-height:1.7}
@@ -645,8 +615,7 @@ body{font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN","Meiryo",sans-serif;
 .sts{display:flex;justify-content:center;gap:10px;padding:14px 20px;flex-wrap:wrap}
 .st{background:var(--card);border:1px solid var(--bdr);border-radius:var(--r);padding:8px 20px;text-align:center;min-width:100px}
 .st .n{font-size:1.6em;font-weight:700}
-.st .n.j{color:var(--jmd)}.st .n.k{color:var(--kp)}.st .n.t{color:var(--acc)}.st .n.h{color:var(--hi)}
-.st .n.tm{color:var(--jmd);font-size:1.4em;letter-spacing:.02em}
+.st .n.j{color:var(--jmd)}.st .n.k{color:var(--kp)}.st .n.t{color:var(--acc)}
 .st .l{font-size:.72em;color:var(--tl)}
 .tb{display:flex;max-width:1100px;margin:0 auto;padding:0 20px;gap:2px}
 .tbtn{padding:9px 22px;font-size:.9em;font-weight:500;border:1px solid var(--bdr);border-bottom:none;
@@ -654,7 +623,7 @@ border-radius:var(--r) var(--r) 0 0;background:#e8e8e3;color:var(--tm);cursor:po
 .tbtn:hover{background:#ddd}.tbtn.a{background:var(--card);color:var(--text);font-weight:700;position:relative;z-index:1}
 .tc{display:none;max-width:1100px;margin:0 auto;padding:0 20px 30px}.tc.a{display:block}
 .tp{background:var(--card);border:1px solid var(--bdr);border-radius:0 var(--r) var(--r) var(--r);overflow:hidden}
-.sh{font-size:1em;font-weight:700;padding:10px 16px;color:#fff}.sh.j{background:var(--jmd)}.sh.k{background:var(--kp)}.sh.s{background:var(--sp)}.sh.h{background:var(--hl)}.sh.t{background:var(--td)}
+.sh{font-size:1em;font-weight:700;padding:10px 16px;color:#fff}.sh.j{background:var(--jmd)}.sh.k{background:var(--kp)}.sh.s{background:var(--sp)}
 .ct{border-bottom:1px solid var(--bdr);padding:12px 16px}.ct:last-child{border-bottom:none}
 .cn{font-weight:700;font-size:.8em;color:var(--tl);letter-spacing:.04em;margin-bottom:6px;padding-bottom:4px;border-bottom:2px solid var(--bdr)}
 .al{list-style:none}
@@ -669,8 +638,7 @@ border-radius:var(--r) var(--r) 0 0;background:#e8e8e3;color:var(--tm);cursor:po
 .li .d{flex-shrink:0;font-size:.76em;color:var(--tl);font-weight:500;min-width:40px;font-variant-numeric:tabular-nums}
 .li .fs{flex-shrink:0;font-size:.7em;color:var(--acc);font-weight:500;min-width:38px;font-variant-numeric:tabular-nums}
 .li .st2{flex-shrink:0;font-size:.66em;font-weight:700;padding:2px 6px;border-radius:3px}
-.li .st2.j{background:var(--jmd-l);color:var(--jmd)}.li .st2.k{background:var(--kp-l);color:var(--kp)}
-.li .st2.s{background:var(--sp-l);color:var(--sp)}.li .st2.h{background:var(--hl-l);color:var(--hl)}.li .st2.t{background:var(--td-l);color:var(--td)}
+.li .st2.j{background:var(--jmd-l);color:var(--jmd)}.li .st2.k{background:var(--kp-l);color:var(--kp)}.li .st2.s{background:var(--sp-l);color:var(--sp)}
 .li .ct2{flex-shrink:0;font-size:.66em;font-weight:500;padding:2px 5px;border-radius:3px;background:var(--acc-bg);color:var(--acc)}
 .li .sc{flex-shrink:0;font-size:.62em;font-weight:700;padding:2px 5px;border-radius:3px;min-width:28px;text-align:center}
 .li .sc.hi{background:var(--hi-bg);color:var(--hi)}.li .sc.md{background:var(--md-bg);color:var(--md)}.li .sc.lo{background:var(--lo-bg);color:var(--lo)}
@@ -712,7 +680,7 @@ def score_badge(score):
 
 def render_item(a):
     sc = a["src"]
-    SRC_LABELS = {"j":"海事新聞","k":"海事プレス","s":"Splash","h":"Hellenic","t":"TDS"}
+    SRC_LABELS = {"j":"海事新聞","k":"海事プレス","s":"Splash","t":"TDS"}
     sl = SRC_LABELS.get(sc, sc)
     fs = a.get("first_seen", "")
     return (f'<div class="li" data-s="{sc}">'
@@ -738,7 +706,6 @@ def filter_buttons():
             '<button class="fb" onclick="filterSrc(\'j\',this)">海事新聞</button>'
             '<button class="fb" onclick="filterSrc(\'k\',this)">海事プレス</button>'
             '<button class="fb" onclick="filterSrc(\'s\',this)">Splash247</button>'
-            '<button class="fb" onclick="filterSrc(\'h\',this)">Hellenic</button>'
             '<button class="fb" onclick="filterSrc(\'t\',this)">TDS</button>'
             '</div>\n')
 
@@ -787,7 +754,7 @@ def generate_html(all_sources, output_path):
     src_html = render_source_tab(all_sources)
 
     # ソース別カウント表示
-    CSS_VARS = {"j":"jmd","k":"kp","s":"sp","h":"hl","t":"td"}
+    CSS_VARS = {"j":"jmd","k":"kp","s":"sp","t":"td"}
     stat_cards = f'<div class="st"><div class="n tm">{now_short}</div><div class="l">最終取得 (JST)</div></div>\n'
     stat_cards += f'<div class="st"><div class="n" style="color:var(--hi)">{len(hot)}</div><div class="l">注目</div></div>\n'
     for key, label, arts in all_sources:
@@ -800,7 +767,7 @@ def generate_html(all_sources, output_path):
 <html lang="ja"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>海事ニュース - {now}</title>
 <style>{CSS}</style></head><body>
-<div class="hd"><h1>&#9875; 海事ニュース 見出し一覧</h1><div class="m">ドライバルク特化スコアリング ｜ 15分間隔自動更新 ｜ 5ソース</div></div>
+<div class="hd"><h1>&#9875; 海事ニュース 見出し一覧</h1><div class="m">ドライバルク特化スコアリング ｜ 15分間隔自動更新 ｜ 4ソース</div></div>
 <div class="sts">
 {stat_cards}
 </div>
@@ -834,7 +801,7 @@ def generate_html(all_sources, output_path):
 # ============================================================
 def main():
     print("=" * 55)
-    print("  海事ニュース見出しスクレイパー v6 (5ソース)")
+    print("  海事ニュース見出しスクレイパー v6 (4ソース)")
     print("=" * 55)
 
     seen = load_seen()
@@ -845,7 +812,6 @@ def main():
         ("j", "日本海事新聞",      fetch_jmd),
         ("k", "海事プレスONLINE",  fetch_kaijipress),
         ("s", "Splash247",         fetch_splash247),
-        ("h", "Hellenic Shipping", fetch_hellenic),
         ("t", "TDS",               fetch_tds),
     ]
 
@@ -893,7 +859,7 @@ def main():
     print(f"  表示合計: {len(all_articles)} 件")
 
     # コンソール出力
-    SRC_LABELS = {"j":"海事新聞","k":"海事ﾌﾟﾚｽ","s":"Splash ","h":"Hellenic","t":"TDS    "}
+    SRC_LABELS = {"j":"海事新聞","k":"海事ﾌﾟﾚｽ","s":"Splash ","t":"TDS    "}
     all_sorted = sorted(all_articles, key=lambda x: -x["score"])
     print(f"\n{'='*55}")
     print(f"  【注目度順 TOP15】")
