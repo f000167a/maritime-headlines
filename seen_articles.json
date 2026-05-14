@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/05/201251/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "「船員幸福度指数」が急低下、ペルシャ湾緊張で一変、船員慈善団体調査",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201251/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-07T15:45:16.880672+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201247/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "郵船ロジ、新開トランスポートに出資、資本業務提携、販売・営業で連携",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201247/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-07T15:45:16.880672+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201249/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海事プレス社創立70周年特別企画【未来を探せ～70の視点】＃13環境変化に即応できる強さを外国船舶協会・甲斐督英会長",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201249/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-07T15:45:16.880672+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201252/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ZIM、ハパックロイドとの合併案を承認、臨時株主総会で",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201252/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-07T15:45:16.880672+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201248/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "新造船市場、中大型タンカー需要の高まり継続、中東情勢緊迫などで",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201248/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-07T15:45:16.880672+09:00"
- },
- "https://www.kaijipress.com/feature/discussion/2026/05/201250/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "記者座談会/海運この1カ月＜上＞通峡可否で揺れるホルムズ海峡、エネルギー中心に代替輸送も",
-  "url": "https://www.kaijipress.com/feature/discussion/2026/05/201250/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-07T15:45:16.880672+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314231": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -218,7 +164,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】3月南ア炭輸出は719万トン、3カ月連続で前年上回る5月12日：T/C市場＝15隻・113万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
+  "title": "【本日のトピック】露ムルマンスク、低調な石炭出荷を受けて貨物取扱量が急減傾向に5月13日：T/C市場＝24隻・176万DWT、V/C市場＝鉄鉱石3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/07",
   "sd": "05/07",
@@ -5375,7 +5321,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201427/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞…",
+  "title": "《連載》キーマンに聞く東京港の港湾運営②、東京港埠頭会社・丸山英聡社長、東西航路に加え、アジア域内にも焦点",
   "url": "https://www.kaijipress.com/news/container/2026/05/201427/",
   "date": "2026/05/13",
   "sd": "05/13",
@@ -5438,7 +5384,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201433/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日港協・久保会長、港湾ロジ施策を契機にDX加速、集貨でフェリー活用を",
+  "title": "日港協・久保会長、港…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201433/",
   "date": "2026/05/13",
   "sd": "05/13",
@@ -5965,5 +5911,68 @@
   "date": "2026/05/13",
   "sd": "05/13",
   "first_seen_iso": "2026-05-14T08:01:00.772377+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201459/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿《連載》キーマンに聞く東京港の港湾運営③、東京港運協会・鶴岡純一会長、大井再編、覚悟を持って変革",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201459/",
+  "date": "2026/05/14",
+  "sd": "05/14",
+  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201460/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿ハパックロイドCEO、「コスト上昇分は転嫁可能」、荷動きは回復へ",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201460/",
+  "date": "2026/05/14",
+  "sd": "05/14",
+  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201456/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マレーシアのペトロナス、MISCから新造LNG船5隻長期用船",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201456/",
+  "date": "2026/05/14",
+  "sd": "05/14",
+  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201457/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿日本造船業の新造船受注残、3.4年分の2922万トン",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201457/",
+  "date": "2026/05/14",
+  "sd": "05/14",
+  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201458/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿日本の新造船受注、6%増、4月はバルカー各船型で66万トン、30年度船も契約",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201458/",
+  "date": "2026/05/14",
+  "sd": "05/14",
+  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201461/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿赤阪鐵工所、26年3月期は原価率悪化で営業赤字",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201461/",
+  "date": "2026/05/14",
+  "sd": "05/14",
+  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
+ },
+ "https://splash247.com/splash-singapore-assembles-maritime-power-players/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Singapore assembles maritime power players",
+  "url": "https://splash247.com/splash-singapore-assembles-maritime-power-players/",
+  "date": "2026/05/14",
+  "sd": "05/14",
+  "first_seen_iso": "2026-05-14T16:23:35.475217+09:00"
  }
 }
