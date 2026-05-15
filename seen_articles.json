@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/05/201293/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "【イラン・中東緊迫】ドバイ港、1～3月期コンテナは31%減、中東情勢悪化で大幅減",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201293/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-08T14:49:03.930510+09:00"
- },
- "https://www.kaijipress.com/feature/discussion/2026/05/201294/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "記者座談会/海運この1カ月＜下＞コンテナ市況の変動要素が増加、中東情勢悪化、需給に影響可能性も",
-  "url": "https://www.kaijipress.com/feature/discussion/2026/05/201294/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-08T14:49:03.930510+09:00"
- },
- "https://splash247.com/small-inefficiencies-still-costing-dry-bulk-millions-geneva-dry/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Small inefficiencies still costing dry bulk millions: Geneva Dry",
-  "url": "https://splash247.com/small-inefficiencies-still-costing-dry-bulk-millions-geneva-dry/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-08T14:49:03.931047+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/05/201295/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -5114,7 +5087,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】露ムルマンスク、低調な石炭出荷を受けて貨物取扱量が急減傾向に5月13日：T/C市場＝24隻・176万DWT、V/C市場＝鉄鉱石3隻",
+  "title": "【本日のトピック】USDA、5月度穀物需給レポート発表5月14日：T/C市場＝11隻・83万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/14",
   "sd": "05/14",
@@ -5479,5 +5452,77 @@
   "date": "2026/05/08",
   "sd": "05/08",
   "first_seen_iso": "2026-05-15T08:53:06.520883+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201495/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名港海運、経常益3%増、港湾運送は横ばい、26年3月期決算",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201495/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201499/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "台湾コンテナ船社、3社ともに前年同期比で減益、1～3月期決算",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201499/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201500/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・コンテナ運賃指標、前週比2ケタ増、太平洋航路で急騰",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201500/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201494/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コスタマーレ・バルカーズの1～3月期業績、純利益994万ドル、売船益が寄与",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201494/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ダイハツIE、創立60周年で作業着刷新、軽量化や機能性向上図る",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/2026/05/201498/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【プロフィール】進藤　航 氏・日本郵船執行役員兼郵船クルーズ取締役専務執行役員",
+  "url": "https://www.kaijipress.com/person/profile/2026/05/201498/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
+ },
+ "https://splash247.com/coal-is-no-longer-a-dirty-word-but-an-energy-security-asset/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Coal is no longer a dirty word but an energy security asset",
+  "url": "https://splash247.com/coal-is-no-longer-a-dirty-word-but-an-energy-security-asset/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.412158+09:00"
+ },
+ "https://splash247.com/splash-wrap-iran-tightens-its-control-of-hormuz/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Iran tightens its control of Hormuz",
+  "url": "https://splash247.com/splash-wrap-iran-tightens-its-control-of-hormuz/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T16:33:44.412158+09:00"
  }
 }
