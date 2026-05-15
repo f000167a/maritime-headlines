@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/05/201295/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "成長戦略会議、サイバーポート、1万1000社連携、港湾ロジ素案",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201295/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-08T16:51:29.028175+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201297/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "マースクCEO、燃料高で月5億ドルの追加コスト、減速航海も検討",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201297/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-08T16:51:29.028175+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/05/201296/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "関西ライン、昨年41型ハンディを新造用船、越バイオマス輸送に投入",
-  "url": "https://www.kaijipress.com/news/tramper/2026/05/201296/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-08T16:51:29.028175+09:00"
- },
- "https://splash247.com/splash-wrap-trumps-hormuz-escort-mission-lasted-less-than-a-netflix-free-trial/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Trump’s Hormuz escort mission lasted less than a Netflix free trial",
-  "url": "https://splash247.com/splash-wrap-trumps-hormuz-escort-mission-lasted-less-than-a-netflix-free-trial/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-08T16:51:29.028754+09:00"
- },
- "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Complexity, two-tier fleets and bunker fears dominate scene-setting opening panel at Geneva Dry",
-  "url": "https://splash247.com/complexity-two-tier-fleets-and-bunker-fears-dominate-scene-setting-opening-panel-at-geneva-dry/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-08T18:46:40.179639+09:00"
- },
- "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Clarksons builds Americas footprint with Serpac deal",
-  "url": "https://splash247.com/clarksons-builds-americas-footprint-with-serpac-deal/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-08T18:46:40.179639+09:00"
- },
- "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Goodwill Maritime exits the capesize segment with Genco deal",
-  "url": "https://splash247.com/goodwill-maritime-exits-the-capesize-segment-with-genco-deal/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-08T18:46:40.179639+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201298/": {
   "src": "k",
   "cat": "コラム",
@@ -5524,5 +5461,329 @@
   "date": "2026/05/15",
   "sd": "05/15",
   "first_seen_iso": "2026-05-15T16:33:44.412158+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201501/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》脱炭素ソフトウェア対策＜上＞、運航・配船最適化でGHG排出削減",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201501/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201502/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国際油濁補償基金、第30回臨時総会、基金関連事故の進捗状況など議論",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201502/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201503/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "経産省、原油の民間備蓄義務の引き下げ継続、米国調達さらに拡大",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201503/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201504/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "3月の内航オペ輸送実績、貨物船横ばい、油送船9%減",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201504/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201506/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "IECテレコム、船上通信管理の新ソリューション、船員の福利厚生向上",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201506/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201507/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JMETS、玄海汽船とネーミングライツ契約、波方海技短大の合併教室で",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201507/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201508/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "海保庁、海底地形をマインクラフトで再現",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201508/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201509/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エバーグリーン、2.4万TEU型LNG燃料船5隻を発注、広船国際に",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201509/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201510/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "リンコーコーポレーション、26年3月期決算、経常益1%減、人件費などかさむ",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201510/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201511/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "インターエイシアライン、コンテナ船の船体デザイン一新",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201511/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201512/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コスコ、新太平洋フィーダー開設で式典、3ループ化で安定性向上",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201512/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201513/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "OOCL、初のメタノール燃料船を命名、2.4万TEU型1番船",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201513/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201514/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "HMMジャパン、ESG活動で清掃活動を実施、東京と大阪で",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201514/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201515/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大阪港湾局、今秋に10回目の食の輸出商談会、参加商社を募集",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201515/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201516/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、アジア―インド航路を新設、体制拡充",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201516/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201517/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エバーグリーン、アースデイに環境美化",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201517/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201518/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大阪港、3月は2%増の18万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201518/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201519/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "パンオーシャン、VLCC4隻新造、タンカー事業強化、30年までに順次竣工",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201519/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201521/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "プロダクト船社トームの1～3月期、純利益2倍の1億2200万ドル",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201521/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201522/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "2020バルカーズの1～3月期業績、純利益1.5億ドル、船隊売却で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201522/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201523/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》建造能力分析、スエズマックス・タンカー、今年から増加、28年に年100隻規模に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201523/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201524/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アクセラロンが脱炭素停滞の報告書、ロフカ氏に聞く、「基盤は水素、生産投資訴えを」",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201524/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201525/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名村造船グループの25年度、函館どっくと佐世保重工は減益、艦艇修繕減少で",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201525/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201526/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "古野電気、無線機・レーダー分野で協業検討、無線通信機器のアイコムと覚書",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201526/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201527/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ペラガス、舶用部品オンデマンド製造に需要、川崎重工とも連携",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201527/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201528/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "阪神内燃機、26年3月期は経常益40%増の9.5億円",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201528/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201529/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "三浦工業、26年3月期は増益増配",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201529/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/05/201530/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、取締役体制",
+  "url": "https://www.kaijipress.com/news/information/2026/05/201530/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/05/201531/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、人事異動",
+  "url": "https://www.kaijipress.com/news/information/2026/05/201531/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/05/201532/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "トヨフジ海運、新役員体制",
+  "url": "https://www.kaijipress.com/news/information/2026/05/201532/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/markets/dry/2026/05/201520/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドライバルク市況月間レポート（2026年4月）、ケープ月間平均は3.4万ドル",
+  "url": "https://www.kaijipress.com/markets/dry/2026/05/201520/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/markets/scrap/2026/05/201505/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "船舶解撤市場レポート（2026年4月）、アジア3カ国の解撤船価格、前月比上昇",
+  "url": "https://www.kaijipress.com/markets/scrap/2026/05/201505/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/05/201534/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】岡田高明・関西ライン社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/05/201534/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/05/201535/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】濱崎和也・商船三井副社長CFO",
+  "url": "https://www.kaijipress.com/person/logbook/2026/05/201535/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/05/201533/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】揺れる脱炭素の議論",
+  "url": "https://www.kaijipress.com/column/aotou/2026/05/201533/",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-15T19:07:22.647675+09:00"
+ },
+ "https://splash247.com/small-inefficiencies-still-costing-dry-bulk-millions-geneva-dry/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Small inefficiencies still costing dry bulk millions: Geneva Dry",
+  "url": "https://splash247.com/small-inefficiencies-still-costing-dry-bulk-millions-geneva-dry/",
+  "date": "2026/05/08",
+  "sd": "05/08",
+  "first_seen_iso": "2026-05-15T19:07:22.648434+09:00"
  }
 }
