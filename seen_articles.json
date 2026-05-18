@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314539": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/柏井あづみ】揺らぐ日本のVLCC船隊、エネ安全保障へ用船料改善を",
-  "url": "https://www.jmd.co.jp/article.php?no=314539",
-  "date": "2026/04/20",
-  "sd": "04/20",
-  "first_seen_iso": "2026-05-11T13:14:07.712681+09:00"
- },
- "https://splash247.com/carbon-costs-fuel-choices-and-uncertainty-shape-geneva-dry-debate/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Carbon costs, fuel choices and uncertainty shape Geneva Dry debate",
-  "url": "https://splash247.com/carbon-costs-fuel-choices-and-uncertainty-shape-geneva-dry-debate/",
-  "date": "2026/05/11",
-  "sd": "05/11",
-  "first_seen_iso": "2026-05-11T13:14:07.713485+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201351/": {
   "src": "k",
   "cat": "コラム",
@@ -4655,7 +4637,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIE、創立60周年で作業着刷新、軽量化や機能性向上図る",
+  "title": "ダイハツIE、創立6…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -4736,7 +4718,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201507/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "JMETS、玄海汽船…",
+  "title": "JMETS、玄海汽船とネーミングライツ契約、波方海技短大の合併教室で",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201507/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -4745,7 +4727,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201508/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海保庁、海底地形をマインクラフトで再現",
+  "title": "海保庁、海底地形をマ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201508/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -4907,7 +4889,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201527/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ペラガス、舶用部品オ…",
+  "title": "ペラガス、舶用部品オンデマンド製造に需要、川崎重工とも連携",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201527/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -5254,5 +5236,14 @@
   "date": "2026/05/18",
   "sd": "05/18",
   "first_seen_iso": "2026-05-18T07:47:48.756802+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=314947": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "NSU内航、新社長に遠藤氏",
+  "url": "https://www.jmd.co.jp/article.php?no=314947",
+  "date": "2026/05/07",
+  "sd": "05/07",
+  "first_seen_iso": "2026-05-18T13:22:35.522681+09:00"
  }
 }
