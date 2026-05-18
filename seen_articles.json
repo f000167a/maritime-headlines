@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/05/201351/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井クルーズ、“にっぽん丸”35年の歴史に幕、横浜港で引退セレモニー",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201351/",
-  "date": "2026/05/11",
-  "sd": "05/11",
-  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201349/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、上海発欧米向け短期運賃が上昇",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201349/",
-  "date": "2026/05/11",
-  "sd": "05/11",
-  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201350/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "世界コンテナ荷動き、1～3月期は4.4%増、3月は減少、中東情勢影響",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201350/",
-  "date": "2026/05/11",
-  "sd": "05/11",
-  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201348/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "世界の新造船受注量、1～3月は6割増の5517万トン、中国がシェア8割",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201348/",
-  "date": "2026/05/11",
-  "sd": "05/11",
-  "first_seen_iso": "2026-05-11T16:56:03.582999+09:00"
- },
- "https://splash247.com/one-lng-transit-zero-breakthrough-in-hormuz-crisis/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "One LNG transit, zero breakthrough in Hormuz crisis",
-  "url": "https://splash247.com/one-lng-transit-zero-breakthrough-in-hormuz-crisis/",
-  "date": "2026/05/11",
-  "sd": "05/11",
-  "first_seen_iso": "2026-05-11T16:56:03.583519+09:00"
- },
- "https://splash247.com/japanese-built-ultramax-values-jump/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Japanese-built ultramax values jump",
-  "url": "https://splash247.com/japanese-built-ultramax-values-jump/",
-  "date": "2026/05/11",
-  "sd": "05/11",
-  "first_seen_iso": "2026-05-11T16:56:03.583519+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201353/": {
   "src": "k",
   "cat": "コラム",
@@ -4232,7 +4178,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】USDA、5月度穀物需給レポート発表5月14日：T/C市場＝11隻・83万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
+  "title": "【本日のトピック】4月中国粗鋼生産は8,363万トンと前年比▲3%減5月15日：T/C市場＝21隻・140万DWT、V/C市場＝鉄鉱石4隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/14",
   "sd": "05/14",
@@ -4637,7 +4583,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIE、創立6…",
+  "title": "ダイハツIE、創立60周年で作業着刷新、軽量化や機能性向上図る",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -4754,7 +4700,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201511/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "インターエイシアライ…",
+  "title": "インターエイシアライン、コンテナ船の船体デザイン一新",
   "url": "https://www.kaijipress.com/news/container/2026/05/201511/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -4808,7 +4754,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201517/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "エバーグリーン、アースデイに環境美化",
+  "title": "エバーグリーン、アー…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201517/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -4889,7 +4835,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201527/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ペラガス、舶用部品オンデマンド製造に需要、川崎重工とも連携",
+  "title": "ペラガス、舶用部品オ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201527/",
   "date": "2026/05/15",
   "sd": "05/15",
@@ -5245,5 +5191,59 @@
   "date": "2026/05/07",
   "sd": "05/07",
   "first_seen_iso": "2026-05-18T13:22:35.522681+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201536/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》脱炭素ソフトウェア対策＜下＞、造船所・舶用メーカーも参入",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201536/",
+  "date": "2026/05/18",
+  "sd": "05/18",
+  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201537/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、上海発欧米向け短期運賃が続伸",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201537/",
+  "date": "2026/05/18",
+  "sd": "05/18",
+  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201538/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・アジア域内運賃、5週連続でプラス、前週比2%増",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201538/",
+  "date": "2026/05/18",
+  "sd": "05/18",
+  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201539/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "独海事展SMM、安全保障や港湾のイベント初開催、今年のみどころ聞く",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201539/",
+  "date": "2026/05/18",
+  "sd": "05/18",
+  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
+ },
+ "https://splash247.com/geneva-dry-iron-ore-panel-lays-out-a-bullish-chaotic-future-for-capes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry iron ore panel lays out a bullish, chaotic future for capes",
+  "url": "https://splash247.com/geneva-dry-iron-ore-panel-lays-out-a-bullish-chaotic-future-for-capes/",
+  "date": "2026/05/18",
+  "sd": "05/18",
+  "first_seen_iso": "2026-05-18T17:32:26.705282+09:00"
+ },
+ "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal congestion fears grow ahead of June lock maintenance",
+  "url": "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/",
+  "date": "2026/05/18",
+  "sd": "05/18",
+  "first_seen_iso": "2026-05-18T17:32:26.705282+09:00"
  }
 }
