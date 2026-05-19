@@ -1,13 +1,4 @@
 {
- "https://splash247.com/diana-takes-hostile-route-in-push-for-genco/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana takes hostile route in push for Genco",
-  "url": "https://splash247.com/diana-takes-hostile-route-in-push-for-genco/",
-  "date": "2026/05/05",
-  "sd": "05/05",
-  "first_seen_iso": "2026-05-12T08:53:17.955305+09:00"
- },
  "https://www.hellenicshippingnews.com/the-panamax-market-a-supply-side-story/": {
   "src": "h",
   "cat": "Dry Bulk Market",
@@ -4637,7 +4628,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201542/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "北海道ガス、クルーズ…",
+  "title": "北海道ガス、クルーズ船“LUMINARA”にLNG燃料供給、商船三井テクノと連携で",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201542/",
   "date": "2026/05/18",
   "sd": "05/18",
@@ -4646,7 +4637,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201543/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事のバイク乗り集結、「今治鉄馬の集い」",
+  "title": "海事のバイク乗り集結…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201543/",
   "date": "2026/05/18",
   "sd": "05/18",
@@ -5101,5 +5092,23 @@
   "date": "2026/05/12",
   "sd": "05/12",
   "first_seen_iso": "2026-05-19T07:55:13.840662+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315080": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "米国のバルカー火災。ドーハ沖、イラン報復攻撃か",
+  "url": "https://www.jmd.co.jp/article.php?no=315080",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-19T09:01:27.262404+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315089": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "ハパックロイド、「ホルムズ正常化3―4カ月」。ヤンセンCEO、ポッドキャストで表明",
+  "url": "https://www.jmd.co.jp/article.php?no=315089",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-19T09:01:27.262404+09:00"
  }
 }
