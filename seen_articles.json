@@ -1,13 +1,4 @@
 {
- "https://splash247.com/reederei-nord-moves-into-capesize-league-with-wuhu-newbuild-order/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Reederei Nord moves into capesize league with Wuhu newbuild order",
-  "url": "https://splash247.com/reederei-nord-moves-into-capesize-league-with-wuhu-newbuild-order/",
-  "date": "2026/05/05",
-  "sd": "05/05",
-  "first_seen_iso": "2026-05-12T22:26:34.250659+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315113": {
   "src": "j",
   "cat": "コンテナ",
@@ -2846,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201555/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工、訓練用CTVにWJ推進装置受注、洋上タワーの実践訓練で活用",
+  "title": "三菱重工、訓練用CT…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201555/",
   "date": "2026/05/18",
   "sd": "05/18",
@@ -2855,7 +2846,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201556/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気・旭タンカー…",
+  "title": "古野電気・旭タンカー、魚探活用しブルーカーボン創出へ、山口県漁協と連携",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201556/",
   "date": "2026/05/18",
   "sd": "05/18",
@@ -3233,7 +3224,7 @@
  "https://www.kaijipress.com/person/logbook/2026/05/201562/": {
   "src": "k",
   "cat": "ひと",
-  "title": "【未来へのメッセージ】青野力・青野海運社長",
+  "title": "【未来へのメッセージ…",
   "url": "https://www.kaijipress.com/person/logbook/2026/05/201562/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -3242,7 +3233,7 @@
  "https://www.kaijipress.com/person/logbook/2026/05/201561/": {
   "src": "k",
   "cat": "ひと",
-  "title": "【未来へのメッセージ…",
+  "title": "【未来へのメッセージ】篠⽥哲郎・アンカー・シップ・パートナーズ社⻑",
   "url": "https://www.kaijipress.com/person/logbook/2026/05/201561/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -3643,5 +3634,32 @@
   "date": "2026/05/19",
   "sd": "05/19",
   "first_seen_iso": "2026-05-19T20:33:14.386055+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201414/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》造船業再生の視点②、経済安保と経済合理性いかに両立、持続可能な制度設計がテーマに",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201414/",
+  "date": "2026/05/19",
+  "sd": "05/19",
+  "first_seen_iso": "2026-05-19T23:17:24.417330+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201399/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船・春名克彦常務に聞く「海務本部」、安全確保への視座一段高く",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201399/",
+  "date": "2026/05/19",
+  "sd": "05/19",
+  "first_seen_iso": "2026-05-19T23:17:24.417330+09:00"
+ },
+ "https://splash247.com/safe-bulkers-expands-orderbook-with-four-bulkers/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Safe Bulkers expands orderbook with four bulkers",
+  "url": "https://splash247.com/safe-bulkers-expands-orderbook-with-four-bulkers/",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-19T23:17:24.417971+09:00"
  }
 }
