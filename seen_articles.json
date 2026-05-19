@@ -1,22 +1,4 @@
 {
- "https://www.hellenicshippingnews.com/the-panamax-market-a-supply-side-story/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "The Panamax market: A supply-side story",
-  "url": "https://www.hellenicshippingnews.com/the-panamax-market-a-supply-side-story/",
-  "date": "2026/05/05",
-  "sd": "05/05",
-  "first_seen_iso": "2026-05-12T12:57:40.633634+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2730-up-44-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2730 up 44 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2730-up-44-points/",
-  "date": "2026/05/01",
-  "sd": "05/01",
-  "first_seen_iso": "2026-05-12T12:57:40.633634+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/05/201394/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -5110,5 +5092,23 @@
   "date": "2026/05/12",
   "sd": "05/12",
   "first_seen_iso": "2026-05-19T09:01:27.262404+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/05/201562/": {
+  "src": "k",
+  "cat": "ひと",
+  "title": "【未来へのメッセージ…",
+  "url": "https://www.kaijipress.com/person/logbook/2026/05/201562/",
+  "date": "2026/05/19",
+  "sd": "05/19",
+  "first_seen_iso": "2026-05-19T13:18:27.944777+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/05/201561/": {
+  "src": "k",
+  "cat": "ひと",
+  "title": "【未来へのメッセージ】アンカー・シップ・パートナーズ・篠⽥哲郎社⻑",
+  "url": "https://www.kaijipress.com/person/logbook/2026/05/201561/",
+  "date": "2026/05/19",
+  "sd": "05/19",
+  "first_seen_iso": "2026-05-19T13:18:27.944777+09:00"
  }
 }
