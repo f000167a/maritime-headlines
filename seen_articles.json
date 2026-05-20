@@ -1,58 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314850": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（407）インフレ時代、経営転換。日本金融へ期待感続く",
-  "url": "https://www.jmd.co.jp/article.php?no=314850",
-  "date": "2026/04/30",
-  "sd": "04/30",
-  "first_seen_iso": "2026-05-13T16:29:11.168047+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201426/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "米国発アジア向け、3月は2.8%減の53.4万TEU、中国向け減少続く",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201426/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T16:29:11.168406+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201427/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞…",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201427/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T16:29:11.168406+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201428/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "コンテナ船、新造発注残の増加続く、中長期の需給動向注視",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201428/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T16:29:11.168406+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201425/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "カナデビア、25年度は営業益55%減も26年度回復見込む",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201425/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T16:29:11.168406+09:00"
- },
- "https://splash247.com/iran-tightens-hormuz-grip/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Iran tightens Hormuz grip",
-  "url": "https://splash247.com/iran-tightens-hormuz-grip/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T16:29:11.168854+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201429/": {
   "src": "k",
   "cat": "コラム",
@@ -1064,7 +1010,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月中国全国発電量は前年比+5%増、石炭生産は減速5月18日：T/C市場＝18隻・112万DWT、V/C市場＝鉄鉱石8隻、石炭2隻",
+  "title": "【本日のトピック】4月の中国石炭輸入、一般炭が前年比▲25%減、原料炭は+27%増5月19日：T/C市場＝9隻・46万DWT、V/C市場＝鉄鉱石4隻、石炭1隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/14",
   "sd": "05/14",
@@ -2648,7 +2594,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201571/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船らが学生向け対話イベント、女性船員・技術者の「リアル」伝える",
+  "title": "川崎汽船らが学生向け…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201571/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -2720,7 +2666,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201575/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船・遠藤英明執…",
+  "title": "川崎汽船・遠藤英明執行役員に聞く、男女問わず働きやすい環境追求",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201575/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -3301,5 +3247,68 @@
   "date": "2026/05/13",
   "sd": "05/13",
   "first_seen_iso": "2026-05-20T13:19:16.587233+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201607/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本気象協会、データ提供ニーズの拡大に対応、アプリ開発で情報連携",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201607/",
+  "date": "2026/05/20",
+  "sd": "05/20",
+  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201610/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿商船三井、国際海事女性デーでイベント開催、女性船員など計90人が参加",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201610/",
+  "date": "2026/05/20",
+  "sd": "05/20",
+  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201609/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "自民党港湾議連、総会を開催、森山会長「極めて大事な時期」",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201609/",
+  "date": "2026/05/20",
+  "sd": "05/20",
+  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201611/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿《連載》キーマンに聞く横浜港の港湾運営②、横浜川崎国際港湾会社・中井拓志社長、タイムパフォーマンス向上に注力",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201611/",
+  "date": "2026/05/20",
+  "sd": "05/20",
+  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201608/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿新造船市場、LNG船発注再開、年初来50隻規模に、韓国大手の受注相次ぐ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201608/",
+  "date": "2026/05/20",
+  "sd": "05/20",
+  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
+ },
+ "https://splash247.com/we-have-made-the-garbage-move-faster/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "We have made the garbage move faster",
+  "url": "https://splash247.com/we-have-made-the-garbage-move-faster/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-20T17:01:48.910580+09:00"
+ },
+ "https://splash247.com/how-war-is-remaking-the-agri-trades/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "How war is remaking the agri trades",
+  "url": "https://splash247.com/how-war-is-remaking-the-agri-trades/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-20T17:01:48.910580+09:00"
  }
 }
