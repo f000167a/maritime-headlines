@@ -1,58 +1,4 @@
 {
- "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana launches campaign site while Genco fires back with ‘myths and facts’ rebuttal",
-  "url": "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T08:55:36.515595+09:00"
- },
- "https://www.hellenicshippingnews.com/newbuilding-activity-growing-while-more-deals-evident-in-the-second-hand-market/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Newbuilding Activity Growing, While More Deals Evident in the Second Hand Market",
-  "url": "https://www.hellenicshippingnews.com/newbuilding-activity-growing-while-more-deals-evident-in-the-second-hand-market/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
- },
- "https://www.hellenicshippingnews.com/what-a-guinea-bauxite-export-cap-could-mean-for-dry-bulk/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "What a Guinea Bauxite Export Cap Could Mean for Dry Bulk",
-  "url": "https://www.hellenicshippingnews.com/what-a-guinea-bauxite-export-cap-could-mean-for-dry-bulk/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-highest-since-2023/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index Highest since 2023",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-highest-since-2023/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3063-up-62-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 3063 up 62 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3063-up-62-points/",
-  "date": "2026/05/12",
-  "sd": "05/12",
-  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
- },
- "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2832-up-102-points/": {
-  "src": "h",
-  "cat": "Dry Bulk Market",
-  "title": "Baltic Dry Index climbs to 2832 up 102 points",
-  "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2832-up-102-points/",
-  "date": "2026/05/05",
-  "sd": "05/05",
-  "first_seen_iso": "2026-05-13T08:55:36.515749+09:00"
- },
  "https://splash247.com/how-war-is-remaking-the-agri-trades/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2197,7 +2143,7 @@
  },
  "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/": {
   "src": "s",
-  "cat": "Dry Cargo",
+  "cat": "Containers",
   "title": "Panama Canal congestion fears grow ahead of June lock maintenance",
   "url": "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/",
   "date": "2026/05/18",
@@ -2386,7 +2332,7 @@
  },
  "https://splash247.com/iran-unveils-crypto-insurance-regime-for-hormuz/": {
   "src": "s",
-  "cat": "Dry Cargo",
+  "cat": "Containers",
   "title": "Iran unveils crypto insurance regime for Hormuz",
   "url": "https://splash247.com/iran-unveils-crypto-insurance-regime-for-hormuz/",
   "date": "2026/05/18",
@@ -2738,7 +2684,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201564/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞く横浜港の港湾運営①、横浜市港湾局・新保康裕局長、コンテナ機能強化へ整備加速",
+  "title": "《連載》キーマンに聞…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201564/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -2918,7 +2864,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201589/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ロジテクノサービスが…",
+  "title": "ロジテクノサービスが物流研究会、「交流で協働し相乗効果を」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201589/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -3106,7 +3052,7 @@
  },
  "https://splash247.com/wingd-pushes-alternative-fuel-race-forward-with-ethanol-engine-debut/": {
   "src": "s",
-  "cat": "Dry Cargo",
+  "cat": "Bunkering",
   "title": "WinGD pushes alternative fuel race forward with ethanol engine debut",
   "url": "https://splash247.com/wingd-pushes-alternative-fuel-race-forward-with-ethanol-engine-debut/",
   "date": "2026/05/19",
@@ -3346,5 +3292,23 @@
   "date": "2026/05/20",
   "sd": "05/20",
   "first_seen_iso": "2026-05-20T07:59:12.742534+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315095": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】日本郵船社長・曽我貴也さん。不確実性の時代、要因絞り検証",
+  "url": "https://www.jmd.co.jp/article.php?no=315095",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-20T09:11:52.426155+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315094": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】商船三井社長・田村城太郎さん、物流を止めない 使命果たす",
+  "url": "https://www.jmd.co.jp/article.php?no=315094",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-20T09:11:52.426155+09:00"
  }
 }
