@@ -1,22 +1,4 @@
 {
- "https://splash247.com/how-war-is-remaking-the-agri-trades/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "How war is remaking the agri trades",
-  "url": "https://splash247.com/how-war-is-remaking-the-agri-trades/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T13:06:03.033160+09:00"
- },
- "https://splash247.com/we-have-made-the-garbage-move-faster/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "We have made the garbage move faster",
-  "url": "https://splash247.com/we-have-made-the-garbage-move-faster/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-13T13:06:03.033160+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=314850": {
   "src": "j",
   "cat": "国内船主の今",
@@ -2143,7 +2125,7 @@
  },
  "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/": {
   "src": "s",
-  "cat": "Containers",
+  "cat": "Dry Cargo",
   "title": "Panama Canal congestion fears grow ahead of June lock maintenance",
   "url": "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/",
   "date": "2026/05/18",
@@ -2332,7 +2314,7 @@
  },
  "https://splash247.com/iran-unveils-crypto-insurance-regime-for-hormuz/": {
   "src": "s",
-  "cat": "Containers",
+  "cat": "Dry Cargo",
   "title": "Iran unveils crypto insurance regime for Hormuz",
   "url": "https://splash247.com/iran-unveils-crypto-insurance-regime-for-hormuz/",
   "date": "2026/05/18",
@@ -2684,7 +2666,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201564/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞…",
+  "title": "《連載》キーマンに聞く横浜港の港湾運営①、横浜市港湾局・新保康裕局長、コンテナ機能強化へ整備加速",
   "url": "https://www.kaijipress.com/news/container/2026/05/201564/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -2873,7 +2855,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201590/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、印で医薬品向け冷蔵鉄道輸送、ハイデラバード―ナバシェバ間",
+  "title": "マースク、印で医薬品…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201590/",
   "date": "2026/05/19",
   "sd": "05/19",
@@ -3052,7 +3034,7 @@
  },
  "https://splash247.com/wingd-pushes-alternative-fuel-race-forward-with-ethanol-engine-debut/": {
   "src": "s",
-  "cat": "Bunkering",
+  "cat": "Dry Cargo",
   "title": "WinGD pushes alternative fuel race forward with ethanol engine debut",
   "url": "https://splash247.com/wingd-pushes-alternative-fuel-race-forward-with-ethanol-engine-debut/",
   "date": "2026/05/19",
@@ -3310,5 +3292,14 @@
   "date": "2026/05/13",
   "sd": "05/13",
   "first_seen_iso": "2026-05-20T09:11:52.426155+09:00"
+ },
+ "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana launches campaign site while Genco fires back with ‘myths and facts’ rebuttal",
+  "url": "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-20T13:19:16.587233+09:00"
  }
 }
