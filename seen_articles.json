@@ -2711,7 +2711,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201609/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "自民党港湾議連、総会…",
+  "title": "自民党港湾議連、総会を開催、森山会長「極めて大事な時期」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201609/",
   "date": "2026/05/20",
   "sd": "05/20",
@@ -2720,7 +2720,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201611/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞く横浜港の港湾運営②、横浜川崎国際港湾会社・中井拓志社長、タイムパフォーマンス向上に注力",
+  "title": "《連載》キーマンに聞…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201611/",
   "date": "2026/05/20",
   "sd": "05/20",
@@ -2783,7 +2783,7 @@
  "https://www.jmd.co.jp/article.php?no=315401": {
   "src": "j",
   "cat": "港湾",
-  "title": "国交省港湾ロジＷＧ　港湾ロジ強化の取りまとめ案公表。ＳＣの自律目指す、成長戦略に反映",
+  "title": "国交省港湾ロジＷＧ　港湾ロジ強化の取りまとめ案公表。ＳＣの自律目指す、成長戦略の重要分野",
   "url": "https://www.jmd.co.jp/article.php?no=315401",
   "date": "",
   "sd": "",
@@ -3214,7 +3214,7 @@
  },
  "https://www.jmd.co.jp/article.php?no=315386": {
   "src": "j",
-  "cat": "不定期",
+  "cat": "物流/港運",
   "title": "【インタビュー　再び成長路線へ】伊藤忠ロジスティクス社長・佐々和秀氏、海外拡大 最高益目指す",
   "url": "https://www.jmd.co.jp/article.php?no=315386",
   "date": "2026/05/21",
@@ -3436,5 +3436,14 @@
   "date": "2026/05/13",
   "sd": "05/13",
   "first_seen_iso": "2026-05-21T09:17:52.305260+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315377": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "アジア船主協会、サイバー脅威は航行リスクに。安全運航・環境委でデジタル化など議論",
+  "url": "https://www.jmd.co.jp/article.php?no=315377",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T13:27:11.818495+09:00"
  }
 }
