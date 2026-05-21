@@ -2693,7 +2693,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201607/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本気象協会、データ提供ニーズの拡大に対応、アプリ開発で情報連携",
+  "title": "日本気象協会、データ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201607/",
   "date": "2026/05/20",
   "sd": "05/20",
@@ -2819,7 +2819,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201614/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "関東旅客船協会・通常…",
+  "title": "関東旅客船協会・通常総会、燃料油高騰などの課題に対応",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201614/",
   "date": "2026/05/20",
   "sd": "05/20",
@@ -3427,5 +3427,14 @@
   "date": "2026/05/20",
   "sd": "05/20",
   "first_seen_iso": "2026-05-21T08:07:43.272251+09:00"
+ },
+ "https://splash247.com/cape-shipping-swings-back-to-bulkers-with-newcastlemax-order/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cape Shipping swings back to bulkers with newcastlemax order",
+  "url": "https://splash247.com/cape-shipping-swings-back-to-bulkers-with-newcastlemax-order/",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-21T09:17:52.305260+09:00"
  }
 }
