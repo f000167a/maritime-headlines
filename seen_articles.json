@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/05/201459/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞…",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201459/",
-  "date": "2026/05/14",
-  "sd": "05/14",
-  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201460/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "「コスト上昇分は転嫁可能」ハパックロイドCEO、荷動きは回復へ",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201460/",
-  "date": "2026/05/14",
-  "sd": "05/14",
-  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/05/201456/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "マレーシアのペトロナス、MISCから新造LNG船5隻長期用船",
-  "url": "https://www.kaijipress.com/news/tramper/2026/05/201456/",
-  "date": "2026/05/14",
-  "sd": "05/14",
-  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201457/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "日本造船業の新造船受注残、3.4年分の2922万トン",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201457/",
-  "date": "2026/05/14",
-  "sd": "05/14",
-  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201458/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "日本の新造船受注、6%増、4月はバルカー各船型で66万トン、30年度船も契約",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201458/",
-  "date": "2026/05/14",
-  "sd": "05/14",
-  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201461/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "赤阪鐵工所、26年3月期は原価率悪化で営業赤字",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201461/",
-  "date": "2026/05/14",
-  "sd": "05/14",
-  "first_seen_iso": "2026-05-14T16:23:35.474737+09:00"
- },
- "https://splash247.com/splash-singapore-assembles-maritime-power-players/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Singapore assembles maritime power players",
-  "url": "https://splash247.com/splash-singapore-assembles-maritime-power-players/",
-  "date": "2026/05/14",
-  "sd": "05/14",
-  "first_seen_iso": "2026-05-14T16:23:35.475217+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315211": {
   "src": "j",
   "cat": "外航全般",
@@ -452,7 +389,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月の中国石炭輸入、一般炭が前年比▲25%減、原料炭は+27%増5月19日：T/C市場＝9隻・46万DWT、V/C市場＝鉄鉱石4隻、石炭1隻、その他1隻",
+  "title": "【本日のトピック】中国4月鉄鉱石輸入は前年比微増、伯産復調の気配5月20日：T/C市場＝5隻・37万DWT、V/C市場＝鉄鉱石7隻、石炭4隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/14",
   "sd": "05/14",
@@ -2711,7 +2648,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201609/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "自民党港湾議連、総会を開催、森山会長「極めて大事な時期」",
+  "title": "自民党港湾議連、総会…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201609/",
   "date": "2026/05/20",
   "sd": "05/20",
@@ -2720,7 +2657,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201611/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞…",
+  "title": "《連載》キーマンに聞く横浜港の港湾運営②、横浜川崎国際港湾会社・中井拓志社長、タイムパフォーマンス向上に注力",
   "url": "https://www.kaijipress.com/news/container/2026/05/201611/",
   "date": "2026/05/20",
   "sd": "05/20",
@@ -3445,5 +3382,68 @@
   "date": "2026/05/21",
   "sd": "05/21",
   "first_seen_iso": "2026-05-21T13:27:11.818495+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201644/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿日本郵船、首藤健一郎常務・技術本部長に聞く、技術力で社会課題に応える",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201644/",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201645/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿商船三井、自動車船向けLNG燃料調達契約締結、バンクーバー港で初",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201645/",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201646/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿香港、4月は6%減の107万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201646/",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201642/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ウルサレポート、4月の豪州石炭輸出量、13%増の2940万トン",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201642/",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201643/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿スターバルクの1～3月期業績、市況好調で純利益5853万ドル",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201643/",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
+ },
+ "https://splash247.com/first-coordinated-vlcc-transits-through-hormuz-raise-cautious-hopes-of-a-thaw/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "First coordinated VLCC transits through Hormuz raise cautious hopes of a thaw",
+  "url": "https://splash247.com/first-coordinated-vlcc-transits-through-hormuz-raise-cautious-hopes-of-a-thaw/",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T17:09:18.091229+09:00"
+ },
+ "https://splash247.com/indonesia-moves-to-centralise-commodity-exports-through-state-run-trading-arm/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Indonesia moves to centralise commodity exports through state-run trading arm",
+  "url": "https://splash247.com/indonesia-moves-to-centralise-commodity-exports-through-state-run-trading-arm/",
+  "date": "2026/05/21",
+  "sd": "05/21",
+  "first_seen_iso": "2026-05-21T17:09:18.091229+09:00"
  }
 }
