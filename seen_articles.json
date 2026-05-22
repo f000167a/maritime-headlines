@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/05/201495/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "名港海運、経常益3%増、港湾運送は横ばい、26年3月期決算",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201495/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201499/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "台湾コンテナ船社、3社ともに前年同期比で減益、1～3月期決算",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201499/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201500/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・コンテナ運賃指標、前週比2ケタ増、太平洋航路で急騰",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201500/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/05/201494/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "コスタマーレ・バルカーズの1～3月期業績、純利益994万ドル、売船益が寄与",
-  "url": "https://www.kaijipress.com/news/tramper/2026/05/201494/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "ダイハツIE、創立60周年で作業着刷新、軽量化や機能性向上図る",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201496/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
- },
- "https://www.kaijipress.com/person/profile/2026/05/201498/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【プロフィール】進藤　航 氏・日本郵船執行役員兼郵船クルーズ取締役専務執行役員",
-  "url": "https://www.kaijipress.com/person/profile/2026/05/201498/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.411602+09:00"
- },
- "https://splash247.com/coal-is-no-longer-a-dirty-word-but-an-energy-security-asset/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Coal is no longer a dirty word but an energy security asset",
-  "url": "https://splash247.com/coal-is-no-longer-a-dirty-word-but-an-energy-security-asset/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.412158+09:00"
- },
- "https://splash247.com/splash-wrap-iran-tightens-its-control-of-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Iran tightens its control of Hormuz",
-  "url": "https://splash247.com/splash-wrap-iran-tightens-its-control-of-hormuz/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T16:33:44.412158+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201501/": {
   "src": "k",
   "cat": "コラム",
@@ -3260,7 +3188,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国4月鉄鉱石輸入は前年比微増、伯産復調の気配5月20日：T/C市場＝5隻・37万DWT、V/C市場＝鉄鉱石7隻、石炭4隻",
+  "title": "【本日のトピック】インドネシア、石炭輸出管理を国営企業に一元化へ5月21日：T/C市場＝14隻・101万DWT、V/C市場＝鉄鉱石3隻、石炭3隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/22",
   "sd": "05/22",
@@ -3337,5 +3265,68 @@
   "date": "2026/05/15",
   "sd": "05/15",
   "first_seen_iso": "2026-05-22T09:08:50.533187+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201673/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国交省・経産省、ダイトーの電気推進タグ採択、内航船革新推進事業",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201673/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-22T16:59:21.047202+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201674/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "BIMCOレポート、パナマ運河通航隻数、今年8%増、ホルムズ混乱で",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201674/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-22T16:59:21.047202+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/05/201675/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ナビオス・パートナーズ、VLCC4隻計4.8億ドルで取得、28年後半竣工",
+  "url": "https://www.kaijipress.com/news/tramper/2026/05/201675/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-22T16:59:21.047202+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201676/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "三菱重工、3900トン型護衛艦“なとり”竣工",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201676/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-22T16:59:21.047202+09:00"
+ },
+ "https://splash247.com/hormuz-fallout-pushes-panama-canal-close-to-full-capacity/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz fallout pushes Panama Canal close to full capacity",
+  "url": "https://splash247.com/hormuz-fallout-pushes-panama-canal-close-to-full-capacity/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-22T16:59:21.047680+09:00"
+ },
+ "https://splash247.com/splash-wrap-shippings-most-frantic-news-cycle-of-the-year/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Shipping’s most frantic news cycle of the year",
+  "url": "https://splash247.com/splash-wrap-shippings-most-frantic-news-cycle-of-the-year/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-22T16:59:21.047680+09:00"
+ },
+ "https://splash247.com/economou-jumps-back-onto-the-sp-wagon-with-rusty-cape-sale/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Economou jumps back onto the S&P wagon with rusty cape sale",
+  "url": "https://splash247.com/economou-jumps-back-onto-the-sp-wagon-with-rusty-cape-sale/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-22T16:59:21.047680+09:00"
  }
 }
