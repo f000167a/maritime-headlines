@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/05/201221/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "ONE、25年度利益は92%減の3.38億ドル、今期は3億ドルの黒字予想",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201221/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T08:53:06.520399+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201217/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井、今期経常益1450億円、賃積み事業悪化、ホルムズ正常化は7月前提",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201217/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T08:53:06.520399+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/05/201246/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【ログブック】檜垣幸人・今治造船社長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/05/201246/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T08:53:06.520399+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/05/201242/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "川崎汽船、役員異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/05/201242/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T08:53:06.520399+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/05/201245/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【ログブック】加藤淳・日本郵船技術開発グループ長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/05/201245/",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-15T08:53:06.520399+09:00"
- },
- "https://splash247.com/genco-steps-up-fight-against-diana-takeover-push/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Genco and Diana dig in ahead of crunch shareholder showdown",
-  "url": "https://splash247.com/genco-steps-up-fight-against-diana-takeover-push/",
-  "date": "2026/05/08",
-  "sd": "05/08",
-  "first_seen_iso": "2026-05-15T08:53:06.520883+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/05/201495/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2891,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201663/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三工電機、加工設備を更新、次世代燃料船向け需要に対応、新工場建設も進む",
+  "title": "三工電機、加工設備を…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201663/",
   "date": "2026/05/21",
   "sd": "05/21",
@@ -2927,7 +2873,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201667/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工が米オフショア…",
+  "title": "日舶工が米オフショア展に参加、3D印刷技術の調査も",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201667/",
   "date": "2026/05/21",
   "sd": "05/21",
@@ -3364,5 +3310,32 @@
   "date": "2026/05/22",
   "sd": "05/22",
   "first_seen_iso": "2026-05-22T07:59:13.504229+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315186": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "日本関係船、ペルシャ湾滞留 依然40隻。日本人船員7人",
+  "url": "https://www.jmd.co.jp/article.php?no=315186",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-22T09:08:50.533187+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315196": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "米中央軍、計71隻 通航阻止。イラン港湾封鎖1カ月で",
+  "url": "https://www.jmd.co.jp/article.php?no=315196",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-22T09:08:50.533187+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315169": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/五味宜範】「Sea Japan」盛況に終わる　造船業再生機運の「勢い」反映",
+  "url": "https://www.jmd.co.jp/article.php?no=315169",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-22T09:08:50.533187+09:00"
  }
 }
