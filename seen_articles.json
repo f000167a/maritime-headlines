@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314947": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "NSU内航、新社長に遠藤氏",
-  "url": "https://www.jmd.co.jp/article.php?no=314947",
-  "date": "2026/05/07",
-  "sd": "05/07",
-  "first_seen_iso": "2026-05-18T13:22:35.522681+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201536/": {
   "src": "k",
   "cat": "コラム",
@@ -2729,7 +2720,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201676/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工、3900トン型護衛艦“なとり”竣工",
+  "title": "三菱重工、3900ト…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201676/",
   "date": "2026/05/22",
   "sd": "05/22",
@@ -2927,7 +2918,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201693/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工とエコログ、…",
+  "title": "川崎重工とエコログ、欧州の液化水素海上輸送に協力、供給網の中流で提携",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201693/",
   "date": "2026/05/22",
   "sd": "05/22",
