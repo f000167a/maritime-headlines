@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/05/201536/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》脱炭素ソフトウェア対策＜下＞、造船所・舶用メーカーも参入",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201536/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201537/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、上海発欧米向け短期運賃が続伸",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201537/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201538/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・アジア域内運賃、5週連続でプラス、前週比2%増",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201538/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201539/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "独海事展SMM、安全保障や港湾のイベント初開催、今年のみどころ聞く",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201539/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-18T17:32:26.704765+09:00"
- },
- "https://splash247.com/geneva-dry-iron-ore-panel-lays-out-a-bullish-chaotic-future-for-capes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry iron ore panel lays out a bullish, chaotic future for capes",
-  "url": "https://splash247.com/geneva-dry-iron-ore-panel-lays-out-a-bullish-chaotic-future-for-capes/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-18T17:32:26.705282+09:00"
- },
- "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Panama Canal congestion fears grow ahead of June lock maintenance",
-  "url": "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-18T17:32:26.705282+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201539/": {
   "src": "k",
   "cat": "コラム",
@@ -2612,7 +2558,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インドネシア、石炭輸出管理を国営企業に一元化へ5月21日：T/C市場＝14隻・101万DWT、V/C市場＝鉄鉱石3隻、石炭3隻、その他1隻",
+  "title": "【本日のトピック】4月世界粗鋼生産量は前月比鈍化、前年比でも8カ月連続マイナス5月22日：T/C市場＝11隻・69万DWT、V/C市場＝鉄鉱石6隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/22",
   "sd": "05/22",
@@ -2720,7 +2666,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201676/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工、3900ト…",
+  "title": "三菱重工、3900トン型護衛艦“なとり”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201676/",
   "date": "2026/05/22",
   "sd": "05/22",
@@ -2918,7 +2864,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201693/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工とエコログ、欧州の液化水素海上輸送に協力、供給網の中流で提携",
+  "title": "川崎重工とエコログ、…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201693/",
   "date": "2026/05/22",
   "sd": "05/22",
@@ -3274,5 +3220,41 @@
   "date": "2026/05/18",
   "sd": "05/18",
   "first_seen_iso": "2026-05-25T08:55:49.159771+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201700/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM、1～3月期純利益78%減の2.5億ドル、コンテナ運賃下落響く",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201700/",
+  "date": "2026/05/25",
+  "sd": "05/25",
+  "first_seen_iso": "2026-05-25T17:47:51.556817+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201701/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿上海発欧米向け、短期コンテナ運賃が続伸",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201701/",
+  "date": "2026/05/25",
+  "sd": "05/25",
+  "first_seen_iso": "2026-05-25T17:47:51.556817+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201702/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿《連載》キーマンに聞く横浜港の港湾運営④、横浜港運協会・藤木幸太会長、港の独自性を生かした発展を",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201702/",
+  "date": "2026/05/25",
+  "sd": "05/25",
+  "first_seen_iso": "2026-05-25T17:47:51.556817+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201703/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿ドゥルーリー・アジア域内運賃、6週連続上昇、前週比2%増",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201703/",
+  "date": "2026/05/25",
+  "sd": "05/25",
+  "first_seen_iso": "2026-05-25T17:47:51.556817+09:00"
  }
 }
