@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/person/logbook/2026/05/201562/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【未来へのメッセージ…",
-  "url": "https://www.kaijipress.com/person/logbook/2026/05/201562/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T13:18:27.944777+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/05/201561/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【未来へのメッセージ】篠⽥哲郎・アンカー・シップ・パートナーズ社⻑",
-  "url": "https://www.kaijipress.com/person/logbook/2026/05/201561/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T13:18:27.944777+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201571/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船らが学生向け対話イベント、女性船員・技術者の「リアル」伝える",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201571/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T17:02:20.023643+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201572/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、マレーシア海事大で奨学支援、管理船で実習機会提供",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201572/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T17:02:20.023643+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201564/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》キーマンに聞く横浜港の港湾運営①、横浜市港湾局・新保康裕局長、コンテナ機能強化へ整備加速",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201564/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T17:02:20.023643+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201570/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "東京港、開港記念祝賀会、港湾関係者ら、開港85周年祝う",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201570/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T17:02:20.023643+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201565/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "オーケーエム、26年3月期の舶用は売上高18%増",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201565/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T17:02:20.023643+09:00"
- },
- "https://www.kaijipress.com/markets/secondhand/2026/05/201563/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【中古船価】中古船価市況週間レポート（5月11日～15日）、バルカー/タンカーの全船型で続伸",
-  "url": "https://www.kaijipress.com/markets/secondhand/2026/05/201563/",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-05-19T17:02:20.023643+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315355": {
   "src": "j",
   "cat": "不定期",
@@ -2828,7 +2756,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201712/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "欧州委員会運輸総局、…",
+  "title": "欧州委員会運輸総局、横浜港を視察、日本と連携へ",
   "url": "https://www.kaijipress.com/news/container/2026/05/201712/",
   "date": "2026/05/25",
   "sd": "05/25",
@@ -2846,7 +2774,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201714/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪港運協会、総会を開催、西会長「強靭な港湾物流を実現へ」",
+  "title": "大阪港運協会、総会を…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201714/",
   "date": "2026/05/25",
   "sd": "05/25",
@@ -3976,5 +3904,86 @@
   "date": "2026/05/18",
   "sd": "05/18",
   "first_seen_iso": "2026-05-26T13:18:22.432124+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315080": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "米国のバルカー火災。ドーハ沖、イラン報復攻撃か",
+  "url": "https://www.jmd.co.jp/article.php?no=315080",
+  "date": "2026/05/12",
+  "sd": "05/12",
+  "first_seen_iso": "2026-05-26T17:06:38.437609+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201735/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《講演》Sea Japanフォーラム2026、商船三井　梅村尚副社長COO、「エネルギー輸送の未来」",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201735/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201737/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿大阪港湾局・高橋寛局長、万博レガシー活用で港を発展",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201737/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201738/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アジア発米国向け、4月は9%減の166万TEU、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201738/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201739/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿アジア発欧州向け、3月は2%増の164万TEU、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201739/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201740/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿日中コンテナ、3月は0.4%減の249万トン、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201740/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
+ },
+ "https://www.kaijipress.com/markets/secondhand/2026/05/201736/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿中古船価市況週間レポート（5月18日～22日）、ケープ5年物わずかに反落",
+  "url": "https://www.kaijipress.com/markets/secondhand/2026/05/201736/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
+ },
+ "https://splash247.com/morgan-stanley-predicts-prolonged-vessel-undersupply-across-energy-trades/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Morgan Stanley predicts prolonged vessel undersupply across energy trades",
+  "url": "https://splash247.com/morgan-stanley-predicts-prolonged-vessel-undersupply-across-energy-trades/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.438410+09:00"
+ },
+ "https://splash247.com/brokers-see-powerful-el-nino-adding-fuel-to-freight-rally/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Brokers see powerful El Niño adding fuel to freight rally",
+  "url": "https://splash247.com/brokers-see-powerful-el-nino-adding-fuel-to-freight-rally/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-05-26T17:06:38.438410+09:00"
  }
 }
