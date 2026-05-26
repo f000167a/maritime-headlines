@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315080": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "米国のバルカー火災。ドーハ沖、イラン報復攻撃か",
-  "url": "https://www.jmd.co.jp/article.php?no=315080",
-  "date": "2026/05/12",
-  "sd": "05/12",
-  "first_seen_iso": "2026-05-19T09:01:27.262404+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315089": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "ハパックロイド、「ホルムズ正常化3―4カ月」。ヤンセンCEO、ポッドキャストで表明",
-  "url": "https://www.jmd.co.jp/article.php?no=315089",
-  "date": "2026/05/12",
-  "sd": "05/12",
-  "first_seen_iso": "2026-05-19T09:01:27.262404+09:00"
- },
  "https://www.kaijipress.com/person/logbook/2026/05/201562/": {
   "src": "k",
   "cat": "ひと",
@@ -2846,7 +2828,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201712/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "欧州委員会運輸総局、横浜港を視察、日本と連携へ",
+  "title": "欧州委員会運輸総局、…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201712/",
   "date": "2026/05/25",
   "sd": "05/25",
@@ -2864,7 +2846,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201714/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪港運協会、総会を…",
+  "title": "大阪港運協会、総会を開催、西会長「強靭な港湾物流を実現へ」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201714/",
   "date": "2026/05/25",
   "sd": "05/25",
@@ -3976,5 +3958,23 @@
   "date": "2026/05/18",
   "sd": "05/18",
   "first_seen_iso": "2026-05-26T09:01:09.876254+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315291": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神子真人】コンテナ運賃、上昇の持続性は。船社、採算悪化で市況下支え急ぐ",
+  "url": "https://www.jmd.co.jp/article.php?no=315291",
+  "date": "2026/05/19",
+  "sd": "05/19",
+  "first_seen_iso": "2026-05-26T13:18:22.431357+09:00"
+ },
+ "https://splash247.com/diana-warns-genco-shares-could-slide-if-takeover-bid-collapses/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana warns Genco shares could slide if takeover bid collapses",
+  "url": "https://splash247.com/diana-warns-genco-shares-could-slide-if-takeover-bid-collapses/",
+  "date": "2026/05/18",
+  "sd": "05/18",
+  "first_seen_iso": "2026-05-26T13:18:22.432124+09:00"
  }
 }
