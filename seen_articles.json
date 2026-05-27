@@ -1,13 +1,4 @@
 {
- "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana launches campaign site while Genco fires back with ‘myths and facts’ rebuttal",
-  "url": "https://splash247.com/diana-launches-campaign-site-while-genco-fires-back-with-myths-and-facts-rebuttal/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-20T13:19:16.587233+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201607/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -3841,5 +3832,32 @@
   "date": "2026/05/19",
   "sd": "05/19",
   "first_seen_iso": "2026-05-27T08:04:08.129664+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315095": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】日本郵船社長・曽我貴也さん。不確実性の時代、要因絞り検証",
+  "url": "https://www.jmd.co.jp/article.php?no=315095",
+  "date": "2026/05/13",
+  "sd": "05/13",
+  "first_seen_iso": "2026-05-27T13:41:05.718778+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201761/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《講演》Sea Japanフォーラム2026、三井住友信託銀行　佐藤理郎取締役専務執行役員、「船舶金融の未来」",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201761/",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-05-27T13:41:05.719150+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201762/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿欧州発アジア向け、3月は微減の56万TEU、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201762/",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-05-27T13:41:05.719150+09:00"
  }
 }
