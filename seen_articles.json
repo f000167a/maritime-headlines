@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/05/201607/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "日本気象協会、データ提供ニーズの拡大に対応、アプリ開発で情報連携",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201607/",
-  "date": "2026/05/20",
-  "sd": "05/20",
-  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201610/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "商船三井、国際海事女性デーでイベント開催、女性船員など計90人が参加",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201610/",
-  "date": "2026/05/20",
-  "sd": "05/20",
-  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201609/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "自民党港湾議連、総会を開催、森山会長「極めて大事な時期」",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201609/",
-  "date": "2026/05/20",
-  "sd": "05/20",
-  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201611/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》キーマンに聞く横浜港の港湾運営②、横浜川崎国際港湾会社・中井拓志社長、タイムパフォーマンス向上に注力",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201611/",
-  "date": "2026/05/20",
-  "sd": "05/20",
-  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201608/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "新造船市場、LNG船発注再開、年初来50隻規模に、韓国大手の受注相次ぐ",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201608/",
-  "date": "2026/05/20",
-  "sd": "05/20",
-  "first_seen_iso": "2026-05-20T17:01:48.910069+09:00"
- },
- "https://splash247.com/we-have-made-the-garbage-move-faster/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "We have made the garbage move faster",
-  "url": "https://splash247.com/we-have-made-the-garbage-move-faster/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-20T17:01:48.910580+09:00"
- },
- "https://splash247.com/how-war-is-remaking-the-agri-trades/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "How war is remaking the agri trades",
-  "url": "https://splash247.com/how-war-is-remaking-the-agri-trades/",
-  "date": "2026/05/13",
-  "sd": "05/13",
-  "first_seen_iso": "2026-05-20T17:01:48.910580+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315398": {
   "src": "j",
   "cat": "不定期",
@@ -1388,7 +1325,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月世界粗鋼生産量は前月比鈍化、前年比でも8カ月連続マイナス5月22日：T/C市場＝11隻・69万DWT、V/C市場＝鉄鉱石6隻、穀物1隻",
+  "title": "【本日のトピック】4月の越石炭輸入量は850万トン、単月過去最高を更新5月26日：T/C市場＝14隻・97万DWT、V/C市場＝鉄鉱石5隻、石炭3隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/22",
   "sd": "05/22",
@@ -3323,7 +3260,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201737/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪港湾局・高橋寛局長、万博レガシー活用で港を発展",
+  "title": "大阪港湾局・高橋寛局…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201737/",
   "date": "2026/05/26",
   "sd": "05/26",
@@ -3404,7 +3341,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201743/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "京浜海貨同業会、総会…",
+  "title": "京浜海貨同業会、総会を開催、飯塚会長「港湾電子化の普及促進」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201743/",
   "date": "2026/05/26",
   "sd": "05/26",
@@ -3859,5 +3796,59 @@
   "date": "2026/05/27",
   "sd": "05/27",
   "first_seen_iso": "2026-05-27T13:41:05.719150+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315553": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "New!16:05東京港、福留光帆さんがＧクレーンに。ＰＲ動画で認知度向上",
+  "url": "https://www.jmd.co.jp/article.php?no=315553",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-05-27T17:30:33.746802+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201763/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "世界主要3港、4月もコンテナ取扱量は堅調、寧波は累計2位維持",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201763/",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-05-27T17:30:33.747178+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201764/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿CMA-CGM、2.4万TEU型LNG燃料船が竣工、仏籍10隻シリーズの1番船",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201764/",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-05-27T17:30:33.747178+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201765/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿米国発アジア向けコンテナ、2月は1.3%増の45.5万TEU、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201765/",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-05-27T17:30:33.747178+09:00"
+ },
+ "https://splash247.com/sold-out-boxship-market-drives-bulk-to-container-conversions/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Sold-out boxship market drives bulk-to-container conversions",
+  "url": "https://splash247.com/sold-out-boxship-market-drives-bulk-to-container-conversions/",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-05-27T17:30:33.747631+09:00"
+ },
+ "https://splash247.com/multiple-disruptions-send-agricultural-voyage-durations-to-record-highs/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Multiple disruptions send agricultural voyage durations to record highs",
+  "url": "https://splash247.com/multiple-disruptions-send-agricultural-voyage-durations-to-record-highs/",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-05-27T17:30:33.747631+09:00"
  }
 }
