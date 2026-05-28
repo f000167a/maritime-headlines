@@ -1,382 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201479/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "シップオブザイヤーに“げんぶ”、自律運航の社会実装に道、オープンイノベーション成果",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201479/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T23:27:36.512940+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315427": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "ジム、1―3月期赤字転落。運賃下落・需要減響く",
-  "url": "https://www.jmd.co.jp/article.php?no=315427",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315423": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "MSC、クリビ港活用を強化。中部アフリカで内陸輸送拡充",
-  "url": "https://www.jmd.co.jp/article.php?no=315423",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315425": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "インターエイシア、船体デザイン刷新。視認性高めブランド統一",
-  "url": "https://www.jmd.co.jp/article.php?no=315425",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315417": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "中古船マーケット",
-  "url": "https://www.jmd.co.jp/article.php?no=315417",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315436": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "【1―3月期決算】ホーグ、純利益1億ドル。高水準維持",
-  "url": "https://www.jmd.co.jp/article.php?no=315436",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315438": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "【1―3月期決算】CMBテック、純利益9倍に。市況高・売船益 寄与",
-  "url": "https://www.jmd.co.jp/article.php?no=315438",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315418": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "山水インデックス",
-  "url": "https://www.jmd.co.jp/article.php?no=315418",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315430": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "商船三井、自動車船LNG燃料調達。北米西岸、シースパンと契約",
-  "url": "https://www.jmd.co.jp/article.php?no=315430",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315437": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "IMOジェンダー平等賞、北田・WMU教授が受賞",
-  "url": "https://www.jmd.co.jp/article.php?no=315437",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315426": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "日本発米国向け、4月12%増6.2万TEU。データマイン、自動車関連などけん引",
-  "url": "https://www.jmd.co.jp/article.php?no=315426",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315435": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "BEMAC、スイッチ社を完全子会社化。三井物産保有株取得",
-  "url": "https://www.jmd.co.jp/article.php?no=315435",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315434": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "WinGD、エタノール燃料型 初受注。大型鉱石船向け",
-  "url": "https://www.jmd.co.jp/article.php?no=315434",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315433": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "【竣工】今治造船西条、LNG燃料ケープサイズバルカー「RURI　PLANET」",
-  "url": "https://www.jmd.co.jp/article.php?no=315433",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315402": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "J―ENG、ポシドニアに出展。エンジン開発状況など紹介",
-  "url": "https://www.jmd.co.jp/article.php?no=315402",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315420": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "カトーレック、印プネに現法 7月設立。全額出資、西部から物流網展開",
-  "url": "https://www.jmd.co.jp/article.php?no=315420",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315421": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "貿易統計、輸出入とも4月の過去最高。半導体など好調、中東は半減",
-  "url": "https://www.jmd.co.jp/article.php?no=315421",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315410": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "DHLエクス、「HWX」世界展開。重量貨物向け、3000キログラム対応、速さ・確実性も",
-  "url": "https://www.jmd.co.jp/article.php?no=315410",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315413": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "日清食品・三菱食品、商流・物流データ連携。事前実証で月200時間削減",
-  "url": "https://www.jmd.co.jp/article.php?no=315413",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315424": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "釜山港、4月コンテナ5%減。日本発着は1%増",
-  "url": "https://www.jmd.co.jp/article.php?no=315424",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315428": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "【インタビュー　ANAグループ入り】日本貨物航空社長・本間啓之氏、貨物機事業の中核担う",
-  "url": "https://www.jmd.co.jp/article.php?no=315428",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315416": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "ルフトハンザ・カーゴ、越境ECで新会社。通関・デジタル技術を強化",
-  "url": "https://www.jmd.co.jp/article.php?no=315416",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315432": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "内航荷動き、トンキロベースは減少緩やか。荷主再編・生産拠点集約。広島銀行柳井支店が勉強会",
-  "url": "https://www.jmd.co.jp/article.php?no=315432",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315439": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "AIS、6月21日「海事クラスター交流会」。神戸港巡るクルーズ船会場に",
-  "url": "https://www.jmd.co.jp/article.php?no=315439",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315405": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "海事局、船員労災防止へ、優良事業者を募集。6月30日まで",
-  "url": "https://www.jmd.co.jp/article.php?no=315405",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315408": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "【社内報・会報】船員ほけん5・6月号（船員保険会）",
-  "url": "https://www.jmd.co.jp/article.php?no=315408",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503302+09:00"
- },
- "https://www.kaijipress.com/news/shipping/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜経営・全般＞",
-  "url": "https://www.kaijipress.com/news/shipping/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/news/container/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜コンテナ・物流＞",
-  "url": "https://www.kaijipress.com/news/container/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/news/tramper/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜不定期専用船＞・海洋",
-  "url": "https://www.kaijipress.com/news/tramper/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/news/information/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "Information",
-  "url": "https://www.kaijipress.com/news/information/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/person/profile/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "プロフィール",
-  "url": "https://www.kaijipress.com/person/profile/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/person/senkun/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "次代への戦訓",
-  "url": "https://www.kaijipress.com/person/senkun/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/person/zosentop/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "造船新トップの素顔",
-  "url": "https://www.kaijipress.com/person/zosentop/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/feature/highlight/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "話題の新造船",
-  "url": "https://www.kaijipress.com/feature/highlight/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://www.kaijipress.com/feature/forecast/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "市況予測特集",
-  "url": "https://www.kaijipress.com/feature/forecast/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.503640+09:00"
- },
- "https://splash247.com/ciner-adds-ammonia-carriers-to-growing-multi-sector-orderbook/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ciner adds ammonia carriers to growing multi-sector orderbook",
-  "url": "https://splash247.com/ciner-adds-ammonia-carriers-to-growing-multi-sector-orderbook/",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.504082+09:00"
- },
- "https://www.tramp.co.jp/fenet/daily_report": {
-  "src": "t",
-  "cat": "TDS Daily",
-  "title": "【本日のトピック】4月中国電力消費量、4カ月連続プラス成長5月27日：T/C市場＝24隻・173万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
-  "url": "https://www.tramp.co.jp/fenet/daily_report",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.504229+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "目次（計7部門）",
-  "url": "https://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.504229+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "鉄鉱石部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.504229+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "マイナーバルク部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.504229+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "新造・中古船部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.504229+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
-  "date": "2026/05/22",
-  "sd": "05/22",
-  "first_seen_iso": "2026-05-22T07:59:13.504229+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315186": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -2782,8 +2404,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201761/": {
   "src": "k",
-  "cat": "トップ",
-  "title": "《講演》Sea Japanフォーラム2026「船舶金融の未来」三井住友信託銀行　佐藤理郎取締役専務執行役員",
+  "cat": "コラム",
+  "title": "《講演》Sea Japanフォーラム2026、三井住友信託銀行　佐藤理郎取締役専務執行役員、「船舶金融の未来」",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201761/",
   "date": "2026/05/27",
   "sd": "05/27",
@@ -3061,8 +2683,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201766/": {
   "src": "k",
-  "cat": "トップ",
-  "title": "幅広い船種で大型化が進むパナマ運河拡張から10年、「パナマックス」も健在より大型の船舶の通航を可能にしたパナマ運河の拡張（新閘門の運用開始）から、来月で10年になる。パナマ運河の制限が最大船型や標準中型船型の基準となってきた船種では、同運河の拡張によ...続きパナマ運河の制限が船型に影響してきた（ブルームバーグ）",
+  "cat": "コラム",
+  "title": "パナマ運河拡張から10年、幅広い船種で大型化が進む、「パナマックス」も健在",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201766/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3070,8 +2692,8 @@
  },
  "https://www.kaijipress.com/news/container/2026/05/201772/": {
   "src": "k",
-  "cat": "トップ",
-  "title": "海事プレス社創立70周年特別企画【未来を探せ～70の視点】持続可能な運航体制を構築＃15 日本内航コンテナ船協会・井本隆之会長",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】＃15 日本内航コンテナ船協会・井本隆之会長、持続可能な運航体制を構築",
   "url": "https://www.kaijipress.com/news/container/2026/05/201772/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3088,7 +2710,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201767/": {
   "src": "k",
-  "cat": "海運＜経営・全般＞",
+  "cat": "コラム",
   "title": "【イラン・中東緊迫】商船三井関連船、LNG船“Fuwairit”がホルムズ通過、湾内日本関係船は38隻に",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201767/",
   "date": "2026/05/28",
@@ -3187,7 +2809,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/05/201779/": {
   "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
+  "cat": "コラム",
   "title": "乾汽船・決算説明会で乾康之社長、用船整備と“ご長寿お達者”推進",
   "url": "https://www.kaijipress.com/news/tramper/2026/05/201779/",
   "date": "2026/05/28",
@@ -3232,7 +2854,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201784/": {
   "src": "k",
-  "cat": "造船・舶用",
+  "cat": "コラム",
   "title": "造船業、工程維持が重要テーマに、今年は操業拡大の一方で調達網が不安定化",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201784/",
   "date": "2026/05/28",
@@ -3241,7 +2863,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201785/": {
   "src": "k",
-  "cat": "造船・舶用",
+  "cat": "コラム",
   "title": "STXエンジン売却か、民需・防衛の分離売却も浮上",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201785/",
   "date": "2026/05/28",
@@ -3304,8 +2926,8 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/05/201795/": {
   "src": "k",
-  "cat": "ひと",
-  "title": "【未来へのメッセージ…",
+  "cat": "コラム",
+  "title": "【未来へのメッセージ】鈴木英樹・MTI社長",
   "url": "https://www.kaijipress.com/person/logbook/2026/05/201795/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3331,7 +2953,7 @@
  },
  "https://www.kaijipress.com/person/jinji/2026/05/201793/": {
   "src": "k",
-  "cat": "ひと",
+  "cat": "コラム",
   "title": "ケイラインローローバルクシップマネージメント、役員体制",
   "url": "https://www.kaijipress.com/person/jinji/2026/05/201793/",
   "date": "2026/05/28",
@@ -3781,7 +3403,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/05/201799/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "世界主要港、1～3月は中国堅調も北米は低調、欧州は悪天候影響",
   "url": "https://www.kaijipress.com/news/container/2026/05/201799/",
   "date": "2026/05/28",
@@ -3790,7 +3412,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/05/201800/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "日本主要港、大型船の受入能力強化が課題、航路維持・復活へ",
   "url": "https://www.kaijipress.com/news/container/2026/05/201800/",
   "date": "2026/05/28",
@@ -3799,8 +3421,8 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201801/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "《講演》Sea Japanフォーラム2026、日本海事協会　菅勇人会長、「船舶技術の未来」",
+  "cat": "船隊規模40隻目指して用船整備乾汽船・乾康之社長に聞く",
+  "title": "《講演》Sea Japanフォーラム2026「船舶技術の未来」日本海事協会　菅勇人会長",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201801/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3808,7 +3430,7 @@
  },
  "https://www.kaijipress.com/news/information/2026/05/201798/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "Information",
   "title": "郵船商事、ジャカルタ駐在事務所開設",
   "url": "https://www.kaijipress.com/news/information/2026/05/201798/",
   "date": "2026/05/28",
@@ -3854,7 +3476,7 @@
  "https://www.jmd.co.jp/article.php?no=315629": {
   "src": "j",
   "cat": "外航全般",
-  "title": "New!18:05第一中央汽船グループ、会社人事",
+  "title": "第一中央汽船グループ、会社人事",
   "url": "https://www.jmd.co.jp/article.php?no=315629",
   "date": "",
   "sd": "",
@@ -3863,7 +3485,7 @@
  "https://www.jmd.co.jp/article.php?no=315628": {
   "src": "j",
   "cat": "物流/港運",
-  "title": "New!17:05山九、会社人事",
+  "title": "山九、会社人事",
   "url": "https://www.jmd.co.jp/article.php?no=315628",
   "date": "",
   "sd": "",
@@ -3872,7 +3494,7 @@
  "https://www.jmd.co.jp/article.php?no=315627": {
   "src": "j",
   "cat": "物流/港運",
-  "title": "New!17:05山九、物流不動産管理で新会社。全額出資、ＣＲＥと協力",
+  "title": "山九、物流不動産管理で新会社。全額出資、ＣＲＥと協力",
   "url": "https://www.jmd.co.jp/article.php?no=315627",
   "date": "",
   "sd": "",
@@ -3880,7 +3502,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201802/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "【イラン・中東緊迫】ホルムズ海峡停滞長期化、船員交代や契約継続に影響も",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201802/",
   "date": "2026/05/28",
@@ -3889,8 +3511,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201803/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "大王海運・美須賀海運、AI統合運航監視システム共同開発、内航RORO船で実証",
+  "cat": "海運＜経営・全般＞",
+  "title": "大王海運・美須賀海運…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201803/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3898,7 +3520,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201804/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "日本郵船、AI実装プロジェクト始動、人材育成と業務高度化",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201804/",
   "date": "2026/05/28",
@@ -3907,7 +3529,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201805/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "新垣海事局長、NZF巡る追加作業部会開催を歓迎、日本修正案の理解醸成を継続",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201805/",
   "date": "2026/05/28",
@@ -3916,7 +3538,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201806/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "日本船主協会、フィリピンDMW大臣らと意見交換会",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201806/",
   "date": "2026/05/28",
@@ -3925,7 +3547,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/05/201807/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "川崎汽船、環境対応格付で最高評価",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201807/",
   "date": "2026/05/28",
@@ -3934,7 +3556,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/05/201808/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "IBEW、CPKCにスト通告、31日から",
   "url": "https://www.kaijipress.com/news/container/2026/05/201808/",
   "date": "2026/05/28",
@@ -3943,8 +3565,8 @@
  },
  "https://www.kaijipress.com/news/container/2026/05/201809/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "日本港湾協会総会、YKIPら5者が意見表明、投資への支援など",
+  "cat": "海運＜コンテナ・物流＞",
+  "title": "日本港湾協会総会、Y…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201809/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3952,7 +3574,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/05/201810/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "関門港運協会など、総会を開催、野畑会長「日曜荷役再開目指す」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201810/",
   "date": "2026/05/28",
@@ -3961,8 +3583,8 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/05/201811/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "乾汽船・乾康之社長に聞く、船隊規模40隻目指して用船整備",
+  "cat": "トップ",
+  "title": "船隊規模40隻目指して用船整備乾汽船・乾康之社長に聞くハンディバルカー船社乾汽船の乾康之社長は本紙インタビューで、自社船・長期用船併せて約30隻の基幹船隊を40隻規模に拡大したいとの意向を示した。乾社長は「2030年ごろからハンディ...続き今月定期ドック入りした2001年建造ハンディサイズ“KEN GOH”",
   "url": "https://www.kaijipress.com/news/tramper/2026/05/201811/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3970,7 +3592,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/05/201812/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜不定期専用船＞・海洋",
   "title": "スコルピオ、新造MR型2隻追加、船隊更新進む、YAMICで建造、LR2型売船も",
   "url": "https://www.kaijipress.com/news/tramper/2026/05/201812/",
   "date": "2026/05/28",
@@ -3979,7 +3601,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/05/201813/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜不定期専用船＞・海洋",
   "title": "ダイアナ、ジェンコ株の買収額を引き上げ、1株当たり24.8ドルに",
   "url": "https://www.kaijipress.com/news/tramper/2026/05/201813/",
   "date": "2026/05/28",
@@ -3988,8 +3610,8 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201814/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "韓国も船舶国産化政策を模索、海外造船依存を懸念、LNG船政府発注も検討",
+  "cat": "船隊規模40隻目指して用船整備乾汽船・乾康之社長に聞く",
+  "title": "韓国も船舶国産化政策を模索海外造船依存を懸念、LNG船政府発注も検討",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201814/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3997,8 +3619,8 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201815/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "故・濱根義和氏のお別れの会開催、海事関係者が故人偲ぶ",
+  "cat": "造船・舶用",
+  "title": "故・濱根義和氏のお別…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201815/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -4006,7 +3628,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201816/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "NK、3D図面承認を本格開始、承認指針と対応システムを整備",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201816/",
   "date": "2026/05/28",
@@ -4015,7 +3637,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201817/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "日舶工、プレゼンテーション英語講座を開催",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201817/",
   "date": "2026/05/28",
@@ -4024,7 +3646,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201818/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "ザブーン、船舶管理ソフトにNK型式承認",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201818/",
   "date": "2026/05/28",
@@ -4033,8 +3655,8 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/05/201821/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "【未来へのメッセージ】南 宣之・大島造船所会長",
+  "cat": "ひと",
+  "title": "【未来へのメッセージ…",
   "url": "https://www.kaijipress.com/person/logbook/2026/05/201821/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -4042,7 +3664,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/05/201822/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】高木路子・エネルギー・金属鉱物資源機構調査部",
   "url": "https://www.kaijipress.com/person/logbook/2026/05/201822/",
   "date": "2026/05/28",
@@ -4051,7 +3673,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/05/201823/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】枩山聡一郎・大阪送風機製作所社長",
   "url": "https://www.kaijipress.com/person/logbook/2026/05/201823/",
   "date": "2026/05/28",
@@ -4060,7 +3682,7 @@
  },
  "https://www.kaijipress.com/person/jinji/2026/05/201819/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "第一中央汽船、グループ会社役員体制",
   "url": "https://www.kaijipress.com/person/jinji/2026/05/201819/",
   "date": "2026/05/28",
@@ -4111,5 +3733,248 @@
   "date": "2026/05/21",
   "sd": "05/21",
   "first_seen_iso": "2026-05-28T20:59:38.534880+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315608": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "CMA CGM、日本―東南ア改編。基隆抜港、寄港日変更",
+  "url": "https://www.jmd.co.jp/article.php?no=315608",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315623": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "CMA CGM、AI基盤を全社展開。8万人対象、業務アプリ連携",
+  "url": "https://www.jmd.co.jp/article.php?no=315623",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315622": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "ONE、アジア―欧州2航路改編。ルアーブル追加など",
+  "url": "https://www.jmd.co.jp/article.php?no=315622",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315625": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "山水インデックス",
+  "url": "https://www.jmd.co.jp/article.php?no=315625",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315609": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "海事局長、部会設置など歓迎。MEPC84、各国の歩み寄り期待",
+  "url": "https://www.jmd.co.jp/article.php?no=315609",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315607": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "日本郵船、全社でAI業務改革。「働き方そのものを進化」",
+  "url": "https://www.jmd.co.jp/article.php?no=315607",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315614": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（408）中小、見えぬ次の一手。中国新興ヤード、空オーダー爆弾",
+  "url": "https://www.jmd.co.jp/article.php?no=315614",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315613": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "アングロイースタン、独自組織で安全情報集約。航行リスク高まり受け",
+  "url": "https://www.jmd.co.jp/article.php?no=315613",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315615": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "故 濱根義和・尾道造船相談役、神戸でしめやかにお別れの会",
+  "url": "https://www.jmd.co.jp/article.php?no=315615",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315610": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "サムスン重、1―4月受注31%増34億ドル。4月にFSRU追加",
+  "url": "https://www.jmd.co.jp/article.php?no=315610",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315611": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "NK、3Dモデル利用の図面承認で指針",
+  "url": "https://www.jmd.co.jp/article.php?no=315611",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315605": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "【インタビュー　SCソリューション企業へ進化】丸紅ロジスティクス社長・栗原剛氏、業界別PFを深掘り",
+  "url": "https://www.jmd.co.jp/article.php?no=315605",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315619": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "セイノーロジ、LA向け混載増便。関東受け、需要に柔軟に対応",
+  "url": "https://www.jmd.co.jp/article.php?no=315619",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315618": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "ダクサー、同社最大拠点を拡張。独南部、55億円投資",
+  "url": "https://www.jmd.co.jp/article.php?no=315618",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315624": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "マーキュリア・SC投資組合、30億円で募集完了。山九・三菱倉庫など参画",
+  "url": "https://www.jmd.co.jp/article.php?no=315624",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315596": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "【4月貿易概況】神戸港、輸出額15%増。輸入は8%増",
+  "url": "https://www.jmd.co.jp/article.php?no=315596",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315595": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "【4月貿易概況】大阪港、輸出額41%増。輸入は5%増",
+  "url": "https://www.jmd.co.jp/article.php?no=315595",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315597": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "東京港、PR動画で認知度向上。タレント・福留光帆さん Gクレーンに潜入",
+  "url": "https://www.jmd.co.jp/article.php?no=315597",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315598": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "【総会】御前崎港振興会、利便性向上目指す",
+  "url": "https://www.jmd.co.jp/article.php?no=315598",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315606": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "航空貨物運賃、アジア発欧州 上昇一服。台湾・印、2週連続下落",
+  "url": "https://www.jmd.co.jp/article.php?no=315606",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315620": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "郵船ロジ、カーゴワンと提携。航空貨物、販売・調達を強化",
+  "url": "https://www.jmd.co.jp/article.php?no=315620",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315621": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "ANA・JAL、SAF共同リポート改定。航空網維持  コスト分担へ",
+  "url": "https://www.jmd.co.jp/article.php?no=315621",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315616": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "25年度内航元請け輸送、貨物船横ばい・油送船3%減",
+  "url": "https://www.jmd.co.jp/article.php?no=315616",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315600": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "【総会】大阪海運組合、若年船員の確保など肝要",
+  "url": "https://www.jmd.co.jp/article.php?no=315600",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600571+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201647/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ホルムズ通峡の実質封鎖長期化、荷主の対応が新段階、代替輸送路探る",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201647/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600955+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/05/201670/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来へのメッセージ】檜垣幸人・今治造船社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/05/201670/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.600955+09:00"
+ },
+ "https://splash247.com/seanergy-fleet-renewal-gathers-pace-with-sixth-newbuild/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Seanergy fleet renewal gathers pace with sixth newbuild",
+  "url": "https://splash247.com/seanergy-fleet-renewal-gathers-pace-with-sixth-newbuild/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T08:10:14.601351+09:00"
  }
 }
