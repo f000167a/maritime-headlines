@@ -1,76 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315377": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "アジア船主協会、サイバー脅威は航行リスクに。安全運航・環境委でデジタル化など議論",
-  "url": "https://www.jmd.co.jp/article.php?no=315377",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T13:27:11.818495+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201644/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本郵船、首藤健一郎常務・技術本部長に聞く、技術力で社会課題に応える",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201644/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201645/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "商船三井、自動車船向けLNG燃料調達契約締結、バンクーバー港で初",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201645/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201646/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "香港、4月は6%減の107万TEU",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201646/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/05/201642/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ウルサレポート、4月の豪州石炭輸出量、13%増の2940万トン",
-  "url": "https://www.kaijipress.com/news/tramper/2026/05/201642/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/05/201643/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "スターバルクの1～3月期業績、市況好調で純利益5853万ドル",
-  "url": "https://www.kaijipress.com/news/tramper/2026/05/201643/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T17:09:18.090732+09:00"
- },
- "https://splash247.com/first-coordinated-vlcc-transits-through-hormuz-raise-cautious-hopes-of-a-thaw/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "First coordinated VLCC transits through Hormuz raise cautious hopes of a thaw",
-  "url": "https://splash247.com/first-coordinated-vlcc-transits-through-hormuz-raise-cautious-hopes-of-a-thaw/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T17:09:18.091229+09:00"
- },
- "https://splash247.com/indonesia-moves-to-centralise-commodity-exports-through-state-run-trading-arm/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Indonesia moves to centralise commodity exports through state-run trading arm",
-  "url": "https://splash247.com/indonesia-moves-to-centralise-commodity-exports-through-state-run-trading-arm/",
-  "date": "2026/05/21",
-  "sd": "05/21",
-  "first_seen_iso": "2026-05-21T17:09:18.091229+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201647/": {
   "src": "k",
   "cat": "コラム",
@@ -641,7 +569,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月の越石炭輸入量は850万トン、単月過去最高を更新5月26日：T/C市場＝14隻・97万DWT、V/C市場＝鉄鉱石5隻、石炭3隻、穀物1隻",
+  "title": "【本日のトピック】4月中国電力消費量、4カ月連続プラス成長5月27日：T/C市場＝24隻・173万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/22",
   "sd": "05/22",
@@ -3134,7 +3062,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201764/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、2.4万TEU型LNG燃料船が竣工、仏籍10隻シリーズの1番船",
+  "title": "CMA-CGM、2.…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201764/",
   "date": "2026/05/27",
   "sd": "05/27",
@@ -3467,7 +3395,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201776/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本港湾協会、横須賀…",
+  "title": "日本港湾協会、横須賀市で総会、進藤孝生会長を再任",
   "url": "https://www.kaijipress.com/news/container/2026/05/201776/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3602,7 +3530,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201790/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国塗料、環境対応型防汚塗料技術が「先達の功績」に",
+  "title": "中国塗料、環境対応型…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201790/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3611,7 +3539,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/05/201792/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "WinGD、アンモニ…",
+  "title": "WinGD、アンモニア燃料主機のFAT完了",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201792/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -4093,5 +4021,77 @@
   "date": "2026/05/27",
   "sd": "05/27",
   "first_seen_iso": "2026-05-28T09:14:07.681592+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201799/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿世界主要港、1～3月は中国堅調も北米は低調、欧州は悪天候影響",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201799/",
+  "date": "2026/05/28",
+  "sd": "05/28",
+  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201800/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿日本主要港、大型船の受入能力強化が課題、航路維持・復活へ",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201800/",
+  "date": "2026/05/28",
+  "sd": "05/28",
+  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/05/201801/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿《講演》Sea Japanフォーラム2026、日本海事協会　菅勇人会長、「船舶技術の未来」",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201801/",
+  "date": "2026/05/28",
+  "sd": "05/28",
+  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/05/201798/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "郵船商事、ジャカルタ駐在事務所開設",
+  "url": "https://www.kaijipress.com/news/information/2026/05/201798/",
+  "date": "2026/05/28",
+  "sd": "05/28",
+  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
+ },
+ "https://splash247.com/hormuz-crisis-enters-dangerous-new-phase/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz crisis enters dangerous new phase",
+  "url": "https://splash247.com/hormuz-crisis-enters-dangerous-new-phase/",
+  "date": "2026/05/28",
+  "sd": "05/28",
+  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
+ },
+ "https://splash247.com/diana-boosts-genco-bid-in-fresh-takeover-push/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana boosts Genco bid in fresh takeover push",
+  "url": "https://splash247.com/diana-boosts-genco-bid-in-fresh-takeover-push/",
+  "date": "2026/05/28",
+  "sd": "05/28",
+  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
+ },
+ "https://splash247.com/safe-bulkers-expands-investor-reach-with-athens-listing/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Safe Bulkers expands investor reach with Athens listing",
+  "url": "https://splash247.com/safe-bulkers-expands-investor-reach-with-athens-listing/",
+  "date": "2026/05/28",
+  "sd": "05/28",
+  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
+ },
+ "https://splash247.com/intercargo-publishes-first-sts-transfer-standard-for-bulk-carriers/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Intercargo publishes first STS transfer standard for bulk carriers",
+  "url": "https://splash247.com/intercargo-publishes-first-sts-transfer-standard-for-bulk-carriers/",
+  "date": "2026/05/20",
+  "sd": "05/20",
+  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
  }
 }
