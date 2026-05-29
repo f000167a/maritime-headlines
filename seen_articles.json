@@ -3485,7 +3485,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201803/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "大王海運・美須賀海運…",
+  "title": "大王海運・美須賀海運、AI統合運航監視システム共同開発、内航RORO船で実証",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201803/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3494,7 +3494,7 @@
  "https://www.kaijipress.com/news/shipping/2026/05/201804/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、AI実装プロジェクト始動、人材育成と業務高度化",
+  "title": "日本郵船、AI実装プ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/05/201804/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3539,7 +3539,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201809/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本港湾協会総会、YKIPら5者が意見表明、投資への支援など",
+  "title": "日本港湾協会総会、Y…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201809/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3548,7 +3548,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201810/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関門港運協会など、総…",
+  "title": "関門港運協会など、総会を開催、野畑会長「日曜荷役再開目指す」",
   "url": "https://www.kaijipress.com/news/container/2026/05/201810/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -4093,5 +4093,32 @@
   "date": "2026/05/29",
   "sd": "05/29",
   "first_seen_iso": "2026-05-29T09:19:43.625962+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315186": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "日本関係船、ペルシャ湾滞留 依然40隻。日本人船員7人",
+  "url": "https://www.jmd.co.jp/article.php?no=315186",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-29T13:23:47.506997+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315196": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "米中央軍、計71隻 通航阻止。イラン港湾封鎖1カ月で",
+  "url": "https://www.jmd.co.jp/article.php?no=315196",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-29T13:23:47.506997+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315169": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/五味宜範】「Sea Japan」盛況に終わる　造船業再生機運の「勢い」反映",
+  "url": "https://www.jmd.co.jp/article.php?no=315169",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-05-29T13:23:47.506997+09:00"
  }
 }
