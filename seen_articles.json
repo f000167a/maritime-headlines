@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315186": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "日本関係船、ペルシャ湾滞留 依然40隻。日本人船員7人",
-  "url": "https://www.jmd.co.jp/article.php?no=315186",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-22T09:08:50.533187+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315196": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "米中央軍、計71隻 通航阻止。イラン港湾封鎖1カ月で",
-  "url": "https://www.jmd.co.jp/article.php?no=315196",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-22T09:08:50.533187+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315169": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/五味宜範】「Sea Japan」盛況に終わる　造船業再生機運の「勢い」反映",
-  "url": "https://www.jmd.co.jp/article.php?no=315169",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-22T09:08:50.533187+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201673/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -3566,7 +3539,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201809/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本港湾協会総会、Y…",
+  "title": "日本港湾協会総会、YKIPら5者が意見表明、投資への支援など",
   "url": "https://www.kaijipress.com/news/container/2026/05/201809/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3575,7 +3548,7 @@
  "https://www.kaijipress.com/news/container/2026/05/201810/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関門港運協会など、総会を開催、野畑会長「日曜荷役再開目指す」",
+  "title": "関門港運協会など、総…",
   "url": "https://www.kaijipress.com/news/container/2026/05/201810/",
   "date": "2026/05/28",
   "sd": "05/28",
@@ -3976,5 +3949,149 @@
   "date": "2026/05/29",
   "sd": "05/29",
   "first_seen_iso": "2026-05-29T08:10:14.601351+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625409+09:00"
+ },
+ "https://splash247.com/ciner-adds-ammonia-carriers-to-growing-multi-sector-orderbook/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ciner adds ammonia carriers to growing multi-sector orderbook",
+  "url": "https://splash247.com/ciner-adds-ammonia-carriers-to-growing-multi-sector-orderbook/",
+  "date": "2026/05/22",
+  "sd": "05/22",
+  "first_seen_iso": "2026-05-29T09:19:43.625816+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】4月中国電力消費量、4カ月連続プラス成長5月27日：T/C市場＝24隻・173万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625962+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625962+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625962+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625962+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625962+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-05-29T09:19:43.625962+09:00"
  }
 }
