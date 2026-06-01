@@ -1,22 +1,4 @@
 {
- "https://splash247.com/dianas-hostile-push-hits-fresh-wall-at-genco/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana’s hostile push hits fresh wall at Genco",
-  "url": "https://splash247.com/dianas-hostile-push-hits-fresh-wall-at-genco/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-25T08:55:49.159771+09:00"
- },
- "https://splash247.com/diana-shipping-lifts-earnings-with-fresh-oldendorff-fixture/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana Shipping lifts earnings with fresh Oldendorff fixture",
-  "url": "https://splash247.com/diana-shipping-lifts-earnings-with-fresh-oldendorff-fixture/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-25T08:55:49.159771+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/05/201700/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -3791,7 +3773,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/201849/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "船舶品質管理協会、救…",
+  "title": "船舶品質管理協会、救命艇整備技術者育成へ設備更新、救命艇“AKIBAⅡ”が完成",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201849/",
   "date": "2026/05/29",
   "sd": "05/29",
@@ -3809,7 +3791,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/201851/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "海技研、Sea Japan 2026で最先端研究成果を紹介",
+  "title": "海技研、Sea Ja…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201851/",
   "date": "2026/05/29",
   "sd": "05/29",
@@ -4174,5 +4156,14 @@
   "date": "2026/06/01",
   "sd": "06/01",
   "first_seen_iso": "2026-06-01T07:55:37.806266+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315484": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "金子国交相、日本関係船の安全確保指示。中東情勢幹部会議で",
+  "url": "https://www.jmd.co.jp/article.php?no=315484",
+  "date": "2026/05/25",
+  "sd": "05/25",
+  "first_seen_iso": "2026-06-01T09:03:04.712589+09:00"
  }
 }
