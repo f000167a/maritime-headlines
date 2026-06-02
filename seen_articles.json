@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201552/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "造船所の船舶保有モデルが多様化、中国が急拡大、揚子江船業も船隊100隻超に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201552/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T09:01:09.875777+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201553/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《シリーズ》造船業再生の視点③、遠くて近い2035年、模索続く10年計画",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201553/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T09:01:09.875777+09:00"
- },
- "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Panama Canal congestion fears grow ahead of June lock maintenance",
-  "url": "https://splash247.com/panama-canal-congestion-fears-grow-ahead-of-june-lock-maintenance/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-26T09:01:09.876254+09:00"
- },
- "https://splash247.com/iran-unveils-crypto-insurance-regime-for-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Iran unveils crypto insurance regime for Hormuz",
-  "url": "https://splash247.com/iran-unveils-crypto-insurance-regime-for-hormuz/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-26T09:01:09.876254+09:00"
- },
- "https://splash247.com/geneva-dry-iron-ore-panel-lays-out-a-bullish-chaotic-future-for-capes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Geneva Dry iron ore panel lays out a bullish, chaotic future for capes",
-  "url": "https://splash247.com/geneva-dry-iron-ore-panel-lays-out-a-bullish-chaotic-future-for-capes/",
-  "date": "2026/05/18",
-  "sd": "05/18",
-  "first_seen_iso": "2026-05-26T09:01:09.876254+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315291": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -3778,5 +3733,14 @@
   "date": "2026/06/01",
   "sd": "06/01",
   "first_seen_iso": "2026-06-02T08:23:26.759206+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315488": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/有村智成】日本港湾の基幹航路直航便、存廃危機は「最後の警告」",
+  "url": "https://www.jmd.co.jp/article.php?no=315488",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-06-02T10:43:45.616029+09:00"
  }
 }
