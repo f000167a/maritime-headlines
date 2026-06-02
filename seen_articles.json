@@ -1,85 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315080": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "米国のバルカー火災。ドーハ沖、イラン報復攻撃か",
-  "url": "https://www.jmd.co.jp/article.php?no=315080",
-  "date": "2026/05/12",
-  "sd": "05/12",
-  "first_seen_iso": "2026-05-26T17:06:38.437609+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201735/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《講演》Sea Japanフォーラム2026、商船三井　梅村尚副社長COO、「エネルギー輸送の未来」",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201735/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201737/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪港湾局・高橋寛局…",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201737/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201738/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "アジア発米国向け、4月は9%減の166万TEU、海事センター調査",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201738/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201739/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "アジア発欧州向け、3月は2%増の164万TEU、海事センター調査",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201739/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201740/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "日中コンテナ、3月は0.4%減の249万トン、海事センター調査",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201740/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
- },
- "https://www.kaijipress.com/markets/secondhand/2026/05/201736/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【中古船価】中古船価市況週間レポート（5月18日～22日）、ケープ5年物わずかに反落",
-  "url": "https://www.kaijipress.com/markets/secondhand/2026/05/201736/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.437940+09:00"
- },
- "https://splash247.com/morgan-stanley-predicts-prolonged-vessel-undersupply-across-energy-trades/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Morgan Stanley predicts prolonged vessel undersupply across energy trades",
-  "url": "https://splash247.com/morgan-stanley-predicts-prolonged-vessel-undersupply-across-energy-trades/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.438410+09:00"
- },
- "https://splash247.com/brokers-see-powerful-el-nino-adding-fuel-to-freight-rally/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Brokers see powerful El Niño adding fuel to freight rally",
-  "url": "https://splash247.com/brokers-see-powerful-el-nino-adding-fuel-to-freight-rally/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-05-26T17:06:38.438410+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201741/": {
   "src": "k",
   "cat": "コラム",
@@ -2207,7 +2126,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月の中国鉄鋼PMIは47.9ポイント、2カ月連続の節目割れ5月29日：T/C市場＝12隻・92万DWT、V/C市場＝鉄鉱石3隻、石炭2隻、穀物1隻",
+  "title": "【本日のトピック】中国住宅市場で「以旧換新」の動き広がる6月1日：T/C市場＝3隻・22万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/29",
   "sd": "05/29",
@@ -3724,5 +3643,23 @@
   "date": "2026/05/26",
   "sd": "05/26",
   "first_seen_iso": "2026-06-02T10:43:45.616029+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315749": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!17:06飯野海運、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=315749",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-06-02T18:15:52.978018+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315291": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神子真人】コンテナ運賃、上昇の持続性は。船社、採算悪化で市況下支え急ぐ",
+  "url": "https://www.jmd.co.jp/article.php?no=315291",
+  "date": "2026/05/19",
+  "sd": "05/19",
+  "first_seen_iso": "2026-06-02T18:15:52.978018+09:00"
  }
 }
