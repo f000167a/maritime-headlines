@@ -3287,7 +3287,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201914/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪海貨業会、海貨業界の発展へ連携推進、総会を開催",
+  "title": "大阪海貨業会、海貨業…",
   "url": "https://www.kaijipress.com/news/container/2026/06/201914/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3359,7 +3359,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201920/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "四日市港利用促進協議…",
+  "title": "四日市港利用促進協議会、総会、四日市港セミナーを開催",
   "url": "https://www.kaijipress.com/news/container/2026/06/201920/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3413,7 +3413,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/201926/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ECLの16型トリプルデッカーが竣工",
+  "title": "ECLの16型トリプルデッカーが竣工無料",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/201926/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3422,7 +3422,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/201928/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術…",
+  "title": "《連載》自動運航技術の最前線、YDKテクノロジーズ、操船制御の連携を高度化、運航状態別制御に対応",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201928/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3440,7 +3440,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/201930/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "村上秀造船、998型タンカー“第五豊顕丸”竣工",
+  "title": "村上秀造船、998型…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201930/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3742,5 +3742,59 @@
   "date": "2026/05/26",
   "sd": "05/26",
   "first_seen_iso": "2026-06-03T08:42:13.541946+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315541": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "日本関係船、ペルシャ湾内に依然38隻。「出光丸」は帰還",
+  "url": "https://www.jmd.co.jp/article.php?no=315541",
+  "date": "2026/05/27",
+  "sd": "05/27",
+  "first_seen_iso": "2026-06-03T11:12:31.627763+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201741/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国内船主、資本費と船舶経費が同時上昇へ、コスト増で契約形態再考か",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201741/",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-03T11:12:31.628122+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/05/201742/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船・阿曽ライナー&ロジスティクス事業統轄本部長に聞く、中長期的視点で成長目指す",
+  "url": "https://www.kaijipress.com/news/container/2026/05/201742/",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-03T11:12:31.628122+09:00"
+ },
+ "https://splash247.com/open-hatch-giant-g2-ocean-expands-fleet-with-six-newbuilds-from-grieg-and-seaspan/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Open hatch giant G2 Ocean expands fleet with six newbuilds from Grieg and Seaspan",
+  "url": "https://splash247.com/open-hatch-giant-g2-ocean-expands-fleet-with-six-newbuilds-from-grieg-and-seaspan/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-06-03T11:12:31.628558+09:00"
+ },
+ "https://splash247.com/de-jong-shipping-takes-stake-in-belgian-inland-shipping-specialist-transmatch/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "De Jong Shipping takes stake in Belgian inland shipping specialist TransMatch",
+  "url": "https://splash247.com/de-jong-shipping-takes-stake-in-belgian-inland-shipping-specialist-transmatch/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-06-03T11:12:31.628558+09:00"
+ },
+ "https://splash247.com/asyad-deepens-dry-bulk-push-with-baby-cape-purchases/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Asyad deepens dry bulk push with baby cape purchases",
+  "url": "https://splash247.com/asyad-deepens-dry-bulk-push-with-baby-cape-purchases/",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-06-03T11:12:31.628558+09:00"
  }
 }
