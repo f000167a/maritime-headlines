@@ -3206,7 +3206,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201914/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪海貨業会、海貨業界の発展へ連携推進、総会を開催",
+  "title": "大阪海貨業会、海貨業…",
   "url": "https://www.kaijipress.com/news/container/2026/06/201914/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3260,7 +3260,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201918/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "兵庫県港運協会、総会…",
+  "title": "兵庫県港運協会、総会を開催、久保会長「戦略港湾への集中を」",
   "url": "https://www.kaijipress.com/news/container/2026/06/201918/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3323,7 +3323,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/201925/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船、純度100%のバイオ燃料実証開始、自動車船で1年継続使用",
+  "title": "日本郵船、純度100…",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/201925/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -3332,7 +3332,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/201926/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ECLの16型トリプ…",
+  "title": "ECLの16型トリプルデッカーが竣工無料",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/201926/",
   "date": "2026/06/02",
   "sd": "06/02",
@@ -4408,5 +4408,356 @@
   "date": "2026/06/03",
   "sd": "06/03",
   "first_seen_iso": "2026-06-03T19:08:35.597790+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315804": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "MSC、イラク出港時被弾で声明。中立性強調 攻撃を非難",
+  "url": "https://www.jmd.co.jp/article.php?no=315804",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315790": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "コンテナ船腹、欧州航路に集中。増加分、アフリカ配船も拡大",
+  "url": "https://www.jmd.co.jp/article.php?no=315790",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315805": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "マースク、北欧州―エジプト航路開設。直航で日数短縮",
+  "url": "https://www.jmd.co.jp/article.php?no=315805",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315788": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "ECL、前期経常益189億円。長手社長、組織の成長に自信",
+  "url": "https://www.jmd.co.jp/article.php?no=315788",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315812": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "日・ノルウェー、海事フォーラム。関係強化し脱炭素へ",
+  "url": "https://www.jmd.co.jp/article.php?no=315812",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315791": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "【インタビュー　船舶管理の統合・強化】MOLグローバルシップマネジメント（MOLGSM）社長・谷本光央氏、品質・効率 両輪ドライブ",
+  "url": "https://www.jmd.co.jp/article.php?no=315791",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315789": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "川崎汽船、LCO2船定期用船。ノーザンライツ向け",
+  "url": "https://www.jmd.co.jp/article.php?no=315789",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315809": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "【Posidonia2026】商船三井・橋本会長、「インフラ投資、長期的視点で」。強固なBS維持、持続性追求",
+  "url": "https://www.jmd.co.jp/article.php?no=315809",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315808": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "【Posidonia2026】海運、地政学リスクの最前線に。クラークソンズが市場展望",
+  "url": "https://www.jmd.co.jp/article.php?no=315808",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315807": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "【Posidonia2026】輸組、日本造船技術を発信。ポシドニアで",
+  "url": "https://www.jmd.co.jp/article.php?no=315807",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315783": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "【竣工】今治造船西条、ケープサイズバルカー「FRONTIER　PEACE」",
+  "url": "https://www.jmd.co.jp/article.php?no=315783",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315787": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "【おわび】遅配（名古屋の一部地域）",
+  "url": "https://www.jmd.co.jp/article.php?no=315787",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315800": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "AEO20周年記念大会、関税協会、官民連携 重要性強調。優位性向上を推進",
+  "url": "https://www.jmd.co.jp/article.php?no=315800",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315802": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "25年度下期JIFFA実績、輸出 5半期ぶりプラス。2000万トン台回復",
+  "url": "https://www.jmd.co.jp/article.php?no=315802",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315799": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "財務省関税局、AEO通関業者に新特例措置。税関審査・検査を軽減",
+  "url": "https://www.jmd.co.jp/article.php?no=315799",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315798": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "【総会】名古屋港運協会、中東情勢「予断許さない」。安定的で高品質な物流サービス提供へ",
+  "url": "https://www.jmd.co.jp/article.php?no=315798",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315806": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "阪神国際港湾会社、伊万里港と連携強化。国内3例目、フィーダー生かし集貨",
+  "url": "https://www.jmd.co.jp/article.php?no=315806",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315803": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "台風6号、東京・横浜両港被害なし。CTはゲートクローズ",
+  "url": "https://www.jmd.co.jp/article.php?no=315803",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315786": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "運輸総研、印港湾協会などと覚書。5年間の研究交流",
+  "url": "https://www.jmd.co.jp/article.php?no=315786",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315810": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "2月の内航輸送統計、総輸送量3.3%増",
+  "url": "https://www.jmd.co.jp/article.php?no=315810",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315775": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "【総会】中部沿海海運組合、運賃・用船料 適正化を推進",
+  "url": "https://www.jmd.co.jp/article.php?no=315775",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315772": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "【めざせ!海技者セミナー】関東運輸局、82の企業・団体が参加予定。8日に都内で",
+  "url": "https://www.jmd.co.jp/article.php?no=315772",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T00:05:22.391102+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnQ5aGxoQ24zeEtiYVBidzdSYXNoY21PWHlXNzMxQl9Gc0ZYcERIOV96aXhGY2x0OFhJV0lNYWR1MFhpbF9udFJPRUdyUmJWVmZiT0x5dEZYSVU2Q2w2Ml9HTndvU0k3a0ctaFMzeWJaQXRrM1hZd2s2aXJZWXpSNkZ3VWZ2MktT?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Marinakis: Shipping would be better off paying a Hormuz fee",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnQ5aGxoQ24zeEtiYVBidzdSYXNoY21PWHlXNzMxQl9Gc0ZYcERIOV96aXhGY2x0OFhJV0lNYWR1MFhpbF9udFJPRUdyUmJWVmZiT0x5dEZYSVU2Q2w2Ml9HTndvU0k3a0ctaFMzeWJaQXRrM1hZd2s2aXJZWXpSNkZ3VWZ2MktT?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUczFDSGliSGR4eFRDZWVXNVZQaTFMYmFZMnlZVUttbUpZeTVBeDc3aXZBWGtVaFE1ZlhDUUV2bzRqaGtIVE1ubkhBeEhTaDd4U1MxSnJ4YUltWC0wUlBENE5fdmJFMDE2ZEVqTw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "MSC boxship damaged in blast off Iraq",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUczFDSGliSGR4eFRDZWVXNVZQaTFMYmFZMnlZVUttbUpZeTVBeDc3aXZBWGtVaFE1ZlhDUUV2bzRqaGtIVE1ubkhBeEhTaDd4U1MxSnJ4YUltWC0wUlBENE5fdmJFMDE2ZEVqTw?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KVHVnNDRZV0kxQS01TEgxUWY4VFhxNXkxcEF0T2VSSVh0RHZIa1pjcVZlSGg3aGFtVE5paWVfaHo5X1JYUTk2Y0VkZVoyTDBfa3c2ZzVieW1xWXhseXFJMXFMTnVKUGpROVA4dHlzdVN4MlBoM1RqaFlnSS0?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Jinhui orders pair of dry bulk newbuilds in China",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KVHVnNDRZV0kxQS01TEgxUWY4VFhxNXkxcEF0T2VSSVh0RHZIa1pjcVZlSGg3aGFtVE5paWVfaHo5X1JYUTk2Y0VkZVoyTDBfa3c2ZzVieW1xWXhseXFJMXFMTnVKUGpROVA4dHlzdVN4MlBoM1RqaFlnSS0?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelI1UHRkcWJfaE02WkNSQV9wbmVsbkIxdFE0S0pJc3NzMUhHTU1hVE5PWDlqUGJvbFlrVW9qNlR6TXc3WkRVN0hhQmQxU3pSdFR6elVMNFBTZ1k5X2NMckFVQl9GejViV2hIZUFldERwM2YyYnRXTF80Ri1UWnBQWmlLX3VSVTlQZzZN?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco and Diana remain deadlocked after latest bid rejection",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOelI1UHRkcWJfaE02WkNSQV9wbmVsbkIxdFE0S0pJc3NzMUhHTU1hVE5PWDlqUGJvbFlrVW9qNlR6TXc3WkRVN0hhQmQxU3pSdFR6elVMNFBTZ1k5X2NMckFVQl9GejViV2hIZUFldERwM2YyYnRXTF80Ri1UWnBQWmlLX3VSVTlQZzZN?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjhoQ2xfbXdNTUZGVUtXVTdKVWJ0OWd4UkpEOFNvVzhFbFFrckV0X0ttNHRHQVhjMjlZSlpIemgtUFZUZVJaTjAxNmNVdHNlT2c5M0VaMzNSUjlHMExYZ3Vjendid0NHRXNWUndDaTVkQ1F3dGtDWmlMLTJMZHF4RGl2b1hNZmZxU2tVS1ZUOXJ5MVAta0lYTG5R?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipowners urged to stay nimble as geopolitics reshapes global shipping",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjhoQ2xfbXdNTUZGVUtXVTdKVWJ0OWd4UkpEOFNvVzhFbFFrckV0X0ttNHRHQVhjMjlZSlpIemgtUFZUZVJaTjAxNmNVdHNlT2c5M0VaMzNSUjlHMExYZ3Vjendid0NHRXNWUndDaTVkQ1F3dGtDWmlMLTJMZHF4RGl2b1hNZmZxU2tVS1ZUOXJ5MVAta0lYTG5R?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDJGam9aTTdZRHdraXhMSFJMUWdpSVBadmRuUTZjeV9sR091cENDc3lJazRaaEVIcTBNTFdUM0lCZWFtdVJxMEd6cFk4WXhLUlZQa1lfUFJvT3h5cjQzR0UyVV9hUVdGaGlzUlhjNnJaSDJycW5Jc09mMkFUQnJmcGdsZ3lkNXVDWHlhM1RJcjlsd1BsUXVrTk5BMUFjeTNEaS0ybkxPUzJFVFlB?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "‘Sooner or later the party will finish’: Owners weigh risks behind today’s strong markets",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcDJGam9aTTdZRHdraXhMSFJMUWdpSVBadmRuUTZjeV9sR091cENDc3lJazRaaEVIcTBNTFdUM0lCZWFtdVJxMEd6cFk4WXhLUlZQa1lfUFJvT3h5cjQzR0UyVV9hUVdGaGlzUlhjNnJaSDJycW5Jc09mMkFUQnJmcGdsZ3lkNXVDWHlhM1RJcjlsd1BsUXVrTk5BMUFjeTNEaS0ybkxPUzJFVFlB?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd1p2Rko3UEZnb2FrTXRSYXd3RHFrNXhlTHI4VlQxSnVsbmRyaUtWdVJDWUc3Zm41N2dma1RQdGdjdHJmaEU2Y282RmlUbW1MMkY1UGJ1eFdET2FZSEF4TFU1dWljQzEtaWRfRHNEaVRCQlM3ejFNcTNkcU9YRkFueHY3VTFjM3VkNUtKNmJxX1I0ZElUbXc?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Icon Energy converts index-linked panamax charter to fixed-rate deal",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd1p2Rko3UEZnb2FrTXRSYXd3RHFrNXhlTHI4VlQxSnVsbmRyaUtWdVJDWUc3Zm41N2dma1RQdGdjdHJmaEU2Y282RmlUbW1MMkY1UGJ1eFdET2FZSEF4TFU1dWljQzEtaWRfRHNEaVRCQlM3ejFNcTNkcU9YRkFueHY3VTFjM3VkNUtKNmJxX1I0ZElUbXc?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFdhdmo5a3lrdlFWMFJ5bzh0WXFmOHYwc0RNVWxJY016S3Y5RnNRNFYwdzYwbXJPYUxSeWxVcm4zZkV5TGdyZG5yYUItcFNpTzlQNXlkSVpBUVRNVlpyZW9SdElkanY2RTRweHVidklrcjMxMkJkbno0c2lkcUJoMm1Ka2Uyemh1WERhek0yWmNZRldqZHRtdzdVdjJOVkE?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "MSC linked to acquisition of majority stake in Pivdennyi container terminal",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFdhdmo5a3lrdlFWMFJ5bzh0WXFmOHYwc0RNVWxJY016S3Y5RnNRNFYwdzYwbXJPYUxSeWxVcm4zZkV5TGdyZG5yYUItcFNpTzlQNXlkSVpBUVRNVlpyZW9SdElkanY2RTRweHVidklrcjMxMkJkbno0c2lkcUJoMm1Ka2Uyemh1WERhek0yWmNZRldqZHRtdzdVdjJOVkE?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3I5UUZ6Ujh1UTNTSXJwMnJGeFVQSl93VWJzT3R6UFJzSFFtQ01HVGZObEdJOTV6OXJjUE9oUURDZ2tTWGtoU1RHSTRmY0cwYjBTZm5Yckg4VjhFb290QnBYUW5oTmppYmVENi1JMlREenF4X1BvTVJQVEdvSlFyTnhiVVkwdE0tMmswaDR6TV9TV2pXdmkw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "K Line and MISC win another LCO2 carrier charter from Northern Lights",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3I5UUZ6Ujh1UTNTSXJwMnJGeFVQSl93VWJzT3R6UFJzSFFtQ01HVGZObEdJOTV6OXJjUE9oUURDZ2tTWGtoU1RHSTRmY0cwYjBTZm5Yckg4VjhFb290QnBYUW5oTmppYmVENi1JMlREenF4X1BvTVJQVEdvSlFyTnhiVVkwdE0tMmswaDR6TV9TV2pXdmkw?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWtaamFPZDdLZXZiSkhWYTdEa3VyR2gxc0JXUUo2LTFMRlR0dXdKZlphZ2Q4aDM3T2FNQkc2TUJXYzhmNHV0VDl4X0lKNWJ3VWZNRWM0WGZHZGxaSmdlRlI3MllmWS1hRHJscTVqRjA5dktFWlRhNTV2N1JjY0pRdmJwc2FNYkZkUnFfRnNtVQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Container newbuild stranded since 2008 crisis finally delivered",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWWtaamFPZDdLZXZiSkhWYTdEa3VyR2gxc0JXUUo2LTFMRlR0dXdKZlphZ2Q4aDM3T2FNQkc2TUJXYzhmNHV0VDl4X0lKNWJ3VWZNRWM0WGZHZGxaSmdlRlI3MllmWS1hRHJscTVqRjA5dktFWlRhNTV2N1JjY0pRdmJwc2FNYkZkUnFfRnNtVQ?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0pGN0Q1eHVIU3d0STVwdU9MNG5NUVNJOWJFbkdqdVFybS0yMkI3WFdoU3UwY0xFeWhPbFQxcW1IWVNFVnFENnJQV0dvelNUWE5Hb3hLTkF0WWNGZXZiQWJMX21PNGJXNFBSQlpzblZmbzdnTDJfZ2I3eGV0ZGdlN2kycXFoVlRkTDNBZDI4NGFEREJ4WDJWUkU4OGM?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipping industry falls short on ESG delivery despite governance progress",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT0pGN0Q1eHVIU3d0STVwdU9MNG5NUVNJOWJFbkdqdVFybS0yMkI3WFdoU3UwY0xFeWhPbFQxcW1IWVNFVnFENnJQV0dvelNUWE5Hb3hLTkF0WWNGZXZiQWJMX21PNGJXNFBSQlpzblZmbzdnTDJfZ2I3eGV0ZGdlN2kycXFoVlRkTDNBZDI4NGFEREJ4WDJWUkU4OGM?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWdydVJzeXNoN1haR0xyTTFSSTg3cGRWSnMxVXFkcTJnQl93dlRkOGVDUzRPRVFPNUJZbndpNHNZVmZhSUZrUk9pSkM0dnh1MzlUck1XSWhEVlhFMzdBVnNTbTI2dGQ3ZkswbDdPclcxZDRSV21tNGFkbEF6STZPckVuSXZySHhGV05mTk96VFJROWRMcUg4?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Murphy taps Subsea7 for engineering and installation work offshore US",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWdydVJzeXNoN1haR0xyTTFSSTg3cGRWSnMxVXFkcTJnQl93dlRkOGVDUzRPRVFPNUJZbndpNHNZVmZhSUZrUk9pSkM0dnh1MzlUck1XSWhEVlhFMzdBVnNTbTI2dGQ3ZkswbDdPclcxZDRSV21tNGFkbEF6STZPckVuSXZySHhGV05mTk96VFJROWRMcUg4?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDROZkUyOXI4MjBHWDUtdXNaaEJ6aGdmVzd4RUFnd01hMEJrWGJ0aTVWRllJWENGN3ZWRkhQLTdkOEhDNEI3N1JHckhxVm1yRUY2bnBjTjl0NF9GTUJIUzF5MVpraTFhYmZJWWpWSndkUkZCalFMVkZGTUJSTXczRjlVMjhac1BQWXZWNg?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ocean Installer wins first Brazil contract on Equinor project",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSDROZkUyOXI4MjBHWDUtdXNaaEJ6aGdmVzd4RUFnd01hMEJrWGJ0aTVWRllJWENGN3ZWRkhQLTdkOEhDNEI3N1JHckhxVm1yRUY2bnBjTjl0NF9GTUJIUzF5MVpraTFhYmZJWWpWSndkUkZCalFMVkZGTUJSTXczRjlVMjhac1BQWXZWNg?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hZDhyNC02OU8teWN1M0FZVF9sOWJtTVhGdVB2SE8xTnNFdVZVOEw1a0p0MXEzbzNtZlBfLV83ZGVpOXJjdVRDdTR0c1JtdU5kaURNNUdSZzZFUUpOUzF4aWNZanZmcUlHNUV5XzdKRS1ZN2NkOEpDaERZZXFJdw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Dolphin Drilling secures $240m deal for semisub rig",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hZDhyNC02OU8teWN1M0FZVF9sOWJtTVhGdVB2SE8xTnNFdVZVOEw1a0p0MXEzbzNtZlBfLV83ZGVpOXJjdVRDdTR0c1JtdU5kaURNNUdSZzZFUUpOUzF4aWNZanZmcUlHNUV5XzdKRS1ZN2NkOEpDaERZZXFJdw?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzlOSW0tMVdWczFwR3hLX3FsanlpMVFQMmNfTkpBUU1mTldEV1BpTl9pcWNxMXBaNm8tSmQ2dWcydWlib1NlQWhFVUVPWDc3LUhQMXF6aG1uNF9ZWnllSWU1MWZIN0R2eE9wMUx2Sno1TUc3aFd3ZWZtempHUEh1bGEzY2t5VC10RXFPdDhsbEo1UnpEdVVxQUF3?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Contract suspensions and insurance spikes pressure Gulf offshore market",
+  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzlOSW0tMVdWczFwR3hLX3FsanlpMVFQMmNfTkpBUU1mTldEV1BpTl9pcWNxMXBaNm8tSmQ2dWcydWlib1NlQWhFVUVPWDc3LUhQMXF6aG1uNF9ZWnllSWU1MWZIN0R2eE9wMUx2Sno1TUc3aFd3ZWZtempHUEh1bGEzY2t5VC10RXFPdDhsbEo1UnpEdVVxQUF3?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ2hRdTdHT044UzhxcmhLYzlhZ0ZoNjZXVnY3UjEzNkJpNXZzN1J4cVBWU01QcGo2Y20yaUxjYWZ4ampTZk1LbFVhc05maFI0M2pxRW1GR3JCc3pmclFEU1pEUlM1LVB0VmtrYjlxS2NwR1ZGbUtkUjJYbFd6M3AxSDJXMjZIY25ZcWJTVHFOei0?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Aderco launches emissions monitoring and carbon credit programme",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ2hRdTdHT044UzhxcmhLYzlhZ0ZoNjZXVnY3UjEzNkJpNXZzN1J4cVBWU01QcGo2Y20yaUxjYWZ4ampTZk1LbFVhc05maFI0M2pxRW1GR3JCc3pmclFEU1pEUlM1LVB0VmtrYjlxS2NwR1ZGbUtkUjJYbFd6M3AxSDJXMjZIY25ZcWJTVHFOei0?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXl4dzF4a2ZYdmo2Vmg1c0xTNVpTNlVYZmlZQXBOY2lsRm9YcFV1UlNGSXhMNDNsekM4OS1mM2ZxM0dNV2s3ZGc0V0FSZTdhbFYzbGdfay1yNUF4Q3RHNDlQVUd6N1VCdzRzQ0VpZlE5bDllM1pQWGVxZkZ4VWYzVlBrdkJxeGZlRDZnaVBzVU8teUZ4?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "US fires Hellfire into engine room of VLCC heading for Kharg Island",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXl4dzF4a2ZYdmo2Vmg1c0xTNVpTNlVYZmlZQXBOY2lsRm9YcFV1UlNGSXhMNDNsekM4OS1mM2ZxM0dNV2s3ZGc0V0FSZTdhbFYzbGdfay1yNUF4Q3RHNDlQVUd6N1VCdzRzQ0VpZlE5bDllM1pQWGVxZkZ4VWYzVlBrdkJxeGZlRDZnaVBzVU8teUZ4?oc=5",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T00:05:22.392090+09:00"
  }
 }
