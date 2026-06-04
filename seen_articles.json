@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=314850": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（407）インフレ時代、経営転換。日本金融へ期待感続く",
-  "url": "https://www.jmd.co.jp/article.php?no=314850",
-  "date": "2026/04/30",
-  "sd": "04/30",
-  "first_seen_iso": "2026-05-28T09:14:07.680223+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201612/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】＃14 三井住友信託銀行　平野隆啓船舶ファイナンス部長、船舶金融の民主化で日本海運支える",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201612/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T09:14:07.680558+09:00"
- },
- "http://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2068号」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/05/27",
-  "sd": "05/27",
-  "first_seen_iso": "2026-05-28T09:14:07.681592+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/05/201799/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2819,7 +2792,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201937/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "川崎市港湾局・木村俊…",
+  "title": "川崎市港湾局・木村俊介局長、危険品・リーファーに注目",
   "url": "https://www.kaijipress.com/news/container/2026/06/201937/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3161,7 +3134,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201951/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "シンガポール海事港湾庁/MSC、脱炭素化・DX、人材育成で提携",
+  "title": "シンガポール海事港湾…",
   "url": "https://www.kaijipress.com/news/container/2026/06/201951/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3895,5 +3868,14 @@
   "date": "2026/05/27",
   "sd": "05/27",
   "first_seen_iso": "2026-06-04T08:28:30.180437+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/05/201766/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "パナマ運河拡張から10年、幅広い船種で大型化が進む、「パナマックス」も健在",
+  "url": "https://www.kaijipress.com/news/shipping/2026/05/201766/",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T11:05:58.065587+09:00"
  }
 }
