@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/05/201799/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "世界主要港、1～3月は中国堅調も北米は低調、欧州は悪天候影響",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201799/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201800/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "日本主要港、大型船の受入能力強化が課題、航路維持・復活へ",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201800/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/05/201801/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《講演》Sea Japanフォーラム2026、日本海事協会　菅勇人会長、「船舶技術の未来」",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/05/201801/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
- },
- "https://www.kaijipress.com/news/information/2026/05/201798/": {
-  "src": "k",
-  "cat": "Information",
-  "title": "郵船商事、ジャカルタ駐在事務所開設",
-  "url": "https://www.kaijipress.com/news/information/2026/05/201798/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T17:27:28.505510+09:00"
- },
- "https://splash247.com/hormuz-crisis-enters-dangerous-new-phase/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz crisis enters dangerous new phase",
-  "url": "https://splash247.com/hormuz-crisis-enters-dangerous-new-phase/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
- },
- "https://splash247.com/diana-boosts-genco-bid-in-fresh-takeover-push/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana boosts Genco bid in fresh takeover push",
-  "url": "https://splash247.com/diana-boosts-genco-bid-in-fresh-takeover-push/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
- },
- "https://splash247.com/safe-bulkers-expands-investor-reach-with-athens-listing/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Safe Bulkers expands investor reach with Athens listing",
-  "url": "https://splash247.com/safe-bulkers-expands-investor-reach-with-athens-listing/",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
- },
- "https://splash247.com/intercargo-publishes-first-sts-transfer-standard-for-bulk-carriers/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Intercargo publishes first STS transfer standard for bulk carriers",
-  "url": "https://splash247.com/intercargo-publishes-first-sts-transfer-standard-for-bulk-carriers/",
-  "date": "2026/05/20",
-  "sd": "05/20",
-  "first_seen_iso": "2026-05-28T17:27:28.506017+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315629": {
   "src": "j",
   "cat": "外航全般",
@@ -668,7 +596,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月インドネシア石炭輸出量は3,733万トン、4カ月連続前年割れ6月2日：T/C市場＝6隻・33万DWT、V/C市場＝石炭1隻",
+  "title": "【本日のトピック】5月伯鉄鉱石輸出は前年比▲20%減の2,801万トン6月3日：T/C市場＝10隻・63万DWT、V/C市場＝鉄鉱石3隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/05/29",
   "sd": "05/29",
@@ -2792,7 +2720,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201937/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "川崎市港湾局・木村俊…",
+  "title": "川崎市港湾局・木村俊介局長、危険品・リーファーに注目",
   "url": "https://www.kaijipress.com/news/container/2026/06/201937/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3134,7 +3062,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201951/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "シンガポール海事港湾庁/MSC、脱炭素化・DX、人材育成で提携",
+  "title": "シンガポール海事港湾…",
   "url": "https://www.kaijipress.com/news/container/2026/06/201951/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3913,5 +3841,32 @@
   "date": "2026/06/03",
   "sd": "06/03",
   "first_seen_iso": "2026-06-04T13:55:32.010455+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/201979/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日・ノルウェー船主協会が連携強化、フォーラムで、MODEC・エルドなど4件の覚書",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/201979/",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T17:56:06.815897+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/201980/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿マルチマックス・シッピング、中東・紅海・アフリカ向け強化",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/201980/",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T17:56:06.815897+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/201981/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿WinGD、「X-DF」の累計受注1000台突破",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201981/",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T17:56:06.815897+09:00"
  }
 }
