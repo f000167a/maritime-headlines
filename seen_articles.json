@@ -2792,7 +2792,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201937/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "川崎市港湾局・木村俊介局長、危険品・リーファーに注目",
+  "title": "川崎市港湾局・木村俊…",
   "url": "https://www.kaijipress.com/news/container/2026/06/201937/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3134,7 +3134,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201951/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "シンガポール海事港湾…",
+  "title": "シンガポール海事港湾庁/MSC、脱炭素化・DX、人材育成で提携",
   "url": "https://www.kaijipress.com/news/container/2026/06/201951/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3260,7 +3260,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/201963/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【ポシドニア2026…",
+  "title": "【ポシドニア2026】日本造船ギリシャでセミナー、先端技術PR、建造能力拡大も紹介",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201963/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3305,7 +3305,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/201968/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "アルファ・ラバル、洋上風力向けPJに超音波防汚技術",
+  "title": "アルファ・ラバル、洋…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201968/",
   "date": "2026/06/03",
   "sd": "06/03",
@@ -3877,5 +3877,41 @@
   "date": "2026/06/04",
   "sd": "06/04",
   "first_seen_iso": "2026-06-04T11:05:58.065587+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/201978/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿千葉港、25年は1.9%減の1.3億トン、コンテナは1.5%増",
+  "url": "https://www.kaijipress.com/news/container/2026/06/201978/",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T13:55:32.009788+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/201976/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日・ノルウェー、脱炭素・DXで協業深化、海事フォーラム、邦船大手ら取り組み紹介",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/201976/",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T13:55:32.009788+09:00"
+ },
+ "https://www.kaijipress.com/markets/dry/2026/06/201977/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿ドライバルク市況月間レポート（2026年5月）、ケープ月間平均は4.5万ドル",
+  "url": "https://www.kaijipress.com/markets/dry/2026/06/201977/",
+  "date": "2026/06/04",
+  "sd": "06/04",
+  "first_seen_iso": "2026-06-04T13:55:32.009788+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2068号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-04T13:55:32.010455+09:00"
  }
 }
