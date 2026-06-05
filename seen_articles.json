@@ -1,76 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315653": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "商船三井、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=315653",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-05-29T17:25:43.679688+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/201824/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "プレミアアライアンス、アジア―欧州2航路を改編",
-  "url": "https://www.kaijipress.com/news/container/2026/06/201824/",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-05-29T17:25:43.680068+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/201825/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGMグループ、AI基盤を従業員8万人に展開、業務を支援",
-  "url": "https://www.kaijipress.com/news/container/2026/06/201825/",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-05-29T17:25:43.680068+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/201826/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "イスラエル政府、ハパックロイド/ZIM合併に難色か",
-  "url": "https://www.kaijipress.com/news/container/2026/06/201826/",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-05-29T17:25:43.680068+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/201827/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【プロフィール】横山養輔 氏・川崎汽船執行役員",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/201827/",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-05-29T17:25:43.680068+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/201828/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《講演》Sea Japan2026フォーラム、川崎汽船　岩下方誠専務執行役員、「ドライバルク輸送の未来」",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/201828/",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-05-29T17:25:43.680068+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/201829/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "韓国造船大手、1～3月新規受注は4割増の120億ドル、LNG船やタンカー増加",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201829/",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-05-29T17:25:43.680068+09:00"
- },
- "https://splash247.com/splashs-new-shipmanagement-magazine-heads-to-posidonia/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash’s new shipmanagement magazine heads to Posidonia",
-  "url": "https://splash247.com/splashs-new-shipmanagement-magazine-heads-to-posidonia/",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-05-29T17:25:43.680504+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315685": {
   "src": "j",
   "cat": "物流/港運",
@@ -3935,7 +3863,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月伯鉄鉱石輸出は前年比▲20%減の2,801万トン6月3日：T/C市場＝10隻・63万DWT、V/C市場＝鉄鉱石3隻、石炭2隻",
+  "title": "【本日のトピック】ブラジル5月穀物輸出、大豆は前年比+5%増の1,483万トン6月4日：T/C市場＝7隻・46万DWT、V/C市場＝鉄鉱石4隻、石炭2隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -3985,5 +3913,86 @@
   "date": "2026/06/05",
   "sd": "06/05",
   "first_seen_iso": "2026-06-05T13:39:30.475824+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315186": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "日本関係船、ペルシャ湾滞留 依然40隻。日本人船員7人",
+  "url": "https://www.jmd.co.jp/article.php?no=315186",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-06-05T17:34:16.316193+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315169": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/五味宜範】「Sea Japan」盛況に終わる　造船業再生機運の「勢い」反映",
+  "url": "https://www.jmd.co.jp/article.php?no=315169",
+  "date": "2026/05/15",
+  "sd": "05/15",
+  "first_seen_iso": "2026-06-05T17:34:16.316193+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202022/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ポシドニア2026】フォーブス誌のギリシャ船主ランキング、マリナキス氏が2位に浮上",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202022/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202019/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、6月以降は短期運賃の上昇が加速、PSS導入や値上げ効果で",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202019/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202020/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ取扱量、マレーシア2港がトップ10へ、タンジュンペラパス好調",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202020/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202021/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・コンテナ運賃指標、欧米向け高騰、総合指標23%増",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202021/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202023/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ポシドニア2026】韓国造船がギリシャ造船と連携、艦艇が軸、国産化政策に協力",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202023/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
+ },
+ "https://splash247.com/the-ghost-of-posidonia-2008/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "The ghost of Posidonia 2008",
+  "url": "https://splash247.com/the-ghost-of-posidonia-2008/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T17:34:16.317047+09:00"
+ },
+ "https://splash247.com/splash-wrap-the-magnetism-of-posidonia/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: The magnetism of Posidonia",
+  "url": "https://splash247.com/splash-wrap-the-magnetism-of-posidonia/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T17:34:16.317047+09:00"
  }
 }
