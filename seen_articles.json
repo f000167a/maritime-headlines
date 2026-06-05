@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315186": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "日本関係船、ペルシャ湾滞留 依然40隻。日本人船員7人",
-  "url": "https://www.jmd.co.jp/article.php?no=315186",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-29T13:23:47.506997+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315196": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "米中央軍、計71隻 通航阻止。イラン港湾封鎖1カ月で",
-  "url": "https://www.jmd.co.jp/article.php?no=315196",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-29T13:23:47.506997+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315169": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/五味宜範】「Sea Japan」盛況に終わる　造船業再生機運の「勢い」反映",
-  "url": "https://www.jmd.co.jp/article.php?no=315169",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-05-29T13:23:47.506997+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315653": {
   "src": "j",
   "cat": "外航全般",
@@ -3233,7 +3206,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/201976/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日・ノルウェー、脱炭素・DXで協業深化、海事フォーラム、邦船大手ら取り組み紹介",
+  "title": "日・ノルウェー、脱炭…",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/201976/",
   "date": "2026/06/04",
   "sd": "06/04",
@@ -3269,7 +3242,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/201987/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "栗林商船、慶應ラクロ…",
+  "title": "栗林商船、慶應ラクロス部向けにセミナー",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/201987/",
   "date": "2026/06/04",
   "sd": "06/04",
@@ -3323,7 +3296,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201993/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪港、フェリーター…",
+  "title": "大阪港、フェリーターミナル再編で国に要望、迅速な機能強化を",
   "url": "https://www.kaijipress.com/news/container/2026/06/201993/",
   "date": "2026/06/04",
   "sd": "06/04",
@@ -3341,7 +3314,7 @@
  "https://www.kaijipress.com/news/container/2026/06/201995/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ハパックロイド、ブラジル新CT運営会社に50%出資、28年に稼働",
+  "title": "ハパックロイド、ブラ…",
   "url": "https://www.kaijipress.com/news/container/2026/06/201995/",
   "date": "2026/06/04",
   "sd": "06/04",
@@ -3841,5 +3814,176 @@
   "date": "2026/05/28",
   "sd": "05/28",
   "first_seen_iso": "2026-06-05T08:04:27.343080+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315606": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "航空貨物運賃、アジア発欧州 上昇一服。台湾・印、2週連続下落",
+  "url": "https://www.jmd.co.jp/article.php?no=315606",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-06-05T13:39:30.474773+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315620": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "郵船ロジ、カーゴワンと提携。航空貨物、販売・調達を強化",
+  "url": "https://www.jmd.co.jp/article.php?no=315620",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-06-05T13:39:30.474773+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315614": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（408）中小、見えぬ次の一手。中国新興ヤード、空オーダー爆弾",
+  "url": "https://www.jmd.co.jp/article.php?no=315614",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-06-05T13:39:30.474773+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475152+09:00"
+ },
+ "https://splash247.com/seanergy-fleet-renewal-gathers-pace-with-sixth-newbuild/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Seanergy fleet renewal gathers pace with sixth newbuild",
+  "url": "https://splash247.com/seanergy-fleet-renewal-gathers-pace-with-sixth-newbuild/",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-06-05T13:39:30.475673+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】5月伯鉄鉱石輸出は前年比▲20%減の2,801万トン6月3日：T/C市場＝10隻・63万DWT、V/C市場＝鉄鉱石3隻、石炭2隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475824+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475824+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475824+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475824+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475824+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-05T13:39:30.475824+09:00"
  }
 }
