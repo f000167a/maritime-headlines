@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315484": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "金子国交相、日本関係船の安全確保指示。中東情勢幹部会議で",
-  "url": "https://www.jmd.co.jp/article.php?no=315484",
-  "date": "2026/05/25",
-  "sd": "05/25",
-  "first_seen_iso": "2026-06-01T09:03:04.712589+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315730": {
   "src": "j",
   "cat": "コンテナ",
@@ -3841,5 +3832,14 @@
   "date": "2026/06/08",
   "sd": "06/08",
   "first_seen_iso": "2026-06-08T07:59:09.184888+09:00"
+ },
+ "https://splash247.com/the-elevator-pitch-for-third-party-shipmanagement/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "The elevator pitch for third-party shipmanagement",
+  "url": "https://splash247.com/the-elevator-pitch-for-third-party-shipmanagement/",
+  "date": "2026/06/01",
+  "sd": "06/01",
+  "first_seen_iso": "2026-06-08T09:14:37.530471+09:00"
  }
 }
