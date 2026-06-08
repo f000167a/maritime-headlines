@@ -3305,7 +3305,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】ブラジル5月穀物輸出、大豆は前年比+5%増の1,483万トン6月4日：T/C市場＝7隻・46万DWT、V/C市場＝鉄鉱石4隻、石炭2隻、その他1隻",
+  "title": "【本日のトピック】2025年の世界鉄鋼見掛け消費量は前年比▲2%減6月5日：T/C市場＝13隻・93万DWT、V/C市場＝鉄鉱石3隻、石炭3隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -3521,7 +3521,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202033/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "海技研と三菱造船、実海域評価と船型開発システム連携、燃費評価など高精度に",
+  "title": "海技研と三菱造船、実…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202033/",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -3530,7 +3530,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202034/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日造協が総会、「オー…",
+  "title": "日造協が総会、「オールジャパンで次世代へ」",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202034/",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -3850,5 +3850,32 @@
   "date": "2026/05/25",
   "sd": "05/25",
   "first_seen_iso": "2026-06-08T13:53:58.933217+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315916": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!17:06川崎汽船、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=315916",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-06-08T18:51:31.133597+09:00"
+ },
+ "https://splash247.com/jinhuis-ultramax-ordering-spree-rolls-on/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Jinhui’s ultramax ordering spree rolls on",
+  "url": "https://splash247.com/jinhuis-ultramax-ordering-spree-rolls-on/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-08T18:51:31.134240+09:00"
+ },
+ "https://splash247.com/panama-canal-draft-cut-revives-memories-of-drought-crisis/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal draft cut revives memories of drought crisis",
+  "url": "https://splash247.com/panama-canal-draft-cut-revives-memories-of-drought-crisis/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-08T18:51:31.134240+09:00"
  }
 }
