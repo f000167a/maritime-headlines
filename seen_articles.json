@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315749": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "飯野海運、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=315749",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-06-02T18:15:52.978018+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315291": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/神子真人】コンテナ運賃、上昇の持続性は。船社、採算悪化で市況下支え急ぐ",
-  "url": "https://www.jmd.co.jp/article.php?no=315291",
-  "date": "2026/05/19",
-  "sd": "05/19",
-  "first_seen_iso": "2026-06-02T18:15:52.978018+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/201908/": {
   "src": "k",
   "cat": "コラム",
@@ -2711,7 +2693,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202033/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "海技研と三菱造船、実海域評価と船型開発システム連携、燃費評価など高精度に",
+  "title": "海技研と三菱造船、実…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202033/",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -2720,7 +2702,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202034/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日造協が総会、「オー…",
+  "title": "日造協が総会、「オールジャパンで次世代へ」",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202034/",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -3377,7 +3359,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202047/": {
   "src": "k",
   "cat": "コラム",
-  "title": "﻿世界コンテナ荷動き、4月は4.3%増の1624万TEU、中東は減少",
+  "title": "世界コンテナ荷動き、4月は4.3%増の1624万TEU、中東は減少",
   "url": "https://www.kaijipress.com/news/container/2026/06/202047/",
   "date": "2026/06/08",
   "sd": "06/08",
@@ -3386,7 +3368,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202048/": {
   "src": "k",
   "cat": "コラム",
-  "title": "﻿上海発欧米向け、短期コンテナ運賃の上昇続く",
+  "title": "上海発欧米向け、短期コンテナ運賃の上昇続く",
   "url": "https://www.kaijipress.com/news/container/2026/06/202048/",
   "date": "2026/06/08",
   "sd": "06/08",
@@ -3395,7 +3377,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202044/": {
   "src": "k",
   "cat": "コラム",
-  "title": "﻿コスコ大規模新造整備、累計300隻規模、発注継続に意欲、船台需給に影響",
+  "title": "コスコ大規模新造整備、累計300隻規模、発注継続に意欲、船台需給に影響",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202044/",
   "date": "2026/06/08",
   "sd": "06/08",
@@ -3427,5 +3409,293 @@
   "date": "2026/06/09",
   "sd": "06/09",
   "first_seen_iso": "2026-06-09T17:07:19.117683+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202049/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井・田村城太郎社長に聞く、ホルムズ影響注視も市況享受局面",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202049/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202050/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ギリシャ向け船舶融資、597億ドル、ギリシャ銀上位独占、ペトロフィン調べ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202050/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202051/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、比国企業の植林活動が最優秀賞、グループ環境アワード",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202051/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202052/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、船上ITインフラを標準化、新造船から導入、既存船にも順次展開",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202052/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202053/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、電子M0チェックシステム導入、乗組員の安全向上と負担軽減へ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202053/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202054/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、移行債の発行条件決定",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202054/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202055/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "水先人会連合会、乗下船安全運動",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202055/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202056/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ブリタニヤP&I、役員異動",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202056/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202057/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "OOCL、華南・東南ア―インド航路新設",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202057/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202058/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、100%エタノール燃料を試験",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202058/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202059/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東京港運協会、新副会長にダイトー・浅野氏、重要課題対応へ副会長を増員",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202059/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202060/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東海港運協会、総会を開催、髙見会長「取引適正化が不可欠」",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202060/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202061/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国小売りコンテナ、1～6月期は微増予想、前倒し輸送進む",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202061/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202062/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースフラクテⅡ、一時的に鉄道輸送能力が減少、拡張工事で",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202062/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202063/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、メキシコ沖FSO事業に参画、SBMから45%取得へ",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202063/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202065/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ジンフィ、64型バルカー2隻新造発注、発注残10隻に拡大",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202065/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202045/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿米ジャクソンビル港、新自動車バースの整備が50%完了",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202045/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202067/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》自動運航技術の最前線、BEMAC、AI活用し機関監視を高度化、船陸連携で機関士の業務支援体制構築",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202067/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202068/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "新造発注拡大、背景に中古船高騰、納期先物でも新造が割安、中国造船が受け皿に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202068/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202069/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "J-ENG、UE機関の25年度世界生産台数123台に、21年度比約4倍に拡大",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202069/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202070/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "サムスン重工、海洋プラント相次ぎ受注、FLNG1基・23.9億ドル成約",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202070/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202071/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "新造船市場、ケープ発注も過去5年で最多水準に、大型造船所の需給逼迫感強まる",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202071/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202072/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "長崎県、造船関連企業の設備投資を補助、1.5億円を予算化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202072/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/06/202073/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、組織変更",
+  "url": "https://www.kaijipress.com/news/information/2026/06/202073/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/06/202075/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【お知らせ】海事プレス社、コーポレートHPを刷新",
+  "url": "https://www.kaijipress.com/news/information/2026/06/202075/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/markets/dry/2026/06/202064/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドライバルク市況週間レポート（6月1日～5日）、スープラ2万ドル、上昇基調維持",
+  "url": "https://www.kaijipress.com/markets/dry/2026/06/202064/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202077/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来へのメッセージ】川島 健・ジャパンエンジンコーポレーション社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202077/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202078/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】森智広・四日市市長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202078/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202079/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】ティモテオ・バダロッテイ/ABSグローバル サスティナビリティセンター ジャパン主席技師",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202079/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/06/202074/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/06/202074/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/06/202076/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】船主業のリスク",
+  "url": "https://www.kaijipress.com/column/aotou/2026/06/202076/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T20:31:43.582749+09:00"
+ },
+ "https://splash247.com/diana-scales-back-genco-campaign-ahead-of-crunch-shareholder-vote/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana scales back Genco campaign ahead of crunch shareholder vote",
+  "url": "https://splash247.com/diana-scales-back-genco-campaign-ahead-of-crunch-shareholder-vote/",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-09T20:31:43.583303+09:00"
  }
 }
