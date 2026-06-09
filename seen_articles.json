@@ -2495,7 +2495,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】2025年の世界鉄鋼見掛け消費量は前年比▲2%減6月5日：T/C市場＝13隻・93万DWT、V/C市場＝鉄鉱石3隻、石炭3隻、その他1隻",
+  "title": "【本日のトピック】4月南ア炭輸出は664万トン、4カ月連続で前年水準上回る6月8日：T/C市場＝15隻・106万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -3337,5 +3337,95 @@
   "date": "2026/06/01",
   "sd": "06/01",
   "first_seen_iso": "2026-06-09T08:09:15.947124+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315488": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/有村智成】日本港湾の基幹航路直航便、存廃危機は「最後の警告」",
+  "url": "https://www.jmd.co.jp/article.php?no=315488",
+  "date": "2026/05/26",
+  "sd": "05/26",
+  "first_seen_iso": "2026-06-09T17:07:19.116945+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202043/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "P&I大手スクルド、都内で損害防止セミナー、ニッケル鉱石輸送対応など講演",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202043/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202045/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿米ジャクソンビル港、新自動車バースの整備が50%完了",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202045/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202046/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "神戸市港湾局・山本雄司局長、CT再編契機に港勢拡大目指す",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202046/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202047/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿世界コンテナ荷動き、4月は4.3%増の1624万TEU、中東は減少",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202047/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202048/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿上海発欧米向け、短期コンテナ運賃の上昇続く",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202048/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202044/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿コスコ大規模新造整備、累計300隻規模、発注継続に意欲、船台需給に影響",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202044/",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
+ },
+ "https://splash247.com/suez-canal-to-impose-steeper-transit-charges-from-mid-july/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Suez Canal to impose steeper transit charges from mid-July",
+  "url": "https://splash247.com/suez-canal-to-impose-steeper-transit-charges-from-mid-july/",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-09T17:07:19.117683+09:00"
+ },
+ "https://splash247.com/cargo-giants-back-splash-singapore-debut/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cargo giants back Splash Singapore debut",
+  "url": "https://splash247.com/cargo-giants-back-splash-singapore-debut/",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-09T17:07:19.117683+09:00"
+ },
+ "https://splash247.com/van-hui-shipping-enters-cape-segment/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Van Hui Shipping enters cape segment",
+  "url": "https://splash247.com/van-hui-shipping-enters-cape-segment/",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-09T17:07:19.117683+09:00"
  }
 }
