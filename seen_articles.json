@@ -1,58 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315541": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "日本関係船、ペルシャ湾内に依然38隻。「出光丸」は帰還",
-  "url": "https://www.jmd.co.jp/article.php?no=315541",
-  "date": "2026/05/27",
-  "sd": "05/27",
-  "first_seen_iso": "2026-06-03T11:12:31.627763+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/05/201741/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "国内船主、資本費と船舶経費が同時上昇へ、コスト増で契約形態再考か",
-  "url": "https://www.kaijipress.com/news/shipping/2026/05/201741/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T11:12:31.628122+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/05/201742/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本郵船・阿曽ライナー&ロジスティクス事業統轄本部長に聞く、中長期的視点で成長目指す",
-  "url": "https://www.kaijipress.com/news/container/2026/05/201742/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T11:12:31.628122+09:00"
- },
- "https://splash247.com/open-hatch-giant-g2-ocean-expands-fleet-with-six-newbuilds-from-grieg-and-seaspan/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Open hatch giant G2 Ocean expands fleet with six newbuilds from Grieg and Seaspan",
-  "url": "https://splash247.com/open-hatch-giant-g2-ocean-expands-fleet-with-six-newbuilds-from-grieg-and-seaspan/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-06-03T11:12:31.628558+09:00"
- },
- "https://splash247.com/de-jong-shipping-takes-stake-in-belgian-inland-shipping-specialist-transmatch/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "De Jong Shipping takes stake in Belgian inland shipping specialist TransMatch",
-  "url": "https://splash247.com/de-jong-shipping-takes-stake-in-belgian-inland-shipping-specialist-transmatch/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-06-03T11:12:31.628558+09:00"
- },
- "https://splash247.com/asyad-deepens-dry-bulk-push-with-baby-cape-purchases/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Asyad deepens dry bulk push with baby cape purchases",
-  "url": "https://splash247.com/asyad-deepens-dry-bulk-push-with-baby-cape-purchases/",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-06-03T11:12:31.628558+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/06/201937/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -3364,5 +3310,23 @@
   "date": "2026/06/10",
   "sd": "06/10",
   "first_seen_iso": "2026-06-10T08:14:51.552002+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202080/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東京港運協会、港湾功労者9人を表彰",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202080/",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-10T13:37:37.253966+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202081/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿釜山発コンテナ運賃指標、欧米好調、総合指標14%増",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202081/",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-10T13:37:37.253966+09:00"
  }
 }
