@@ -1,265 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/06/201937/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "川崎市港湾局・木村俊介局長、危険品・リーファーに注目",
-  "url": "https://www.kaijipress.com/news/container/2026/06/201937/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.377849+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/201938/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "内海造船、新型40型バルカー“BALTIA”進水",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201938/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.377849+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/201939/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "洋上風力主力の大金重工、ケープ建造参入後に受注急拡大、累計14隻に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201939/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.377849+09:00"
- },
- "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Vc3Mwb2NMYXJDWk12UUxULTZaNGVCaXJNWk9EM2NCeEllcDNLNkoyQW10aW9BLXpJeG56RUNkNlRNZTI5UVNFVXQ5d3hocFlVaEpEWVVhUkNhcVl6NWdtU0dWTWhJc09WMHpRT090dEFrU3d3Y2ozQnpOVGN4QQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Where the talent story is going wrong for shipping",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Vc3Mwb2NMYXJDWk12UUxULTZaNGVCaXJNWk9EM2NCeEllcDNLNkoyQW10aW9BLXpJeG56RUNkNlRNZTI5UVNFVXQ5d3hocFlVaEpEWVVhUkNhcVl6NWdtU0dWTWhJc09WMHpRT090dEFrU3d3Y2ozQnpOVGN4QQ?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMUhWUGhWNEtuUTc0cGpFQVY0OTBLNFBkR3dxbG43YkIyVkFiMWZRbGxjcHE0MUVDaTNKTzhFTndFLVI4bW5zT3FUS2ZyU3VJSkZkU0hrVnhUWG1XbWM5LWExWHBSczNFaDMySl9GcGRzTHl1bGhvd2I4Yw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Dali trial delayed after last-minute settlements",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9JMUhWUGhWNEtuUTc0cGpFQVY0OTBLNFBkR3dxbG43YkIyVkFiMWZRbGxjcHE0MUVDaTNKTzhFTndFLVI4bW5zT3FUS2ZyU3VJSkZkU0hrVnhUWG1XbWM5LWExWHBSczNFaDMySl9GcGRzTHl1bGhvd2I4Yw?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk5YUzB2bURkNU1HUVhHWGN5b1Q5TWxpcklNUHpiZWRBZklBRTNTUGRrYUpnTUcwVkNWZXVhNzM3RjFRTE50N1E2M2NBZGt2NFl2RlRaTF9IVXZUd2RRckdscElkenVyYVpsRlBsRFBoZ0stNlVmTkdsc2hNOXZ6aXlISUJIVlRMa3phQg?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Brussels vows to shield shipowners from double carbon charges",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRk5YUzB2bURkNU1HUVhHWGN5b1Q5TWxpcklNUHpiZWRBZklBRTNTUGRrYUpnTUcwVkNWZXVhNzM3RjFRTE50N1E2M2NBZGt2NFl2RlRaTF9IVXZUd2RRckdscElkenVyYVpsRlBsRFBoZ0stNlVmTkdsc2hNOXZ6aXlISUJIVlRMa3phQg?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMklXdVN6Y0hfRzJsSFJCV2dTeHpEY3d0SXVwX3dqb01pcGpnZnJlVy1KZ19TNi1pWUVzeXBjeFk4ZUNISWtIdFhZM0gzTWxYS1ZveWpmczJZNnVWUkJ3TjBDZW9PR0NKSU40WXhZRVF3UjB6MWJRQWFVV05xaWJ4MzlMY01iUFJ1dC1RUm1sVDdnTGFGZ3RkMw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Huizhou Rongsheng expands chemical tanker fleet with four-vessel order",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMklXdVN6Y0hfRzJsSFJCV2dTeHpEY3d0SXVwX3dqb01pcGpnZnJlVy1KZ19TNi1pWUVzeXBjeFk4ZUNISWtIdFhZM0gzTWxYS1ZveWpmczJZNnVWUkJ3TjBDZW9PR0NKSU40WXhZRVF3UjB6MWJRQWFVV05xaWJ4MzlMY01iUFJ1dC1RUm1sVDdnTGFGZ3RkMw?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEs1MmhmeWFxUWluUUlaY2VuQnYyUzdQOXlzZkFmcm1jd1hMbWFzUDh1VFNhekJUUHMtV0VjSmZHeDI5RWZjbkVHREZzWkJOWGJoS1RBbGdOY3ltTW9IVVZLRlh5eDBCaUJxeHdhQlZUUVpueE9Ud1hhR0hjSVAyeTNxcEg?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "ZIM selects new CEO with Hapag-Lloyd deal still pending",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEs1MmhmeWFxUWluUUlaY2VuQnYyUzdQOXlzZkFmcm1jd1hMbWFzUDh1VFNhekJUUHMtV0VjSmZHeDI5RWZjbkVHREZzWkJOWGJoS1RBbGdOY3ltTW9IVVZLRlh5eDBCaUJxeHdhQlZUUVpueE9Ud1hhR0hjSVAyeTNxcEg?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMicEFVX3lxTE51c0RMMW9pSDRFd2NicmdwdTA5STF6U19QR3V2dHh4bmNGZ3dJSEVkWlQwNExWdUJ5ZlFZQzB1YkVROUVzS1U2MUZVZUs0UDBQc3RycW9DZFNiNTB4NVBJd1F5WGtFRlVKU3BpWlVWUGw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Shipping’s biggest week returns to Athens",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51c0RMMW9pSDRFd2NicmdwdTA5STF6U19QR3V2dHh4bmNGZ3dJSEVkWlQwNExWdUJ5ZlFZQzB1YkVROUVzS1U2MUZVZUs0UDBQc3RycW9DZFNiNTB4NVBJd1F5WGtFRlVKU3BpWlVWUGw?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzRhaFVneWVsVHUzRWsxYTZIbC1FQ0ZLemsxWlJ0SDVaaW9MOFIzTTduTDZmcTYyUGQ0UlBQeHZJRXo0ZV93cVl4ZGtGRUNHMVpHX0toZzJQR19xRkk4bGpCU1Bpa1lNT0REUHNmV2ppeVFPOE5uaDJPdE4zbl9mc3RHZ1NiM3JzcWstZXdwN2hSVTUzU0pscy1B?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "AD Ports makes biggest-ever acquisition with $835m Brazil agri-bulk deal",
-  "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzRhaFVneWVsVHUzRWsxYTZIbC1FQ0ZLemsxWlJ0SDVaaW9MOFIzTTduTDZmcTYyUGQ0UlBQeHZJRXo0ZV93cVl4ZGtGRUNHMVpHX0toZzJQR19xRkk4bGpCU1Bpa1lNT0REUHNmV2ppeVFPOE5uaDJPdE4zbl9mc3RHZ1NiM3JzcWstZXdwN2hSVTUzU0pscy1B?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zQjYzOUdKWW83WEEwbEh0RHg4QkZ2d0l0eFh0NTRZdkVWMWs0WHNvbGg3UDVVckRLWWRxYUFSOEYzRmxUTHN4OWZFYmE0MUkwMEk4dFROU3cxMDRyRDM0cGRGekZmRWZo?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "George Economou: A life in shipping",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zQjYzOUdKWW83WEEwbEh0RHg4QkZ2d0l0eFh0NTRZdkVWMWs0WHNvbGg3UDVVckRLWWRxYUFSOEYzRmxUTHN4OWZFYmE0MUkwMEk4dFROU3cxMDRyRDM0cGRGekZmRWZo?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1JwaUJqRFNXV013ODBfeE92RkROa0NUXzA1WEdjQ3otWnE3ZjdDM2ZOcDktNGpaU3hoMk9hVU9WWHp2YWFhMFZ4dm80ZEJBV0d4Ui1QZ3VSSUR4cFFKU21nSnltOVdNbk1aZ0dCb2xVWkNZZHVOV21kT21nUDd0NE9vVEE?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Inchcape boosts US logistics offering with NVOCC launch",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1JwaUJqRFNXV013ODBfeE92RkROa0NUXzA1WEdjQ3otWnE3ZjdDM2ZOcDktNGpaU3hoMk9hVU9WWHp2YWFhMFZ4dm80ZEJBV0d4Ui1QZ3VSSUR4cFFKU21nSnltOVdNbk1aZ0dCb2xVWkNZZHVOV21kT21nUDd0NE9vVEE?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEZFU05lXzYwd3p2dHVZbnA0T241WldTU1FyeTNSZmljQmVPZGRsR05vcnpTSTZweVVfMDhvUEllcEFTUzl0QXJ0LWlNN2ZzcDlfWmpWUTRLOWR5bTdVQ3NNZGotelBYSGhhYmVpbmRMS2pXTk1fY3JBWVJoMi1IdWI5X3dqRDhzeDE3YzNHTnNWSGNnZHp1S3dZZV8?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Eastern Pacific and Champion Tankers join forces in IMO II MR tanker pool",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEZFU05lXzYwd3p2dHVZbnA0T241WldTU1FyeTNSZmljQmVPZGRsR05vcnpTSTZweVVfMDhvUEllcEFTUzl0QXJ0LWlNN2ZzcDlfWmpWUTRLOWR5bTdVQ3NNZGotelBYSGhhYmVpbmRMS2pXTk1fY3JBWVJoMi1IdWI5X3dqRDhzeDE3YzNHTnNWSGNnZHp1S3dZZV8?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZF85WG1FQzYxVElSN3lmdGFXMkU0cWxoZVN0NW04YXJmMXFtZ2JuZFk4M3R2emhxamFjeDB6TE1SXzBEdHAxRTNvWENHYUFGR1JGQ3AzMGkzNUVtbk9PY0RqaHYtSmxZOFVlSlhTWTlsc2EwS3F3M2EyVEY4Q2pNM2xYSjQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Container cartel case forces PIL chairman to step aside",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZF85WG1FQzYxVElSN3lmdGFXMkU0cWxoZVN0NW04YXJmMXFtZ2JuZFk4M3R2emhxamFjeDB6TE1SXzBEdHAxRTNvWENHYUFGR1JGQ3AzMGkzNUVtbk9PY0RqaHYtSmxZOFVlSlhTWTlsc2EwS3F3M2EyVEY4Q2pNM2xYSjQ?oc=5",
-  "date": "2026/05/28",
-  "sd": "05/28",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wbnEzRDhWUU1jamJRdFAxTDdNcE9WMmVQSnNRSEJyZEozTHR2bWZHajBLVVZCN0Z5Qy1peTlra0s0aUQ0V09XaWNsYWo0MWlRSjR1LWhKNVBYQ3JrQnNsRmhYZDhndw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "BW LPG fires off $940m VLGC order",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wbnEzRDhWUU1jamJRdFAxTDdNcE9WMmVQSnNRSEJyZEozTHR2bWZHajBLVVZCN0Z5Qy1peTlra0s0aUQ0V09XaWNsYWo0MWlRSjR1LWhKNVBYQ3JrQnNsRmhYZDhndw?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDNVTUY5aHZ5MUVPQmN1VUJxNHhKcm5ZbFl3MzFfNjVibGg2SXhDN3JwQ1dOTWZrclpReldpNml1ZHNyQ1FIamI3Z3ByOUZFQmZRSVNZb3JCRGpvZzBCU3dySFJMem1fNkg3VklLaHB2OXlRTXZMV2wxRkptWFlRaXlSb2NfQ2tMU1p4Rw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Carnarvon hires Transocean rig for 2027 exploration programme",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDNVTUY5aHZ5MUVPQmN1VUJxNHhKcm5ZbFl3MzFfNjVibGg2SXhDN3JwQ1dOTWZrclpReldpNml1ZHNyQ1FIamI3Z3ByOUZFQmZRSVNZb3JCRGpvZzBCU3dySFJMem1fNkg3VklLaHB2OXlRTXZMV2wxRkptWFlRaXlSb2NfQ2tMU1p4Rw?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHlvem9KLWt0NG1RcEFsV0liNG1KTENWbGFFRkE1aU5WX3NiZ1c2TUFtY0NvY084XzNKYi1GZFRkNV9IQVVIbzFwYmR5bFBOMUV4TElUcGJrSzAtVk1vWFktSnlTNWJDSk84ZXBmdlpMZW5lXzFsUVR2YkpzNS1wWkVxTDg1Q2JHVXgxTkJ0d04?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "SBM Offshore and Solstad order new deepwater construction vessel",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHlvem9KLWt0NG1RcEFsV0liNG1KTENWbGFFRkE1aU5WX3NiZ1c2TUFtY0NvY084XzNKYi1GZFRkNV9IQVVIbzFwYmR5bFBOMUV4TElUcGJrSzAtVk1vWFktSnlTNWJDSk84ZXBmdlpMZW5lXzFsUVR2YkpzNS1wWkVxTDg1Q2JHVXgxTkJ0d04?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnFIUmJ1S2VFSEFLTm1DcVJSWEd1bVk5QzMxZXNTSzBDOVhxSFVsZUlQa3JTNlM0Q0ZoX2p2azlCZGtObTB5NHpoZVU5VWNUcGVHOGNuZi1JOHIxTGFlYjRzRGhKUVFQM2JmQWNZQ3Z0RmhUS1BNNDVDWnd3THE1OEFSUmhnMzhad3BWbk00Zw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "North Sea workers set for strike action on Ithaca Energy assets",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVnFIUmJ1S2VFSEFLTm1DcVJSWEd1bVk5QzMxZXNTSzBDOVhxSFVsZUlQa3JTNlM0Q0ZoX2p2azlCZGtObTB5NHpoZVU5VWNUcGVHOGNuZi1JOHIxTGFlYjRzRGhKUVFQM2JmQWNZQ3Z0RmhUS1BNNDVDWnd3THE1OEFSUmhnMzhad3BWbk00Zw?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkxYQ2ZzdFBjaHZSNk9DQWZyQzVOSzJ4cTl6TEdRQkhiN2NkZzYzUHZtbTdia05ZSXFCQWlHamRFODdRUmFObzYxQkl4ZjNjSzdzSTRnWjFud08wZ2RJZjRZNWdLWUVpUzc5SGs5U2VBVVVKY0c3STA4bmtaWlY4aGpKY1gzRnJZUEQ1RU5MQXM4X1FndDQwenFETUNZNUtOR2t2bTh4RVQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Is the next wave already forming in the consolidation of the shipmanagement sector?",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkxYQ2ZzdFBjaHZSNk9DQWZyQzVOSzJ4cTl6TEdRQkhiN2NkZzYzUHZtbTdia05ZSXFCQWlHamRFODdRUmFObzYxQkl4ZjNjSzdzSTRnWjFud08wZ2RJZjRZNWdLWUVpUzc5SGs5U2VBVVVKY0c3STA4bmtaWlY4aGpKY1gzRnJZUEQ1RU5MQXM4X1FndDQwenFETUNZNUtOR2t2bTh4RVQ?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDRHVm9DR25SYmFHQmE1MGk1Wm5WZjc5b2xYV3JreWo5aTB2NDlwNHU5U212WHVKRDlnZmtkMGhBZThTMmpGeXcwZmZSS2ctOFlyNF9BejBnb2VXUmNlYVEzckZSbHhBdFVCMmFFYXpEU2R5dmNwbW9vWmEyXzlXSldPcXhuaW1EY3BsdlFfdVk?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Fugro wins Irish offshore wind environmental monitoring contract",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDRHVm9DR25SYmFHQmE1MGk1Wm5WZjc5b2xYV3JreWo5aTB2NDlwNHU5U212WHVKRDlnZmtkMGhBZThTMmpGeXcwZmZSS2ctOFlyNF9BejBnb2VXUmNlYVEzckZSbHhBdFVCMmFFYXpEU2R5dmNwbW9vWmEyXzlXSldPcXhuaW1EY3BsdlFfdVk?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHdwS1VQcHJUSWlzN2xEb002VG9BMVBicHZBZk9Rb0lfZDU0QkVhSkU0SVF0alBUVXpkS0FyazYyWkl0YU83X1pkdUN6OW84QVFxeTF6Z2hsOWpmT3d1S0NibFgtQXNOVWpnaGtmNGpsVVFoUWRaazRsS2VsTmcwX2JsRTg4Z3MtV3NR?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Baozhou Shipping books up to four boxships at Zhejiang yards",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTHdwS1VQcHJUSWlzN2xEb002VG9BMVBicHZBZk9Rb0lfZDU0QkVhSkU0SVF0alBUVXpkS0FyazYyWkl0YU83X1pkdUN6OW84QVFxeTF6Z2hsOWpmT3d1S0NibFgtQXNOVWpnaGtmNGpsVVFoUWRaazRsS2VsTmcwX2JsRTg4Z3MtV3NR?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1pHTzdXeWs4Sm04U2IyQTd1c3ZLNUVUR2RWbGpncXlxTTRRVFllZlhUSHJqd2l2SFFXSGJqUkJnTU5BWGpFZlRuVG9VMUZzd2dsNlQweTZ2MVc4cjAySlZTVXVjZlRwbjZhWFNxTmMwZG9Dbk9kM1JRQ0JvdWd0X0V3?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ørsted awards UK offshore wind inspection deal to OEG",
-  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV1pHTzdXeWs4Sm04U2IyQTd1c3ZLNUVUR2RWbGpncXlxTTRRVFllZlhUSHJqd2l2SFFXSGJqUkJnTU5BWGpFZlRuVG9VMUZzd2dsNlQweTZ2MVc4cjAySlZTVXVjZlRwbjZhWFNxTmMwZG9Dbk9kM1JRQ0JvdWd0X0V3?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYk9LS3JhWjc4MkRGYTZpOWRoZk5Zb2kyR0JfTmFGalR3N1Q0bkpjazZlRDhRcnQ1d0UybFh2Y2U2UjJPbEEwSVV4S2lBUlFEM291a1hRSDJqbDBPdUp6QVJEM0MzbXdLd3BEMmVxcl9RMFhNaV8talFHMmNBaHE4YXp6TWlaSEtRbF9qUQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Omega Subsea secures long-term North Sea partnership with AGR",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYk9LS3JhWjc4MkRGYTZpOWRoZk5Zb2kyR0JfTmFGalR3N1Q0bkpjazZlRDhRcnQ1d0UybFh2Y2U2UjJPbEEwSVV4S2lBUlFEM291a1hRSDJqbDBPdUp6QVJEM0MzbXdLd3BEMmVxcl9RMFhNaV8talFHMmNBaHE4YXp6TWlaSEtRbF9qUQ?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXhlWF81X1lYVU8zd0ZXeHV2TndyQlZUbmk0UV83ZjY4YU9fdHNGTUh0ZElmYk9nSlZVRjV1WDZCaTJvcWRvRGxDT1ZOTWJtX0tkbklJZGxCS0tFMmFXZktFT093a3dxaThRaWtzaldVX0xkcDA1Tmlza280SEtTSmcyMFpnZkU4?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Eldorado Drilling to acquire Vantage Drilling in $257m deal",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXhlWF81X1lYVU8zd0ZXeHV2TndyQlZUbmk0UV83ZjY4YU9fdHNGTUh0ZElmYk9nSlZVRjV1WDZCaTJvcWRvRGxDT1ZOTWJtX0tkbklJZGxCS0tFMmFXZktFT093a3dxaThRaWtzaldVX0xkcDA1Tmlza280SEtTSmcyMFpnZkU4?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWt3WTBJLV9hLVdLYzZ6UWk5NlV0SkhvV3AzV3N4UGF3TExzWHo0enVpT0ppT2dvSFJlNWZFYU4xM0p4ZmRrRllhWUtqUGtZNHZIRzYxTUFUV1N2WDVGWDhkTzNYVVJZUHA5ZERGNkhlYjR6S3lJQUhxRlRwMHd6cWlrdV9OVmZXM29iQW5YNA?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Knutsen boosts LNG fleet pipeline with fresh Hanwha Ocean order",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbWt3WTBJLV9hLVdLYzZ6UWk5NlV0SkhvV3AzV3N4UGF3TExzWHo0enVpT0ppT2dvSFJlNWZFYU4xM0p4ZmRrRllhWUtqUGtZNHZIRzYxTUFUV1N2WDVGWDhkTzNYVVJZUHA5ZERGNkhlYjR6S3lJQUhxRlRwMHd6cWlrdV9OVmZXM29iQW5YNA?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUxScjZLbkxhMVg0WEZrSDhHNElYTDhKTkx0Q2RVQ2lVeWdNY25PSklqY2lYWGdrLUZLWHdoVk5YS2hlcThzSWFTWTFsWVdIamxJaFUyRlNQM3Nka1A0a3NMVEtjR3hNTm9FN1FFeG1sVElWOWZMVzNaRG9nMUQxNkZFc0puUlF3WWh1VENFYw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "SBM Offshore wins twin Petrobras FPSO contracts offshore Brazil",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRUxScjZLbkxhMVg0WEZrSDhHNElYTDhKTkx0Q2RVQ2lVeWdNY25PSklqY2lYWGdrLUZLWHdoVk5YS2hlcThzSWFTWTFsWVdIamxJaFUyRlNQM3Nka1A0a3NMVEtjR3hNTm9FN1FFeG1sVElWOWZMVzNaRG9nMUQxNkZFc0puUlF3WWh1VENFYw?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDFRRTBMUGZaSmVSUzEwa0lnZVRhMVE3anJ2NE5JVU8tSnd4UGlkYUpSMlJUVnlaREVaaTFCZXVVU0ZUNVdpVDhuQkRiTXFvaS1vUEZuSTM0Qm1ZQXIwRS0ycFFJM3FwazFmNEVUbzVhZTI3LWFKTlVmT3FCLW9LRA?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hazardous cargo liability treaty set for 2027 launch",
-  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDFRRTBMUGZaSmVSUzEwa0lnZVRhMVE3anJ2NE5JVU8tSnd4UGlkYUpSMlJUVnlaREVaaTFCZXVVU0ZUNVdpVDhuQkRiTXFvaS1vUEZuSTM0Qm1ZQXIwRS0ycFFJM3FwazFmNEVUbzVhZTI3LWFKTlVmT3FCLW9LRA?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KRmhwMkozT1dNUElKUFk3dVh1MlViRUhZc0pLWGhSb0F0UFRnTVFSd2xBam5yb3YxUjNIUXdNbDd3Sm5CdmVJZUd6ZkQtd3ZMTEN2RXRiZ0tyRXc4d2tTdURMNWRWdDhBS29PTHltQVpLaktQYjJVLWRJMTZvZw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Weatherford strikes deal to acquire NCS Multistage",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KRmhwMkozT1dNUElKUFk3dVh1MlViRUhZc0pLWGhSb0F0UFRnTVFSd2xBam5yb3YxUjNIUXdNbDd3Sm5CdmVJZUd6ZkQtd3ZMTEN2RXRiZ0tyRXc4d2tTdURMNWRWdDhBS29PTHltQVpLaktQYjJVLWRJMTZvZw?oc=5",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
- "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0UyeHBPTUJDRk56eU9pSWJPNzREU3VaNF94d0xwR1lzUVJPQTR2TWxkU1RHNHpSVUM2NWtjbjNScjNvUDhGUld6NlY1dnVFLVlUOEI2bGxqU2dERWY3cXpLOXl6ejJjQ2FvbVJ0WExlTGxVcEZiNkx5Nl9Cd3czbjMtS1Q?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "France intercepts sanctioned Russian tanker in Atlantic",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0UyeHBPTUJDRk56eU9pSWJPNzREU3VaNF94d0xwR1lzUVJPQTR2TWxkU1RHNHpSVUM2NWtjbjNScjNvUDhGUld6NlY1dnVFLVlUOEI2bGxqU2dERWY3cXpLOXl6ejJjQ2FvbVJ0WExlTGxVcEZiNkx5Nl9Cd3czbjMtS1Q?oc=5",
-  "date": "2026/06/01",
-  "sd": "06/01",
-  "first_seen_iso": "2026-06-03T14:02:57.378314+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=315095": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -1892,7 +1631,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月南ア炭輸出は664万トン、4カ月連続で前年水準上回る6月8日：T/C市場＝15隻・106万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、穀物1隻",
+  "title": "【本日のトピック】5月中国鉄鉱石輸入、12カ月ぶりに前年水準下回る6月9日：T/C市場＝7隻・43万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -2765,7 +2504,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202046/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸市港湾局・山本雄司局長、CT再編契機に港勢拡大目指す",
+  "title": "神戸市港湾局・山本雄…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202046/",
   "date": "2026/06/08",
   "sd": "06/08",
@@ -2846,7 +2585,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202051/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、比国企業の…",
+  "title": "川崎汽船、比国企業の植林活動が最優秀賞、グループ環境アワード",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202051/",
   "date": "2026/06/08",
   "sd": "06/08",
@@ -2864,7 +2603,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202053/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、電子M0チェックシステム導入、乗組員の安全向上と負担軽減へ",
+  "title": "川崎汽船、電子M0チ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202053/",
   "date": "2026/06/08",
   "sd": "06/08",
@@ -2927,7 +2666,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202060/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "東海港運協会、総会を…",
+  "title": "東海港運協会、総会を開催、髙見会長「取引適正化が不可欠」",
   "url": "https://www.kaijipress.com/news/container/2026/06/202060/",
   "date": "2026/06/08",
   "sd": "06/08",
@@ -3328,5 +3067,140 @@
   "date": "2026/06/10",
   "sd": "06/10",
   "first_seen_iso": "2026-06-10T13:37:37.253966+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202083/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿博多港、今年度も物流トライアル事業実施",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202083/",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-10T17:37:47.491077+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202084/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿ユニオンマリタイム・今治造船らがローイング大会協賛",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202084/",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-10T17:37:47.491077+09:00"
+ },
+ "https://www.kaijipress.com/markets/secondhand/2026/06/202082/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中古船価市況週間レポート（6月1日～5日）、ケープ5年物わずかに続伸、7011万ドル",
+  "url": "https://www.kaijipress.com/markets/secondhand/2026/06/202082/",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-10T17:37:47.491077+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUZWxpZ2RKSEtwYS1lMDdQdktMaHc2Y1ctY3NyeWY1cUNmNVJGa1R1Q2ptaktBSXFkUXZYU2FrRklsOHdEdWFnUUZTWTRDc1dEMWQtN3d0S09JT242WmxnZXNRSkJfa2NCeTE3cF9mclc?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Jinhui’s ultramax ordering spree rolls on",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUZWxpZ2RKSEtwYS1lMDdQdktMaHc2Y1ctY3NyeWY1cUNmNVJGa1R1Q2ptaktBSXFkUXZYU2FrRklsOHdEdWFnUUZTWTRDc1dEMWQtN3d0S09JT242WmxnZXNRSkJfa2NCeTE3cF9mclc?oc=5",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG5ncTZxWnZ3aUpwS2xHLWwzLWY1Mnk4N0Vfa0Y5aWNudmRqUldxZmhUa25sWmQySEY2cjhqNEJTamRPRGVsblVIVVhaQW9oNHNzLThqSURLWFU1bUEzM1ZoYkZVZ043a3l3ejVaMFdLS2VPMnZkMm5oTXR0ME4zaWNsN0dfZ0lT?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Suez Canal to impose steeper transit charges from mid-July",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG5ncTZxWnZ3aUpwS2xHLWwzLWY1Mnk4N0Vfa0Y5aWNudmRqUldxZmhUa25sWmQySEY2cjhqNEJTamRPRGVsblVIVVhaQW9oNHNzLThqSURLWFU1bUEzM1ZoYkZVZ043a3l3ejVaMFdLS2VPMnZkMm5oTXR0ME4zaWNsN0dfZ0lT?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZS3otRUxqUmRyRmdNbTMtb2ZzbEJOMlVFcFY5RUY1ZW9EakNKRWRWaU1fVzdfN29KYXd6NlpmVXpjekRiTUZCQmZKUi0wWlZQdXp5R0lLbXU5b3Fabnc1SUp5UlBrVTZxTW5IN1VOYlRFUDB6amloUjFVYVFZQQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Containership orderbook marches toward 40% of fleet",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZS3otRUxqUmRyRmdNbTMtb2ZzbEJOMlVFcFY5RUY1ZW9EakNKRWRWaU1fVzdfN29KYXd6NlpmVXpjekRiTUZCQmZKUi0wWlZQdXp5R0lLbXU5b3Fabnc1SUp5UlBrVTZxTW5IN1VOYlRFUDB6amloUjFVYVFZQQ?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa3Vpd1IxTFAyZWdYZDlyOVlPbnlTZ2gwYkxieU83SUU5c2lUVEJOTk84SEhkcFd0YjJTc01Ccjd3UUVTQVBnckJHR3JtczFodmFIY0xVYnhjVnVFY0NlOGcwbTQ3RnJHUEQyOC10VFM?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Where will tomorrow’s seafarers come from?",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Oa3Vpd1IxTFAyZWdYZDlyOVlPbnlTZ2gwYkxieU83SUU5c2lUVEJOTk84SEhkcFd0YjJTc01Ccjd3UUVTQVBnckJHR3JtczFodmFIY0xVYnhjVnVFY0NlOGcwbTQ3RnJHUEQyOC10VFM?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWG1UNGpNM3Y3d2hnRllpZ3VUQ1hOSnQ2TnZZaklsMEg4R0lOb1RybnBtWTVlRGxvUTJXUk9Vc0JlbFh1V1lHY2xHQ3gzV3lTb19HLTBBR1NOa3BqMjhVaFYzNlRUcWlpYk5pTmhrZjItekpXRUJvUUllRzBncGNpTG9MRUR3VXJaYUNrN3ByWmNUZw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana scales back Genco campaign ahead of crunch shareholder vote",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWG1UNGpNM3Y3d2hnRllpZ3VUQ1hOSnQ2TnZZaklsMEg4R0lOb1RybnBtWTVlRGxvUTJXUk9Vc0JlbFh1V1lHY2xHQ3gzV3lTb19HLTBBR1NOa3BqMjhVaFYzNlRUcWlpYk5pTmhrZjItekpXRUJvUUllRzBncGNpTG9MRUR3VXJaYUNrN3ByWmNUZw?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IdjhBMms2T3A4Nm40OEJxT1BEeXUxUTNoOVRLZjlYNFJmV3NVNnpVV0tZV3BNV2dxTGI0d2J3M1dxR0hmTkFQTUd4eXE2T3ZZRkpEbjdiUDdRYjdTcDZoMk9jdnVjQzBRbUpKX1JR?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: The magnetism of Posidonia",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IdjhBMms2T3A4Nm40OEJxT1BEeXUxUTNoOVRLZjlYNFJmV3NVNnpVV0tZV3BNV2dxTGI0d2J3M1dxR0hmTkFQTUd4eXE2T3ZZRkpEbjdiUDdRYjdTcDZoMk9jdnVjQzBRbUpKX1JR?oc=5",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EX2RBV3hCXzJFb0ljdWRvSWYzRzhheUFYRDNSbzF4TzY4SUljQXpSUVVkenQxWnh6NHJQc09QMDhCbjlJSlp2LVZBSEhvcXd2eWRlem56eGdoUE9lZENmVHl5TW50SXlGRW5V?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Van Hui Shipping enters cape segment",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EX2RBV3hCXzJFb0ljdWRvSWYzRzhheUFYRDNSbzF4TzY4SUljQXpSUVVkenQxWnh6NHJQc09QMDhCbjlJSlp2LVZBSEhvcXd2eWRlem56eGdoUE9lZENmVHl5TW50SXlGRW5V?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXVTM1pYYWVERHF6RUtCQTFnUnQzTXpTYnM5M2p2NmIxX3FpUTkxV3JfMkw5Q0hLS2N0V1U2NEcxTUk3bXN0ZTRTbVYzQjRjMFAtQkJHZU1iMTlIQ0ttSWVrNHl1dnFTaV9ERmRVQ0NaZXdNU1pSa3hVMTRIQl9KekFzczM4dFhqWnc?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Greek bulker owner Icon Energy dips into container shipping",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZXVTM1pYYWVERHF6RUtCQTFnUnQzTXpTYnM5M2p2NmIxX3FpUTkxV3JfMkw5Q0hLS2N0V1U2NEcxTUk3bXN0ZTRTbVYzQjRjMFAtQkJHZU1iMTlIQ0ttSWVrNHl1dnFTaV9ERmRVQ0NaZXdNU1pSa3hVMTRIQl9KekFzczM4dFhqWnc?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUs3U1l6MW1vejIzdUg4QjNzZmNNQ0pkWmhxYWliQ0tKREFfakh3TWFTQlh2UWszX09kRlR1bllTMWh0eU9vZWZtakpIbnFVNUtyRU9LYUU5UWo4SDNLOGFrU21LQVduRml1ZnlUWmZDY01fNWJfV3F5ZHhqZWF0eUF2ekh1UQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Aegean Shipping widens tanker bet with debut VLCC orders",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYUs3U1l6MW1vejIzdUg4QjNzZmNNQ0pkWmhxYWliQ0tKREFfakh3TWFTQlh2UWszX09kRlR1bllTMWh0eU9vZWZtakpIbnFVNUtyRU9LYUU5UWo4SDNLOGFrU21LQVduRml1ZnlUWmZDY01fNWJfV3F5ZHhqZWF0eUF2ekh1UQ?oc=5",
+  "date": "2026/06/05",
+  "sd": "06/05",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMicEFVX3lxTE13aGc1aWtWVFlQdFBXWlVOMGRJVmN5WTl6b0J5dnpINHRRRHFJTW50Mk9kWDZZWXg0aUMxOFNSeUtiN004NTFNMDhndTQ5WmNZOGFfb1FNZ2xUaDdEOEZNR1ptalRBNngtX0hicUZGSVA?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cargo giants back Splash Singapore debut",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13aGc1aWtWVFlQdFBXWlVOMGRJVmN5WTl6b0J5dnpINHRRRHFJTW50Mk9kWDZZWXg0aUMxOFNSeUtiN004NTFNMDhndTQ5WmNZOGFfb1FNZ2xUaDdEOEZNR1ptalRBNngtX0hicUZGSVA?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0FiQ1RNYkkwZnBMNGg4VVJ6bktlLTNPeDk4UWhCSVVZdHl5LUZTbld0UVZzdjRCRUNxX1ZWTUpOOXVzSWFLQlRHdlJLVnZFOXJBY1RmQU0waG1PaUEwV1hTa3hBczhybE9CTXp0S1pibF9DRXZmQWhkcHRuWGtCYWtn?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fujian Shipping orders quartet of heavylift newbuilds",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0FiQ1RNYkkwZnBMNGg4VVJ6bktlLTNPeDk4UWhCSVVZdHl5LUZTbld0UVZzdjRCRUNxX1ZWTUpOOXVzSWFLQlRHdlJLVnZFOXJBY1RmQU0waG1PaUEwV1hTa3hBczhybE9CTXp0S1pibF9DRXZmQWhkcHRuWGtCYWtn?oc=5",
+  "date": "2026/06/08",
+  "sd": "06/08",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmdlUUhIa3ZYVFZNS3hIUUlhRWlBM0pnb3BKUzFWcUlFZ1dua3RfNENwazZLWnM5Vi1qWGQ5Z1BJY19QTDFJVnJlMnY2LUJYOUJuUEIzbFFwSXVMU2wtdzQzcGx0R0JPZVlxTUhUUmxJa0NzWnpsV18zZ1kzVmt5OXV0ajJvMTVQS2stNFV3?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Chinese bulker owner Pingtan Minghui breaks into tanker sector",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmdlUUhIa3ZYVFZNS3hIUUlhRWlBM0pnb3BKUzFWcUlFZ1dua3RfNENwazZLWnM5Vi1qWGQ5Z1BJY19QTDFJVnJlMnY2LUJYOUJuUEIzbFFwSXVMU2wtdzQzcGx0R0JPZVlxTUhUUmxJa0NzWnpsV18zZ1kzVmt5OXV0ajJvMTVQS2stNFV3?oc=5",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-10T17:37:47.491572+09:00"
  }
 }
