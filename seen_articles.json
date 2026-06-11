@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/06/201978/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "千葉港、25年は1.9%減の1.3億トン、コンテナは1.5%増",
-  "url": "https://www.kaijipress.com/news/container/2026/06/201978/",
-  "date": "2026/06/04",
-  "sd": "06/04",
-  "first_seen_iso": "2026-06-04T13:55:32.009788+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/201976/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日・ノルウェー、脱炭素・DXで協業深化、海事フォーラム、邦船大手ら取り組み紹介",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/201976/",
-  "date": "2026/06/04",
-  "sd": "06/04",
-  "first_seen_iso": "2026-06-04T13:55:32.009788+09:00"
- },
- "https://www.kaijipress.com/markets/dry/2026/06/201977/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【ドライ】ドライバルク市況月間レポート（2026年5月）、ケープ月間平均は4.5万ドル",
-  "url": "https://www.kaijipress.com/markets/dry/2026/06/201977/",
-  "date": "2026/06/04",
-  "sd": "06/04",
-  "first_seen_iso": "2026-06-04T13:55:32.009788+09:00"
- },
- "http://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2069号」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-04T13:55:32.010455+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/201979/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日・ノルウェー船主協会が連携強化、フォーラムで、MODEC・エルドなど4件の覚書",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/201979/",
-  "date": "2026/06/04",
-  "sd": "06/04",
-  "first_seen_iso": "2026-06-04T17:56:06.815897+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/201980/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "マルチマックス・シッ…",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/201980/",
-  "date": "2026/06/04",
-  "sd": "06/04",
-  "first_seen_iso": "2026-06-04T17:56:06.815897+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/201981/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "WinGD、「X-DF」の累計受注1000台突破",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/201981/",
-  "date": "2026/06/04",
-  "sd": "06/04",
-  "first_seen_iso": "2026-06-04T17:56:06.815897+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/201982/": {
   "src": "k",
   "cat": "コラム",
@@ -803,7 +740,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月中国鉄鉱石輸入、12カ月ぶりに前年水準下回る6月9日：T/C市場＝7隻・43万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
+  "title": "【本日のトピック】中国5月の自動車販売は6カ月連続前年割れ6月10日：T/C市場＝22隻・145万DWT、V/C市場＝鉄鉱石5隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/05",
   "sd": "06/05",
@@ -2950,5 +2887,50 @@
   "date": "2026/06/03",
   "sd": "06/03",
   "first_seen_iso": "2026-06-11T13:49:54.330726+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202108/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿マースク、アジア―中南米航路AC1を開始",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202108/",
+  "date": "2026/06/11",
+  "sd": "06/11",
+  "first_seen_iso": "2026-06-11T18:17:26.311812+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202109/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿ハパックロイドCEO、主要航路の成長で過剰供給を回避、長期投資継続",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202109/",
+  "date": "2026/06/11",
+  "sd": "06/11",
+  "first_seen_iso": "2026-06-11T18:17:26.311812+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202107/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "25年末の国内製紙チップ船隊、3年連続新造船なく4隻減の57隻",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202107/",
+  "date": "2026/06/11",
+  "sd": "06/11",
+  "first_seen_iso": "2026-06-11T18:17:26.311812+09:00"
+ },
+ "https://splash247.com/hormuz-ceasefire-collapses/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz ceasefire collapses",
+  "url": "https://splash247.com/hormuz-ceasefire-collapses/",
+  "date": "2026/06/11",
+  "sd": "06/11",
+  "first_seen_iso": "2026-06-11T18:17:26.312241+09:00"
+ },
+ "https://splash247.com/former-norden-chief-launches-africa-focused-shipbroking-house/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Former Norden chief launches Africa-focused shipbroking house",
+  "url": "https://splash247.com/former-norden-chief-launches-africa-focused-shipbroking-house/",
+  "date": "2026/06/11",
+  "sd": "06/11",
+  "first_seen_iso": "2026-06-11T18:17:26.312241+09:00"
  }
 }
