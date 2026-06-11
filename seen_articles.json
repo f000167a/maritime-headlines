@@ -1,40 +1,4 @@
 {
- "https://splash247.com/icon-energy-converts-index-linked-panamax-charter-to-fixed-rate-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Icon Energy converts index-linked panamax charter to fixed-rate deal",
-  "url": "https://splash247.com/icon-energy-converts-index-linked-panamax-charter-to-fixed-rate-deal/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-04T08:28:30.180437+09:00"
- },
- "https://splash247.com/jinhui-orders-pair-of-dry-bulk-newbuilds-in-china/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Jinhui orders pair of dry bulk newbuilds in China",
-  "url": "https://splash247.com/jinhui-orders-pair-of-dry-bulk-newbuilds-in-china/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-04T08:28:30.180437+09:00"
- },
- "https://splash247.com/sold-out-boxship-market-drives-bulk-to-container-conversions/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Sold-out boxship market drives bulk-to-container conversions",
-  "url": "https://splash247.com/sold-out-boxship-market-drives-bulk-to-container-conversions/",
-  "date": "2026/05/27",
-  "sd": "05/27",
-  "first_seen_iso": "2026-06-04T08:28:30.180437+09:00"
- },
- "https://splash247.com/multiple-disruptions-send-agricultural-voyage-durations-to-record-highs/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Multiple disruptions send agricultural voyage durations to record highs",
-  "url": "https://splash247.com/multiple-disruptions-send-agricultural-voyage-durations-to-record-highs/",
-  "date": "2026/05/27",
-  "sd": "05/27",
-  "first_seen_iso": "2026-06-04T08:28:30.180437+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/05/201766/": {
   "src": "k",
   "cat": "コラム",
@@ -2270,7 +2234,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202080/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "東京港運協会、港湾功労者9人を表彰",
+  "title": "東京港運協会、港湾功…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202080/",
   "date": "2026/06/10",
   "sd": "06/10",
@@ -2297,7 +2261,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202084/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ユニオンマリタイム・…",
+  "title": "ユニオンマリタイム・今治造船らがローイング大会協賛",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202084/",
   "date": "2026/06/10",
   "sd": "06/10",
@@ -2459,7 +2423,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202089/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日港協、久保会長「競…",
+  "title": "日港協、久保会長「競争力のある港湾を」、新副会長に三井倉庫・鳥井氏",
   "url": "https://www.kaijipress.com/news/container/2026/06/202089/",
   "date": "2026/06/10",
   "sd": "06/10",
@@ -2486,7 +2450,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202092/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船出資のKNCC、実寸大のLCO2タンクシリンダーを試作、JFE商事らと覚書",
+  "title": "日本郵船出資のKNC…",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202092/",
   "date": "2026/06/10",
   "sd": "06/10",
@@ -2495,7 +2459,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202093/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "JERA、ペトロナス…",
+  "title": "JERA、ペトロナスからLNG購入",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202093/",
   "date": "2026/06/10",
   "sd": "06/10",
@@ -2531,7 +2495,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202097/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、調達システム刷新、AIで内製開発、開発工程70%削減しAI人材育成も",
+  "title": "常石造船、調達システ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202097/",
   "date": "2026/06/10",
   "sd": "06/10",
@@ -2923,5 +2887,32 @@
   "date": "2026/06/10",
   "sd": "06/10",
   "first_seen_iso": "2026-06-11T08:21:44.338651+09:00"
+ },
+ "https://splash247.com/genco-and-diana-remain-deadlocked-after-latest-bid-rejection/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco and Diana remain deadlocked after latest bid rejection",
+  "url": "https://splash247.com/genco-and-diana-remain-deadlocked-after-latest-bid-rejection/",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-11T10:58:34.070198+09:00"
+ },
+ "https://splash247.com/sooner-or-later-the-party-will-finish-owners-weigh-risks-behind-todays-strong-markets/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "‘Sooner or later the party will finish’: Owners weigh risks behind today’s strong markets",
+  "url": "https://splash247.com/sooner-or-later-the-party-will-finish-owners-weigh-risks-behind-todays-strong-markets/",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-11T10:58:34.070198+09:00"
+ },
+ "https://splash247.com/shipowners-urged-to-stay-nimble-as-geopolitics-reshapes-global-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipowners urged to stay nimble as geopolitics reshapes global shipping",
+  "url": "https://splash247.com/shipowners-urged-to-stay-nimble-as-geopolitics-reshapes-global-shipping/",
+  "date": "2026/06/03",
+  "sd": "06/03",
+  "first_seen_iso": "2026-06-11T10:58:34.070198+09:00"
  }
 }
