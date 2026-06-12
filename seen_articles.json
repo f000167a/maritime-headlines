@@ -1,85 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315186": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "日本関係船、ペルシャ湾滞留 依然40隻。日本人船員7人",
-  "url": "https://www.jmd.co.jp/article.php?no=315186",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-06-05T17:34:16.316193+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315169": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/五味宜範】「Sea Japan」盛況に終わる　造船業再生機運の「勢い」反映",
-  "url": "https://www.jmd.co.jp/article.php?no=315169",
-  "date": "2026/05/15",
-  "sd": "05/15",
-  "first_seen_iso": "2026-06-05T17:34:16.316193+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202022/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【ポシドニア2026】フォーブス誌のギリシャ船主ランキング、マリナキス氏が2位に浮上",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202022/",
-  "date": "2026/06/05",
-  "sd": "06/05",
-  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202019/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、6月以降は短期運賃の上昇が加速、PSS導入や値上げ効果で",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202019/",
-  "date": "2026/06/05",
-  "sd": "06/05",
-  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202020/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ取扱量、マレーシア2港がトップ10へ、タンジュンペラパス好調",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202020/",
-  "date": "2026/06/05",
-  "sd": "06/05",
-  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202021/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・コンテナ運賃指標、欧米向け高騰、総合指標23%増",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202021/",
-  "date": "2026/06/05",
-  "sd": "06/05",
-  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202023/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "【ポシドニア2026…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202023/",
-  "date": "2026/06/05",
-  "sd": "06/05",
-  "first_seen_iso": "2026-06-05T17:34:16.316523+09:00"
- },
- "https://splash247.com/the-ghost-of-posidonia-2008/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "The ghost of Posidonia 2008",
-  "url": "https://splash247.com/the-ghost-of-posidonia-2008/",
-  "date": "2026/06/05",
-  "sd": "06/05",
-  "first_seen_iso": "2026-06-05T17:34:16.317047+09:00"
- },
- "https://splash247.com/splash-wrap-the-magnetism-of-posidonia/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: The magnetism of Posidonia",
-  "url": "https://splash247.com/splash-wrap-the-magnetism-of-posidonia/",
-  "date": "2026/06/05",
-  "sd": "06/05",
-  "first_seen_iso": "2026-06-05T17:34:16.317047+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/202024/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -2072,7 +1991,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202105/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "バウンド4ブルー、大型帆でDNVから型式承認設計認証",
+  "title": "バウンド4ブルー、大…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202105/",
   "date": "2026/06/11",
   "sd": "06/11",
@@ -2144,7 +2063,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202110/": {
   "src": "k",
   "cat": "トップ",
-  "title": "海事プレス社創立70周年特別企画【未来を探せ～70の視点】海事産業の未来は“人々”がつなぐ♯16 エクセノヤマミズ　増田尚昭社長シップブローカー大手エクセノヤマミズの増田尚昭社長は、日本の海事産業を未来に向けて維持・発展させていくために「人と人の有機的なつながりが重要」と述べ、事業環境の変化や技術が進展す...続き「海運は“価値創出産業”」と語る",
+  "title": "海事プレス社創立70周年特別企画【未来を探せ～70の視点】海事産業の未来は“人々”がつなぐ♯16 エクセノヤマミズ　増田尚昭社長無料シップブローカー大手エクセノヤマミズの増田尚昭社長は、日本の海事産業を未来に向けて維持・発展させていくために「人と人の有機的なつながりが重要」と述べ、事業環境の変化や技術が進展す...続き「海運は“価値創出産業”」と語る",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202110/",
   "date": "2026/06/11",
   "sd": "06/11",
@@ -2162,7 +2081,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202112/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井・橋本剛会長、ポシドニアのパネル討議に登壇",
+  "title": "商船三井・橋本剛会長…",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202112/",
   "date": "2026/06/11",
   "sd": "06/11",
@@ -2198,7 +2117,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202116/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "WISTA、ジェンダ…",
+  "title": "WISTA、ジェンダー平等推進へ教育の重要性訴え無料",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202116/",
   "date": "2026/06/11",
   "sd": "06/11",
@@ -2387,7 +2306,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202137/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、東京海洋大で…",
+  "title": "日舶工、東京海洋大で舶用工業説明会",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202137/",
   "date": "2026/06/11",
   "sd": "06/11",
@@ -2716,5 +2635,230 @@
   "date": "2026/06/11",
   "sd": "06/11",
   "first_seen_iso": "2026-06-12T13:52:54.553588+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315614": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（408）中小、見えぬ次の一手。中国新興ヤード、空オーダー爆弾",
+  "url": "https://www.jmd.co.jp/article.php?no=315614",
+  "date": "2026/05/29",
+  "sd": "05/29",
+  "first_seen_iso": "2026-06-12T18:06:29.629073+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202148/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "北米主要港、4月は6%減の444万TEU、LA・カナダは増加",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202148/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202149/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・コンテナ運賃指標、欧米向け短期運賃は続伸",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202149/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202147/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JERA、バロッサ事業のLNGが到着",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202147/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629434+09:00"
+ },
+ "https://splash247.com/critical-minerals-reshaping-global-trade-unctad/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Critical minerals reshaping global trade: UNCTAD",
+  "url": "https://splash247.com/critical-minerals-reshaping-global-trade-unctad/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629970+09:00"
+ },
+ "https://splash247.com/splash-wrap-trading-missiles/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Trading missiles",
+  "url": "https://splash247.com/splash-wrap-trading-missiles/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629970+09:00"
+ },
+ "https://splash247.com/genco-softens-poison-pill-stance/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco softens poison pill stance",
+  "url": "https://splash247.com/genco-softens-poison-pill-stance/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629970+09:00"
+ },
+ "https://splash247.com/zhejiang-yonghang-books-up-to-six-ultramaxes-at-yangfan/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Zhejiang Yonghang books up to six ultramaxes at Yangfan",
+  "url": "https://splash247.com/zhejiang-yonghang-books-up-to-six-ultramaxes-at-yangfan/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629970+09:00"
+ },
+ "https://splash247.com/ngm-cashes-in-on-vintage-cape/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "NGM cashes in on vintage cape",
+  "url": "https://splash247.com/ngm-cashes-in-on-vintage-cape/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629970+09:00"
+ },
+ "https://splash247.com/fortescue-fleet-procedures-revised-after-bulker-lost-propulsion-off-port-hedland/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fortescue fleet procedures revised after bulker lost propulsion off Port Hedland",
+  "url": "https://splash247.com/fortescue-fleet-procedures-revised-after-bulker-lost-propulsion-off-port-hedland/",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.629970+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】USDA、6月度穀物需給レポート発表6月11日：T/C市場＝17隻・104万DWT、V/C市場＝鉄鉱石5隻、穀物1隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.630133+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.630133+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.630133+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.630133+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.630133+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/06/12",
+  "sd": "06/12",
+  "first_seen_iso": "2026-06-12T18:06:29.630133+09:00"
  }
 }
