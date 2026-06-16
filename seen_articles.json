@@ -2837,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202194/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "富士貿易、新社長に小…",
+  "title": "富士貿易、新社長に小池雄三常務、深田社長は会長に",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202194/",
   "date": "2026/06/15",
   "sd": "06/15",
@@ -2846,7 +2846,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202195/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "NK、設計データの共創型電子取引市場開設、会員間のデータ利活用・協業促進",
+  "title": "NK、設計データの共…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202195/",
   "date": "2026/06/15",
   "sd": "06/15",
@@ -3229,5 +3229,14 @@
   "date": "2026/06/08",
   "sd": "06/08",
   "first_seen_iso": "2026-06-16T01:33:23.446797+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315889": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/柏井あづみ】中東不安と洋上風力「復権」、浮体式の開発加速に期待",
+  "url": "https://www.jmd.co.jp/article.php?no=315889",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-16T11:12:03.408735+09:00"
  }
 }
