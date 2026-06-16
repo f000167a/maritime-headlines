@@ -1,94 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315488": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/有村智成】日本港湾の基幹航路直航便、存廃危機は「最後の警告」",
-  "url": "https://www.jmd.co.jp/article.php?no=315488",
-  "date": "2026/05/26",
-  "sd": "05/26",
-  "first_seen_iso": "2026-06-09T17:07:19.116945+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202043/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "P&I大手スクルド、都内で損害防止セミナー、ニッケル鉱石輸送対応など講演",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202043/",
-  "date": "2026/06/08",
-  "sd": "06/08",
-  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202045/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "﻿米ジャクソンビル港、新自動車バースの整備が50%完了",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202045/",
-  "date": "2026/06/08",
-  "sd": "06/08",
-  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202046/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸市港湾局・山本雄司局長、CT再編契機に港勢拡大目指す",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202046/",
-  "date": "2026/06/08",
-  "sd": "06/08",
-  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202047/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "世界コンテナ荷動き、4月は4.3%増の1624万TEU、中東は減少",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202047/",
-  "date": "2026/06/08",
-  "sd": "06/08",
-  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202048/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "上海発欧米向け、短期コンテナ運賃の上昇続く",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202048/",
-  "date": "2026/06/08",
-  "sd": "06/08",
-  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202044/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "コスコ大規模新造整備、累計300隻規模、発注継続に意欲、船台需給に影響",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202044/",
-  "date": "2026/06/08",
-  "sd": "06/08",
-  "first_seen_iso": "2026-06-09T17:07:19.117312+09:00"
- },
- "https://splash247.com/suez-canal-to-impose-steeper-transit-charges-from-mid-july/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Suez Canal to impose steeper transit charges from mid-July",
-  "url": "https://splash247.com/suez-canal-to-impose-steeper-transit-charges-from-mid-july/",
-  "date": "2026/06/09",
-  "sd": "06/09",
-  "first_seen_iso": "2026-06-09T17:07:19.117683+09:00"
- },
- "https://splash247.com/cargo-giants-back-splash-singapore-debut/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Cargo giants back Splash Singapore debut",
-  "url": "https://splash247.com/cargo-giants-back-splash-singapore-debut/",
-  "date": "2026/06/09",
-  "sd": "06/09",
-  "first_seen_iso": "2026-06-09T17:07:19.117683+09:00"
- },
- "https://splash247.com/van-hui-shipping-enters-cape-segment/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Van Hui Shipping enters cape segment",
-  "url": "https://splash247.com/van-hui-shipping-enters-cape-segment/",
-  "date": "2026/06/09",
-  "sd": "06/09",
-  "first_seen_iso": "2026-06-09T17:07:19.117683+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/202049/": {
   "src": "k",
   "cat": "コラム",
@@ -2099,7 +2009,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インドネシア、市場動向次第で石炭生産への制限を緩和へ6月12日：T/C市場＝11隻・84万DWT、V/C市場＝鉄鉱石1隻、石炭2隻",
+  "title": "【本日のトピック】5月中国粗鋼生産は8,436万トンと前年比▲2.5%減6月15日：T/C市場＝19隻・108万DWT、V/C市場＝鉄鉱石3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/12",
   "sd": "06/12",
@@ -3238,5 +3148,266 @@
   "date": "2026/06/09",
   "sd": "06/09",
   "first_seen_iso": "2026-06-16T11:12:03.408735+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202209/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船・五十嵐武宣社長に聞く、環境変化見据え着実運営",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202209/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202204/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン戦闘終結合意】ホルムズ通航、依然高リスク、BIMCOの安全担当責任者が見解",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202204/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202207/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン戦闘終結合意】IMOや国際海運団体ICSが声明、合意歓迎、退避に時間も",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202207/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202210/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ジャパンP&I、船員の食事・健康改善訓練初開催、富士貿易の比国事務所で",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202210/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202211/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中東の日本関係船損傷、自力航行可能",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202211/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202212/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン戦闘終結合意】コンテナ船社、情報収集とリスク評価を推進",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202212/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202213/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、関税・貿易フォーラムを開催、コスト削減・リスク回避を支援",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202213/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202214/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アジア発米国向け、5月は17.5%増の175万TEU、データマイン調査",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202214/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202205/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "横浜うみ協議会、OXExpo後援など新たに取り組み、事業計画を承認",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202205/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202215/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM、航空機整備会社を買収へ、予備契約を締結",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202215/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202216/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アイオニック、日本造船所にタンカー4隻発注、スエズとアフラ型で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202216/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202217/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "サラウム・ラインズ、8600台積み自動車船最大4隻発注、厦門船舶重工に",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202217/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202218/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン戦闘終結合意】自動車船、中東向け輸送需要回復に期待、配船正常化まで時間",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202218/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202219/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "多目的船社ヴァラマー、小型MPP4隻を新造整備、26～27年竣工",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202219/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202206/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "クラブネス、東京オフィスが設立2周年",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202206/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202220/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "三井海洋開発、FPSOの延命・改修工事を実施",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202220/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202221/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "NSU、越海事大へシミュレーター寄贈",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202221/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202222/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》建造能力分析、LNG船、今年以降は年100隻規模に増加",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202222/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202208/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "韓国造船大手、新規受注が順調、サムスン重工は早くも前年年間実績上回る",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202208/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202223/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "横浜国立大、造船海洋の産学連携センター新設、4ラボで人材育成や造船DX推進",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202223/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202224/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "常石造船、7年ぶりアフラ型タンカー竣工、新型の115型シリーズ1番船",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202224/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/06/202225/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本コンテナ輸送、新役員体制",
+  "url": "https://www.kaijipress.com/news/information/2026/06/202225/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202227/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来へのメッセージ】瀬野洋一郎・瀬野汽船社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202227/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202228/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】伊藤康一・駐ギリシャ日本大使",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202228/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202229/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】小泉進次郎・防衛大臣",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202229/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/06/202226/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】エネルギー収集船の取り組み",
+  "url": "https://www.kaijipress.com/column/aotou/2026/06/202226/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.125598+09:00"
+ },
+ "https://splash247.com/hormuz-threat-level-stays-severe-despite-peace-breakthrough/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz threat level stays severe despite peace breakthrough",
+  "url": "https://splash247.com/hormuz-threat-level-stays-severe-despite-peace-breakthrough/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.126203+09:00"
+ },
+ "https://splash247.com/worlds-largest-bulk-to-container-conversion-completed-in-china/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "World’s largest bulk-to-container conversion completed in China",
+  "url": "https://splash247.com/worlds-largest-bulk-to-container-conversion-completed-in-china/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.126203+09:00"
+ },
+ "https://splash247.com/iolcos-returns-to-newbuild-market-with-kamsarmax-pair-in-china/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Iolcos returns to newbuild market with kamsarmax pair in China",
+  "url": "https://splash247.com/iolcos-returns-to-newbuild-market-with-kamsarmax-pair-in-china/",
+  "date": "2026/06/16",
+  "sd": "06/16",
+  "first_seen_iso": "2026-06-16T19:27:09.126203+09:00"
  }
 }
