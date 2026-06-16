@@ -1,184 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315939": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "ホルムズ封鎖、不稼働損失で協議難航。船舶戦争保険、「閉じ込め認定」対立",
-  "url": "https://www.jmd.co.jp/article.php?no=315939",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315938": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "米小売り輸入、早期ピーク入り。上方修正、6月14%増",
-  "url": "https://www.jmd.co.jp/article.php?no=315938",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315933": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "パナマ運河 通航量上限に。タンカー増加。中東情勢悪化で",
-  "url": "https://www.jmd.co.jp/article.php?no=315933",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315923": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "【バルチックWeekly市況リポート】（6月1―5日）スープラ、主要航路平均2万ドル台",
-  "url": "https://www.jmd.co.jp/article.php?no=315923",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315940": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "【新本部長に聞く】日本郵船専務執行役員CFO・経営企画本部長　伴野拓司氏、変化捉え屋台骨支える",
-  "url": "https://www.jmd.co.jp/article.php?no=315940",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315934": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "【Posidonia2026】地政学リスク下の海運経営を議論。トレードウインズ主催カンファレンス",
-  "url": "https://www.jmd.co.jp/article.php?no=315934",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315935": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "商船三井、船上ITインフラ標準化。AI・デジタル活用へ地ならし",
-  "url": "https://www.jmd.co.jp/article.php?no=315935",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315945": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "鴻池運輸、海外事業拡大 加速。北米など積極投資、来期営業益45億円",
-  "url": "https://www.jmd.co.jp/article.php?no=315945",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315920": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "MLCベンチャーズ、香港新興企業に出資。越境ECの返品支援",
-  "url": "https://www.jmd.co.jp/article.php?no=315920",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315922": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "日本通運、日本発海上輸出 5月0.7%増。3カ月連続プラス",
-  "url": "https://www.jmd.co.jp/article.php?no=315922",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315924": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "内外トランスライン、神戸支店閉鎖。大阪本社に集約",
-  "url": "https://www.jmd.co.jp/article.php?no=315924",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315944": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "【インタビュー　新局長に聞く】神戸市港湾局長・山本雄司氏、総合物流港で付加価値創出",
-  "url": "https://www.jmd.co.jp/article.php?no=315944",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315941": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "【総会】東京港運協会、「港湾の重要性発信を」。鶴岡会長が行政に要望",
-  "url": "https://www.jmd.co.jp/article.php?no=315941",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315942": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "ロッテルダム港、マースフラクテIICT、鉄道能力40%減。拡張工事で27年半ばまで",
-  "url": "https://www.jmd.co.jp/article.php?no=315942",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315943": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "【外貿コンテナ】大阪港、4月0.5%減18万TEU",
-  "url": "https://www.jmd.co.jp/article.php?no=315943",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315937": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "愛媛銀行、日本公庫と協調融資。蛭子海運の内航船新造で",
-  "url": "https://www.jmd.co.jp/article.php?no=315937",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315930": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "近海郵船、16日にバイオ燃料実証。博多港初、定期RORO船で",
-  "url": "https://www.jmd.co.jp/article.php?no=315930",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315917": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【語録採録】東神インターナショナル社長・棤木盛敦さん、森本会長と二人三脚で新体制",
-  "url": "https://www.jmd.co.jp/article.php?no=315917",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.551655+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/201921/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "NSユナイテッド海運・山中一馬社長に聞く、メタノール二元燃料ケープ拡大に意欲",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/201921/",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.552002+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/201908/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【ポシドニア2026】新造発注、供給過剰か管理可能か、ギリシャ船主の見方二分",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/201908/",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-10T08:14:51.552002+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/06/202080/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2981,7 +2801,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202220/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "三井海洋開発、FPS…",
+  "title": "三井海洋開発、FPSOの延命・改修工事を実施",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202220/",
   "date": "2026/06/16",
   "sd": "06/16",
@@ -2990,7 +2810,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202221/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "NSU、越海事大へシミュレーター寄贈",
+  "title": "NSU、越海事大へシ…",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202221/",
   "date": "2026/06/16",
   "sd": "06/16",
@@ -3535,5 +3355,68 @@
   "date": "2026/06/15",
   "sd": "06/15",
   "first_seen_iso": "2026-06-17T00:30:11.061135+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202049/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井・田村城太郎社長に聞く、ホルムズ影響注視も市況享受局面",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202049/",
+  "date": "2026/06/17",
+  "sd": "06/17",
+  "first_seen_iso": "2026-06-17T08:19:20.141220+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202068/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "新造発注拡大、背景に中古船高騰、納期先物でも新造が割安、中国造船が受け皿に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202068/",
+  "date": "2026/06/17",
+  "sd": "06/17",
+  "first_seen_iso": "2026-06-17T08:19:20.141220+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/06/202076/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】船主業のリスク",
+  "url": "https://www.kaijipress.com/column/aotou/2026/06/202076/",
+  "date": "2026/06/17",
+  "sd": "06/17",
+  "first_seen_iso": "2026-06-17T08:19:20.141220+09:00"
+ },
+ "https://splash247.com/geneva-dry-returns-for-fourth-edition-with-new-bauxite-blitz-session-and-investment-masterclass/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Geneva Dry returns for fourth edition with new Bauxite Blitz session and investment masterclass",
+  "url": "https://splash247.com/geneva-dry-returns-for-fourth-edition-with-new-bauxite-blitz-session-and-investment-masterclass/",
+  "date": "2026/06/17",
+  "sd": "06/17",
+  "first_seen_iso": "2026-06-17T08:19:20.141621+09:00"
+ },
+ "https://splash247.com/greek-bulker-owner-icon-energy-dips-into-container-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Greek bulker owner Icon Energy dips into container shipping",
+  "url": "https://splash247.com/greek-bulker-owner-icon-energy-dips-into-container-shipping/",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-17T08:19:20.141621+09:00"
+ },
+ "https://splash247.com/cargo-giants-back-splash-singapore-debut/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cargo giants back Splash Singapore debut",
+  "url": "https://splash247.com/cargo-giants-back-splash-singapore-debut/",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-17T08:19:20.141621+09:00"
+ },
+ "https://splash247.com/suez-canal-to-impose-steeper-transit-charges-from-mid-july/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Suez Canal to impose steeper transit charges from mid-July",
+  "url": "https://splash247.com/suez-canal-to-impose-steeper-transit-charges-from-mid-july/",
+  "date": "2026/06/09",
+  "sd": "06/09",
+  "first_seen_iso": "2026-06-17T08:19:20.141621+09:00"
  }
 }
