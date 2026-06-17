@@ -2792,7 +2792,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202206/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "クラブネス、東京オフィスが設立2周年",
+  "title": "クラブネス、東京オフ…",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202206/",
   "date": "2026/06/16",
   "sd": "06/16",
@@ -2810,7 +2810,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202221/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "NSU、越海事大へシ…",
+  "title": "NSU、越海事大へシミュレーター寄贈",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202221/",
   "date": "2026/06/16",
   "sd": "06/16",
@@ -3418,5 +3418,14 @@
   "date": "2026/06/09",
   "sd": "06/09",
   "first_seen_iso": "2026-06-17T08:19:20.141621+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315917": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】東神インターナショナル社長・棤木盛敦さん、森本会長と二人三脚で新体制",
+  "url": "https://www.jmd.co.jp/article.php?no=315917",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-17T10:59:29.638415+09:00"
  }
 }
