@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/06/202104/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "三井住友海上ら、洋上風力発電設備の落雷監視、調査報告の提供開始",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202104/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T13:49:54.330305+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202106/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・アジア域内運賃、上海発アジア向けで運賃上昇",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202106/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T13:49:54.330305+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202105/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "バウンド4ブルー、大型帆でDNVから型式承認設計認証",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202105/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T13:49:54.330305+09:00"
- },
- "https://splash247.com/icon-energy-converts-index-linked-panamax-charter-to-fixed-rate-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Icon Energy converts index-linked panamax charter to fixed-rate deal",
-  "url": "https://splash247.com/icon-energy-converts-index-linked-panamax-charter-to-fixed-rate-deal/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-11T13:49:54.330726+09:00"
- },
- "https://splash247.com/jinhui-orders-pair-of-dry-bulk-newbuilds-in-china/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Jinhui orders pair of dry bulk newbuilds in China",
-  "url": "https://splash247.com/jinhui-orders-pair-of-dry-bulk-newbuilds-in-china/",
-  "date": "2026/06/03",
-  "sd": "06/03",
-  "first_seen_iso": "2026-06-11T13:49:54.330726+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/06/202108/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2828,7 +2783,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202242/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜港運3団体が総会、YHRの会長代行に藤木幸太氏",
+  "title": "横浜港運3団体が総会…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202242/",
   "date": "2026/06/17",
   "sd": "06/17",
@@ -2837,7 +2792,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202243/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "APMターミナルズ、…",
+  "title": "APMターミナルズ、スアペ港に新たな完全電動化CT、ブラジルで",
   "url": "https://www.kaijipress.com/news/container/2026/06/202243/",
   "date": "2026/06/17",
   "sd": "06/17",
