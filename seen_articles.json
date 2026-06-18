@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202241/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "サムデラ、物流インフラ開発で提携、豊田通商と",
+  "title": "サムデラ、物流インフ…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202241/",
   "date": "2026/06/17",
   "sd": "06/17",
@@ -2747,7 +2747,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202243/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "APMターミナルズ、…",
+  "title": "APMターミナルズ、スアペ港に新たな完全電動化CT、ブラジルで",
   "url": "https://www.kaijipress.com/news/container/2026/06/202243/",
   "date": "2026/06/17",
   "sd": "06/17",
@@ -3314,7 +3314,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202261/": {
   "src": "k",
   "cat": "コラム",
-  "title": "﻿米国向けコンテナ、注目点は関税動向と前倒し影響、足元は堅調",
+  "title": "米国向けコンテナ、注目点は関税動向と前倒し影響、足元は堅調",
   "url": "https://www.kaijipress.com/news/container/2026/06/202261/",
   "date": "2026/06/18",
   "sd": "06/18",
@@ -3323,7 +3323,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202262/": {
   "src": "k",
   "cat": "コラム",
-  "title": "﻿香港、5月は4%増の112万TEU",
+  "title": "香港、5月は4%増の112万TEU",
   "url": "https://www.kaijipress.com/news/container/2026/06/202262/",
   "date": "2026/06/18",
   "sd": "06/18",
@@ -3341,7 +3341,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202263/": {
   "src": "k",
   "cat": "コラム",
-  "title": "﻿常石造船の東ティモール拠点が入社式、現地の設計技術者ら58人に拡大、大統領ら出席",
+  "title": "常石造船の東ティモール拠点が入社式、現地の設計技術者ら58人に拡大、大統領ら出席",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202263/",
   "date": "2026/06/18",
   "sd": "06/18",
@@ -3364,5 +3364,194 @@
   "date": "2026/06/18",
   "sd": "06/18",
   "first_seen_iso": "2026-06-18T18:21:21.135882+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316215": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!18:06日本通運、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=316215",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-06-18T21:37:54.930126+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202264/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】♯18 日鮮海運　阿部克也社長、600隻規模へ、非船舶投資を拡大",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202264/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202265/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、バイオLNG燃料のターム契約、自動車船向け、欧州で拡大",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202265/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202266/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "船整協・定時総会、田渕会長「共有建造制度を改善」",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202266/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202267/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大手コンテナ船社、規模拡大で合従連衡にハードル、事業多角化に注力",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202267/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202268/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船・商船三井、JERA向け低炭素アンモニア輸送、正式契約、計4隻で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202268/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202269/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ダイアナ、ジェンコ株の買収額を再度引き上げ、1株当たり実質27.34ドルに",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202269/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202270/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "セーフバルカーズの1～3月期業績、純利益3倍の2221万ドル",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202270/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202271/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エクソダス社ら、CCUS向けCO2輸送船、欧州で65隻、2050年まで予測",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202271/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202272/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "飯野ビル、グリーン水素製造・利用設備を導入",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202272/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202273/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "造船工業会・檜垣会長、「能力拡大してからLNG船へ」、韓国のサプライ協力必須",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202273/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202274/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "向島ドック、尾道中学・高校と連携教育を初実施、出前事業と工場見学開催",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202274/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202275/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本の新造船受注、5月は25%減も一部30年度船契約、66万トン、自動車船久々",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202275/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202276/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本造船業の新造船受注残、3.5年分の2927万トン",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202276/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202277/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "J-ENG、中国ライセンシーのUE機関生産能力拡大、広州・洋普ディーゼルで28年度230台規模に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202277/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202278/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大島造船所が初の命名施設、大阪公立大に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202278/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/06/202279/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国交省、サイバーポートウェビナー",
+  "url": "https://www.kaijipress.com/news/information/2026/06/202279/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202281/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来へのメッセージ】名村建介・名村造船所社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202281/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202282/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】大村卓朗・NAUTILUS特任教授",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202282/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/06/202283/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】アンドレアス・エンガー/ノルウェー船主協会会長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/06/202283/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/06/202280/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】田植え機と適正投資",
+  "url": "https://www.kaijipress.com/column/aotou/2026/06/202280/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
  }
 }
