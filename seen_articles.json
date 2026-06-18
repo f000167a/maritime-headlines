@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/06/202108/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、アジア―中南米航路AC1を開始",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202108/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T18:17:26.311812+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202109/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ハパックロイドCEO、主要航路の成長で過剰供給を回避、長期投資継続",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202109/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T18:17:26.311812+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202107/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "3年連続新造船なく4隻減の57隻25年末の国内製紙チップ船隊",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202107/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T18:17:26.311812+09:00"
- },
- "https://splash247.com/hormuz-ceasefire-collapses/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz ceasefire collapses",
-  "url": "https://splash247.com/hormuz-ceasefire-collapses/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T18:17:26.312241+09:00"
- },
- "https://splash247.com/former-norden-chief-launches-africa-focused-shipbroking-house/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Former Norden chief launches Africa-focused shipbroking house",
-  "url": "https://splash247.com/former-norden-chief-launches-africa-focused-shipbroking-house/",
-  "date": "2026/06/11",
-  "sd": "06/11",
-  "first_seen_iso": "2026-06-11T18:17:26.312241+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/202110/": {
   "src": "k",
   "cat": "コラム",
@@ -794,7 +749,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】4月コロンビア炭輸出は前年比▲26%減、8カ月ぶり低水準6月16日：T/C市場＝10隻・81万DWT、V/C市場＝鉄鉱石4隻、石炭3隻",
+  "title": "【本日のトピック】インド、26/27年度4～5月の石炭生産量は1.52億トンと▲9%減6月17日：T/C市場＝12隻・68万DWT、V/C市場＝鉄鉱石6隻、石炭1隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/12",
   "sd": "06/12",
@@ -2783,7 +2738,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202242/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜港運3団体が総会…",
+  "title": "横浜港運3団体が総会、YHRの会長代行に藤木幸太氏",
   "url": "https://www.kaijipress.com/news/container/2026/06/202242/",
   "date": "2026/06/17",
   "sd": "06/17",
@@ -2792,7 +2747,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202243/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "APMターミナルズ、スアペ港に新たな完全電動化CT、ブラジルで",
+  "title": "APMターミナルズ、…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202243/",
   "date": "2026/06/17",
   "sd": "06/17",
@@ -3346,5 +3301,68 @@
   "date": "2026/06/18",
   "sd": "06/18",
   "first_seen_iso": "2026-06-18T08:18:56.883276+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316214": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!18:06ＮＩＰＰＯＮ ＥＸＰＲＥＳＳホールディングス、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=316214",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-06-18T18:21:21.135055+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202261/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿米国向けコンテナ、注目点は関税動向と前倒し影響、足元は堅調",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202261/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T18:21:21.135426+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202262/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿香港、5月は4%増の112万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202262/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T18:21:21.135426+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202260/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "EPS、ケミカル船事業から撤退、14隻をエース・WOMARに譲渡",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202260/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T18:21:21.135426+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202263/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿常石造船の東ティモール拠点が入社式、現地の設計技術者ら58人に拡大、大統領ら出席",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202263/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T18:21:21.135426+09:00"
+ },
+ "https://splash247.com/hormuz-reopens-under-us-iran-deal-amid-uncertainty-over-future-transit-fees/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz reopens under US-Iran deal amid uncertainty over future transit fees",
+  "url": "https://splash247.com/hormuz-reopens-under-us-iran-deal-amid-uncertainty-over-future-transit-fees/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T18:21:21.135882+09:00"
+ },
+ "https://splash247.com/the-easy-era-of-critical-mineral-trade-is-over/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "The easy era of critical mineral trade is over",
+  "url": "https://splash247.com/the-easy-era-of-critical-mineral-trade-is-over/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-18T18:21:21.135882+09:00"
  }
 }
