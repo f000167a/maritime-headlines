@@ -2945,7 +2945,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202274/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "向島ドック、尾道中学…",
+  "title": "向島ドック、尾道中学・高校と連携教育を初実施、出前事業と工場見学開催",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202274/",
   "date": "2026/06/18",
   "sd": "06/18",
@@ -2972,7 +2972,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202277/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "J-ENG、中国ライセンシーのUE機関生産能力拡大、広州・洋普ディーゼルで28年度230台規模に",
+  "title": "J-ENG、中国ライ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202277/",
   "date": "2026/06/18",
   "sd": "06/18",
@@ -3301,5 +3301,32 @@
   "date": "2026/06/17",
   "sd": "06/17",
   "first_seen_iso": "2026-06-19T08:40:42.365168+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202110/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】♯16 エクセノヤマミズ　増田尚昭社長、海事産業の未来は“人々”がつなぐ無料",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202110/",
+  "date": "2026/06/19",
+  "sd": "06/19",
+  "first_seen_iso": "2026-06-19T11:21:21.563989+09:00"
+ },
+ "https://splash247.com/genco-fends-off-diana-board-challenge/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Genco fends off Diana board challenge",
+  "url": "https://splash247.com/genco-fends-off-diana-board-challenge/",
+  "date": "2026/06/19",
+  "sd": "06/19",
+  "first_seen_iso": "2026-06-19T11:21:21.564378+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2070号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/06/17",
+  "sd": "06/17",
+  "first_seen_iso": "2026-06-19T11:21:21.564527+09:00"
  }
 }
