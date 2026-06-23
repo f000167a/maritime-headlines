@@ -2315,7 +2315,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国5月鉄鉱石輸入、豪・伯産ともに前年割れ6月19日：T/C市場＝15隻・109万DWT、V/C市場＝鉄鉱石5隻、石炭5隻",
+  "title": "【本日のトピック】中国鉄鉱石価格が続落、2月以来の安値水準に6月22日：T/C市場＝17隻・118万DWT、V/C市場＝鉄鉱石4隻、石炭3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/19",
   "sd": "06/19",
@@ -2810,7 +2810,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202327/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "中国、バルカーをコン…",
+  "title": "中国、バルカーをコンテナ船に改造、舟山市鑫亜船舶修造で",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202327/",
   "date": "2026/06/22",
   "sd": "06/22",
@@ -2819,7 +2819,7 @@
  "https://www.kaijipress.com/news/tramper/2026/06/202328/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "HMM、欧州ブレークバルク展示会に出展",
+  "title": "HMM、欧州ブレーク…",
   "url": "https://www.kaijipress.com/news/tramper/2026/06/202328/",
   "date": "2026/06/22",
   "sd": "06/22",
@@ -3292,5 +3292,68 @@
   "date": "2026/06/23",
   "sd": "06/23",
   "first_seen_iso": "2026-06-23T08:14:40.713435+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202346/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿アジア発欧州向け、4月は12%増の184万TEU、過去最高",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202346/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202347/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿欧州発アジア向け、4月は3%増の51万TEU、海事センター調査",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202347/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202345/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "三井海洋開発、子会社が従業員体験表彰で銅賞",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202345/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202348/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMB.TECH、アンモニア燃料対応ケープ貸船、フォーテスキュー向け最大12隻",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202348/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202349/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿川崎重工、国内最大級の液化水素試験設備整備",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202349/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202350/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿アヴィバ、設計から運航までデータ連携へ、AIで船舶設計高度化、生成設計も",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202350/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
+ },
+ "https://splash247.com/hormuz-hotline-opens-between-us-and-iran/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz hotline opens between US and Iran",
+  "url": "https://splash247.com/hormuz-hotline-opens-between-us-and-iran/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T16:59:48.863559+09:00"
  }
 }
