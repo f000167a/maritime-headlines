@@ -2432,7 +2432,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202312/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "内航総連・通常総会、栗林会長「船員確保に一層注力」",
+  "title": "内航総連・通常総会、…",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202312/",
   "date": "2026/06/22",
   "sd": "06/22",
@@ -2441,7 +2441,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202316/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "栗林商船ら、陸上・海…",
+  "title": "栗林商船ら、陸上・海上試験で大きな問題無し、ジャトロファ燃料の船舶利用報告会",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202316/",
   "date": "2026/06/22",
   "sd": "06/22",
@@ -2585,7 +2585,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202331/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、設立60周年…",
+  "title": "日舶工、設立60周年記念パーティー、木下会長「建造量倍増計画に貢献」",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202331/",
   "date": "2026/06/22",
   "sd": "06/22",
@@ -2612,7 +2612,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202334/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、RORO船“FORESIGHTER”進水",
+  "title": "内海造船、RORO船…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202334/",
   "date": "2026/06/22",
   "sd": "06/22",
@@ -3301,5 +3301,32 @@
   "date": "2026/06/23",
   "sd": "06/23",
   "first_seen_iso": "2026-06-23T20:26:05.118056+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202209/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船・五十嵐武宣社長に聞く、環境変化見据え着実運営",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202209/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T23:00:38.909403+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202216/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アイオニック、日本造船所にタンカー4隻発注、スエズとアフラ型で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202216/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T23:00:38.909403+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202222/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》建造能力分析、LNG船、今年以降は年100隻規模に増加",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202222/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-06-23T23:00:38.909403+09:00"
  }
 }
