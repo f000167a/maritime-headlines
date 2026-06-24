@@ -2252,7 +2252,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202349/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、国内最大級…",
+  "title": "川崎重工、国内最大級の液化水素試験設備整備",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202349/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -2306,7 +2306,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202354/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、アジア太平…",
+  "title": "マースク、アジア太平洋地区社長にエリオット氏",
   "url": "https://www.kaijipress.com/news/container/2026/06/202354/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -2324,7 +2324,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202356/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "三井E&S、港湾荷役クレーン5基を受注、アルゼンチン向け",
+  "title": "三井E&S、港湾荷役…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202356/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -2414,7 +2414,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202368/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "船舶電装協会、定時総会を開催",
+  "title": "船舶電装協会、定時総…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202368/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -3157,5 +3157,23 @@
   "date": "2026/06/24",
   "sd": "06/24",
   "first_seen_iso": "2026-06-24T20:13:32.224668+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202233/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船・株主総会、「安全最優先に通常運航目指す」",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202233/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-24T22:31:28.961304+09:00"
+ },
+ "https://splash247.com/turkish-owner-eos-lines-up-four-bulker-newbuilds-in-china/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Turkish owner EOS lines up four bulker newbuilds in China",
+  "url": "https://splash247.com/turkish-owner-eos-lines-up-four-bulker-newbuilds-in-china/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-24T22:31:28.961966+09:00"
  }
 }
