@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315917": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【語録採録】東神インターナショナル社長・棤木盛敦さん、森本会長と二人三脚で新体制",
-  "url": "https://www.jmd.co.jp/article.php?no=315917",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-17T10:59:29.638415+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/202233/": {
   "src": "k",
   "cat": "コラム",
@@ -2630,7 +2621,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202354/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、アジア太平洋地区社長にエリオット氏",
+  "title": "マースク、アジア太平…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202354/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -2648,7 +2639,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202356/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "三井E&S、港湾荷役…",
+  "title": "三井E&S、港湾荷役クレーン5基を受注、アルゼンチン向け",
   "url": "https://www.kaijipress.com/news/container/2026/06/202356/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -3067,5 +3058,14 @@
   "date": "2026/06/24",
   "sd": "06/24",
   "first_seen_iso": "2026-06-24T08:04:03.663671+09:00"
+ },
+ "https://splash247.com/new-dry-bulk-outfit-emerges-in-dubai/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "New dry bulk outfit emerges in Dubai",
+  "url": "https://splash247.com/new-dry-bulk-outfit-emerges-in-dubai/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-24T13:16:19.390871+09:00"
  }
 }
