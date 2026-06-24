@@ -1550,7 +1550,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国鉄鉱石価格が続落、2月以来の安値水準に6月22日：T/C市場＝17隻・118万DWT、V/C市場＝鉄鉱石4隻、石炭3隻",
+  "title": "【本日のトピック】5月世界粗鋼生産量、僅かに前年下回り9カ月連続マイナス成長6月23日：T/C市場＝16隻・106万DWT、V/C市場＝鉄鉱石6隻、石炭3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/19",
   "sd": "06/19",
@@ -2621,7 +2621,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202354/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、アジア太平…",
+  "title": "マースク、アジア太平洋地区社長にエリオット氏",
   "url": "https://www.kaijipress.com/news/container/2026/06/202354/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -2639,7 +2639,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202356/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "三井E&S、港湾荷役クレーン5基を受注、アルゼンチン向け",
+  "title": "三井E&S、港湾荷役…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202356/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -2720,7 +2720,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202367/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "名村造船所、佐賀の海洋プラ専門施設に寄付",
+  "title": "名村造船所、佐賀の海…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202367/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202368/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "船舶電装協会、定時総…",
+  "title": "船舶電装協会、定時総会を開催",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202368/",
   "date": "2026/06/23",
   "sd": "06/23",
@@ -3067,5 +3067,59 @@
   "date": "2026/06/24",
   "sd": "06/24",
   "first_seen_iso": "2026-06-24T13:16:19.390871+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316365": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "New!16:06高麗海運、九州航路で八代毎週寄港。ＪＫＷ４に集約、船型大型化",
+  "url": "https://www.jmd.co.jp/article.php?no=316365",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-06-24T16:59:31.234511+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=315917": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】東神インターナショナル社長・棤木盛敦さん、森本会長と二人三脚で新体制",
+  "url": "https://www.jmd.co.jp/article.php?no=315917",
+  "date": "2026/06/10",
+  "sd": "06/10",
+  "first_seen_iso": "2026-06-24T16:59:31.234511+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202374/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "野村HD、国内投資家向け船舶ファンド視野、船舶分野進出検討のねらい",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202374/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-24T16:59:31.234887+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202375/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿日本発コンテナ、スペース確保に苦慮、構造的問題に、アジアの短期運賃高騰で",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202375/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-24T16:59:31.234887+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202376/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿中小型造工が懇親会、「急ぎ設備計画立案」と田中会長、「中小造船も支援」と海事局長",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202376/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-24T16:59:31.234887+09:00"
+ },
+ "https://splash247.com/imo-and-oman-orchestrate-phased-reopening-of-hormuz/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "IMO and Oman orchestrate phased reopening of Hormuz",
+  "url": "https://splash247.com/imo-and-oman-orchestrate-phased-reopening-of-hormuz/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-24T16:59:31.235317+09:00"
  }
 }
