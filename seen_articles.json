@@ -1,193 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316215": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "日本通運、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=316215",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-06-18T21:37:54.930126+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202264/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】♯18 日鮮海運　阿部克也社長、600隻規模へ、非船舶投資を拡大",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202264/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202265/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "商船三井、バイオLNG燃料のターム契約、自動車船向け、欧州で拡大",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202265/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202266/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "船整協・定時総会、田…",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202266/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202267/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "大手コンテナ船社、規模拡大で合従連衡にハードル、事業多角化に注力",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202267/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202268/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "JERA向け低炭素アンモニア輸送、正式契約日本郵船・商船三井、計4隻で",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202268/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202269/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ダイアナ、ジェンコ株の買収額を再度引き上げ、1株当たり実質27.34ドルに",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202269/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202270/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "セーフバルカーズの1～3月期業績、純利益3倍の2221万ドル",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202270/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202271/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "エクソダス社ら、CCUS向けCO2輸送船、欧州で65隻、2050年まで予測",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202271/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202272/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野ビル、グリーン水素製造・利用設備を導入",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202272/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202273/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "造船工業会・檜垣会長、「能力拡大してからLNG船へ」、韓国のサプライ協力必須",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202273/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202274/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "向島ドック、尾道中学…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202274/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202275/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "日本の新造船受注、5月は25%減も一部30年度船契約、66万トン、自動車船久々",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202275/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202276/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本造船業の新造船受注残、3.5年分の2927万トン",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202276/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202277/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "J-ENG、中国ライセンシーのUE機関生産能力拡大、広州・洋普ディーゼルで28年度230台規模に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202277/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202278/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "大島造船所が初の命名施設、大阪公立大に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202278/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/news/information/2026/06/202279/": {
-  "src": "k",
-  "cat": "Information",
-  "title": "国交省、サイバーポートウェビナー",
-  "url": "https://www.kaijipress.com/news/information/2026/06/202279/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/06/202281/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【未来へのメッセージ…",
-  "url": "https://www.kaijipress.com/person/logbook/2026/06/202281/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/06/202282/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】大村卓朗・NAUTILUS特任教授",
-  "url": "https://www.kaijipress.com/person/logbook/2026/06/202282/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/06/202283/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】アンドレアス・エンガー/ノルウェー船主協会会長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/06/202283/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
- "https://www.kaijipress.com/column/aotou/2026/06/202280/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【青灯】田植え機と適正投資",
-  "url": "https://www.kaijipress.com/column/aotou/2026/06/202280/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-18T21:37:54.930491+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316213": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -2396,7 +2207,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202376/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工が懇親会、「急ぎ設備計画立案」と田中会長、「中小造船も支援」と海事局長",
+  "title": "中小型造工が懇親会、…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202376/",
   "date": "2026/06/24",
   "sd": "06/24",
@@ -2585,7 +2396,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202395/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "大分の4造船所、外国…",
+  "title": "大分の4造船所、外国人労働者で初のバスケ大会、企業横断で地域住民と交流",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202395/",
   "date": "2026/06/24",
   "sd": "06/24",
@@ -3337,5 +3148,14 @@
   "date": "2026/06/25",
   "sd": "06/25",
   "first_seen_iso": "2026-06-25T19:51:13.777682+09:00"
+ },
+ "https://splash247.com/hormuz-reopens-under-us-iran-deal-amid-uncertainty-over-future-transit-fees/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz reopens under US-Iran deal amid uncertainty over future transit fees",
+  "url": "https://splash247.com/hormuz-reopens-under-us-iran-deal-amid-uncertainty-over-future-transit-fees/",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-25T22:23:01.648804+09:00"
  }
 }
