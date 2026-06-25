@@ -902,7 +902,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月世界粗鋼生産量、僅かに前年下回り9カ月連続マイナス成長6月23日：T/C市場＝16隻・106万DWT、V/C市場＝鉄鉱石6隻、石炭3隻",
+  "title": "【本日のトピック】5月の中国石炭輸入、一般炭が前年比▲23%減、原料炭は+51%増6月24日：T/C市場＝9隻・64万DWT、V/C市場＝鉄鉱石4隻、石炭3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/19",
   "sd": "06/19",
@@ -2657,7 +2657,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202396/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "かもめプロペラ、サイドスラスタ累計生産5000台達成、御前崎海運の内航貨物船向けで",
+  "title": "かもめプロペラ、サイ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202396/",
   "date": "2026/06/24",
   "sd": "06/24",
@@ -2684,7 +2684,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202399/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "大島造船所、金子大臣…",
+  "title": "大島造船所、金子大臣らが視察",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202399/",
   "date": "2026/06/24",
   "sd": "06/24",
@@ -3058,5 +3058,68 @@
   "date": "2026/06/18",
   "sd": "06/18",
   "first_seen_iso": "2026-06-25T13:16:35.518228+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202407/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JX金属、常陸那珂―高雄でRORO一貫輸送、琉球海運がトライアル運航",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202407/",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-06-25T17:00:03.831086+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202409/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿錦江航運、1800TEU型船4隻のオプション行使",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202409/",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-06-25T17:00:03.831086+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202410/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿ADポーツ、コンテナ船事業強化、GFSの出資比率を81%に引き上げ",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202410/",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-06-25T17:00:03.831086+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/06/202408/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿HMM、ばら積み船8隻とガス船2隻を発注、31年までに竣工",
+  "url": "https://www.kaijipress.com/news/tramper/2026/06/202408/",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-06-25T17:00:03.831086+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/06/202411/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿新来島どっく、25年度の純利益46%増の51億円、増収増益",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202411/",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-06-25T17:00:03.831086+09:00"
+ },
+ "https://splash247.com/hormuz-moves-from-shutdown-to-managed-recovery/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz moves from shutdown to managed recovery",
+  "url": "https://splash247.com/hormuz-moves-from-shutdown-to-managed-recovery/",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-06-25T17:00:03.831594+09:00"
+ },
+ "https://splash247.com/diana-lands-improved-rate-for-panamax-bulker/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana lands improved rate for panamax bulker",
+  "url": "https://splash247.com/diana-lands-improved-rate-for-panamax-bulker/",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-06-25T17:00:03.831594+09:00"
  }
 }
