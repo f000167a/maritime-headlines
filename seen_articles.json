@@ -2666,7 +2666,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202397/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "阪大OCEANS、設…",
+  "title": "阪大OCEANS、設計自動化へ「垂直型AI」開発、造船AIの初年度成果を報告",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202397/",
   "date": "2026/06/24",
   "sd": "06/24",
@@ -2684,7 +2684,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202399/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "大島造船所、金子大臣らが視察",
+  "title": "大島造船所、金子大臣…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202399/",
   "date": "2026/06/24",
   "sd": "06/24",
@@ -3040,5 +3040,23 @@
   "date": "2026/06/18",
   "sd": "06/18",
   "first_seen_iso": "2026-06-25T09:20:44.090866+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316140": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】国際フレイトフォワーダーズ協会（JIFFA）会長・笠井達二さん。フォワーダーの真価問われる時",
+  "url": "https://www.jmd.co.jp/article.php?no=316140",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-25T13:16:35.518228+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316144": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/鈴木隆史】内航の諸課題解消へ、「標準的な考え方」実効性を",
+  "url": "https://www.jmd.co.jp/article.php?no=316144",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-06-25T13:16:35.518228+09:00"
  }
 }
