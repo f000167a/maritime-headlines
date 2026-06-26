@@ -353,7 +353,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月の中国石炭輸入、一般炭が前年比▲23%減、原料炭は+51%増6月24日：T/C市場＝9隻・64万DWT、V/C市場＝鉄鉱石4隻、石炭3隻",
+  "title": "【本日のトピック】インドネシア、石炭等の資源輸出一元管理を来年から全面運用開始6月25日：T/C市場＝13隻・100万DWT、V/C市場＝鉄鉱石4隻、石炭3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/19",
   "sd": "06/19",
@@ -2585,7 +2585,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202413/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "マルクラ、ドック管理のデジタル化推進、ベッセルマンをアジア展開",
+  "title": "マルクラ、ドック管理…",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202413/",
   "date": "2026/06/25",
   "sd": "06/25",
@@ -2612,7 +2612,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202416/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "新垣海事局長、LNG…",
+  "title": "新垣海事局長、LNG船建造再開へ議論を、27年度概算要求も視野",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202416/",
   "date": "2026/06/25",
   "sd": "06/25",
@@ -3139,5 +3139,68 @@
   "date": "2026/06/26",
   "sd": "06/26",
   "first_seen_iso": "2026-06-26T13:22:46.892665+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202445/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "BIMCO・ICSの船員需給予測、30年までに船舶職員11万人追加必要",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202445/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-06-26T17:08:50.429124+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/06/202446/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【イラン戦闘終結合意】IMO、船員・船舶避難計画を一時停止、オマーン湾での攻撃受け",
+  "url": "https://www.kaijipress.com/news/shipping/2026/06/202446/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-06-26T17:08:50.429124+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/06/202444/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "スワイヤー、中部圏で高付加価値貨物に注力、名古屋支店開設から1年",
+  "url": "https://www.kaijipress.com/news/container/2026/06/202444/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-06-26T17:08:50.429124+09:00"
+ },
+ "https://splash247.com/hormuz-reopening-plans-thrown-into-doubt-after-evergreen-boxship-attack/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz reopening plans thrown into doubt after Evergreen boxship attack",
+  "url": "https://splash247.com/hormuz-reopening-plans-thrown-into-doubt-after-evergreen-boxship-attack/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-06-26T17:08:50.429520+09:00"
+ },
+ "https://splash247.com/splash-wrap-hormuz-hope-dashed/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Hormuz hope dashed",
+  "url": "https://splash247.com/splash-wrap-hormuz-hope-dashed/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-06-26T17:08:50.429520+09:00"
+ },
+ "https://splash247.com/a-career-in-shipping-the-truth-about-getting-a-job-in-maritime/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "A Career in Shipping: The truth about getting a job in maritime",
+  "url": "https://splash247.com/a-career-in-shipping-the-truth-about-getting-a-job-in-maritime/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-06-26T17:08:50.429520+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2071号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-06-26T17:08:50.429639+09:00"
  }
 }
