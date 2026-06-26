@@ -2324,7 +2324,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202413/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "マルクラ、ドック管理…",
+  "title": "マルクラ、ドック管理のデジタル化推進、ベッセルマンをアジア展開",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202413/",
   "date": "2026/06/25",
   "sd": "06/25",
@@ -2351,7 +2351,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202416/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "新垣海事局長、LNG船建造再開へ議論を、27年度概算要求も視野",
+  "title": "新垣海事局長、LNG…",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202416/",
   "date": "2026/06/25",
   "sd": "06/25",
@@ -3211,5 +3211,32 @@
   "date": "2026/06/26",
   "sd": "06/26",
   "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316507": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!21:06船協・長澤会長会見要旨、海運会社の役割果たす。ＬＮＧ船国内建造再開へ",
+  "url": "https://www.jmd.co.jp/article.php?no=316507",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-06-26T22:32:36.457358+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316506": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!20:06船協・海上安全等対策本部、秩序ある安全な脱出を。各国政府に要請へ",
+  "url": "https://www.jmd.co.jp/article.php?no=316506",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-06-26T22:32:36.457358+09:00"
+ },
+ "https://splash247.com/hormuz-reopening-clouded-by-diplomatic-cracks-and-mine-risks/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz reopening clouded by diplomatic cracks and mine risks",
+  "url": "https://splash247.com/hormuz-reopening-clouded-by-diplomatic-cracks-and-mine-risks/",
+  "date": "2026/06/19",
+  "sd": "06/19",
+  "first_seen_iso": "2026-06-26T22:32:36.458454+09:00"
  }
 }
