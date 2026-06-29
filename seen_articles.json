@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316025": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【語録採録】全日本空輸上席執行役員貨物事業室長兼ANAカーゴ社長兼日本貨物航空取締役・脇谷謙一さん、下り坂も下から見れば上り坂",
-  "url": "https://www.jmd.co.jp/article.php?no=316025",
-  "date": "2026/06/15",
-  "sd": "06/15",
-  "first_seen_iso": "2026-06-22T09:20:53.541990+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/202310/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -2603,7 +2594,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202448/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会・通常総会、自由で安全な航行確保求める",
+  "title": "日本船主協会・通常総…",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202448/",
   "date": "2026/06/26",
   "sd": "06/26",
@@ -2639,7 +2630,7 @@
  "https://www.kaijipress.com/news/shipping/2026/06/202453/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、グループ管…",
+  "title": "川崎汽船、グループ管理船が優秀船に",
   "url": "https://www.kaijipress.com/news/shipping/2026/06/202453/",
   "date": "2026/06/26",
   "sd": "06/26",
@@ -3238,5 +3229,14 @@
   "date": "2026/06/29",
   "sd": "06/29",
   "first_seen_iso": "2026-06-29T09:11:06.330997+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316269": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "ホルムズ海峡、再開の動き鈍く。通航数変化なし、「指揮統制」求める声",
+  "url": "https://www.jmd.co.jp/article.php?no=316269",
+  "date": "2026/06/22",
+  "sd": "06/22",
+  "first_seen_iso": "2026-06-29T13:51:07.675359+09:00"
  }
 }
