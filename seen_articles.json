@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202193/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "造船所連携で国内建造再開の方向、LNG船年3～5隻建造目標に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202193/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T08:14:40.713435+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202179/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【イラン戦闘終結合意】海運各社、即時通航再開には慎重、ホルムズ機雷除去など安全確保が前提",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202179/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T08:14:40.713435+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/06/202346/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2783,7 +2765,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202497/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工、もがみ型護…",
+  "title": "三菱重工、もがみ型護衛艦、4年で10隻竣工、長崎と玉野2工場で",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202497/",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -2810,7 +2792,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/06/202500/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "韓国HJ重工親会社、HD現代の休眠工場で新造事業開始、早速LR2型プロダクト船受注",
+  "title": "韓国HJ重工親会社、…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202500/",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -3238,5 +3220,23 @@
   "date": "2026/06/22",
   "sd": "06/22",
   "first_seen_iso": "2026-06-30T07:50:52.010898+09:00"
+ },
+ "https://splash247.com/castor-returns-to-bulker-buying-with-37-5m-deal-for-modern-kamsarmax/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Castor returns to bulker buying with $37.5m deal for modern kamsarmax",
+  "url": "https://splash247.com/castor-returns-to-bulker-buying-with-37-5m-deal-for-modern-kamsarmax/",
+  "date": "2026/06/22",
+  "sd": "06/22",
+  "first_seen_iso": "2026-06-30T08:58:17.485305+09:00"
+ },
+ "https://splash247.com/japanese-shipping-venture-sakura-ocean-places-debut-bulker-orders-at-three-domestic-yards/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Japanese shipping venture Sakura Ocean places debut bulker orders at three domestic yards",
+  "url": "https://splash247.com/japanese-shipping-venture-sakura-ocean-places-debut-bulker-orders-at-three-domestic-yards/",
+  "date": "2026/06/22",
+  "sd": "06/22",
+  "first_seen_iso": "2026-06-30T08:58:17.485305+09:00"
  }
 }
