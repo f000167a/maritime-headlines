@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/06/202346/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "アジア発欧州向け、4月は12%増の184万TEU、過去最高",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202346/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202347/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "欧州発アジア向け、4月は3%増の51万TEU、海事センター調査",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202347/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202345/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "三井海洋開発、子会社が従業員体験表彰で銅賞",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202345/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202348/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "CMB.TECH、アンモニア燃料対応ケープ貸船、フォーテスキュー向け最大12隻",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202348/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202349/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "川崎重工、国内最大級の液化水素試験設備整備",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202349/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202350/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "アヴィバ、設計から運航までデータ連携へ、AIで船舶設計高度化、生成設計も",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202350/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T16:59:48.863165+09:00"
- },
- "https://splash247.com/hormuz-hotline-opens-between-us-and-iran/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz hotline opens between US and Iran",
-  "url": "https://splash247.com/hormuz-hotline-opens-between-us-and-iran/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-06-23T16:59:48.863559+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/202351/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -2495,7 +2432,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月中国穀物輸入は堅調維持、大麦が180万トン強で記録的水準に6月29日：T/C市場＝21隻・149万DWT、V/C市場＝鉄鉱石2隻、石炭2隻",
+  "title": "【本日のトピック】6月の中国鉄鋼PMIは47.8ポイント、3カ月連続節目割れ6月29日：T/C市場＝20隻・137万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -2666,7 +2603,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202487/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "インターエイシア、7000TEU型新造船が命名、インド航路に投入",
+  "title": "インターエイシア、7…",
   "url": "https://www.kaijipress.com/news/container/2026/06/202487/",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -2684,7 +2621,7 @@
  "https://www.kaijipress.com/news/container/2026/06/202489/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "博多港ふ頭、新社長に…",
+  "title": "博多港ふ頭、新社長に井口氏",
   "url": "https://www.kaijipress.com/news/container/2026/06/202489/",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -3499,5 +3436,68 @@
   "date": "2026/06/23",
   "sd": "06/23",
   "first_seen_iso": "2026-06-30T13:17:38.593061+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202515/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/日本船主協会元常務理事・アジア船主協会前事務局長/園田裕一氏④、河村さんとASF東京総会",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202515/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-06-30T17:06:01.896079+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202517/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿釜山発コンテナ運賃指標、欧米向けは上昇続く",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202517/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-06-30T17:06:01.896079+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202518/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ハパックロイド、ハンブルク港CTHに20%出資、タンジェ港も追加出資",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202518/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-06-30T17:06:01.896079+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202519/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿EFインターナショナル、エンバレックスと提携、海コン用断熱カバーを日本展開",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202519/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-06-30T17:06:01.896079+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202520/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿CMA-CGMグループ、オマーンで多目的ターミナル開発、アシャドと連携",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202520/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-06-30T17:06:01.896079+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/07/202516/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿記者座談会/海運この1カ月＜上＞米・イラン合意も通航不安定、IMO・オマーンの海上回廊、直後に一時停止",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/07/202516/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-06-30T17:06:01.896079+09:00"
+ },
+ "https://splash247.com/nissen-kaiun-closes-in-on-double-digit-bulker-sell-off/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Nissen Kaiun closes in on double-digit bulker sell-off",
+  "url": "https://splash247.com/nissen-kaiun-closes-in-on-double-digit-bulker-sell-off/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-06-30T17:06:01.896635+09:00"
  }
 }
