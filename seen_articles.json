@@ -2999,7 +2999,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202519/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "EFインターナショナ…",
+  "title": "EFインターナショナル、エンバレックスと提携、海コン用断熱カバーを日本展開",
   "url": "https://www.kaijipress.com/news/container/2026/07/202519/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3098,7 +3098,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202529/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "三協レイノス設立10周年、記念レセプションで100人集う",
+  "title": "三協レイノス設立10…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202529/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3170,7 +3170,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202537/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "NK、船舶建造時のC…",
+  "title": "NK、船舶建造時のCO2排出量を認証、世界初ノーテーション新設",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202537/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3206,7 +3206,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202541/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、新型40型バルカー“HSL ONOMICHI”完工",
+  "title": "内海造船、新型40型…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202541/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3607,5 +3607,32 @@
   "date": "2026/06/30",
   "sd": "06/30",
   "first_seen_iso": "2026-07-01T08:05:30.131823+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316346": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "フェデックス調査、EC代替市場 アジア域内・米国に。EUデミニミス撤廃で",
+  "url": "https://www.jmd.co.jp/article.php?no=316346",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-07-01T09:20:15.439364+09:00"
+ },
+ "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Castor adds second modern kamsarmax in a week",
+  "url": "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-07-01T09:20:15.440183+09:00"
+ },
+ "https://splash247.com/taylor-maritime-adds-two-more-deals-to-disposal-run/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Taylor Maritime adds two more deals to disposal run",
+  "url": "https://splash247.com/taylor-maritime-adds-two-more-deals-to-disposal-run/",
+  "date": "2026/06/23",
+  "sd": "06/23",
+  "first_seen_iso": "2026-07-01T09:20:15.440183+09:00"
  }
 }
