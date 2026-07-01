@@ -1,58 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316365": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "高麗海運、九州航路で八代毎週寄港。ＪＫＷ４に集約、船型大型化",
-  "url": "https://www.jmd.co.jp/article.php?no=316365",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-06-24T16:59:31.234511+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=315917": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【語録採録】東神インターナショナル社長・棤木盛敦さん、森本会長と二人三脚で新体制",
-  "url": "https://www.jmd.co.jp/article.php?no=315917",
-  "date": "2026/06/10",
-  "sd": "06/10",
-  "first_seen_iso": "2026-06-24T16:59:31.234511+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202374/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "野村HD、国内投資家向け船舶ファンド視野、船舶分野進出検討のねらい",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202374/",
-  "date": "2026/06/24",
-  "sd": "06/24",
-  "first_seen_iso": "2026-06-24T16:59:31.234887+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202375/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "日本発コンテナ、スペース確保に苦慮、構造的問題に、アジアの短期運賃高騰で",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202375/",
-  "date": "2026/06/24",
-  "sd": "06/24",
-  "first_seen_iso": "2026-06-24T16:59:31.234887+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202376/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "中小型造工が懇親会、…",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202376/",
-  "date": "2026/06/24",
-  "sd": "06/24",
-  "first_seen_iso": "2026-06-24T16:59:31.234887+09:00"
- },
- "https://splash247.com/imo-and-oman-orchestrate-phased-reopening-of-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "IMO and Oman orchestrate phased reopening of Hormuz",
-  "url": "https://splash247.com/imo-and-oman-orchestrate-phased-reopening-of-hormuz/",
-  "date": "2026/06/24",
-  "sd": "06/24",
-  "first_seen_iso": "2026-06-24T16:59:31.235317+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316382": {
   "src": "j",
   "cat": "物流/港運",
@@ -1955,7 +1901,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】6月の中国鉄鋼PMIは47.8ポイント、3カ月連続節目割れ6月29日：T/C市場＝20隻・137万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
+  "title": "【本日のトピック】5月南ア炭輸出は592万トン、5カ月ぶりに前年水準下回る6月30日：T/C市場＝13隻・96万DWT、V/C市場＝鉄鉱石2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -2990,7 +2936,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202519/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "EFインターナショナル、エンバレックスと提携、海コン用断熱カバーを日本展開",
+  "title": "EFインターナショナ…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202519/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3080,7 +3026,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202528/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、九州営業所…",
+  "title": "マースク、九州営業所設立でサービス強化、記念レセプションを開催",
   "url": "https://www.kaijipress.com/news/container/2026/07/202528/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3188,7 +3134,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202540/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、インスタグラムでウェブ広告展開、若年層へ業界PR強化",
+  "title": "日舶工、インスタグラ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202540/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3197,7 +3143,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202541/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、新型40型…",
+  "title": "内海造船、新型40型バルカー“HSL ONOMICHI”完工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202541/",
   "date": "2026/06/30",
   "sd": "06/30",
@@ -3625,5 +3571,86 @@
   "date": "2026/06/23",
   "sd": "06/23",
   "first_seen_iso": "2026-07-01T09:20:15.440183+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202554/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/日本船主協会元常務理事・アジア船主協会前事務局長/園田裕一氏⑤、港湾EDIと独禁法適用除外問題",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202554/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202557/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "MPCC、7000TEU型コンテナ船4隻を買船、3年間の用船契約も締結",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202557/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202555/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "G2オーシャン、ブック・アンド・クレームを導入、バイオ燃料利用で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202555/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202556/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "江南造船、LNG船の累計受注12隻に拡大、コスコ/シェル向け4隻正式契約",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202556/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/07/202558/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会/海運この1カ月＜下＞コンテナ船、短期運賃が急上昇、年後半に焦点、業績改善見通しも",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/07/202558/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
+ },
+ "https://splash247.com/cosco-orders-24-bulkers-in-1-27bn-leasing-play/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "COSCO orders 24 bulkers in $1.27bn leasing play",
+  "url": "https://splash247.com/cosco-orders-24-bulkers-in-1-27bn-leasing-play/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
+ },
+ "https://splash247.com/alcoa-moves-for-south32-aluminium-assets/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Alcoa moves for South32 aluminium assets",
+  "url": "https://splash247.com/alcoa-moves-for-south32-aluminium-assets/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
+ },
+ "https://splash247.com/diana-keeps-pressure-on-genco-with-tender-extension/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana keeps pressure on Genco with tender extension",
+  "url": "https://splash247.com/diana-keeps-pressure-on-genco-with-tender-extension/",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
+ },
+ "https://splash247.com/new-dry-bulk-outfit-emerges-in-dubai/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "New dry bulk outfit emerges in Dubai",
+  "url": "https://splash247.com/new-dry-bulk-outfit-emerges-in-dubai/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
  }
 }
