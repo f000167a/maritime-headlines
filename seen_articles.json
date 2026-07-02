@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316140": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【語録採録】国際フレイトフォワーダーズ協会（JIFFA）会長・笠井達二さん。フォワーダーの真価問われる時",
-  "url": "https://www.jmd.co.jp/article.php?no=316140",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-25T13:16:35.518228+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316144": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/鈴木隆史】内航の諸課題解消へ、「標準的な考え方」実効性を",
-  "url": "https://www.jmd.co.jp/article.php?no=316144",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-25T13:16:35.518228+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/06/202407/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -1334,7 +1316,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月南ア炭輸出は592万トン、5カ月ぶりに前年水準下回る6月30日：T/C市場＝13隻・96万DWT、V/C市場＝鉄鉱石2隻",
+  "title": "【本日のトピック】5月インドネシア石炭輸出量は今年初めて4千万トン上回る7月1日：T/C市場＝12隻・94万DWT、V/C市場＝鉄鉱石4隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -3098,7 +3080,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202560/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、AIで運航…",
+  "title": "商船三井、AIで運航の意思決定高度化、IBMとプラットフォーム共同開発",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202560/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3107,7 +3089,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202561/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ナブトール、海図から統合的船舶プラットフォームへ、ログブック電子化やAI活用",
+  "title": "ナブトール、海図から…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202561/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3233,7 +3215,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202575/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術の最前線、JRCS、複数船監視対応アプリを開発、機関状態を一画面で把握",
+  "title": "《連載》自動運航技術…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202575/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3260,7 +3242,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202578/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱化工機、日本郵船…",
+  "title": "三菱化工機、日本郵船の100%バイオ燃料実証に協力、油清浄機で技術検証",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202578/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3850,5 +3832,50 @@
   "date": "2026/06/24",
   "sd": "06/24",
   "first_seen_iso": "2026-07-02T13:13:07.896679+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202596/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/日本船主協会元常務理事・アジア船主協会前事務局長/園田裕一氏⑥、草刈会長の大改革で船員問題も担当",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202596/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T16:46:21.525556+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202597/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿国交省、「ターミナル整備と自動化は両輪」、港湾ロジWG議事要旨公開",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202597/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T16:46:21.525556+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202598/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿ワンハイジャパン、日本重視で高品質サービス展開、創立40周年祝賀会開催",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202598/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T16:46:21.525556+09:00"
+ },
+ "https://splash247.com/ap-moller-holding-takes-over-ocean-yield/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "AP Moller Holding takes over Ocean Yield",
+  "url": "https://splash247.com/ap-moller-holding-takes-over-ocean-yield/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T16:46:21.525969+09:00"
+ },
+ "https://splash247.com/hormuz-dispute-shifts-from-access-to-control/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz dispute shifts from access to control",
+  "url": "https://splash247.com/hormuz-dispute-shifts-from-access-to-control/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T16:46:21.525969+09:00"
  }
 }
