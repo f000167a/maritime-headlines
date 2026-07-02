@@ -1,22 +1,4 @@
 {
- "https://splash247.com/diana-sweetens-genco-bid-again-with-cash-and-stock-offer/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana sweetens Genco bid again with cash-and-stock offer",
-  "url": "https://splash247.com/diana-sweetens-genco-bid-again-with-cash-and-stock-offer/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-25T09:20:44.090866+09:00"
- },
- "https://splash247.com/easterly-exits-debut-tanker-fund-and-turns-sights-to-bulkers/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Easterly exits debut tanker fund and turns sights to bulkers",
-  "url": "https://splash247.com/easterly-exits-debut-tanker-fund-and-turns-sights-to-bulkers/",
-  "date": "2026/06/18",
-  "sd": "06/18",
-  "first_seen_iso": "2026-06-25T09:20:44.090866+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316140": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -3116,7 +3098,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202560/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、AIで運航の意思決定高度化、IBMとプラットフォーム共同開発",
+  "title": "商船三井、AIで運航…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202560/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3125,7 +3107,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202561/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ナブトール、海図から…",
+  "title": "ナブトール、海図から統合的船舶プラットフォームへ、ログブック電子化やAI活用",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202561/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3832,5 +3814,41 @@
   "date": "2026/06/25",
   "sd": "06/25",
   "first_seen_iso": "2026-07-02T09:20:20.599807+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202593/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国港湾、1～5月は6.3%増の1.5億TEU、上海・寧波など堅調",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202593/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T13:13:07.896168+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202594/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿CMA-CGM、フェデックス・サプライチェーンを買収、北米の物流事業を強化",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202594/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T13:13:07.896168+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202595/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "﻿HD韓国造船海洋、LNG高圧ポンプを国産化、約70隻分を受注",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202595/",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-02T13:13:07.896168+09:00"
+ },
+ "https://splash247.com/turkish-owner-eos-lines-up-four-bulker-newbuilds-in-china/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Turkish owner EOS lines up four bulker newbuilds in China",
+  "url": "https://splash247.com/turkish-owner-eos-lines-up-four-bulker-newbuilds-in-china/",
+  "date": "2026/06/24",
+  "sd": "06/24",
+  "first_seen_iso": "2026-07-02T13:13:07.896679+09:00"
  }
 }
