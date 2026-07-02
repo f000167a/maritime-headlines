@@ -3116,7 +3116,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202560/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、AIで運航…",
+  "title": "商船三井、AIで運航の意思決定高度化、IBMとプラットフォーム共同開発",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202560/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3125,7 +3125,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202561/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "ナブトール、海図から統合的船舶プラットフォームへ、ログブック電子化やAI活用",
+  "title": "ナブトール、海図から…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202561/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3251,7 +3251,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202575/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術…",
+  "title": "《連載》自動運航技術の最前線、JRCS、複数船監視対応アプリを開発、機関状態を一画面で把握",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202575/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3278,7 +3278,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202578/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱化工機、日本郵船の100%バイオ燃料実証に協力、油清浄機で技術検証",
+  "title": "三菱化工機、日本郵船…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202578/",
   "date": "2026/07/01",
   "sd": "07/01",
@@ -3814,5 +3814,23 @@
   "date": "2026/07/01",
   "sd": "07/01",
   "first_seen_iso": "2026-07-02T08:07:49.596527+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316374": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "UPS、医薬品低温網 強化。積み替え拠点に77億円投資",
+  "url": "https://www.jmd.co.jp/article.php?no=316374",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-07-02T09:20:20.599807+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316362": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神農達也】港湾・物流の人材確保、不変の魅力と働き方の変化発信を",
+  "url": "https://www.jmd.co.jp/article.php?no=316362",
+  "date": "2026/06/25",
+  "sd": "06/25",
+  "first_seen_iso": "2026-07-02T09:20:20.599807+09:00"
  }
 }
