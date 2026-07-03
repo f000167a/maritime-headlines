@@ -3242,7 +3242,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202598/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ワンハイジャパン、日…",
+  "title": "ワンハイジャパン、日本重視で高品質サービス展開、創立40周年祝賀会開催",
   "url": "https://www.kaijipress.com/news/container/2026/07/202598/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3341,7 +3341,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202606/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "阪神国際港湾/ワンハイ/三井倉庫港運、大阪港C9借り受けで契約調印",
+  "title": "阪神国際港湾/ワンハ…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202606/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3476,7 +3476,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202622/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井海洋開発、住友重…",
+  "title": "三井海洋開発、住友重機械でFPSO船首部完成、中国で船体統合へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202622/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3512,7 +3512,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202626/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ウィーテックとエヴァレンスプライムサーブが協業、既存船の脱炭素化支援でMOU",
+  "title": "ウィーテックとエヴァ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202626/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3895,5 +3895,14 @@
   "date": "2026/07/02",
   "sd": "07/02",
   "first_seen_iso": "2026-07-03T09:11:10.062390+09:00"
+ },
+ "https://splash247.com/90-days-to-splash-singapore/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "90 days to Splash Singapore",
+  "url": "https://splash247.com/90-days-to-splash-singapore/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-07-03T12:59:30.742983+09:00"
  }
 }
