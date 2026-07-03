@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/06/202442/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "《連載》次代への戦訓②/日本船主協会元常務理事・アジア船主協会前事務局長/園田裕一氏、世界で評価された“セイゴさん”",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202442/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T13:22:46.892665+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202443/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "東ト協海コン部会総会、新部会長に鈴木邦彦氏、書面審議",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202443/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T13:22:46.892665+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/06/202445/": {
   "src": "k",
   "cat": "コラム",
@@ -704,7 +686,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月インドネシア石炭輸出量は今年初めて4千万トン上回る7月1日：T/C市場＝12隻・94万DWT、V/C市場＝鉄鉱石4隻、石炭2隻",
+  "title": "【本日のトピック】中国不動産大手100社、上半期販売額は前年比▲14%減7月2日：T/C市場＝13隻・91万DWT、V/C市場＝鉄鉱石3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/06/29",
   "sd": "06/29",
@@ -3242,7 +3224,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202598/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ワンハイジャパン、日本重視で高品質サービス展開、創立40周年祝賀会開催",
+  "title": "ワンハイジャパン、日…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202598/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3341,7 +3323,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202606/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "阪神国際港湾/ワンハ…",
+  "title": "阪神国際港湾/ワンハイ/三井倉庫港運、大阪港C9借り受けで契約調印",
   "url": "https://www.kaijipress.com/news/container/2026/07/202606/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3404,7 +3386,7 @@
  "https://www.kaijipress.com/news/tramper/2026/07/202613/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船、ペトロナス…",
+  "title": "川崎汽船、ペトロナス向けLNG船2隻竣工、長期契約に投入",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202613/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3413,7 +3395,7 @@
  "https://www.kaijipress.com/news/tramper/2026/07/202614/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運・大谷祐介社長、創業記念日あいさつ、「次の歴史をつくる意識を」",
+  "title": "飯野海運・大谷祐介社…",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202614/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3476,7 +3458,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202622/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井海洋開発、住友重機械でFPSO船首部完成、中国で船体統合へ",
+  "title": "三井海洋開発、住友重…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202622/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3512,7 +3494,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202626/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ウィーテックとエヴァ…",
+  "title": "ウィーテックとエヴァレンスプライムサーブが協業、既存船の脱炭素化支援でMOU",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202626/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3904,5 +3886,68 @@
   "date": "2026/06/26",
   "sd": "06/26",
   "first_seen_iso": "2026-07-03T12:59:30.742983+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202634/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》次代への戦訓/日本船主協会元常務理事・アジア船主協会前事務局長/園田裕一氏⑦、アジア船主フォーラム発足",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202634/",
+  "date": "2026/07/03",
+  "sd": "07/03",
+  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202635/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東京港、4月は2%減の37万TEU、2カ月連続減少",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202635/",
+  "date": "2026/07/03",
+  "sd": "07/03",
+  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202637/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、上期は運賃上昇基調で推移、市況変動要素も多く",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202637/",
+  "date": "2026/07/03",
+  "sd": "07/03",
+  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202638/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM、2.4万TEU型仏籍LNG燃料船が命名、ルアーブルで式典",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202638/",
+  "date": "2026/07/03",
+  "sd": "07/03",
+  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202639/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ZIM、アジア―南米航路を新設、9月から",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202639/",
+  "date": "2026/07/03",
+  "sd": "07/03",
+  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/07/202636/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会/造船この1カ月、造船ロードマップ、裾野広がる、LNG船再開や修繕、中小造船活用も",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/07/202636/",
+  "date": "2026/07/03",
+  "sd": "07/03",
+  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
+ },
+ "https://splash247.com/splash-wrap-shipping-in-the-spotlight/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Shipping in the spotlight",
+  "url": "https://splash247.com/splash-wrap-shipping-in-the-spotlight/",
+  "date": "2026/07/03",
+  "sd": "07/03",
+  "first_seen_iso": "2026-07-03T16:32:14.259961+09:00"
  }
 }
