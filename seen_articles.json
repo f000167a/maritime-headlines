@@ -1,274 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316505": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "共栄タンカー、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=316505",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-06-26T20:15:28.360960+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316503": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "川崎汽船、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=316503",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-06-26T20:15:28.360960+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316502": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "国土交通省、人事異動",
-  "url": "https://www.jmd.co.jp/article.php?no=316502",
-  "date": "",
-  "sd": "",
-  "first_seen_iso": "2026-06-26T20:15:28.360960+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202447/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "長澤船協会長、「ホルムズ海峡は再び危険な状態」、通航料に断固反対",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202447/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202448/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "日本船主協会・通常総会、自由で安全な航行確保求める",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202448/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202449/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "船協の海上安全等対策本部会合で長澤本部長、安全な脱出・機雷除去・自由な通峡求め",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202449/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202450/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井・株主総会で田村城太郎社長が説明、中東情勢の影響、足元で変動",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202450/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202452/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "国交省、金子大臣「大…",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202452/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202453/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、グループ管理船が優秀船に",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202453/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/06/202454/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "水先連合会、総会で事業報告・役員体制決定",
-  "url": "https://www.kaijipress.com/news/shipping/2026/06/202454/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202455/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "EFインターナショナル、鳥栖にカルマーの部品倉庫を開所",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202455/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202456/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "上組、ベトナム子会社で増資、自社倉庫の一部を冷凍冷蔵仕様に",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202456/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202457/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "世界海運評議会、25年の落水コンテナは1478本、前年比で増加",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202457/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202458/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・コンテナ運賃指標、米国続伸も欧州伸び鈍化",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202458/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202459/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "全国港湾・竹内委員長、荷役機械自動化に改めて反対示す",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202459/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/06/202460/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "井本商運、防衛省と輸送協力で協定",
-  "url": "https://www.kaijipress.com/news/container/2026/06/202460/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202461/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ウルサ、ブラジル砂糖輸出、約30万トン減、エタノール需要増加の影響で",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202461/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202462/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "共栄タンカー、メキシコ滞留のプロダクト船、推定全損に、特別利益24億円計上へ",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202462/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202463/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "米国の艦艇海外建造、補助艦は容認、戦闘艦は制限、議会で議論",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202463/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202464/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "三菱造船、アンモニア燃料システム受注、日立造船エンジン向けダブルライセンス対応",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202464/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202465/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "旭洋造船、新社長に設計出身の相場氏が昇格、越智前社長は会長に",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202465/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202466/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "新造船市場、31年後半納期でケープ発注具体化、異例の5年先、HMMが新造整備",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202466/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/06/202467/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "海事AIのノアロジー、1.5億円資金調達",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/06/202467/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/06/202472/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来へのメッセージ】瀬野直人・福神汽船社長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/06/202472/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/06/202473/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】関根隆司・商船三井マリテックス・エグゼクティブフェロー",
-  "url": "https://www.kaijipress.com/person/logbook/2026/06/202473/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/06/202474/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】ルーカス・バームパリス/セーフバルカーズ社長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/06/202474/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/06/202468/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "川崎近海汽船、人事異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/06/202468/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/06/202469/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "川崎汽船、人事異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/06/202469/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/06/202470/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "ダイトーコーポレーション、新役員体制",
-  "url": "https://www.kaijipress.com/person/jinji/2026/06/202470/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
- "https://www.kaijipress.com/column/aotou/2026/06/202471/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【青灯】発注ブームでの構造変化",
-  "url": "https://www.kaijipress.com/column/aotou/2026/06/202471/",
-  "date": "2026/06/26",
-  "sd": "06/26",
-  "first_seen_iso": "2026-06-26T20:15:28.361293+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316507": {
   "src": "j",
   "cat": "外航全般",
@@ -3323,7 +3053,7 @@
  "https://www.kaijipress.com/news/tramper/2026/07/202613/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船、ペトロナス…",
+  "title": "川崎汽船、ペトロナス向けLNG船2隻竣工、長期契約に投入",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202613/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -3332,7 +3062,7 @@
  "https://www.kaijipress.com/news/tramper/2026/07/202614/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運・大谷祐介社長、創業記念日あいさつ、「次の歴史をつくる意識を」",
+  "title": "飯野海運・大谷祐介社…",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202614/",
   "date": "2026/07/02",
   "sd": "07/02",
@@ -4165,5 +3895,41 @@
   "date": "2026/07/03",
   "sd": "07/03",
   "first_seen_iso": "2026-07-03T19:18:50.978314+09:00"
+ },
+ "https://splash247.com/hormuz-reopening-plans-thrown-into-doubt-after-evergreen-boxship-attack/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz reopening plans thrown into doubt after Evergreen boxship attack",
+  "url": "https://splash247.com/hormuz-reopening-plans-thrown-into-doubt-after-evergreen-boxship-attack/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-07-03T21:27:39.847643+09:00"
+ },
+ "https://splash247.com/splash-wrap-hormuz-hope-dashed/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Hormuz hope dashed",
+  "url": "https://splash247.com/splash-wrap-hormuz-hope-dashed/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-07-03T21:27:39.847643+09:00"
+ },
+ "https://splash247.com/a-career-in-shipping-the-truth-about-getting-a-job-in-maritime/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "A Career in Shipping: The truth about getting a job in maritime",
+  "url": "https://splash247.com/a-career-in-shipping-the-truth-about-getting-a-job-in-maritime/",
+  "date": "2026/06/26",
+  "sd": "06/26",
+  "first_seen_iso": "2026-07-03T21:27:39.847643+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2072号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-03T21:27:39.847796+09:00"
  }
 }
