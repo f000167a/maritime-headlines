@@ -1,148 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=315614": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（408）中小、見えぬ次の一手。中国新興ヤード、空オーダー爆弾",
-  "url": "https://www.jmd.co.jp/article.php?no=315614",
-  "date": "2026/05/29",
-  "sd": "05/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330082+09:00"
- },
- "https://www.kaijipress.com/news/shipping/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜経営・全般＞",
-  "url": "https://www.kaijipress.com/news/shipping/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/news/container/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜コンテナ・物流＞",
-  "url": "https://www.kaijipress.com/news/container/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/news/tramper/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜不定期専用船＞・海洋",
-  "url": "https://www.kaijipress.com/news/tramper/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/news/information/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "Information",
-  "url": "https://www.kaijipress.com/news/information/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/person/profile/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "プロフィール",
-  "url": "https://www.kaijipress.com/person/profile/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/person/senkun/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "次代への戦訓",
-  "url": "https://www.kaijipress.com/person/senkun/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/person/zosentop/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "造船新トップの素顔",
-  "url": "https://www.kaijipress.com/person/zosentop/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/feature/highlight/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "話題の新造船",
-  "url": "https://www.kaijipress.com/feature/highlight/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.kaijipress.com/feature/forecast/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "市況予測特集",
-  "url": "https://www.kaijipress.com/feature/forecast/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330463+09:00"
- },
- "https://www.tramp.co.jp/fenet/daily_report": {
-  "src": "t",
-  "cat": "TDS Daily",
-  "title": "【本日のトピック】中国不動産大手100社、上半期販売額は前年比▲14%減7月2日：T/C市場＝13隻・91万DWT、V/C市場＝鉄鉱石3隻",
-  "url": "https://www.tramp.co.jp/fenet/daily_report",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330997+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "目次（計7部門）",
-  "url": "https://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330997+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "鉄鉱石部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330997+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "マイナーバルク部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330997+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "新造・中古船部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330997+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-06-29T09:11:06.330997+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316269": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -3323,7 +3179,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202638/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、2.4万TEU型仏籍LNG燃料船が命名、ルアーブルで式典",
+  "title": "CMA-CGM、2.…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202638/",
   "date": "2026/07/03",
   "sd": "07/03",
@@ -3413,7 +3269,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202646/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、リーファー…",
+  "title": "マースク、リーファーに次世代IoT機器導入、データ活用を促進",
   "url": "https://www.kaijipress.com/news/container/2026/07/202646/",
   "date": "2026/07/03",
   "sd": "07/03",
@@ -3967,5 +3823,14 @@
   "date": "2026/07/03",
   "sd": "07/03",
   "first_seen_iso": "2026-07-06T07:56:54.769745+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316500": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "IMO、湾外避難計画を休止。オマーンで貨物船攻撃",
+  "url": "https://www.jmd.co.jp/article.php?no=316500",
+  "date": "2026/06/29",
+  "sd": "06/29",
+  "first_seen_iso": "2026-07-06T13:19:53.046255+09:00"
  }
 }
