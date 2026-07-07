@@ -1,22 +1,4 @@
 {
- "https://splash247.com/castor-returns-to-bulker-buying-with-37-5m-deal-for-modern-kamsarmax/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Castor returns to bulker buying with $37.5m deal for modern kamsarmax",
-  "url": "https://splash247.com/castor-returns-to-bulker-buying-with-37-5m-deal-for-modern-kamsarmax/",
-  "date": "2026/06/22",
-  "sd": "06/22",
-  "first_seen_iso": "2026-06-30T08:58:17.485305+09:00"
- },
- "https://splash247.com/japanese-shipping-venture-sakura-ocean-places-debut-bulker-orders-at-three-domestic-yards/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Japanese shipping venture Sakura Ocean places debut bulker orders at three domestic yards",
-  "url": "https://splash247.com/japanese-shipping-venture-sakura-ocean-places-debut-bulker-orders-at-three-domestic-yards/",
-  "date": "2026/06/22",
-  "sd": "06/22",
-  "first_seen_iso": "2026-06-30T08:58:17.485305+09:00"
- },
  "https://news.google.com/rss/articles/CBMibEFVX3lxTE94VWFfMkhUa3ZvZXVxelBtRC1xNFJPb2Z2cGRkaEN3RkJGQnhPeGJPV0lkbl9fa3VUdDEzZDdfV3UzaEY3UklPcXA2MUhqQnNib2V4T29rVUVaOHZZcV9PQTFXQ0dhM3NoUEQ0MQ?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3377,7 +3359,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202678/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船の新レストラン船“AMANE”、東京湾に浮かぶ「邸宅」",
+  "title": "日本郵船の新レストラ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202678/",
   "date": "2026/07/06",
   "sd": "07/06",
@@ -3404,7 +3386,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202681/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "インフォーマジャパン…",
+  "title": "インフォーマジャパン、新社長にスタントン氏",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202681/",
   "date": "2026/07/06",
   "sd": "07/06",
@@ -3931,5 +3913,41 @@
   "date": "2026/06/29",
   "sd": "06/29",
   "first_seen_iso": "2026-07-07T08:01:49.043919+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316534": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "ドミンゲスIMO局長、約2500人が湾外退避。計画再開へ対話重視",
+  "url": "https://www.jmd.co.jp/article.php?no=316534",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-07-07T09:19:22.225050+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316536": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "船協・海上安全等対策本部、秩序ある安全な脱出を。各国政府に要請へ",
+  "url": "https://www.jmd.co.jp/article.php?no=316536",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-07-07T09:19:22.225050+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316535": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（409）「親日」に甘えず再開拓。ギリシャ詣で、顔触れに変化",
+  "url": "https://www.jmd.co.jp/article.php?no=316535",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-07-07T09:19:22.225050+09:00"
+ },
+ "https://splash247.com/enesel-adds-ultramaxes-to-dry-bulk-return/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Enesel adds ultramaxes to dry bulk return",
+  "url": "https://splash247.com/enesel-adds-ultramaxes-to-dry-bulk-return/",
+  "date": "2026/06/29",
+  "sd": "06/29",
+  "first_seen_iso": "2026-07-07T09:19:22.225875+09:00"
  }
 }
