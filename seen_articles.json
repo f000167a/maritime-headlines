@@ -3197,7 +3197,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202728/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術の最前線、東京計器、離着桟対応の操船技術を開発、低船速域での船体位置制御を実現",
+  "title": "《連載》自動運航技術…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202728/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3242,7 +3242,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202733/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "新来島サノヤス、64…",
+  "title": "新来島サノヤス、64型バルカー“AG　VARVARA”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202733/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3607,5 +3607,14 @@
   "date": "2026/07/01",
   "sd": "07/01",
   "first_seen_iso": "2026-07-08T12:33:55.077312+09:00"
+ },
+ "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Castor adds second modern kamsarmax in a week",
+  "url": "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-07-08T15:16:16.272717+09:00"
  }
 }
