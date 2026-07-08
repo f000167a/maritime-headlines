@@ -1,85 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202554/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "《連載》次代への戦訓/日本船主協会元常務理事・アジア船主協会前事務局長/園田裕一氏⑤、港湾EDIと独禁法適用除外問題",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202554/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202557/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "MPCC、7000TEU型コンテナ船4隻を買船、3年間の用船契約も締結",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202557/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/202555/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "G2オーシャン、ブック・アンド・クレームを導入、バイオ燃料利用で",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202555/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202556/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "江南造船、LNG船の累計受注12隻に拡大、コスコ/シェル向け4隻正式契約",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202556/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
- },
- "https://www.kaijipress.com/feature/discussion/2026/07/202558/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "記者座談会/海運この1カ月＜下＞コンテナ船、短期運賃が急上昇、年後半に焦点、業績改善見通しも",
-  "url": "https://www.kaijipress.com/feature/discussion/2026/07/202558/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.766825+09:00"
- },
- "https://splash247.com/cosco-orders-24-bulkers-in-1-27bn-leasing-play/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "COSCO orders 24 bulkers in $1.27bn leasing play",
-  "url": "https://splash247.com/cosco-orders-24-bulkers-in-1-27bn-leasing-play/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
- },
- "https://splash247.com/alcoa-moves-for-south32-aluminium-assets/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Alcoa moves for South32 aluminium assets",
-  "url": "https://splash247.com/alcoa-moves-for-south32-aluminium-assets/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
- },
- "https://splash247.com/diana-keeps-pressure-on-genco-with-tender-extension/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana keeps pressure on Genco with tender extension",
-  "url": "https://splash247.com/diana-keeps-pressure-on-genco-with-tender-extension/",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
- },
- "https://splash247.com/new-dry-bulk-outfit-emerges-in-dubai/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "New dry bulk outfit emerges in Dubai",
-  "url": "https://splash247.com/new-dry-bulk-outfit-emerges-in-dubai/",
-  "date": "2026/06/24",
-  "sd": "06/24",
-  "first_seen_iso": "2026-07-01T17:52:06.767329+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202559/": {
   "src": "k",
   "cat": "コラム",
@@ -2360,7 +2279,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】ブラジル6月穀物輸出、大豆は前年比+8%増の1,450万トン7月6日：T/C市場＝14隻・89万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
+  "title": "【本日のトピック】インド、発電所の国内炭使用比率が拡大傾向7月7日：T/C市場＝16隻・109万DWT、V/C市場＝鉄鉱石5隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/06",
   "sd": "07/06",
@@ -3197,7 +3116,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202728/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術…",
+  "title": "《連載》自動運航技術の最前線、東京計器、離着桟対応の操船技術を開発、低船速域での船体位置制御を実現",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202728/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3251,7 +3170,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202734/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、世界一周ヨットレースへの挑戦を支援",
+  "title": "古野電気、世界一周ヨ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202734/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3616,5 +3535,59 @@
   "date": "2026/06/30",
   "sd": "06/30",
   "first_seen_iso": "2026-07-08T15:16:16.272717+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202742/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "栗林商船協力のバイオ燃料事業、NHK番組で紹介",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202742/",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-08T18:07:37.555648+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202743/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エコバンカーシッピング、新社長に上野トランス・栁川氏",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202743/",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-08T18:07:37.555648+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202744/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エイ・アイ・エス、鳥羽商船高専体育館で撮影会",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202744/",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-08T18:07:37.555648+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202745/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "カメリアライン、国際フェリーの代替検討を加速、日本人旅客の開拓推進",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202745/",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-08T18:07:37.555648+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202746/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》造船保護政策への転換④、「誰と守るか」、新たな国際分業",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202746/",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-08T18:07:37.555648+09:00"
+ },
+ "https://splash247.com/hormuz-returns-to-crisis-mode-after-tanker-attacks-trigger-us-strikes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz returns to crisis mode after tanker attacks trigger US strikes",
+  "url": "https://splash247.com/hormuz-returns-to-crisis-mode-after-tanker-attacks-trigger-us-strikes/",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-08T18:07:37.556146+09:00"
  }
 }
