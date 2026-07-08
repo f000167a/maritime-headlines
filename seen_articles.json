@@ -1,31 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316346": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "フェデックス調査、EC代替市場 アジア域内・米国に。EUデミニミス撤廃で",
-  "url": "https://www.jmd.co.jp/article.php?no=316346",
-  "date": "2026/06/24",
-  "sd": "06/24",
-  "first_seen_iso": "2026-07-01T09:20:15.439364+09:00"
- },
- "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Castor adds second modern kamsarmax in a week",
-  "url": "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/",
-  "date": "2026/06/30",
-  "sd": "06/30",
-  "first_seen_iso": "2026-07-01T09:20:15.440183+09:00"
- },
- "https://splash247.com/taylor-maritime-adds-two-more-deals-to-disposal-run/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Taylor Maritime adds two more deals to disposal run",
-  "url": "https://splash247.com/taylor-maritime-adds-two-more-deals-to-disposal-run/",
-  "date": "2026/06/23",
-  "sd": "06/23",
-  "first_seen_iso": "2026-07-01T09:20:15.440183+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202554/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -3053,7 +3026,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202713/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ONEジャパン、全国…",
+  "title": "ONEジャパン、全国でデマレージ徴収を一元化、業務効率化・利便性向上へ",
   "url": "https://www.kaijipress.com/news/container/2026/07/202713/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3179,7 +3152,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202722/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、名大施設に愛称命名",
+  "title": "鈴与、名大施設に愛称…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202722/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3269,7 +3242,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202733/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "新来島サノヤス、64型バルカー“AG　VARVARA”竣工",
+  "title": "新来島サノヤス、64…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202733/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3278,7 +3251,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202734/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、世界一周ヨ…",
+  "title": "古野電気、世界一周ヨットレースへの挑戦を支援",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202734/",
   "date": "2026/07/07",
   "sd": "07/07",
@@ -3625,5 +3598,14 @@
   "date": "2026/06/30",
   "sd": "06/30",
   "first_seen_iso": "2026-07-08T07:55:38.375415+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316574": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "ペルシャ湾足止め、日本関係船32隻。金子国交相",
+  "url": "https://www.jmd.co.jp/article.php?no=316574",
+  "date": "2026/07/01",
+  "sd": "07/01",
+  "first_seen_iso": "2026-07-08T12:33:55.077312+09:00"
  }
 }
