@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316374": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "UPS、医薬品低温網 強化。積み替え拠点に77億円投資",
-  "url": "https://www.jmd.co.jp/article.php?no=316374",
-  "date": "2026/06/25",
-  "sd": "06/25",
-  "first_seen_iso": "2026-07-02T09:20:20.599807+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316362": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/神農達也】港湾・物流の人材確保、不変の魅力と働き方の変化発信を",
-  "url": "https://www.jmd.co.jp/article.php?no=316362",
-  "date": "2026/06/25",
-  "sd": "06/25",
-  "first_seen_iso": "2026-07-02T09:20:20.599807+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/07/202593/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2900,7 +2882,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202745/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "カメリアライン、国際…",
+  "title": "カメリアライン、国際フェリーの代替検討を加速、日本人旅客の開拓推進",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202745/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2918,7 +2900,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202751/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "運輸総研、海上輸送網確保提言を国交相に手交",
+  "title": "運輸総研、海上輸送網…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202751/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2945,7 +2927,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202754/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "民生輪船、1100T…",
+  "title": "民生輪船、1100TEU型2隻のオプション行使、計4隻を新造整備",
   "url": "https://www.kaijipress.com/news/container/2026/07/202754/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2981,7 +2963,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202758/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、旧作業服をコースターに",
+  "title": "鈴与、旧作業服をコー…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202758/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -3071,7 +3053,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202769/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "神戸運輸監理部、舶用機関メーカー4社と出前授業",
+  "title": "神戸運輸監理部、舶用…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202769/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -3080,7 +3062,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202770/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、自動運航船…",
+  "title": "古野電気、自動運航船向け研究成果を発表",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202770/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -3490,5 +3472,14 @@
   "date": "2026/07/08",
   "sd": "07/08",
   "first_seen_iso": "2026-07-09T09:15:35.077266+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316597": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】日新社長・峯茂樹さん、休日、気付けば夕方に...",
+  "url": "https://www.jmd.co.jp/article.php?no=316597",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-09T13:03:15.039789+09:00"
  }
 }
