@@ -1,22 +1,4 @@
 {
- "https://splash247.com/hormuz-moves-from-shutdown-to-managed-recovery/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz moves from shutdown to managed recovery",
-  "url": "https://splash247.com/hormuz-moves-from-shutdown-to-managed-recovery/",
-  "date": "2026/06/25",
-  "sd": "06/25",
-  "first_seen_iso": "2026-07-02T22:02:10.644229+09:00"
- },
- "https://splash247.com/diana-lands-improved-rate-for-panamax-bulker/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana lands improved rate for panamax bulker",
-  "url": "https://splash247.com/diana-lands-improved-rate-for-panamax-bulker/",
-  "date": "2026/06/25",
-  "sd": "06/25",
-  "first_seen_iso": "2026-07-02T22:02:10.644229+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316665": {
   "src": "j",
   "cat": "コンテナ",
@@ -2504,7 +2486,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202752/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与海運、清水海技短…",
+  "title": "鈴与海運、清水海技短大の教室に愛称命名",
   "url": "https://www.kaijipress.com/news/container/2026/07/202752/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2522,7 +2504,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202754/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "民生輪船、1100TEU型2隻のオプション行使、計4隻を新造整備",
+  "title": "民生輪船、1100T…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202754/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2576,7 +2558,7 @@
  "https://www.kaijipress.com/news/tramper/2026/07/202760/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船、新造VLGC、BGN向けに投入、“LYLA PATHFINDER”と命名",
+  "title": "日本郵船、新造VLG…",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202760/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2585,7 +2567,7 @@
  "https://www.kaijipress.com/news/tramper/2026/07/202761/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "川崎汽船参画のコンソ…",
+  "title": "川崎汽船参画のコンソーシアム、浮遊軸型風車、海上実証開始、長崎県で1年",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202761/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2648,7 +2630,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202769/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "神戸運輸監理部、舶用…",
+  "title": "神戸運輸監理部、舶用機関メーカー4社と出前授業",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202769/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -2657,7 +2639,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202770/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "古野電気、自動運航船向け研究成果を発表",
+  "title": "古野電気、自動運航船…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202770/",
   "date": "2026/07/08",
   "sd": "07/08",
@@ -3328,5 +3310,23 @@
   "date": "2026/07/02",
   "sd": "07/02",
   "first_seen_iso": "2026-07-09T20:14:00.727989+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316140": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】国際フレイトフォワーダーズ協会（JIFFA）会長・笠井達二さん。フォワーダーの真価問われる時",
+  "url": "https://www.jmd.co.jp/article.php?no=316140",
+  "date": "2026/06/18",
+  "sd": "06/18",
+  "first_seen_iso": "2026-07-09T23:00:04.262737+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202612/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "邦船社と国内船主、ドライバルク事業に期待、市場環境好転で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202612/",
+  "date": "2026/07/09",
+  "sd": "07/09",
+  "first_seen_iso": "2026-07-09T23:00:04.263076+09:00"
  }
 }
