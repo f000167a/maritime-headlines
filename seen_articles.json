@@ -1,328 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316628": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "コンテナ船、船腹需要なお旺盛。用船料高止まり、解撤低水準",
-  "url": "https://www.jmd.co.jp/article.php?no=316628",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316627": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "パンスター、日韓共同運航参画。KNFC、19年ぶり新規加入",
-  "url": "https://www.jmd.co.jp/article.php?no=316627",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316623": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "コンテナ船定時順守率、5月65%で年初来最高。前年同月比では1.2ポイント低下",
-  "url": "https://www.jmd.co.jp/article.php?no=316623",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316624": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "CMA CGM、オマーンに多目的ターミナル。アスヤドと650億円投資",
-  "url": "https://www.jmd.co.jp/article.php?no=316624",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316610": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "COSCO、BC24隻 自国造船に発注。人民元決済、投資規模2000億円",
-  "url": "https://www.jmd.co.jp/article.php?no=316610",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316609": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "【Newsクリップ】星港「JERAGES」発足。LNG・アンモニア 調達・輸送・販売",
-  "url": "https://www.jmd.co.jp/article.php?no=316609",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316613": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "ベソン、AI駆使し新業務基盤。運航管理「IMOS」中心に",
-  "url": "https://www.jmd.co.jp/article.php?no=316613",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316626": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "【Global Lens】【インタビュー　ギリシャ船主の戦略】JHIスチームシップ社長　ジョン・H・イングレシス氏、市況堅調 船隊整備加速",
-  "url": "https://www.jmd.co.jp/article.php?no=316626",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316629": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "商船三井・日本IBM、安全運航AI開発。情報統合・意思決定、高度化",
-  "url": "https://www.jmd.co.jp/article.php?no=316629",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316612": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "LNG燃料、35年に2700万トン、シェルが需要予測、7倍に拡大",
-  "url": "https://www.jmd.co.jp/article.php?no=316612",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316615": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "WFOサミット、「洋上風力の役割明確に」。開会あいさつでヘルツィッヒMD",
-  "url": "https://www.jmd.co.jp/article.php?no=316615",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316607": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "NKと海技研、液化CO2タンク、腐食量評価へ共同研究",
-  "url": "https://www.jmd.co.jp/article.php?no=316607",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316603": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "三井E&S、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=316603",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316600": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "かもめプロペラ、サイドスラスター、累計生産5000台達成",
-  "url": "https://www.jmd.co.jp/article.php?no=316600",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316593": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "日舶工、インスタグラムでウェブ広告配信。20代前半ターゲットに",
-  "url": "https://www.jmd.co.jp/article.php?no=316593",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316621": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "郵船ロジ、ベルギーに欧州本社。蘭から機能移転、欧州に注力姿勢",
-  "url": "https://www.jmd.co.jp/article.php?no=316621",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316630": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "EFインターナショナル、製品ラインアップ拡充。カルマーの荷役機器、日本仕様展開も",
-  "url": "https://www.jmd.co.jp/article.php?no=316630",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316620": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "三菱倉庫、アセットマネジ子会社設立。27年度300億円のファンド設立",
-  "url": "https://www.jmd.co.jp/article.php?no=316620",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316595": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "シーバロジ、米向け航空チャーター増強。越発開始・無錫発を刷新",
-  "url": "https://www.jmd.co.jp/article.php?no=316595",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316606": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "国土交通省、人事異動",
-  "url": "https://www.jmd.co.jp/article.php?no=316606",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316619": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "【港湾セミナー】大阪府市港湾の優位性強調。栗林商船はモーダルシフト紹介",
-  "url": "https://www.jmd.co.jp/article.php?no=316619",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316625": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "横浜港埠頭、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=316625",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316599": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "門司税関調べ、ドレッシング輸出 過去最高",
-  "url": "https://www.jmd.co.jp/article.php?no=316599",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316608": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "商船三井さんふらわあ、前期経常益43億円",
-  "url": "https://www.jmd.co.jp/article.php?no=316608",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316605": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "4―6月内航燃油妥結、A重油15.7万円。適合油は中東影響で未定",
-  "url": "https://www.jmd.co.jp/article.php?no=316605",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316602": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "上野トランステック、会社人事",
-  "url": "https://www.jmd.co.jp/article.php?no=316602",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316589": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "関光ロジNEXT、下関港で8―9月、大学生向け一日仕事体験。若手社員とのオンライン交流会も",
-  "url": "https://www.jmd.co.jp/article.php?no=316589",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316597": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【語録採録】日新社長・峯茂樹さん、休日、気付けば夕方に...",
-  "url": "https://www.jmd.co.jp/article.php?no=316597",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.595676+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/06/202388/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "中小型バルカー市況、穀物・石炭荷動き背景に堅調、2万ドル超も",
-  "url": "https://www.kaijipress.com/news/tramper/2026/06/202388/",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.596039+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/06/202401/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本郵船、人事異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/06/202401/",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-02T08:07:49.596039+09:00"
- },
- "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tYnhtWEFiYTBlazNoZFQ2X1B0WDdsSzRoQjd3TktrNUlwWElienhzRzZWS0lPNDlIUzN6VElkVTkyWEhlNEtzRGNKZURSdWsxTURNWEN0SnBTYWtlVmRHWkNWU0xNVGZqR0pjZjRSR083VXpIT2htYw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "COSCO orders 24 bulkers in $1.27bn leasing play",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tYnhtWEFiYTBlazNoZFQ2X1B0WDdsSzRoQjd3TktrNUlwWElienhzRzZWS0lPNDlIUzN6VElkVTkyWEhlNEtzRGNKZURSdWsxTURNWEN0SnBTYWtlVmRHWkNWU0xNVGZqR0pjZjRSR083VXpIT2htYw?oc=5",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-02T08:07:49.596527+09:00"
- },
- "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QUWo5NmwtRUFac0JYQnI2cE1Ubjd3NnlSSlF6ekVhWlZJalVlbTQwMXp0a1lmQ2MxR0hTcERVUXEwcWxPaUNRb0hUVGNPUUlnMkJiUENXUmw4UU1FQ3ZWNG5Td2RKZHdGMEllQVdyZTdCaG51V0hKLVVUUjI0VUE?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana keeps pressure on Genco with tender extension",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QUWo5NmwtRUFac0JYQnI2cE1Ubjd3NnlSSlF6ekVhWlZJalVlbTQwMXp0a1lmQ2MxR0hTcERVUXEwcWxPaUNRb0hUVGNPUUlnMkJiUENXUmw4UU1FQ3ZWNG5Td2RKZHdGMEllQVdyZTdCaG51V0hKLVVUUjI0VUE?oc=5",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-02T08:07:49.596527+09:00"
- },
- "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdUczZjlKVjlTOFhxOXVjQVRQa21scC1XUXYzaUNNckwxazJrSkNvQnFic25UOUxucEVqNUF2Y01kRnFMdHVKRGd5SVhRLXZNV0hfS200d0Vta0hWa0I2YThRUXlWRnVhUWVJcUY3cnQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Alcoa moves for South32 aluminium assets",
-  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdUczZjlKVjlTOFhxOXVjQVRQa21scC1XUXYzaUNNckwxazJrSkNvQnFic25UOUxucEVqNUF2Y01kRnFMdHVKRGd5SVhRLXZNV0hfS200d0Vta0hWa0I2YThRUXlWRnVhUWVJcUY3cnQ?oc=5",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-02T08:07:49.596527+09:00"
- },
- "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwdnROTWNfZkJQdzkyV2NoT0FlNlJhaURDWmJ4VDVyM3JnWklYd0h4NGhHendUMkJSYTVNazlEZ2JGU1JSQkRUdHB2Zl9xMW0tRV8wYXZtZ1R5MHJYOUF2V3dDYUF0NE53dURDMjA2bDI3cFBCckQ4?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "COSCO-led group wins Tarragona terminal award",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwdnROTWNfZkJQdzkyV2NoT0FlNlJhaURDWmJ4VDVyM3JnWklYd0h4NGhHendUMkJSYTVNazlEZ2JGU1JSQkRUdHB2Zl9xMW0tRV8wYXZtZ1R5MHJYOUF2V3dDYUF0NE53dURDMjA2bDI3cFBCckQ4?oc=5",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-02T08:07:49.596527+09:00"
- },
- "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlpSLVZRZHpyZHk0dU9LbDZmc1EwM2RvU0lJT2pKZi1MenM3TmxOSjdsMXZweEc0dkJXUlJPaHRzMnoyUldhMkxka0lXb0dzcmVmc2x2QzBUZVJxUmJ1WjY5UWYxajFxRlBfeDlLUEtMaGN4Rkw4bDJDbDNvWTdUU25DdlBpNFRfVXNGcGh4UmhVdw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Uni-Tankers selects Sofar Ocean for fleetwide voyage optimisation",
-  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlpSLVZRZHpyZHk0dU9LbDZmc1EwM2RvU0lJT2pKZi1MenM3TmxOSjdsMXZweEc0dkJXUlJPaHRzMnoyUldhMkxka0lXb0dzcmVmc2x2QzBUZVJxUmJ1WjY5UWYxajFxRlBfeDlLUEtMaGN4Rkw4bDJDbDNvWTdUU25DdlBpNFRfVXNGcGh4UmhVdw?oc=5",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-02T08:07:49.596527+09:00"
- },
- "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PUGpwdkl4WTlVQlhrNFdJUDhDUEJvX28zQ212WVVDRFpmbmtfUVJ5akxyOEkzOFAtNDhfTWlzd3Q5R1hpZ2txclI2UzN1djhVQWxhSXU5cFlQRnB5SXkwbGlsNWk4Y3JTNXh1N0VLTTZmRjdpbGdFX0Yxcw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "First notation for shipbuilding emissions debuts",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PUGpwdkl4WTlVQlhrNFdJUDhDUEJvX28zQ212WVVDRFpmbmtfUVJ5akxyOEkzOFAtNDhfTWlzd3Q5R1hpZ2txclI2UzN1djhVQWxhSXU5cFlQRnB5SXkwbGlsNWk4Y3JTNXh1N0VLTTZmRjdpbGdFX0Yxcw?oc=5",
-  "date": "2026/07/01",
-  "sd": "07/01",
-  "first_seen_iso": "2026-07-02T08:07:49.596527+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316374": {
   "src": "j",
   "cat": "航空貨物",
@@ -3787,5 +3463,32 @@
   "date": "2026/07/09",
   "sd": "07/09",
   "first_seen_iso": "2026-07-09T07:59:03.407515+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNWxMZ1REOHp3cXlrTU41VVdpSVNOcXBlWTFHbGQ3d3lPYWJadVBRS3R4MExCQmM0VVpNaGcxem9UM0dhR2xzV2J2b0pJVVdXT2tjTzEyenhXRDdpcjRRamFEaDhzdG1xSjBvbWZ5T1A1Q2hF?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Polaris lines up Vale-backed newcastlemaxes",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNWxMZ1REOHp3cXlrTU41VVdpSVNOcXBlWTFHbGQ3d3lPYWJadVBRS3R4MExCQmM0VVpNaGcxem9UM0dhR2xzV2J2b0pJVVdXT2tjTzEyenhXRDdpcjRRamFEaDhzdG1xSjBvbWZ5T1A1Q2hF?oc=5",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-09T09:15:35.077266+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iM08weS15LTdWMzM1LWFOOC1zOHZXajhaNlNUZVFReTdlLThIU1lhVjBpbFRqa082bDhMMGpXUjR5NmhhVlpMbXZRU2VIVnBiNEhsTTh0U1Z3ckk0VG1ldXlyc1ljSGV6c1AwRQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana secures improved kamsarmax deal",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iM08weS15LTdWMzM1LWFOOC1zOHZXajhaNlNUZVFReTdlLThIU1lhVjBpbFRqa082bDhMMGpXUjR5NmhhVlpMbXZRU2VIVnBiNEhsTTh0U1Z3ckk0VG1ldXlyc1ljSGV6c1AwRQ?oc=5",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-09T09:15:35.077266+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5bEJPeVdiNkxfWGZyMk1MRjJyamZRLWtxQVpDSkVOWm1iT1hmUXRsZFFJd21TcExfeUg3d1FiZW9xd3cyWE5qY29ZaHVKejkxbFFDOFZvNjhKV08taF83cGw5bEQ5clNYZ0trbFJFWHA1RF9XZHc?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipping’s AI race runs ahead of the rulebook",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5bEJPeVdiNkxfWGZyMk1MRjJyamZRLWtxQVpDSkVOWm1iT1hmUXRsZFFJd21TcExfeUg3d1FiZW9xd3cyWE5qY29ZaHVKejkxbFFDOFZvNjhKV08taF83cGw5bEQ5clNYZ0trbFJFWHA1RF9XZHc?oc=5",
+  "date": "2026/07/08",
+  "sd": "07/08",
+  "first_seen_iso": "2026-07-09T09:15:35.077266+09:00"
  }
 }
