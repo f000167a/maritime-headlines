@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202634/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "《連載》次代への戦訓/日本船主協会元常務理事・アジア船主協会前事務局長/園田裕一氏⑦、アジア船主フォーラム発足",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202634/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202635/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "東京港、4月は2%減の37万TEU、2カ月連続減少",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202635/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202637/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、上期は運賃上昇基調で推移、市況変動要素も多く",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202637/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202638/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、2.4万TEU型仏籍LNG燃料船が命名、ルアーブルで式典",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202638/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202639/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ZIM、アジア―南米航路を新設、9月から",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202639/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
- },
- "https://www.kaijipress.com/feature/discussion/2026/07/202636/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "記者座談会/造船この1カ月、造船ロードマップ、裾野広がる、LNG船再開や修繕、中小造船活用も",
-  "url": "https://www.kaijipress.com/feature/discussion/2026/07/202636/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-03T16:32:14.259544+09:00"
- },
- "https://splash247.com/splash-wrap-shipping-in-the-spotlight/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Shipping in the spotlight",
-  "url": "https://splash247.com/splash-wrap-shipping-in-the-spotlight/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-03T16:32:14.259961+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202640/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -830,7 +767,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】5月コロンビア炭輸出、前年水準割れ続くも前月比では8割増7月8日：T/C市場＝15隻・109万DWT、V/C市場＝鉄鉱石5隻、石炭3隻、穀物1隻",
+  "title": "【本日のトピック】中国6月の自動車販売は7カ月連続前年割れ7月9日：T/C市場＝12隻・89万DWT、V/C市場＝鉄鉱石10隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/06",
   "sd": "07/06",
@@ -3265,5 +3202,77 @@
   "date": "2026/07/02",
   "sd": "07/02",
   "first_seen_iso": "2026-07-10T09:17:32.760868+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202802/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ウェザーニューズ、シーナビゲーター販売好調続く、欧州・アジアで拡販",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202802/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202803/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、印―北米東岸航路でスエズ回帰、ジェミニ「AE15」に続き",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202803/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202804/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中和物産、高効率EV荷役機器の販売加速、大阪港や名古屋港に納入",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202804/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202805/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・コンテナ運賃指標、米国向けの運賃上昇率が鈍化",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202805/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202801/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "鉄鉱石輸送の平均船型、ギニアは約22万5000重量トン、大型船に優位性",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202801/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/07/202800/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "海洋都市横浜うみ博、来月8～9日開催",
+  "url": "https://www.kaijipress.com/news/information/2026/07/202800/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
+ },
+ "https://splash247.com/splash-wrap-hormuz-at-a-standstill/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Hormuz at a standstill",
+  "url": "https://splash247.com/splash-wrap-hormuz-at-a-standstill/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224900+09:00"
+ },
+ "https://splash247.com/eu-pushes-to-end-irelands-alumina-exports-to-russia/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "EU pushes to end Ireland’s alumina exports to Russia",
+  "url": "https://splash247.com/eu-pushes-to-end-irelands-alumina-exports-to-russia/",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-10T16:52:54.224900+09:00"
  }
 }
