@@ -2405,7 +2405,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202804/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "中和物産、高効率EV荷役機器の販売加速、大阪港や名古屋港に納入",
+  "title": "中和物産、高効率EV…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202804/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -2522,7 +2522,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202812/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ハパックロイド、ハン…",
+  "title": "ハパックロイド、ハンブルク港と陸電供給で提携、GHG排出削減へ",
   "url": "https://www.kaijipress.com/news/container/2026/07/202812/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -2666,7 +2666,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202828/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "村上秀造船、新型13型ケミカル船続々完工、3番船“HIKARI THERESA”竣工",
+  "title": "村上秀造船、新型13…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202828/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -2711,7 +2711,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202833/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "名村造船所、新182…",
+  "title": "名村造船所、新182型ケープ“VERITAS QUEEN”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202833/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -3427,5 +3427,167 @@
   "date": "2026/07/13",
   "sd": "07/13",
   "first_seen_iso": "2026-07-13T19:00:44.888500+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.154284+09:00"
+ },
+ "https://splash247.com/chinas-electric-ship-rollout-scales-up/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "China’s electric ship rollout scales up",
+  "url": "https://splash247.com/chinas-electric-ship-rollout-scales-up/",
+  "date": "2026/07/06",
+  "sd": "07/06",
+  "first_seen_iso": "2026-07-13T21:42:07.154996+09:00"
+ },
+ "https://splash247.com/panama-canal-tightens-draught-limits-again/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal tightens draught limits again",
+  "url": "https://splash247.com/panama-canal-tightens-draught-limits-again/",
+  "date": "2026/07/06",
+  "sd": "07/06",
+  "first_seen_iso": "2026-07-13T21:42:07.154996+09:00"
+ },
+ "https://splash247.com/vessel-attacked-off-yemen/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Vessel attacked off Yemen",
+  "url": "https://splash247.com/vessel-attacked-off-yemen/",
+  "date": "2026/07/06",
+  "sd": "07/06",
+  "first_seen_iso": "2026-07-13T21:42:07.154996+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】USDA、7月度穀物需給レポート発表7月10日：T/C市場＝23隻・133万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、その他1隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.155144+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.155144+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.155144+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.155144+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.155144+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T21:42:07.155144+09:00"
  }
 }
