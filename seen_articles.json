@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316500": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "IMO、湾外避難計画を休止。オマーンで貨物船攻撃",
-  "url": "https://www.jmd.co.jp/article.php?no=316500",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-07-06T13:19:53.046255+09:00"
- },
  "https://www.kaijipress.com/news/shipping/": {
   "src": "k",
   "cat": "トップ",
@@ -155,7 +146,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国6月の自動車販売は7カ月連続前年割れ7月9日：T/C市場＝12隻・89万DWT、V/C市場＝鉄鉱石10隻",
+  "title": "【本日のトピック】USDA、7月度穀物需給レポート発表7月10日：T/C市場＝23隻・133万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/06",
   "sd": "07/06",
@@ -2729,7 +2720,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202812/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ハパックロイド、ハンブルク港と陸電供給で提携、GHG排出削減へ",
+  "title": "ハパックロイド、ハン…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202812/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -2747,7 +2738,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202814/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "DPワールド、インド…",
+  "title": "DPワールド、インド籍コンテナ船を取得、沿岸輸送を強化",
   "url": "https://www.kaijipress.com/news/container/2026/07/202814/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -2873,7 +2864,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202828/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "村上秀造船、新型13…",
+  "title": "村上秀造船、新型13型ケミカル船続々完工、3番船“HIKARI THERESA”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202828/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -2918,7 +2909,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202833/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "名村造船所、新182型ケープ“VERITAS QUEEN”竣工",
+  "title": "名村造船所、新182…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202833/",
   "date": "2026/07/10",
   "sd": "07/10",
@@ -3229,5 +3220,77 @@
   "date": "2026/07/08",
   "sd": "07/08",
   "first_seen_iso": "2026-07-13T07:41:07.984261+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202840/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "上海発欧米向け、短期コンテナ運賃が反落、4月下旬ぶり",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202840/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202841/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM、バイオLNG燃料供給を実施、ロッテルダム港で世界最大級",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202841/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202842/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "関光ロジNEXT、物流連表彰で2事業が受賞、モーダルシフトが評価",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202842/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202839/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ストルトの上半期、純利益6割減の9920万ドル、ケミカル船で運賃低下",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202839/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "舶用エンジン各社、データセンター向け需要拡大、対応を強化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
+ },
+ "https://splash247.com/ukraine-drone-strikes-force-azov-shipping-halt/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ukraine drone strikes force Azov shipping halt",
+  "url": "https://splash247.com/ukraine-drone-strikes-force-azov-shipping-halt/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.597022+09:00"
+ },
+ "https://splash247.com/hormuz-security-collapses-after-boxship-attack/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz security collapses after boxship attack",
+  "url": "https://splash247.com/hormuz-security-collapses-after-boxship-attack/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.597022+09:00"
+ },
+ "https://splash247.com/adnoc-ls-bulker-spending-nears-74m-with-fourth-acquisition/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "ADNOC L&S bulker spending nears $74m with fourth acquisition",
+  "url": "https://splash247.com/adnoc-ls-bulker-spending-nears-74m-with-fourth-acquisition/",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-13T15:40:49.597022+09:00"
  }
 }
