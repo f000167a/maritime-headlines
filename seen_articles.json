@@ -1,40 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316534": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "ドミンゲスIMO局長、約2500人が湾外退避。計画再開へ対話重視",
-  "url": "https://www.jmd.co.jp/article.php?no=316534",
-  "date": "2026/06/30",
-  "sd": "06/30",
-  "first_seen_iso": "2026-07-07T09:19:22.225050+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316536": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "船協・海上安全等対策本部、秩序ある安全な脱出を。各国政府に要請へ",
-  "url": "https://www.jmd.co.jp/article.php?no=316536",
-  "date": "2026/06/30",
-  "sd": "06/30",
-  "first_seen_iso": "2026-07-07T09:19:22.225050+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=316535": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（409）「親日」に甘えず再開拓。ギリシャ詣で、顔触れに変化",
-  "url": "https://www.jmd.co.jp/article.php?no=316535",
-  "date": "2026/06/30",
-  "sd": "06/30",
-  "first_seen_iso": "2026-07-07T09:19:22.225050+09:00"
- },
- "https://splash247.com/enesel-adds-ultramaxes-to-dry-bulk-return/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Enesel adds ultramaxes to dry bulk return",
-  "url": "https://splash247.com/enesel-adds-ultramaxes-to-dry-bulk-return/",
-  "date": "2026/06/29",
-  "sd": "06/29",
-  "first_seen_iso": "2026-07-07T09:19:22.225875+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/07/202713/": {
   "src": "k",
   "cat": "コラム",
@@ -2729,7 +2693,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202874/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダメン、カスピ海沿岸造船、再び存在感、中東情勢背景に投資拡大",
+  "title": "カスピ海沿岸造船、中東情勢背景に再び存在感、ダメンが投資拡大",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202874/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2747,7 +2711,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202876/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "エヴァレンス、アンゴ…",
+  "title": "エヴァレンス、アンゴラ沖のFPSO向けに圧縮機",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202876/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2765,7 +2729,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202878/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "NACKS、64型バルカー“MARILYDIA”竣工",
+  "title": "NACKS、64型バ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202878/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -3292,5 +3256,113 @@
   "date": "2026/07/14",
   "sd": "07/14",
   "first_seen_iso": "2026-07-14T08:49:00.636477+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KYkN4LVRhQnJJQU8wR3FlVklWWDF3SmtZcEwzLXQ2bENXQlJldkVKcURQMk9aTGRyUktPc1g5UFBjbDVQRENMcGVINnE4eXlydmd5Y3FfRzdHTzBWTHJ0S18yTkJEWG5HVXpaRl9xT2tENWs?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Lianson Fleet bulks up with ultramax brace",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KYkN4LVRhQnJJQU8wR3FlVklWWDF3SmtZcEwzLXQ2bENXQlJldkVKcURQMk9aTGRyUktPc1g5UFBjbDVQRENMcGVINnE4eXlydmd5Y3FfRzdHTzBWTHJ0S18yTkJEWG5HVXpaRl9xT2tENWs?oc=5",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMickFVX3lxTE4zRHlRdW9uTFpiNDNEVmh3TFlmUzBuX2FtZWRTTVlWU3FCTEVxbi1TQWZSSUNhRkF0Q2h5ZXNxbDlqcWNfT0xtd1MtOWFhNlF4ODhNSFM1eTlUbkNSaXhpQ3lpVnNxTHZBc241ajdwbi1sQQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana presses on with Genco takeover push",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zRHlRdW9uTFpiNDNEVmh3TFlmUzBuX2FtZWRTTVlWU3FCTEVxbi1TQWZSSUNhRkF0Q2h5ZXNxbDlqcWNfT0xtd1MtOWFhNlF4ODhNSFM1eTlUbkNSaXhpQ3lpVnNxTHZBc241ajdwbi1sQQ?oc=5",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOTEZSMU40QjByV1dmaTZGbUdIMXk2Umd1YWtvcldZYWxjRk9NUWc4b2JDY0h0dURLNUNYTWVpcFp2MUxZRVhaNVR1TzdJV3VBODJVVU5tYnhOWVRvbTRSLWhqbUVDd1BLa1NYQVlpdzdQczg2Y0hr?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "China Merchants Energy lines up 10-ship order",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOTEZSMU40QjByV1dmaTZGbUdIMXk2Umd1YWtvcldZYWxjRk9NUWc4b2JDY0h0dURLNUNYTWVpcFp2MUxZRVhaNVR1TzdJV3VBODJVVU5tYnhOWVRvbTRSLWhqbUVDd1BLa1NYQVlpdzdQczg2Y0hr?oc=5",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenc5ZFBjVW9GM3BJVDZDWkxiOWYzeGtOemdzY3dFMnBqdGN6NEN1Vkk4dHk1VXhyWWYwQ2kyendlQ2xoaUlfYUhZcERqalJPblB1Mm5NQlk0cW43bkUyNlJKSjNmNkJRVFdpUVhuaktKSXN5U2dvM1B3d1VMa0NVS3VoRFJ4ZFREdVE?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hapag-Lloyd terminal arm locks in cranes for Brazil gateway",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQenc5ZFBjVW9GM3BJVDZDWkxiOWYzeGtOemdzY3dFMnBqdGN6NEN1Vkk4dHk1VXhyWWYwQ2kyendlQ2xoaUlfYUhZcERqalJPblB1Mm5NQlk0cW43bkUyNlJKSjNmNkJRVFdpUVhuaktKSXN5U2dvM1B3d1VMa0NVS3VoRFJ4ZFREdVE?oc=5",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mZl9oOVFKaDV2SDJ6V25tTVdOOFRsdDJNWnA1RTlBTGFJcnNSSFVFMDJFLXB6NXdSUk5ubGxSTmpUYmsxdUVPYlR3Mzk5eUhySmhWQzlpbW5jSjVnaE52M3hGbEQyLUlmVTNTNlpFcmtlLUpvNzZUSHcxeExGeFU?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Union Maritime widens newbuild push with VLGC debut",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mZl9oOVFKaDV2SDJ6V25tTVdOOFRsdDJNWnA1RTlBTGFJcnNSSFVFMDJFLXB6NXdSUk5ubGxSTmpUYmsxdUVPYlR3Mzk5eUhySmhWQzlpbW5jSjVnaE52M3hGbEQyLUlmVTNTNlpFcmtlLUpvNzZUSHcxeExGeFU?oc=5",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNUoyN3Fick9Lc2pHbENtZTZzOU1zYmg4SzlOd0o3Ym5pTDZhNllvYUxEWkUwLUJkdS1yS2M4SngzQU9XMlE2b3dwMjhvUk80RzFHMzBDQU9yaHRKUDNIajZ6MHRaQllmNHYyVjRnSQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Asyad lines up $308m MR tanker newbuilds",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNUoyN3Fick9Lc2pHbENtZTZzOU1zYmg4SzlOd0o3Ym5pTDZhNllvYUxEWkUwLUJkdS1yS2M4SngzQU9XMlE2b3dwMjhvUk80RzFHMzBDQU9yaHRKUDNIajZ6MHRaQllmNHYyVjRnSQ?oc=5",
+  "date": "2026/07/09",
+  "sd": "07/09",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiTVFkdnRuWHFFYXhTRWVoTi1lNVIxMGg4VTUwRXRKOFN2TDFwMkhWM1VBOUdJOFBLTnp3SjN1c0NIc000NFJJN0lOdFFHaGV3VnVYUVRERWZ3Rms4bVF4TW4wcVdPYmxWcW1j?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Los Angeles signs Shenzhen port pact",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiTVFkdnRuWHFFYXhTRWVoTi1lNVIxMGg4VTUwRXRKOFN2TDFwMkhWM1VBOUdJOFBLTnp3SjN1c0NIc000NFJJN0lOdFFHaGV3VnVYUVRERWZ3Rms4bVF4TW4wcVdPYmxWcW1j?oc=5",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2JfcVM0UEhvaE9YRFVVakxELUZ3eGg0dklubmpOQzE2QVVKVmtlRWhzOVR2S09RdmYzS2N2alduY3pFWjlGTDJQNW95WmI3SGNhc2ZaWWRXVWo0MU50c2hrcWVWWjJuWHZWMzVYNUs1LWhXakhUWkozVFhmOFJwYnl2eXdxUXRjcUI2Xw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Rotterdam introduces unified permit system for harbour towage",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2JfcVM0UEhvaE9YRFVVakxELUZ3eGg0dklubmpOQzE2QVVKVmtlRWhzOVR2S09RdmYzS2N2alduY3pFWjlGTDJQNW95WmI3SGNhc2ZaWWRXVWo0MU50c2hrcWVWWjJuWHZWMzVYNUs1LWhXakhUWkozVFhmOFJwYnl2eXdxUXRjcUI2Xw?oc=5",
+  "date": "2026/07/11",
+  "sd": "07/11",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiakFVX3lxTFBucWhZUXgxUUFlakZkajJxOGRBdDI0SlpmS3hueG90RVhEVXRUVUpEZGR0Y3BXajhXOFFPQTR6TVF3c0NUVUw2RllQTk1UUFhmQ2NOUFNycFRNbHhzYlhDVVZUcWNySkcyc1E?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "PD Ports lines up leadership change",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBucWhZUXgxUUFlakZkajJxOGRBdDI0SlpmS3hueG90RVhEVXRUVUpEZGR0Y3BXajhXOFFPQTR6TVF3c0NUVUw2RllQTk1UUFhmQ2NOUFNycFRNbHhzYlhDVVZUcWNySkcyc1E?oc=5",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUNzYXpwTEU0Uk8ybmhEejhIekkzU3VlbzJibjJPQlREM2gySHBIZ1VqSEE2U0FOc1BtUENzMjJZZTZOa1VtaUNqd2h5dWdQVkRzLVJlTnNFSDVPb09hWGZoVFJYRFVjT2EyQVdxV1JEcFRnWkpybVlzSFFTTTM4eXZB?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "New guidelines target safer methanol-fuelled shipping",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVUNzYXpwTEU0Uk8ybmhEejhIekkzU3VlbzJibjJPQlREM2gySHBIZ1VqSEE2U0FOc1BtUENzMjJZZTZOa1VtaUNqd2h5dWdQVkRzLVJlTnNFSDVPb09hWGZoVFJYRFVjT2EyQVdxV1JEcFRnWkpybVlzSFFTTTM4eXZB?oc=5",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiekFVX3lxTE96WXN1bzBFVVBQRHBtbEdPUzdxRnpVUmdqdEVEQXhSMThHbW40Mnp5QzVxOERteW01eHU0ZTBjcWVLaTg3eU5IaGROVWdDVHlxSkUzNkFyVEE1YkVaSGRBTzYzb0F3YWw4cTZfZWU1RWtnTmxaaDdrOWhn?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hamburg terminal switches on private 5G network",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96WXN1bzBFVVBQRHBtbEdPUzdxRnpVUmdqdEVEQXhSMThHbW40Mnp5QzVxOERteW01eHU0ZTBjcWVLaTg3eU5IaGROVWdDVHlxSkUzNkFyVEE1YkVaSGRBTzYzb0F3YWw4cTZfZWU1RWtnTmxaaDdrOWhn?oc=5",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZTEFKeHNWaUs5OFNienFQYXRGUFc1LTR0ZHczbXRzNjJJNHBaN3ZuY2Z5eWlOLTEzeW13R1piczd5UWhFV2k3NlpUWlNKTW5kZ01JSElEa192enN1ZjZEdWJOeFFZNWJzbGtDeGxjYXVRZ0lyelFieDlwUGdJZw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shanghai overtakes London in shipping hub rankings",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZTEFKeHNWaUs5OFNienFQYXRGUFc1LTR0ZHczbXRzNjJJNHBaN3ZuY2Z5eWlOLTEzeW13R1piczd5UWhFV2k3NlpUWlNKTW5kZ01JSElEa192enN1ZjZEdWJOeFFZNWJzbGtDeGxjYXVRZ0lyelFieDlwUGdJZw?oc=5",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
  }
 }
