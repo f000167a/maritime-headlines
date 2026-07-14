@@ -2414,7 +2414,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202845/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "長澤船協会長が船員教育機関訪問、海技教育機構・神戸大・広島商船高専を視察",
+  "title": "長澤船協会長が船員教…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202845/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2432,7 +2432,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202847/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、海の日記念…",
+  "title": "川崎汽船、海の日記念行事に出展",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202847/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2459,7 +2459,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202850/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "米LA港、深圳港集団…",
+  "title": "米LA港、深圳港集団・YICTと協力覚書、環境対応や物流強化で",
   "url": "https://www.kaijipress.com/news/container/2026/07/202850/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2504,7 +2504,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202858/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "アントワープ港、CT拡張計画案を承認、処理能力700万TEU増へ",
+  "title": "アントワープ港、CT…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202858/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -3364,5 +3364,239 @@
   "date": "2026/07/14",
   "sd": "07/14",
   "first_seen_iso": "2026-07-14T17:21:08.569273+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202890/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、横浜で船内見学会や船員紹介企画",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202890/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202891/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、ESG投資指数に24年連続選定",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202891/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202892/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ハパックロイド、26年決算予想を上方修正、EBIT最大11億ドルに",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202892/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202893/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、スエズ回帰を加速、アフリカ航路も紅海通航",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202893/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202894/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アジア発米国向け、1～6月は2.1%増の1006万TEU、6月も増加",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202894/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202895/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ジェミニ、「AE15/SE3」でジェッダ追加寄港、スエズ回帰に続き",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202895/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202896/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "自動車船の船腹不足が再燃、中国輸出大幅増、滞船悪化などで",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202896/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202897/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "26年上期の原油船スポット用船、中東紛争で成約数・貨物量減少",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202897/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202898/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ダイアナ、ジェンコへのTOB期限延長、7月24日まで",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202898/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202899/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国上期輸入、鉄鉱石6.3%増・原油11.4%減、石炭1.7%増",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202899/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202900/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エルニーニョ現象、エネルギー分野に広範な影響、化石燃料需要に変化も",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202900/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202901/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》造船業再生の視点、LNG船「どう造るか」の段階へ、建造設備も焦点、技術・コストなど再構築",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202901/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202902/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "10月のJECK首脳会議へ準備会合、日欧中韓の造船実務者が協議",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202902/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202903/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本の新造船受注、上期は501万トンと一定量確保、中型バルカーが大幅増",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202903/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202904/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本の新造船受注、6月は4％増の141万トンと高水準、3割が30年度船",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202904/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202905/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本造船業の新造船受注残、3.6年分の3010万トン",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202905/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202906/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "モロッコの造船運営権めぐり韓中伊造船が競合",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202906/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/07/202907/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大分港、8月5日にセミナー",
+  "url": "https://www.kaijipress.com/news/information/2026/07/202907/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/202910/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】一ノ瀬康雄・大阪大学大学院特任准教授",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/202910/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/202911/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】西村圭・アトラスシッピング代表取締役",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/202911/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/202912/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】三木孝幸・三洋海運社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/202912/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/07/202908/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "井本商運、新役員体制",
+  "url": "https://www.kaijipress.com/person/jinji/2026/07/202908/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/07/202909/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】危機は次の局面へ",
+  "url": "https://www.kaijipress.com/column/aotou/2026/07/202909/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.068592+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUZzRms3Z2pxbHBEb0FoOE9fckY3VExKRmp3c3R1ck53d3FWdGFodF9fRmJrZlpsRjVQdzdhVVVoTGdSeDdncUtSWmFyVEFpRWg3U0FzZWRQWWU5eEQ3QmJrVFBBUVlKN2ZkY1JncVIya1p1eXVfNFM2aWVCeDNBaE5neXlLbUZNeGFlTVVXZDNGcDVVNU0xVVJQTQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Greek interests seal profitable asset play with Bangladesh’s Meghna Group",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdUZzRms3Z2pxbHBEb0FoOE9fckY3VExKRmp3c3R1ck53d3FWdGFodF9fRmJrZlpsRjVQdzdhVVVoTGdSeDdncUtSWmFyVEFpRWg3U0FzZWRQWWU5eEQ3QmJrVFBBUVlKN2ZkY1JncVIya1p1eXVfNFM2aWVCeDNBaE5neXlLbUZNeGFlTVVXZDNGcDVVNU0xVVJQTQ?oc=5",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.069285+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2N0lwbERKeGVxeC0tSXFoNGdPUzR2TFo1SFZKWTFsSUYzNm12blFDeGpzcmc4dE1PbmxVYXRfTm1qSHV1eXRrTFhNemc3cmVUdUdzZmxnNTg4aHBaWHdvcWo1MVpVVXhsNTJj?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ciner takes VLAC investment past $1bn",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2N0lwbERKeGVxeC0tSXFoNGdPUzR2TFo1SFZKWTFsSUYzNm12blFDeGpzcmc4dE1PbmxVYXRfTm1qSHV1eXRrTFhNemc3cmVUdUdzZmxnNTg4aHBaWHdvcWo1MVpVVXhsNTJj?oc=5",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.069285+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzF5U1d5V2pkcGdJVDNoVVRHYTFtWkJJRmpTbzMteGU4QVNMbGMtRnFSbkd2dnBXMzgtczhOdWJXbS04VnZWay13X0FCRklGZ3FnUU1LTm9aUHNRTzhxV3A2Uks2OGktTEhGTVdxVW1pYm40cDFzbjJlV0dmQ2tPYXZ3U2Q3SHk3c0VsS1k1czlDcnVkd05NdjgwS3RfSkRUM0FJejk5UjhwYmZHTzZBeVl1M3pNeWFJVXBn?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Singapore: Bjorn Hojgaard calls for uncomfortable conversations over comfortable consensus",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRzF5U1d5V2pkcGdJVDNoVVRHYTFtWkJJRmpTbzMteGU4QVNMbGMtRnFSbkd2dnBXMzgtczhOdWJXbS04VnZWay13X0FCRklGZ3FnUU1LTm9aUHNRTzhxV3A2Uks2OGktTEhGTVdxVW1pYm40cDFzbjJlV0dmQ2tPYXZ3U2Q3SHk3c0VsS1k1czlDcnVkd05NdjgwS3RfSkRUM0FJejk5UjhwYmZHTzZBeVl1M3pNeWFJVXBn?oc=5",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T19:19:15.069285+09:00"
  }
 }
