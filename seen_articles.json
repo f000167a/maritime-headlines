@@ -2558,7 +2558,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202852/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "SITC、越ダナンでコンテナデポを開所、同国で5カ所目",
+  "title": "SITC、越ダナンで…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202852/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2612,7 +2612,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202861/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪港湾局、大阪湾ク…",
+  "title": "大阪港湾局、大阪湾クルーズを開催",
   "url": "https://www.kaijipress.com/news/container/2026/07/202861/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2711,7 +2711,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202876/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "エヴァレンス、アンゴラ沖のFPSO向けに圧縮機",
+  "title": "エヴァレンス、アンゴ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202876/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202878/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "NACKS、64型バ…",
+  "title": "NACKS、64型バルカー“MARILYDIA”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202878/",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -3364,5 +3364,41 @@
   "date": "2026/07/10",
   "sd": "07/10",
   "first_seen_iso": "2026-07-14T12:18:32.991377+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316535": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（409）「親日」に甘えず再開拓。ギリシャ詣で、顔触れに変化",
+  "url": "https://www.jmd.co.jp/article.php?no=316535",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-07-14T14:53:44.553456+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202885/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "台湾コンテナ船社、4月以降は売上高が堅調に推移",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202885/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T14:53:44.553812+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202886/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "OOCL、1～6月期は売上高5.5%増、コンテナ輸送量は5.2%増",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202886/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T14:53:44.553812+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202887/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コスコグループ、日本―台湾・華南航路を開始、今月下旬から",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202887/",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-14T14:53:44.553812+09:00"
  }
 }
