@@ -1,13 +1,4 @@
 {
- "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Castor adds second modern kamsarmax in a week",
-  "url": "https://splash247.com/castor-adds-second-modern-kamsarmax-in-a-week/",
-  "date": "2026/06/30",
-  "sd": "06/30",
-  "first_seen_iso": "2026-07-08T15:16:16.272717+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202742/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -2342,7 +2333,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国6月の貿易統計、輸出入ともに加速7月13日：T/C市場＝20隻・137万DWT、V/C市場＝鉄鉱石3隻、石炭1隻",
+  "title": "【本日のトピック】露、今年上半期石炭輸出量は1億711万トン、前年ペース上回る7月14日：T/C市場＝23隻・150万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -3400,5 +3391,104 @@
   "date": "2026/07/15",
   "sd": "07/15",
   "first_seen_iso": "2026-07-15T12:18:06.227439+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202913/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、気候変動が物流混乱要因に、熱波や水位低下、台風で",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202913/",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202914/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ロングビーチ港、1～6月は1.7%増の483万TEU、6月は過去3番目",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202914/",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202915/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM、ハンブルク港CTHに新造船初寄港、ターミナル強化も推進",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202915/",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202916/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国発アジア向け、5月は1.6%増の49万TEU、中国向け好調",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202916/",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202917/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ホルムズ海峡、タンカー2隻被弾",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202917/",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/202918/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "HD現代、自動車船の納期変更、5カ月前倒し、船腹不足影響か",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202918/",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKc0NXWXV3eUNRLUZFdDFtQTZMeDBTYXpqZ3prVlNkYUxNX0NGbE90OEtacC1ER0dtWkwtRFl4NjNqME51bHBLeDhXXzhYbkZULUNoTkNnNkNWdFk4LUZvVEZ0ZFdsSl9RR3dEMUtWNjZTUFRvVHc?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "New Zealand set to lose last flagged boxship",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKc0NXWXV3eUNRLUZFdDFtQTZMeDBTYXpqZ3prVlNkYUxNX0NGbE90OEtacC1ER0dtWkwtRFl4NjNqME51bHBLeDhXXzhYbkZULUNoTkNnNkNWdFk4LUZvVEZ0ZFdsSl9RR3dEMUtWNjZTUFRvVHc?oc=5",
+  "date": "2026/07/09",
+  "sd": "07/09",
+  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d3BRQW5qcDRSeVViaFFES2RGUllxUHc1c2pMcEhUY1RXNWpLSFRTRWdZMHUxTjZiRXY4ZU1NM3hxcGRoSGJnTGF3R2kxRkxWcS04bDF2VS1iR0kxOThSZlEzNi1IQzE2dWJveTBsSldqMWFSbXE5cQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "KC Maritime returns to China for ultramax pair",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d3BRQW5qcDRSeVViaFFES2RGUllxUHc1c2pMcEhUY1RXNWpLSFRTRWdZMHUxTjZiRXY4ZU1NM3hxcGRoSGJnTGF3R2kxRkxWcS04bDF2VS1iR0kxOThSZlEzNi1IQzE2dWJveTBsSldqMWFSbXE5cQ?oc=5",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMieEFVX3lxTE1icGo0X2NmdU5RU09OZmdvVzllaktTdkh4NlVUbS1JQTB2LXE5a1lnUmN6TnQ2ZXhyLTQwVngxcmZsRzlhc0hVckpnWE5JdU14alhHYmtMOTJyamZibVdUR2FIRmREQUFGd2o1UGtONE9YZ1JFYnN5ZQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hormuz security collapses after boxship attack",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1icGo0X2NmdU5RU09OZmdvVzllaktTdkh4NlVUbS1JQTB2LXE5a1lnUmN6TnQ2ZXhyLTQwVngxcmZsRzlhc0hVckpnWE5JdU14alhHYmtMOTJyamZibVdUR2FIRmREQUFGd2o1UGtONE9YZ1JFYnN5ZQ?oc=5",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWNRYXNSRGVGLW5XNjl4RjZtemlIcDRMdWhVRFZyWFNTV293Nl95TGxVY3dmdk1Kd2xibGMyd2ZINl9tdDF4U1hKRnJucEZsQnpjMmV0Q2Q0RnJIeEljaXN0TF91TnJjaGZ3czlhV3M4QmZLQWtrN0djdElzS2tTSlFtVU01SlVJMzVj?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ukraine’s Azov campaign eclipses the tanker wars of the 1980s",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWNRYXNSRGVGLW5XNjl4RjZtemlIcDRMdWhVRFZyWFNTV293Nl95TGxVY3dmdk1Kd2xibGMyd2ZINl9tdDF4U1hKRnJucEZsQnpjMmV0Q2Q0RnJIeEljaXN0TF91TnJjaGZ3czlhV3M4QmZLQWtrN0djdElzS2tTSlFtVU01SlVJMzVj?oc=5",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsT0k4M3UwOFoyak1Bd1JObXRIalRhQUlUNXM1YVpWMFJ4eC02cldvdUlQcEdQMVh1TXQyUWRpdURDWkEyTWd4aWxscXNEVy1NY2ZSMmhDZGNHLWFPcHNwNw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Shipmanagement’s AI reckoning",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsT0k4M3UwOFoyak1Bd1JObXRIalRhQUlUNXM1YVpWMFJ4eC02cldvdUlQcEdQMVh1TXQyUWRpdURDWkEyTWd4aWxscXNEVy1NY2ZSMmhDZGNHLWFPcHNwNw?oc=5",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
  }
 }
