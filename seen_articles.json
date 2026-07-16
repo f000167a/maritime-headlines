@@ -1,31 +1,4 @@
 {
- "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNWxMZ1REOHp3cXlrTU41VVdpSVNOcXBlWTFHbGQ3d3lPYWJadVBRS3R4MExCQmM0VVpNaGcxem9UM0dhR2xzV2J2b0pJVVdXT2tjTzEyenhXRDdpcjRRamFEaDhzdG1xSjBvbWZ5T1A1Q2hF?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Polaris lines up Vale-backed newcastlemaxes",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fNWxMZ1REOHp3cXlrTU41VVdpSVNOcXBlWTFHbGQ3d3lPYWJadVBRS3R4MExCQmM0VVpNaGcxem9UM0dhR2xzV2J2b0pJVVdXT2tjTzEyenhXRDdpcjRRamFEaDhzdG1xSjBvbWZ5T1A1Q2hF?oc=5",
-  "date": "2026/07/08",
-  "sd": "07/08",
-  "first_seen_iso": "2026-07-09T09:15:35.077266+09:00"
- },
- "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iM08weS15LTdWMzM1LWFOOC1zOHZXajhaNlNUZVFReTdlLThIU1lhVjBpbFRqa082bDhMMGpXUjR5NmhhVlpMbXZRU2VIVnBiNEhsTTh0U1Z3ckk0VG1ldXlyc1ljSGV6c1AwRQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana secures improved kamsarmax deal",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iM08weS15LTdWMzM1LWFOOC1zOHZXajhaNlNUZVFReTdlLThIU1lhVjBpbFRqa082bDhMMGpXUjR5NmhhVlpMbXZRU2VIVnBiNEhsTTh0U1Z3ckk0VG1ldXlyc1ljSGV6c1AwRQ?oc=5",
-  "date": "2026/07/08",
-  "sd": "07/08",
-  "first_seen_iso": "2026-07-09T09:15:35.077266+09:00"
- },
- "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5bEJPeVdiNkxfWGZyMk1MRjJyamZRLWtxQVpDSkVOWm1iT1hmUXRsZFFJd21TcExfeUg3d1FiZW9xd3cyWE5qY29ZaHVKejkxbFFDOFZvNjhKV08taF83cGw5bEQ5clNYZ0trbFJFWHA1RF9XZHc?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Shipping’s AI race runs ahead of the rulebook",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5bEJPeVdiNkxfWGZyMk1MRjJyamZRLWtxQVpDSkVOWm1iT1hmUXRsZFFJd21TcExfeUg3d1FiZW9xd3cyWE5qY29ZaHVKejkxbFFDOFZvNjhKV08taF83cGw5bEQ5clNYZ0trbFJFWHA1RF9XZHc?oc=5",
-  "date": "2026/07/08",
-  "sd": "07/08",
-  "first_seen_iso": "2026-07-09T09:15:35.077266+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316597": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -3310,5 +3283,14 @@
   "date": "2026/07/09",
   "sd": "07/09",
   "first_seen_iso": "2026-07-16T08:54:04.252162+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316834": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/五味宜範】造船再生への道、建造能力倍増へ高まる熱気",
+  "url": "https://www.jmd.co.jp/article.php?no=316834",
+  "date": "2026/07/09",
+  "sd": "07/09",
+  "first_seen_iso": "2026-07-16T12:25:22.275266+09:00"
  }
 }
