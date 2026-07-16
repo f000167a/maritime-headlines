@@ -1,58 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316362": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/神農達也】港湾・物流の人材確保、不変の魅力と働き方の変化発信を",
-  "url": "https://www.jmd.co.jp/article.php?no=316362",
-  "date": "2026/06/25",
-  "sd": "06/25",
-  "first_seen_iso": "2026-07-09T16:54:01.952456+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202778/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "米国小売りコンテナ、前倒し輸送で7月も好調続く、関税に焦点",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202778/",
-  "date": "2026/07/09",
-  "sd": "07/09",
-  "first_seen_iso": "2026-07-09T16:54:01.952805+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202779/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "シースパン/マースク…",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202779/",
-  "date": "2026/07/09",
-  "sd": "07/09",
-  "first_seen_iso": "2026-07-09T16:54:01.952805+09:00"
- },
- "https://www.kaijipress.com/news/information/2026/07/202777/": {
-  "src": "k",
-  "cat": "Information",
-  "title": "新刊紹介「洋上風力発…",
-  "url": "https://www.kaijipress.com/news/information/2026/07/202777/",
-  "date": "2026/07/09",
-  "sd": "07/09",
-  "first_seen_iso": "2026-07-09T16:54:01.952805+09:00"
- },
- "https://splash247.com/diana-and-genco-trade-fire-before-tender-deadline/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana and Genco trade fire before tender deadline",
-  "url": "https://splash247.com/diana-and-genco-trade-fire-before-tender-deadline/",
-  "date": "2026/07/09",
-  "sd": "07/09",
-  "first_seen_iso": "2026-07-09T16:54:01.953255+09:00"
- },
- "https://splash247.com/c-management-takes-capesize-exposure-to-three-ships-with-maran-pair/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "C Management takes capesize exposure to three ships with Maran pair",
-  "url": "https://splash247.com/c-management-takes-capesize-exposure-to-three-ships-with-maran-pair/",
-  "date": "2026/07/09",
-  "sd": "07/09",
-  "first_seen_iso": "2026-07-09T16:54:01.953255+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202780/": {
   "src": "k",
   "cat": "コラム",
@@ -1658,7 +1604,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】露、今年上半期石炭輸出量は1億711万トン、前年ペース上回る7月14日：T/C市場＝23隻・150万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
+  "title": "【本日のトピック】6月中国粗鋼生産は8,367万トン、4カ月ぶりに前年水準上回る7月15日：T/C市場＝17隻・123万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2738,7 +2684,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202915/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、ハン…",
+  "title": "CMA-CGM、ハンブルク港CTHに新造船初寄港、ターミナル強化も推進",
   "url": "https://www.kaijipress.com/news/container/2026/07/202915/",
   "date": "2026/07/15",
   "sd": "07/15",
@@ -2882,7 +2828,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202926/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "名港海運、海陸複合輸送「カモメ混載便」開始、博多―苫小牧間で",
+  "title": "名港海運、海陸複合輸…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202926/",
   "date": "2026/07/15",
   "sd": "07/15",
@@ -3283,5 +3229,68 @@
   "date": "2026/07/09",
   "sd": "07/09",
   "first_seen_iso": "2026-07-16T12:25:22.275266+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316597": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】日新社長・峯茂樹さん、休日、気付けば夕方に...",
+  "url": "https://www.jmd.co.jp/article.php?no=316597",
+  "date": "2026/07/02",
+  "sd": "07/02",
+  "first_seen_iso": "2026-07-16T17:29:10.015550+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202941/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "船協、貨物書類に関する新条約の説明会、あらゆる国際輸送で譲渡可能に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202941/",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202942/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "北米主要港、5月は7.5%増の474万TEU、関税影響反動でプラス",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202942/",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202943/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本政府、シアヌークビル港第2期に円借款、CT整備を支援",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202943/",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/202944/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ロサンゼルス港、1～6月期は3.4%増の512万TEU、6月は100万超え",
+  "url": "https://www.kaijipress.com/news/container/2026/07/202944/",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/202940/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "自動車船、新造発注増加、今年これまで33隻、中国勢の発注なし",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/202940/",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
+ },
+ "https://splash247.com/ex-captain-admits-drugging-and-raping-us-maritime-cadet-at-sea/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ex-captain admits drugging and raping US maritime cadet at sea",
+  "url": "https://splash247.com/ex-captain-admits-drugging-and-raping-us-maritime-cadet-at-sea/",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-16T17:29:10.016330+09:00"
  }
 }
