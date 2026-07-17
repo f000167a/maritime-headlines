@@ -1,31 +1,4 @@
 {
- "https://splash247.com/wagenborg-and-carisbrooke-line-up-ice-class-newbuilds-in-china/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Wagenborg and Carisbrooke line up ice-class newbuilds in China",
-  "url": "https://splash247.com/wagenborg-and-carisbrooke-line-up-ice-class-newbuilds-in-china/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-10T09:17:32.760868+09:00"
- },
- "https://splash247.com/bangladeshs-akij-books-four-bulker-newbuilds-in-china/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Bangladesh’s Akij books four bulker newbuilds in China",
-  "url": "https://splash247.com/bangladeshs-akij-books-four-bulker-newbuilds-in-china/",
-  "date": "2026/07/03",
-  "sd": "07/03",
-  "first_seen_iso": "2026-07-10T09:17:32.760868+09:00"
- },
- "https://splash247.com/seanergy-turns-to-euronext-athens-for-fleet-expansion/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Seanergy turns to Euronext Athens for fleet expansion",
-  "url": "https://splash247.com/seanergy-turns-to-euronext-athens-for-fleet-expansion/",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-10T09:17:32.760868+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202802/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
@@ -649,7 +622,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202658/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "《連載》造船保護政策への転換①、世界で始まる『造船再生』",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202658/",
   "date": "2026/07/13",
@@ -1477,7 +1450,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/07/202675/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "レストラン船“AMANE”、27年春就航、日本郵船、「挑戦・価値観の発信拠点に」と曽我社長",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202675/",
   "date": "2026/07/14",
@@ -1486,7 +1459,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202703/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "「ガイアの夜明け」造船特集に今治造船ら",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202703/",
   "date": "2026/07/14",
@@ -1495,7 +1468,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202698/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "《連載》造船保護政策への転換②、「何を守るか」、安保視点で船種選別",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202698/",
   "date": "2026/07/14",
@@ -1504,7 +1477,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/07/202677/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "商船三井・川中幸一技術・デジタル戦略本部長に聞く、技術融合で環境対応を加速",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202677/",
   "date": "2026/07/14",
@@ -2188,7 +2161,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/07/202717/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "【未来を探せ～70の視点】#21 オリックス・筒井宏次船舶投融資グループ長、多様な機能で海事産業の未来に貢献",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202717/",
   "date": "2026/07/15",
@@ -2197,7 +2170,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202729/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "《連載》造船保護政策への転換③、「どう守るか」、総動員される政策手段",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202729/",
   "date": "2026/07/15",
@@ -2242,7 +2215,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/07/202913/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "コンテナ船、気候変動が物流混乱要因に、熱波や水位低下、台風で",
   "url": "https://www.kaijipress.com/news/container/2026/07/202913/",
   "date": "2026/07/15",
@@ -2278,7 +2251,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/07/202917/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "ホルムズ海峡、タンカー2隻被弾",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202917/",
   "date": "2026/07/15",
@@ -2341,7 +2314,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/07/202919/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "福永海運、全船インデックス連動契約に、「世界基準へ、迷いなし。」",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202919/",
   "date": "2026/07/15",
@@ -2359,7 +2332,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/07/202921/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "「海の日」海事功労者160者を表彰",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202921/",
   "date": "2026/07/15",
@@ -2413,7 +2386,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/07/202931/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "川崎汽船、カタール国営向けLNG船命名、コンソーシアム9隻目",
   "url": "https://www.kaijipress.com/news/tramper/2026/07/202931/",
   "date": "2026/07/15",
@@ -2431,7 +2404,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202933/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "VLCC市場、新造発注が年初来200隻で過去最高、中古船高騰や造船の構造変化",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202933/",
   "date": "2026/07/15",
@@ -2440,7 +2413,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202934/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "GSCセミナー、シナモンAI平野CEOが3つの提言、造船×AIで海洋技術国家再構築を",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202934/",
   "date": "2026/07/15",
@@ -2449,7 +2422,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202935/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "国内造船の建造量、上期2%増と緩やかに増加、年950万トンペース",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202935/",
   "date": "2026/07/15",
@@ -2476,7 +2449,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/07/202938/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "【ログブック】豊田高徳・住商マリン社長",
   "url": "https://www.kaijipress.com/person/logbook/2026/07/202938/",
   "date": "2026/07/15",
@@ -2485,7 +2458,7 @@
  },
  "https://www.kaijipress.com/column/aotou/2026/07/202939/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "【青灯】運賃差が招く「買い負け」",
   "url": "https://www.kaijipress.com/column/aotou/2026/07/202939/",
   "date": "2026/07/15",
@@ -2782,7 +2755,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202765/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "新造船価相場、内航船も最高値圏に、潮目変化、商談が異例の3～4年先",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202765/",
   "date": "2026/07/16",
@@ -3026,7 +2999,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202962/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、大型巡視船“やしま”進水",
+  "title": "三菱造船、大型巡視船…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202962/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -3035,7 +3008,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202963/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、作業服の安…",
+  "title": "今治造船、作業服の安全・酷暑対策の知見広く提供",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202963/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -3682,7 +3655,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/07/202780/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "【未来を探せ～70の視点】#22 三井物産モビリティ第二本部、大熊部長・篠原部長・神田部長補佐、「現場力」起点に商社機能を進化",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202780/",
   "date": "2026/07/17",
@@ -3691,7 +3664,7 @@
  },
  "https://www.kaijipress.com/column/aotou/2026/07/202796/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "別冊特集号",
   "title": "【青灯】邦船幹部に迫られた反省文",
   "url": "https://www.kaijipress.com/column/aotou/2026/07/202796/",
   "date": "2026/07/17",
@@ -3706,5 +3679,41 @@
   "date": "2026/07/09",
   "sd": "07/09",
   "first_seen_iso": "2026-07-17T07:52:14.090493+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE14eUFoSF9XTms2LWlJR1FRNktCYkNySlF2eG9WWm1xY1hiLWFwTFdDYzlXR1NBWTNlVUlTRWd6MUxtY3ctVTlqWWFLZXdoS2xwNWFaWFV2Z1Z0eFUxbE1MMEh6bXVrQlBxZmloYmhWY3gxVGdoc0xzUEU2OWttZDQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "EU pushes to end Ireland’s alumina exports to Russia",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14eUFoSF9XTms2LWlJR1FRNktCYkNySlF2eG9WWm1xY1hiLWFwTFdDYzlXR1NBWTNlVUlTRWd6MUxtY3ctVTlqWWFLZXdoS2xwNWFaWFV2Z1Z0eFUxbE1MMEh6bXVrQlBxZmloYmhWY3gxVGdoc0xzUEU2OWttZDQ?oc=5",
+  "date": "2026/07/10",
+  "sd": "07/10",
+  "first_seen_iso": "2026-07-17T12:27:44.813508+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0I5UVJaOTJXbHJfQ2ppMVJTODJfckJhZlhNaWFjRmN0RjJEWkFfamV6elZINEZ1Tk42eklkX3dmTUdJSmdiUTNrVG1zQWlZSlBqLXpjd2FRX0ZubHZ4MGsyWGxDSDV6R3pVakRqNUc0MnhkME4yNlB6REswNmRKTVVPYklhRVN3S1E?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Antwerp-Bruges cargo volumes slip as trade disruptions bite",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0I5UVJaOTJXbHJfQ2ppMVJTODJfckJhZlhNaWFjRmN0RjJEWkFfamV6elZINEZ1Tk42eklkX3dmTUdJSmdiUTNrVG1zQWlZSlBqLXpjd2FRX0ZubHZ4MGsyWGxDSDV6R3pVakRqNUc0MnhkME4yNlB6REswNmRKTVVPYklhRVN3S1E?oc=5",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T12:27:44.813508+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWR6Z1VBUDZsenhSd1JhSGluSmM3ajNMZER6MUN2bEtRdl90aHNyS0thN3lOU2dHTUw5NlhDOUJSbGYyQnJrV1RwZ3RNQ3l5M1hmdUNtUHFEMDYxVDFnRjVNaTBQMDRNZTlCUFc4MjloajRTWkwtVldBT084NFpuNUhSbUZIeVFGMnROekduRi1KQ2VVVU8xSg?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cadeler seals $282m loan for offshore wind installation vessel newbuild",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYWR6Z1VBUDZsenhSd1JhSGluSmM3ajNMZER6MUN2bEtRdl90aHNyS0thN3lOU2dHTUw5NlhDOUJSbGYyQnJrV1RwZ3RNQ3l5M1hmdUNtUHFEMDYxVDFnRjVNaTBQMDRNZTlCUFc4MjloajRTWkwtVldBT084NFpuNUhSbUZIeVFGMnROekduRi1KQ2VVVU8xSg?oc=5",
+  "date": "2026/07/13",
+  "sd": "07/13",
+  "first_seen_iso": "2026-07-17T12:27:44.813508+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFAtOTRfXzFoMWppb1h1Q1lfVW1lMkUwQ3hPcXlSSHB0Tkh3NHN0azExWE43MkdaUzJLLTZmcFh0WXJkWkR1V3RtT09mXzRMRFQ2c0xJU0NqbGxRX3R1ODJTdUNsZGlVV3RFQmV5TDI1NGQ2RlhkNW9SYnhZSmVYag?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Historic strike halts BHP operations at Port Hedland",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFAtOTRfXzFoMWppb1h1Q1lfVW1lMkUwQ3hPcXlSSHB0Tkh3NHN0azExWE43MkdaUzJLLTZmcFh0WXJkWkR1V3RtT09mXzRMRFQ2c0xJU0NqbGxRX3R1ODJTdUNsZGlVV3RFQmV5TDI1NGQ2RlhkNW9SYnhZSmVYag?oc=5",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-17T12:27:44.813508+09:00"
  }
 }
