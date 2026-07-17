@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202802/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "ウェザーニューズ、シーナビゲーター販売好調続く、欧州・アジアで拡販",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202802/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202803/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、印―北米東岸航路でスエズ回帰、ジェミニ「AE15」に続き",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202803/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202804/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "中和物産、高効率EV…",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202804/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202805/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ドゥルーリー・コンテナ運賃指標、米国向けの運賃上昇率が鈍化",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202805/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/202801/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "鉄鉱石輸送の平均船型、ギニアは約22万5000重量トン、大型船に優位性",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202801/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
- },
- "https://www.kaijipress.com/news/information/2026/07/202800/": {
-  "src": "k",
-  "cat": "Information",
-  "title": "海洋都市横浜うみ博、来月8～9日開催",
-  "url": "https://www.kaijipress.com/news/information/2026/07/202800/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224505+09:00"
- },
- "https://splash247.com/splash-wrap-hormuz-at-a-standstill/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Hormuz at a standstill",
-  "url": "https://splash247.com/splash-wrap-hormuz-at-a-standstill/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224900+09:00"
- },
- "https://splash247.com/eu-pushes-to-end-irelands-alumina-exports-to-russia/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "EU pushes to end Ireland’s alumina exports to Russia",
-  "url": "https://splash247.com/eu-pushes-to-end-irelands-alumina-exports-to-russia/",
-  "date": "2026/07/10",
-  "sd": "07/10",
-  "first_seen_iso": "2026-07-10T16:52:54.224900+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316934": {
   "src": "j",
   "cat": "外航全般",
@@ -1154,7 +1082,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】6月中国粗鋼生産は8,367万トン、4カ月ぶりに前年水準上回る7月15日：T/C市場＝17隻・123万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
+  "title": "【本日のトピック】6月中国全国発電量は前年比+4%増、石炭生産は減速続く7月16日：T/C市場＝20隻・139万DWT、V/C市場＝鉄鉱石4隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/13",
   "sd": "07/13",
@@ -2792,7 +2720,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202941/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船協、貨物書類に関する新条約の説明会、あらゆる国際輸送で譲渡可能に",
+  "title": "船協、貨物書類に関す…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202941/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -2810,7 +2738,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202943/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本政府、シアヌークビル港第2期に円借款、CT整備を支援",
+  "title": "日本政府、シアヌーク…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202943/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -2855,7 +2783,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202946/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《シリーズ》内航オペ…",
+  "title": "《シリーズ》内航オペレーターの針路、太平洋沿海汽船、新規事業も見据え船員育成、LNGバンカリング船管理",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202946/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -2900,7 +2828,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202951/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、バイ…",
+  "title": "CMA-CGM、バイオエタノール供給を実施、ブラジル・サントス港で",
   "url": "https://www.kaijipress.com/news/container/2026/07/202951/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -3715,5 +3643,86 @@
   "date": "2026/07/16",
   "sd": "07/16",
   "first_seen_iso": "2026-07-17T12:27:44.813508+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202971/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "商船三井、長崎県立高校と包括提携、次世代海洋人材を育成",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202971/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202972/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "【プロフィール】鹿志村高士 氏・商船三井執行役員",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202972/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202973/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "ケプラー、船舶データの分析高度化、新サービスをベータ公開",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202973/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202974/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "《連載》マースクGTCC戦略①、関税・規制リスクを好機に変える",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202974/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202975/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "YKIP/横浜市、ベトナムでセミナー、安定性を強みに広域集貨推進",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202975/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
+ },
+ "https://splash247.com/iran-primes-houthis-to-shut-bab-el-mandeb/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Iran primes Houthis to shut Bab el-Mandeb",
+  "url": "https://splash247.com/iran-primes-houthis-to-shut-bab-el-mandeb/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
+ },
+ "https://splash247.com/splash-wrap-chokepoints-under-siege/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Chokepoints under siege",
+  "url": "https://splash247.com/splash-wrap-chokepoints-under-siege/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
+ },
+ "https://splash247.com/taylor-maritime-calls-time-on-five-year-london-run/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Taylor Maritime calls time on five-year London run",
+  "url": "https://splash247.com/taylor-maritime-calls-time-on-five-year-london-run/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
+ },
+ "https://splash247.com/cosco-signs-for-four-qingdao-beihai-newcastlemaxes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "COSCO signs for four Qingdao Beihai newcastlemaxes",
+  "url": "https://splash247.com/cosco-signs-for-four-qingdao-beihai-newcastlemaxes/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
  }
 }
