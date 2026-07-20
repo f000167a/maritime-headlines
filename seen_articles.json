@@ -1856,7 +1856,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202951/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、バイオエタノール供給を実施、ブラジル・サントス港で",
+  "title": "CMA-CGM、バイ…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202951/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -1883,7 +1883,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202954/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "港湾労働安定協、高校…",
+  "title": "港湾労働安定協、高校生向け東京港職場見学会開催、大井コンテナふ頭など訪問",
   "url": "https://www.kaijipress.com/news/container/2026/07/202954/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -1910,7 +1910,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202957/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、次世代造船…",
+  "title": "川崎重工、次世代造船所構築にNVIDIAと協力、坂出でプロセス転換やAIロボ加速",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202957/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -1964,7 +1964,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202963/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、作業服の安全・酷暑対策の知見広く提供",
+  "title": "今治造船、作業服の安…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202963/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -3436,5 +3436,14 @@
   "date": "2026/07/13",
   "sd": "07/13",
   "first_seen_iso": "2026-07-20T19:18:03.089027+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/202844/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "【未来を探せ～70の視点】#23 アンカー・シップ　篠田哲郎社長、金融を土台に多様な事業を展開",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/202844/",
+  "date": "2026/07/17",
+  "sd": "07/17",
+  "first_seen_iso": "2026-07-20T21:33:56.854147+09:00"
  }
 }
