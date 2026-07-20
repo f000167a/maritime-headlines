@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/07/202840/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "上海発欧米向け、短期コンテナ運賃が反落、4月下旬ぶり",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202840/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202841/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、バイオLNG燃料供給を実施、ロッテルダム港で世界最大級",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202841/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202842/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "関光ロジNEXT、物流連表彰で2事業が受賞、モーダルシフトが評価",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202842/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/202839/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ストルトの上半期、純利益6割減の9920万ドル、ケミカル船で運賃低下",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202839/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "舶用エンジン各社、データセンター向け需要拡大、対応を強化",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.596625+09:00"
- },
- "https://splash247.com/ukraine-drone-strikes-force-azov-shipping-halt/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ukraine drone strikes force Azov shipping halt",
-  "url": "https://splash247.com/ukraine-drone-strikes-force-azov-shipping-halt/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.597022+09:00"
- },
- "https://splash247.com/hormuz-security-collapses-after-boxship-attack/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz security collapses after boxship attack",
-  "url": "https://splash247.com/hormuz-security-collapses-after-boxship-attack/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.597022+09:00"
- },
- "https://splash247.com/adnoc-ls-bulker-spending-nears-74m-with-fourth-acquisition/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "ADNOC L&S bulker spending nears $74m with fourth acquisition",
-  "url": "https://splash247.com/adnoc-ls-bulker-spending-nears-74m-with-fourth-acquisition/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-13T15:40:49.597022+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202844/": {
   "src": "k",
   "cat": "別冊特集号",
@@ -2171,7 +2099,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202943/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本政府、シアヌークビル港第2期に円借款、CT整備を支援",
+  "title": "日本政府、シアヌーク…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202943/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -2288,7 +2216,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202954/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "港湾労働安定協、高校…",
+  "title": "港湾労働安定協、高校生向け東京港職場見学会開催、大井コンテナふ頭など訪問",
   "url": "https://www.kaijipress.com/news/container/2026/07/202954/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -2360,7 +2288,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202962/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、大型巡視船“やしま”進水",
+  "title": "三菱造船、大型巡視船…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202962/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -2369,7 +2297,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202963/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "今治造船、作業服の安…",
+  "title": "今治造船、作業服の安全・酷暑対策の知見広く提供",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202963/",
   "date": "2026/07/16",
   "sd": "07/16",
@@ -3787,5 +3715,14 @@
   "date": "2026/07/17",
   "sd": "07/17",
   "first_seen_iso": "2026-07-20T12:51:59.042826+09:00"
+ },
+ "https://splash247.com/splash-singapore-pacific-basins-martin-fruergaard-maps-dry-bulks-three-way-challenge/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Singapore: Pacific Basin’s Martin Fruergaard maps dry bulk’s three-way challenge",
+  "url": "https://splash247.com/splash-singapore-pacific-basins-martin-fruergaard-maps-dry-bulks-three-way-challenge/",
+  "date": "2026/07/20",
+  "sd": "07/20",
+  "first_seen_iso": "2026-07-20T15:55:16.457825+09:00"
  }
 }
