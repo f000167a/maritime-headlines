@@ -1,40 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316535": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（409）「親日」に甘えず再開拓。ギリシャ詣で、顔触れに変化",
-  "url": "https://www.jmd.co.jp/article.php?no=316535",
-  "date": "2026/06/30",
-  "sd": "06/30",
-  "first_seen_iso": "2026-07-14T14:53:44.553456+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202885/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "台湾コンテナ船社、4月以降は売上高が堅調に推移",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202885/",
-  "date": "2026/07/14",
-  "sd": "07/14",
-  "first_seen_iso": "2026-07-14T14:53:44.553812+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202886/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "OOCL、1～6月期は売上高5.5%増、コンテナ輸送量は5.2%増",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202886/",
-  "date": "2026/07/14",
-  "sd": "07/14",
-  "first_seen_iso": "2026-07-14T14:53:44.553812+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202887/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コスコグループ、日本―台湾・華南航路を開始、今月下旬から",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202887/",
-  "date": "2026/07/14",
-  "sd": "07/14",
-  "first_seen_iso": "2026-07-14T14:53:44.553812+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202888/": {
   "src": "k",
   "cat": "コラム",
@@ -2126,7 +2090,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202971/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、長崎県立高校と包括提携、次世代海洋人材を育成",
+  "title": "商船三井、長崎県立高…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202971/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2225,7 +2189,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/202979/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、東京・今治…",
+  "title": "日本郵船、東京・今治でフリート安全会議、113社・320人以上参加",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/202979/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2270,7 +2234,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202985/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "HPS CONNECT、カレンダー型貿易管理PFの提供開始、業務効率改善へ",
+  "title": "HPS CONNEC…",
   "url": "https://www.kaijipress.com/news/container/2026/07/202985/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2279,7 +2243,7 @@
  "https://www.kaijipress.com/news/container/2026/07/202975/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "YKIP/横浜市、ベ…",
+  "title": "YKIP/横浜市、ベトナムでセミナー、安定性を強みに広域集貨推進",
   "url": "https://www.kaijipress.com/news/container/2026/07/202975/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2315,7 +2279,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202991/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "J-ENGにマリンエンジ賞、アンモニア燃料低速2スト機関「UEC50LSJA」が受賞",
+  "title": "J-ENGにマリンエ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202991/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2333,7 +2297,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202993/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "AI造船技術、日米連…",
+  "title": "AI造船技術、日米連携での研究開発が本格始動、今年度末に検証基盤構築へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202993/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2594,7 +2558,7 @@
  "https://www.kaijipress.com/news/uminohi/2026/07/203000/": {
   "src": "k",
   "cat": "「海の日」あいさつ",
-  "title": "日本造船工業会・檜垣…",
+  "title": "日本造船工業会・檜垣幸人会長、造船業を新たな成長軌道へ",
   "url": "https://www.kaijipress.com/news/uminohi/2026/07/203000/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2612,7 +2576,7 @@
  "https://www.kaijipress.com/news/uminohi/2026/07/203002/": {
   "src": "k",
   "cat": "「海の日」あいさつ",
-  "title": "日本舶用工業会・木下和彦会長、日本の舶用技術、存在感向上へ",
+  "title": "日本舶用工業会・木下…",
   "url": "https://www.kaijipress.com/news/uminohi/2026/07/203002/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -3269,7 +3233,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】6月中国全国発電量は前年比+4%増、石炭生産は減速続く7月16日：T/C市場＝20隻・139万DWT、V/C市場＝鉄鉱石4隻",
+  "title": "【本日のトピック】伯CONAB、25/26年トウモロコシ生産予想、過去最高水準に引き上げ7月20日：T/C市場＝6隻・40万DWT、V/C市場＝鉄鉱石2隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3346,5 +3310,41 @@
   "date": "2026/07/14",
   "sd": "07/14",
   "first_seen_iso": "2026-07-21T12:31:35.418728+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203005/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリーCT調査、25年のGTOシェア5割、投資加速",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203005/",
+  "date": "2026/07/21",
+  "sd": "07/21",
+  "first_seen_iso": "2026-07-21T15:16:54.252580+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203007/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "香港、上期は3.5%減の635万TEU、6月は6.5%増",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203007/",
+  "date": "2026/07/21",
+  "sd": "07/21",
+  "first_seen_iso": "2026-07-21T15:16:54.252580+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203004/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ハンファオーシャン、JPモルガンからVLCC受注、船価1.3億ドル",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203004/",
+  "date": "2026/07/21",
+  "sd": "07/21",
+  "first_seen_iso": "2026-07-21T15:16:54.252580+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203006/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "IHI原動機、舶用技術を陸用展開、アンモニア燃料で発電実証",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203006/",
+  "date": "2026/07/21",
+  "sd": "07/21",
+  "first_seen_iso": "2026-07-21T15:16:54.252580+09:00"
  }
 }
