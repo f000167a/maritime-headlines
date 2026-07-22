@@ -1,13 +1,4 @@
 {
- "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTJFblBUcS1HQ2ctdENoS181dElDTVE1dW1mTEdva1JHTEpKanQ4bmhoenVuVWxaV2tvZTBnS3JfWENlR1hyODFTbU1NWkVnU2JZektNZ2dicXJyS2JfVjB4ckhFOGc2eGI1UEZqb0RNSTRKOFc4VEhJQ3oyUjh6M3Vucw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "UK tightens port controls on repeatedly detained ships",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTJFblBUcS1HQ2ctdENoS181dElDTVE1dW1mTEdva1JHTEpKanQ4bmhoenVuVWxaV2tvZTBnS3JfWENlR1hyODFTbU1NWkVnU2JZektNZ2dicXJyS2JfVjB4ckhFOGc2eGI1UEZqb0RNSTRKOFc4VEhJQ3oyUjh6M3Vucw?oc=5",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T12:18:06.227439+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/07/202913/": {
   "src": "k",
   "cat": "別冊特集号",
@@ -2846,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203012/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海の日記念行事202…",
+  "title": "海の日記念行事2026開会式、高市首相「造船拠点の整備推進」",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203012/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -2864,7 +2855,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203014/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海の日記念行事、邦船大手と海事団体が出展、工夫と熱意で業界PR",
+  "title": "海の日記念行事、邦船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203014/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3053,7 +3044,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203038/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "函館どつく、洋上風力CTV初修繕、日本郵船向け“RERA AS”中間検査工事",
+  "title": "函館どつく、洋上風力…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203038/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3125,7 +3116,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203046/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "次世代海洋エンジニア…",
+  "title": "次世代海洋エンジニア会4期生、第2回交流会を開催",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203046/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3409,5 +3400,23 @@
   "date": "2026/07/14",
   "sd": "07/14",
   "first_seen_iso": "2026-07-22T07:49:33.747352+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317015": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "トランプ大統領、通峡有料化を宣言。ホルムズ海峡、VL1隻3000万ドル超も。「安全確保の対価」",
+  "url": "https://www.jmd.co.jp/article.php?no=317015",
+  "date": "2026/07/15",
+  "sd": "07/15",
+  "first_seen_iso": "2026-07-22T12:30:38.674305+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317197": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "FMJ、初の船舶保有。新造MR、欧ネステと2隻用船契約",
+  "url": "https://www.jmd.co.jp/article.php?no=317197",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T12:30:38.674305+09:00"
  }
 }
