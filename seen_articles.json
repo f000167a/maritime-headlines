@@ -1,184 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202919/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "福永海運、全船インデックス連動契約に、「世界基準へ、迷いなし。」",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202919/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202920/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "5月の内航オペ輸送実績、貨物船4%増、油送船は横ばい",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202920/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202921/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "「海の日」海事功労者160者を表彰",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202921/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202922/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "＜ウクライナ情勢＞黒海沿岸港で露軍が商船攻撃、船員死傷",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202922/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202923/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ONE、デンマークの寄港地を変更、北欧州域内航路「SCX」で",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202923/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202924/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ZIM/MSC、北米東岸航路でジャクソンビル追加",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202924/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202925/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "横浜市、超大型コンテナ船着岸数3割増へ、26～29年度中計",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202925/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202926/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "名港海運、海陸複合輸送「カモメ混載便」開始、博多―苫小牧間で",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202926/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/202931/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "川崎汽船、カタール国営向けLNG船命名、コンソーシアム9隻目",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202931/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/202932/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "マレーシア船社LFG、63型バルカー2隻中古買船、計5232万ドルで",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202932/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202933/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "VLCC市場、新造発注が年初来200隻で過去最高、中古船高騰や造船の構造変化",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202933/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202934/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "GSCセミナー、シナモンAI平野CEOが3つの提言、造船×AIで海洋技術国家再構築を",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202934/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202935/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "国内造船の建造量、上期2%増と緩やかに増加、年950万トンペース",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202935/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/07/202936/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】稲田博久・栗林商船専務取締役",
-  "url": "https://www.kaijipress.com/person/logbook/2026/07/202936/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/07/202937/": {
-  "src": "k",
-  "cat": "ひと",
-  "title": "【ログブック】片山正通・ワンダーウォール代表",
-  "url": "https://www.kaijipress.com/person/logbook/2026/07/202937/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/07/202938/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "【ログブック】豊田高徳・住商マリン社長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/07/202938/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://www.kaijipress.com/column/aotou/2026/07/202939/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "【青灯】運賃差が招く「買い負け」",
-  "url": "https://www.kaijipress.com/column/aotou/2026/07/202939/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.432453+09:00"
- },
- "https://splash247.com/ukraines-azov-campaign-eclipses-the-tanker-wars-of-the-1980s/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ukraine’s Azov campaign eclipses the tanker wars of the 1980s",
-  "url": "https://splash247.com/ukraines-azov-campaign-eclipses-the-tanker-wars-of-the-1980s/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.433065+09:00"
- },
- "https://splash247.com/us-revives-iran-blockade-after-trump-toll-u-turn/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "US revives Iran blockade after Trump toll U-turn",
-  "url": "https://splash247.com/us-revives-iran-blockade-after-trump-toll-u-turn/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.433065+09:00"
- },
- "https://splash247.com/kc-maritime-returns-to-china-for-ultramax-pair/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "KC Maritime returns to China for ultramax pair",
-  "url": "https://splash247.com/kc-maritime-returns-to-china-for-ultramax-pair/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T19:24:06.433065+09:00"
- },
  "https://www.tramp.co.jp/fenet/weekly_general/detail/1228/7954/1": {
   "src": "t",
   "cat": "TDS Weekly",
@@ -2126,7 +1946,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/": {
   "src": "k",
   "cat": "コラム",
-  "title": "舶用エンジン各社、データセンター向け需要拡大、対応を強化",
+  "title": "舶用エンジン各社、データセンター向け需要拡大、対応を強化無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/",
   "date": "2026/07/17",
   "sd": "07/17",
@@ -2738,7 +2558,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203012/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海の日記念行事202…",
+  "title": "海の日記念行事2026開会式、高市首相「造船拠点の整備推進」",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203012/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -2756,7 +2576,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203014/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海の日記念行事、邦船大手と海事団体が出展、工夫と熱意で業界PR",
+  "title": "海の日記念行事、邦船…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203014/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -2945,7 +2765,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203038/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "函館どつく、洋上風力…",
+  "title": "函館どつく、洋上風力CTV初修繕、日本郵船向け“RERA AS”中間検査工事",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203038/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -2954,7 +2774,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203039/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "シップオブザイヤー各部門受賞者が懇親会でコメント、「“天歐”で水素社会に近づける」",
+  "title": "シップオブザイヤー各…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203039/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3454,5 +3274,221 @@
   "date": "2026/07/22",
   "sd": "07/22",
   "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203059/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】#26 ソメック・長池一憲社長、仲介とアセットマネジメントで貢献",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203059/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203060/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船・田口雅俊専務に聞く、実行力生む人材・組織つくる",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203060/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203061/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "クラークソンズ報告、ホルムズ通航、紛争前比85%減、船舶攻撃増加で",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203061/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203062/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "船協・長澤会長、パナマのムリーノ大統領らと会談、良好な関係の重要性を再確認",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203062/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203063/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "「2026年山縣勝見賞」、都内で贈呈式",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203063/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203064/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "栗林商船、オープンカンパニー開催",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203064/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203068/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "釜山発コンテナ運賃指標、2週連続下落",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203068/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203066/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、ブラジル・スアペで新物流施設",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203066/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203067/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "釜山港、1～6月期は微減の1260万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203067/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203069/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》ギリシャ船主に聞く、ドライデル・シッピング　デラポルタスCEO、環境規制と燃料高で新鋭船が優位",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203069/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203070/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、自動車船内の車両移動機材開発、運航船全船への配備開始",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203070/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203071/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "資源大手の4～6月鉄鉱石生産量、BHP3%減、ヴァーレ1%増",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203071/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203072/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ショクユタンカー、ケミカル船“KIZUNA”進水、臼杵造船所で10月中旬竣工",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203072/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203074/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "＜ウクライナ情勢＞露ミサイル攻撃で船員など10人死亡",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203074/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203075/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "造船再生、地域未来戦略で下支え、人材・基盤整備支援も焦点に",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203075/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203076/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国造船所、洋上風力主力の商船建造参入相次ぐ、天順風能がアフラ受注",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203076/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203077/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エヴァレンス、新燃料機関の開発動向など説明、損保ジャパン主催セミナーで技術紹介",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203077/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203078/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本無線、今治にカスタマーセンター開設、顧客対応力強化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203078/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/07/203079/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日内連、11月にCIMAC若手技術者論文発表会",
+  "url": "https://www.kaijipress.com/news/information/2026/07/203079/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/markets/secondhand/2026/07/203073/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中古船価市況週間レポート（7月13日～17日）、スエズマックス5年物1億ドル超え",
+  "url": "https://www.kaijipress.com/markets/secondhand/2026/07/203073/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/203081/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】赤間二郎・海洋政策担当大臣",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/203081/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/203082/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】小薗江隆一・フェアフィールドマリタイムジャパン社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/203082/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/203083/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】宮島大典・佐世保市長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/203083/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/07/203080/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】お酒がつなぐ海と陸",
+  "url": "https://www.kaijipress.com/column/aotou/2026/07/203080/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T20:21:04.005607+09:00"
  }
 }
