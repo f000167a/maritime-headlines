@@ -1,103 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/07/202913/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "コンテナ船、気候変動が物流混乱要因に、熱波や水位低下、台風で",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202913/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202914/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ロングビーチ港、1～6月は1.7%増の483万TEU、6月は過去3番目",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202914/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202915/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、ハン…",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202915/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202916/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "米国発アジア向け、5月は1.6%増の49万TEU、中国向け好調",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202916/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/202917/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "ホルムズ海峡、タンカー2隻被弾",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202917/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202918/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "HD現代、自動車船の納期変更、5カ月前倒し、船腹不足影響か",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202918/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870495+09:00"
- },
- "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKc0NXWXV3eUNRLUZFdDFtQTZMeDBTYXpqZ3prVlNkYUxNX0NGbE90OEtacC1ER0dtWkwtRFl4NjNqME51bHBLeDhXXzhYbkZULUNoTkNnNkNWdFk4LUZvVEZ0ZFdsSl9RR3dEMUtWNjZTUFRvVHc?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "New Zealand set to lose last flagged boxship",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKc0NXWXV3eUNRLUZFdDFtQTZMeDBTYXpqZ3prVlNkYUxNX0NGbE90OEtacC1ER0dtWkwtRFl4NjNqME51bHBLeDhXXzhYbkZULUNoTkNnNkNWdFk4LUZvVEZ0ZFdsSl9RR3dEMUtWNjZTUFRvVHc?oc=5",
-  "date": "2026/07/09",
-  "sd": "07/09",
-  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
- },
- "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d3BRQW5qcDRSeVViaFFES2RGUllxUHc1c2pMcEhUY1RXNWpLSFRTRWdZMHUxTjZiRXY4ZU1NM3hxcGRoSGJnTGF3R2kxRkxWcS04bDF2VS1iR0kxOThSZlEzNi1IQzE2dWJveTBsSldqMWFSbXE5cQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "KC Maritime returns to China for ultramax pair",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d3BRQW5qcDRSeVViaFFES2RGUllxUHc1c2pMcEhUY1RXNWpLSFRTRWdZMHUxTjZiRXY4ZU1NM3hxcGRoSGJnTGF3R2kxRkxWcS04bDF2VS1iR0kxOThSZlEzNi1IQzE2dWJveTBsSldqMWFSbXE5cQ?oc=5",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
- },
- "https://news.google.com/rss/articles/CBMieEFVX3lxTE1icGo0X2NmdU5RU09OZmdvVzllaktTdkh4NlVUbS1JQTB2LXE5a1lnUmN6TnQ2ZXhyLTQwVngxcmZsRzlhc0hVckpnWE5JdU14alhHYmtMOTJyamZibVdUR2FIRmREQUFGd2o1UGtONE9YZ1JFYnN5ZQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz security collapses after boxship attack",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1icGo0X2NmdU5RU09OZmdvVzllaktTdkh4NlVUbS1JQTB2LXE5a1lnUmN6TnQ2ZXhyLTQwVngxcmZsRzlhc0hVckpnWE5JdU14alhHYmtMOTJyamZibVdUR2FIRmREQUFGd2o1UGtONE9YZ1JFYnN5ZQ?oc=5",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
- },
- "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWNRYXNSRGVGLW5XNjl4RjZtemlIcDRMdWhVRFZyWFNTV293Nl95TGxVY3dmdk1Kd2xibGMyd2ZINl9tdDF4U1hKRnJucEZsQnpjMmV0Q2Q0RnJIeEljaXN0TF91TnJjaGZ3czlhV3M4QmZLQWtrN0djdElzS2tTSlFtVU01SlVJMzVj?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ukraine’s Azov campaign eclipses the tanker wars of the 1980s",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWNRYXNSRGVGLW5XNjl4RjZtemlIcDRMdWhVRFZyWFNTV293Nl95TGxVY3dmdk1Kd2xibGMyd2ZINl9tdDF4U1hKRnJucEZsQnpjMmV0Q2Q0RnJIeEljaXN0TF91TnJjaGZ3czlhV3M4QmZLQWtrN0djdElzS2tTSlFtVU01SlVJMzVj?oc=5",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
- },
- "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsT0k4M3UwOFoyak1Bd1JObXRIalRhQUlUNXM1YVpWMFJ4eC02cldvdUlQcEdQMVh1TXQyUWRpdURDWkEyTWd4aWxscXNEVy1NY2ZSMmhDZGNHLWFPcHNwNw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Shipmanagement’s AI reckoning",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsT0k4M3UwOFoyak1Bd1JObXRIalRhQUlUNXM1YVpWMFJ4eC02cldvdUlQcEdQMVh1TXQyUWRpdURDWkEyTWd4aWxscXNEVy1NY2ZSMmhDZGNHLWFPcHNwNw?oc=5",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-15T17:27:45.870948+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202919/": {
   "src": "k",
   "cat": "コラム",
@@ -2198,7 +2099,7 @@
  "http://www.tramp.co.jp/fenet/weekly_report": {
   "src": "t",
   "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2074号」",
+  "title": "「TDS WEEKLY REPORT 2075号」",
   "url": "http://www.tramp.co.jp/fenet/weekly_report",
   "date": "2026/07/15",
   "sd": "07/15",
@@ -2837,7 +2738,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203012/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海の日記念行事2026開会式、高市首相「造船拠点の整備推進」",
+  "title": "海の日記念行事202…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203012/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -2855,7 +2756,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203014/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海の日記念行事、邦船…",
+  "title": "海の日記念行事、邦船大手と海事団体が出展、工夫と熱意で業界PR",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203014/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3044,7 +2945,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203038/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "函館どつく、洋上風力CTV初修繕、日本郵船向け“RERA AS”中間検査工事",
+  "title": "函館どつく、洋上風力…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203038/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3053,7 +2954,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203039/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "シップオブザイヤー各…",
+  "title": "シップオブザイヤー各部門受賞者が懇親会でコメント、「“天歐”で水素社会に近づける」",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203039/",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -3418,5 +3319,140 @@
   "date": "2026/07/22",
   "sd": "07/22",
   "first_seen_iso": "2026-07-22T12:30:38.674305+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203055/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国交省、外航税制検討会、日本籍船確保や国際競争力強化へ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203055/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.393510+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203054/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東京都港湾振興協会、都の港湾・海岸整備振興むけ要望、港湾整備振興大会",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203054/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.393510+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203056/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》マースクGTCC戦略③、インテグレーターの戦略的要素に",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203056/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.393510+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203057/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、中南米航路改編で横浜寄港は「AC1」に",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203057/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.393510+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203058/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "COSCO造船、揚州で舶用主機生産へ、50億元投資を計画",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203058/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.393510+09:00"
+ },
+ "https://splash247.com/cosco-orders-eight-heavylift-ships-at-chengxi/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "COSCO orders eight heavylift ships at Chengxi",
+  "url": "https://splash247.com/cosco-orders-eight-heavylift-ships-at-chengxi/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394049+09:00"
+ },
+ "https://splash247.com/evalend-raises-dry-bulk-bet-with-newcastlemax-series/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Evalend raises dry bulk bet with newcastlemax series",
+  "url": "https://splash247.com/evalend-raises-dry-bulk-bet-with-newcastlemax-series/",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394049+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7961/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門：6月中国粗鋼生産は8,367万トン、4カ月ぶりに前年水準上回る●中国国家統計局(NBS)の発表によると、同国6月の粗鋼生産量は8,367万トンと前月比▲0.8%減・前年同月比+0.6%増で4カ月ぶりに前年比プラスへ転じたものの前月からは微減。なお、今年上半期(1・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7961/1",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7960/2": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "石炭部門：露、今年上半期石炭輸出量は1億711万トン、前年ペース上回る●ロシア国営タス通信によると、同国2026年上半期(1～6月)の石炭輸出量は1億711万トンに達し、前年同期比+8.1%増加した。同国エネルギー省副大臣の発言引用とともに報じられている。今年の政府通年・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7960/2",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7959/3": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "穀物部門：伯CONAB、25/26年トウモロコシ生産予想、過去最高水準に引き上げ●米国農務省(USDA)によると、25/26年度直近(9月～7月9日)までの米国大豆輸出量は3,818万トン(前年同期比▲17.8%)で、今年度残すところ2カ月を切ったが依然前年水準を下回っている格好・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7959/3",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7958/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門：中国2026年1～6月のマンガン輸入量、前年比+21.0%増●週末17日時点の動静データを見ると、仕向け地未定のフリー船隻数はハンディマックスが前週末比▲5隻減・前年同期比▲2隻減の20隻。一方、ハンディサイズは前週末比▲16隻減・前年同期比▲5隻減の38隻。・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7958/4",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7957/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門：中国JNS、3.5億ドルで計11隻受注。UMAX6隻L-Handy5隻●2026年7月第三週(-17日)のバルカー中古船市場は、取引隻数こそ10隻強と少ないものの、3週間ぶりにケープサイズ部門の取引事例が確認された。・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7957/6",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7956/7": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "証券部門：石油関連株に投資資金・海運株も堅調●一時は停戦で合意して終戦に向けた本格協議に入る予定だった米国とイランだが、7月上旬に戦闘が再開。イランの攻撃によって米兵が2日連続で死亡したことが明らかになると、トランプ大統領は「その代償を何倍にも・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7956/7",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7955/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門：原油市場の混乱が一段と深刻化する恐れ●米イラン両国が6月17日に結んだ戦闘終結の覚書(MOU)は、1カ月で事実上崩壊したようだ。トランプ米大統領は7月8日、停戦は「終わった」と発言。13日のラジオ番組のインタビューでは、「覚書は契約では・・・続きを読む",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail/1229/7955/8",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_general/detail2/1229": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧問題を語る - 柴田明夫の視点 - 「原油市場の混乱が一段と深刻化する恐れ」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_general/detail2/1229",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-22T18:11:11.394190+09:00"
  }
 }
