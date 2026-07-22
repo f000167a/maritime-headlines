@@ -1,13 +1,4 @@
 {
- "https://splash247.com/polaris-lines-up-vale-backed-newcastlemaxes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Polaris lines up Vale-backed newcastlemaxes",
-  "url": "https://splash247.com/polaris-lines-up-vale-backed-newcastlemaxes/",
-  "date": "2026/07/09",
-  "sd": "07/09",
-  "first_seen_iso": "2026-07-16T08:54:04.252162+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316834": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -3035,7 +3026,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203062/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "船協・長澤会長、パナ…",
+  "title": "船協・長澤会長、パナマのムリーノ大統領らと会談、良好な関係の重要性を再確認",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203062/",
   "date": "2026/07/22",
   "sd": "07/22",
@@ -3044,7 +3035,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203063/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "「2026年山縣勝見賞」、都内で贈呈式",
+  "title": "「2026年山縣勝見…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203063/",
   "date": "2026/07/22",
   "sd": "07/22",
@@ -3454,5 +3445,32 @@
   "date": "2026/07/23",
   "sd": "07/23",
   "first_seen_iso": "2026-07-23T07:56:19.421962+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317033": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "トランプ米大統領、ホルムズ通航料を撤回。湾岸諸国との協定へ転換",
+  "url": "https://www.jmd.co.jp/article.php?no=317033",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-23T08:58:55.050911+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317025": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "エアバス、A350F需要に期待。迅速輸送市場で存在感",
+  "url": "https://www.jmd.co.jp/article.php?no=317025",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-23T08:58:55.050911+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317026": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/山田智史】エネルギー安全保障、海運の強弱材料に",
+  "url": "https://www.jmd.co.jp/article.php?no=317026",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-23T08:58:55.050911+09:00"
  }
 }
