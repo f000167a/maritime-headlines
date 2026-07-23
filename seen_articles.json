@@ -1,67 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316597": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【語録採録】日新社長・峯茂樹さん、休日、気付けば夕方に...",
-  "url": "https://www.jmd.co.jp/article.php?no=316597",
-  "date": "2026/07/02",
-  "sd": "07/02",
-  "first_seen_iso": "2026-07-16T17:29:10.015550+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202941/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "船協、貨物書類に関す…",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202941/",
-  "date": "2026/07/16",
-  "sd": "07/16",
-  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202942/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "北米主要港、5月は7.5%増の474万TEU、関税影響反動でプラス",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202942/",
-  "date": "2026/07/16",
-  "sd": "07/16",
-  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202943/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "日本政府、シアヌークビル港第2期に円借款、CT整備を支援",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202943/",
-  "date": "2026/07/16",
-  "sd": "07/16",
-  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/202944/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ロサンゼルス港、1～6月期は3.4%増の512万TEU、6月は100万超え",
-  "url": "https://www.kaijipress.com/news/container/2026/07/202944/",
-  "date": "2026/07/16",
-  "sd": "07/16",
-  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/202940/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "自動車船、新造発注増加、今年これまで33隻、中国勢の発注なし",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202940/",
-  "date": "2026/07/16",
-  "sd": "07/16",
-  "first_seen_iso": "2026-07-16T17:29:10.015909+09:00"
- },
- "https://splash247.com/ex-captain-admits-drugging-and-raping-us-maritime-cadet-at-sea/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ex-captain admits drugging and raping US maritime cadet at sea",
-  "url": "https://splash247.com/ex-captain-admits-drugging-and-raping-us-maritime-cadet-at-sea/",
-  "date": "2026/07/16",
-  "sd": "07/16",
-  "first_seen_iso": "2026-07-16T17:29:10.016330+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202945/": {
   "src": "k",
   "cat": "コラム",
@@ -2873,7 +2810,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203056/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》マースクGTCC戦略③、インテグレーターの戦略的要素に",
+  "title": "《連載》マースクGT…",
   "url": "https://www.kaijipress.com/news/container/2026/07/203056/",
   "date": "2026/07/22",
   "sd": "07/22",
@@ -3053,7 +2990,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203066/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、ブラジル・…",
+  "title": "マースク、ブラジル・スアペで新物流施設",
   "url": "https://www.kaijipress.com/news/container/2026/07/203066/",
   "date": "2026/07/22",
   "sd": "07/22",
@@ -3742,5 +3679,68 @@
   "date": "2026/07/22",
   "sd": "07/22",
   "first_seen_iso": "2026-07-23T15:19:20.191847+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203084/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井マリテックスら、富山高専で特別講義",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203084/",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-07-23T18:10:36.325514+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203085/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》マースクGTCC戦略④、貿易円滑化へ官民対話が不可欠",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203085/",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-07-23T18:10:36.325514+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203086/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国港湾、1～6月は6%増、寧波舟山が世界2位",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203086/",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-07-23T18:10:36.325514+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203087/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "EFインターナショナル、イタルグルーの日本販売を推進",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203087/",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-07-23T18:10:36.325514+09:00"
+ },
+ "https://splash247.com/houthis-claim-strikes-on-two-saudi-tankers/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Houthis claim strikes on two Saudi tankers",
+  "url": "https://splash247.com/houthis-claim-strikes-on-two-saudi-tankers/",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-07-23T18:10:36.325984+09:00"
+ },
+ "https://splash247.com/russia-ukraine-strikes-choke-black-sea-trade/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Russia-Ukraine strikes choke Black Sea trade",
+  "url": "https://splash247.com/russia-ukraine-strikes-choke-black-sea-trade/",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-07-23T18:10:36.325984+09:00"
+ },
+ "https://splash247.com/dalian-launches-new-deepsea-shipping-platform/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Dalian launches new deepsea shipping platform",
+  "url": "https://splash247.com/dalian-launches-new-deepsea-shipping-platform/",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-07-23T18:10:36.325984+09:00"
  }
 }
