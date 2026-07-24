@@ -1,85 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202971/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "商船三井、長崎県立高校と包括提携、次世代海洋人材を育成",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202971/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202972/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "【プロフィール】鹿志村高士 氏・商船三井執行役員",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202972/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202973/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "ケプラー、船舶データの分析高度化、新サービスをベータ公開無料",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202973/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202974/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "《連載》マースクGTCC戦略①、関税・規制リスクを好機に変える",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202974/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202975/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "YKIP/横浜市、ベトナムでセミナー、安定性を強みに広域集貨推進",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202975/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.477806+09:00"
- },
- "https://splash247.com/iran-primes-houthis-to-shut-bab-el-mandeb/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Iran primes Houthis to shut Bab el-Mandeb",
-  "url": "https://splash247.com/iran-primes-houthis-to-shut-bab-el-mandeb/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
- },
- "https://splash247.com/splash-wrap-chokepoints-under-siege/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Chokepoints under siege",
-  "url": "https://splash247.com/splash-wrap-chokepoints-under-siege/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
- },
- "https://splash247.com/taylor-maritime-calls-time-on-five-year-london-run/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Taylor Maritime calls time on five-year London run",
-  "url": "https://splash247.com/taylor-maritime-calls-time-on-five-year-london-run/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
- },
- "https://splash247.com/cosco-signs-for-four-qingdao-beihai-newcastlemaxes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "COSCO signs for four Qingdao Beihai newcastlemaxes",
-  "url": "https://splash247.com/cosco-signs-for-four-qingdao-beihai-newcastlemaxes/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-17T17:29:23.478243+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202977/": {
   "src": "k",
   "cat": "コラム",
@@ -3017,7 +2936,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203105/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "荏原製作所、液化水素船用カーゴポンプでNKから世界初の型式承認",
+  "title": "荏原製作所、液化水素…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203105/",
   "date": "2026/07/23",
   "sd": "07/23",
@@ -3026,7 +2945,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203106/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "内海造船、カーフェリ…",
+  "title": "内海造船、カーフェリー“トロリウス宗谷”進水",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203106/",
   "date": "2026/07/23",
   "sd": "07/23",
@@ -3724,5 +3643,23 @@
   "date": "2026/07/23",
   "sd": "07/23",
   "first_seen_iso": "2026-07-24T15:14:05.828626+09:00"
+ },
+ "https://splash247.com/splash-wrap-triple-pronged-war-threat/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: Triple-pronged war threat",
+  "url": "https://splash247.com/splash-wrap-triple-pronged-war-threat/",
+  "date": "2026/07/24",
+  "sd": "07/24",
+  "first_seen_iso": "2026-07-24T17:46:48.999009+09:00"
+ },
+ "https://splash247.com/us-attack-threat-raises-stakes-for-gulf-and-red-sea-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "US attack threat raises stakes for Gulf and Red Sea shipping",
+  "url": "https://splash247.com/us-attack-threat-raises-stakes-for-gulf-and-red-sea-shipping/",
+  "date": "2026/07/24",
+  "sd": "07/24",
+  "first_seen_iso": "2026-07-24T17:46:48.999009+09:00"
  }
 }
