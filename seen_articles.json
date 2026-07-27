@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "舶用エンジン各社、データセンター向け需要拡大、対応を強化無料",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-20T19:18:03.088517+09:00"
- },
- "https://splash247.com/hormuz-transits-fall-sharply-amid-escalating-conflict/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz transits fall sharply amid escalating conflict",
-  "url": "https://splash247.com/hormuz-transits-fall-sharply-amid-escalating-conflict/",
-  "date": "2026/07/20",
-  "sd": "07/20",
-  "first_seen_iso": "2026-07-20T19:18:03.089027+09:00"
- },
- "https://splash247.com/europes-great-rivers-run-dry/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Europe’s great rivers run dry",
-  "url": "https://splash247.com/europes-great-rivers-run-dry/",
-  "date": "2026/07/20",
-  "sd": "07/20",
-  "first_seen_iso": "2026-07-20T19:18:03.089027+09:00"
- },
- "https://splash247.com/china-merchants-maps-out-728m-vloc-order/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "China Merchants maps out $728m VLOC order",
-  "url": "https://splash247.com/china-merchants-maps-out-728m-vloc-order/",
-  "date": "2026/07/20",
-  "sd": "07/20",
-  "first_seen_iso": "2026-07-20T19:18:03.089027+09:00"
- },
- "https://splash247.com/hormuz-security-collapses-after-boxship-attack/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hormuz security collapses after boxship attack",
-  "url": "https://splash247.com/hormuz-security-collapses-after-boxship-attack/",
-  "date": "2026/07/13",
-  "sd": "07/13",
-  "first_seen_iso": "2026-07-20T19:18:03.089027+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/202844/": {
   "src": "k",
   "cat": "コラム",
@@ -2639,7 +2594,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203111/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術…",
+  "title": "《連載》自動運航技術の最前線\nサンフレム、機関室内作業を見える化、アナログ設備のデジタル化推進",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203111/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3116,7 +3071,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203126/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関ト協海コン部会、新…",
+  "title": "関ト協海コン部会、新部会長に盛運・穐山正明氏、総会を開催",
   "url": "https://www.kaijipress.com/news/container/2026/07/203126/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3179,7 +3134,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203133/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "辰巳商会、大阪市立中央図書館に寄贈",
+  "title": "辰巳商会、大阪市立中…",
   "url": "https://www.kaijipress.com/news/container/2026/07/203133/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3296,7 +3251,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203146/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工、海の日イベントで支綱切断体験",
+  "title": "中小型造工、海の日イ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203146/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3616,5 +3571,275 @@
   "date": "2026/07/27",
   "sd": "07/27",
   "first_seen_iso": "2026-07-27T16:40:53.740525+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203156/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】#27 伊藤忠商事 尾関洋彦船舶海洋部長、戦略投資とアンモニアに集中",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203156/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203157/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "欧州委員会、EU籍船の解撤施設にインド追加方針、欧州船協・WSCが歓迎",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203157/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203159/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "サイバーポート、クルーズ予約機能運用開始、スムーズな調整実現",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203159/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203160/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本海事協会、コンテナ船の火災対策指針を改正",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203160/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203161/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米LB港/海事局、SMR活用へ協力",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203161/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203162/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "HMM、米タコマ港で韓国製クレーン導入",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203162/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203163/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国発日本向け、5月は3%減、データマイン調査",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203163/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203164/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、燻蒸農産物の統合サービス開始",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203164/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203165/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ジェミニ、北米西岸航路でオークランド寄港",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203165/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203166/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ロッテルダム港、1～6月期は微減の702万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203166/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203167/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "TSラインズ、紅海航路RCXを休止",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203167/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203168/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "サムデラ、インド―中東航路開設",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203168/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203169/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大東港運、事業紹介動画を制作",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203169/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203171/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ポーテン、紅海迂回でタンカー需給逼迫も、サウジ原油輸送で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203171/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203172/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ジェンコ、「引き続き慎重に検討」、ダイアナのTOBに声明",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203172/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203173/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国自動車輸出台数、6月75%増、初の月間100万台突破、半年で日本の年間超え",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203173/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203174/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ダイアナ、パナマ型1.65万ドルで1年貸船",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203174/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203176/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国政府、造船協力に実績要求、「会議・覚書でなく建造隻数」",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203176/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203177/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大韓造船、年間受注が過去最高、スエズ型タンカーで年初来17隻・2.3億ウォン",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203177/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203178/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日舶工、東京海洋大のオープンキャンパスに参加",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203178/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/markets/dry/2026/07/203170/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドライバルク市況週間レポート（7月20日～24日）、ケープ2週ぶりに反発、3.8万ドル",
+  "url": "https://www.kaijipress.com/markets/dry/2026/07/203170/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/203181/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】穐山正明・関東トラック協会海上コンテナ部会長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/203181/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/203182/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】平田宏一・海上技術安全研究所長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/203182/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/203183/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】ジェイソン・ロウ/マルクラ・ヘッドオブバイヤーコマーシャル＝APAC・中東担当",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/203183/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/07/203179/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/07/203179/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/2026/07/203175/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【プロフィール】アナ・カロリーナ・シニスカルキ 氏・商船三井執行役員",
+  "url": "https://www.kaijipress.com/person/profile/2026/07/203175/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/07/203180/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】結実した海事広報活動",
+  "url": "https://www.kaijipress.com/column/aotou/2026/07/203180/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.590937+09:00"
+ },
+ "https://splash247.com/weekend-lull-fails-to-unlock-hormuz-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Weekend lull fails to unlock Hormuz shipping",
+  "url": "https://splash247.com/weekend-lull-fails-to-unlock-hormuz-shipping/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.591460+09:00"
+ },
+ "https://splash247.com/uk-supreme-court-strengthens-shipbuyer-rights/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "UK Supreme Court strengthens shipbuyer rights",
+  "url": "https://splash247.com/uk-supreme-court-strengthens-shipbuyer-rights/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.591460+09:00"
+ },
+ "https://splash247.com/bangladesh-leads-ultramax-buying-spree/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Bangladesh leads ultramax buying spree",
+  "url": "https://splash247.com/bangladesh-leads-ultramax-buying-spree/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T19:56:25.591460+09:00"
  }
 }
