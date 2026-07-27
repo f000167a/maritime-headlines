@@ -1,13 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202980/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "海洋立国推進功労者、三島愼次郎氏ら表彰",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202980/",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-20T12:51:59.042826+09:00"
- },
  "https://splash247.com/splash-singapore-pacific-basins-martin-fruergaard-maps-dry-bulks-three-way-challenge/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3152,7 +3143,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203128/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "JAFSA、飯垣会長…",
+  "title": "JAFSA、飯垣会長「魅力ある活動を」、都内で夏季セミナー開催",
   "url": "https://www.kaijipress.com/news/container/2026/07/203128/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3197,7 +3188,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203133/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "辰巳商会、大阪市立中央図書館に寄贈",
+  "title": "辰巳商会、大阪市立中…",
   "url": "https://www.kaijipress.com/news/container/2026/07/203133/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3296,7 +3287,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203144/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工、大阪公立大学で説明・懇親会",
+  "title": "中小型造工、大阪公立…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203144/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3314,7 +3305,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203146/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工、海の日イ…",
+  "title": "中小型造工、海の日イベントで支綱切断体験",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203146/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3589,5 +3580,14 @@
   "date": "2026/07/21",
   "sd": "07/21",
   "first_seen_iso": "2026-07-27T08:55:40.494466+09:00"
+ },
+ "http://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "「TDS WEEKLY REPORT 2075号」",
+  "url": "http://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-27T12:52:35.793237+09:00"
  }
 }
