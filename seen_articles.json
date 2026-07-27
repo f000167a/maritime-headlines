@@ -1,13 +1,4 @@
 {
- "https://splash247.com/splash-singapore-pacific-basins-martin-fruergaard-maps-dry-bulks-three-way-challenge/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Singapore: Pacific Basin’s Martin Fruergaard maps dry bulk’s three-way challenge",
-  "url": "https://splash247.com/splash-singapore-pacific-basins-martin-fruergaard-maps-dry-bulks-three-way-challenge/",
-  "date": "2026/07/20",
-  "sd": "07/20",
-  "first_seen_iso": "2026-07-20T15:55:16.457825+09:00"
- },
  "https://www.kaijipress.com/news/shipbuilding/2026/07/202843/": {
   "src": "k",
   "cat": "コラム",
@@ -434,7 +425,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】6月世界粗鋼生産量、10カ月ぶりに前年水準上回る7月23日：T/C市場＝12隻・84万DWT、V/C市場＝鉄鉱石4隻、石炭2隻",
+  "title": "【本日のトピック】インド石炭輸入は低調続く、5月は前年比▲14%減7月24日：T/C市場＝15隻・99万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/21",
   "sd": "07/21",
@@ -2648,7 +2639,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203111/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "《連載》自動運航技術の最前線\nサンフレム、機関室内作業を見える化、アナログ設備のデジタル化推進",
+  "title": "《連載》自動運航技術…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203111/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3125,7 +3116,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203126/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関ト協海コン部会、新部会長に盛運・穐山正明氏、総会を開催",
+  "title": "関ト協海コン部会、新…",
   "url": "https://www.kaijipress.com/news/container/2026/07/203126/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3188,7 +3179,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203133/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "辰巳商会、大阪市立中…",
+  "title": "辰巳商会、大阪市立中央図書館に寄贈",
   "url": "https://www.kaijipress.com/news/container/2026/07/203133/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3287,7 +3278,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203144/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工、大阪公立…",
+  "title": "中小型造工、大阪公立大学で説明・懇親会",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203144/",
   "date": "2026/07/24",
   "sd": "07/24",
@@ -3589,5 +3580,41 @@
   "date": "2026/07/22",
   "sd": "07/22",
   "first_seen_iso": "2026-07-27T12:52:35.793237+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203153/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "＜ニッキン提供記事＞いよぎんHDと愛媛銀、経営統合で基本合意、27年4月めど、総資産12兆6000億円",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203153/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T16:40:53.740047+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203155/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "上海発欧米向け、短期コンテナ運賃の下落続く",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203155/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T16:40:53.740047+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203154/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "26年上半期の鉄鋼サプライチェーン動向、鉄鋼副原料海上荷動き好調",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203154/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T16:40:53.740047+09:00"
+ },
+ "https://splash247.com/ukraine-strike-on-iranian-ship-ties-wars-together/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ukraine strike on Iranian ship ties wars together",
+  "url": "https://splash247.com/ukraine-strike-on-iranian-ship-ties-wars-together/",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-07-27T16:40:53.740525+09:00"
  }
 }
