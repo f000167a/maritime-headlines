@@ -3179,7 +3179,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203191/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事プレス、FC今治…",
+  "title": "海事プレス、FC今治とメディアパートナー契約、海事産業との結びつきなど情報発信",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203191/",
   "date": "2026/07/28",
   "sd": "07/28",
@@ -3188,7 +3188,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203192/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、大島商船高専で内航船員特別講座、グループ5社合同",
+  "title": "商船三井、大島商船高…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203192/",
   "date": "2026/07/28",
   "sd": "07/28",
@@ -3589,5 +3589,14 @@
   "date": "2026/07/29",
   "sd": "07/29",
   "first_seen_iso": "2026-07-29T07:53:47.102512+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317190": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "【航空混載】JAFA集計、上半期輸出重量7%増。半導体関連好調、台湾・中国けん引",
+  "url": "https://www.jmd.co.jp/article.php?no=317190",
+  "date": "2026/07/22",
+  "sd": "07/22",
+  "first_seen_iso": "2026-07-29T08:54:22.882580+09:00"
  }
 }
