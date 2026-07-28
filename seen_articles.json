@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/tramper/2026/07/202896/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "自動車船の船腹不足が再燃、中国輸出大幅増、滞船悪化などで",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/202896/",
-  "date": "2026/07/21",
-  "sd": "07/21",
-  "first_seen_iso": "2026-07-21T21:56:47.971367+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202901/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《シリーズ》造船業再生の視点、LNG船「どう造るか」の段階へ、建造設備も焦点、技術・コストなど再構築",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202901/",
-  "date": "2026/07/21",
-  "sd": "07/21",
-  "first_seen_iso": "2026-07-21T21:56:47.971367+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317189": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -2666,7 +2648,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203160/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本海事協会、コンテナ船の火災対策指針を改正",
+  "title": "日本海事協会、コンテ…",
   "url": "https://www.kaijipress.com/news/container/2026/07/203160/",
   "date": "2026/07/27",
   "sd": "07/27",
@@ -2684,7 +2666,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203162/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "HMM、米タコマ港で…",
+  "title": "HMM、米タコマ港で韓国製クレーン導入",
   "url": "https://www.kaijipress.com/news/container/2026/07/203162/",
   "date": "2026/07/27",
   "sd": "07/27",
@@ -3526,5 +3508,41 @@
   "date": "2026/07/28",
   "sd": "07/28",
   "first_seen_iso": "2026-07-28T20:29:00.153126+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316535": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（409）「親日」に甘えず再開拓。ギリシャ詣で、顔触れに変化",
+  "url": "https://www.jmd.co.jp/article.php?no=316535",
+  "date": "2026/06/30",
+  "sd": "06/30",
+  "first_seen_iso": "2026-07-28T22:14:52.902847+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203032/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "郵船、サガウェルコ完全子会社化を完了、グループ全体でシナジー創出",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203032/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T22:14:52.903193+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203008/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ホルムズ海峡でタンカー2隻炎上、バブ・エル・マンデブ海峡に飛び火懸念",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203008/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T22:14:52.903193+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/07/203047/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/07/203047/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T22:14:52.903193+09:00"
  }
 }
