@@ -2935,7 +2935,7 @@
  },
  "https://www.jmd.co.jp/article.php?no=317306": {
   "src": "j",
-  "cat": "不定期",
+  "cat": "激震 イラン軍事衝突",
   "title": "フーシ派、サウジ籍タンカー2隻攻撃。IMO声明「断固非難」",
   "url": "https://www.jmd.co.jp/article.php?no=317306",
   "date": "2026/07/27",
@@ -3179,7 +3179,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203161/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "米LB港/海事局、SMR活用へ協力",
+  "title": "米LB港/海事局、S…",
   "url": "https://www.kaijipress.com/news/container/2026/07/203161/",
   "date": "2026/07/27",
   "sd": "07/27",
@@ -3251,7 +3251,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203169/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大東港運、事業紹介動…",
+  "title": "大東港運、事業紹介動画を制作",
   "url": "https://www.kaijipress.com/news/container/2026/07/203169/",
   "date": "2026/07/27",
   "sd": "07/27",
@@ -3643,5 +3643,149 @@
   "date": "2026/07/27",
   "sd": "07/27",
   "first_seen_iso": "2026-07-28T07:55:29.474933+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=316945": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/神子真人】コンテナ運賃 転機探る局面に、前倒し需要一巡 供給増も",
+  "url": "https://www.jmd.co.jp/article.php?no=316945",
+  "date": "2026/07/14",
+  "sd": "07/14",
+  "first_seen_iso": "2026-07-28T12:23:17.145208+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.145555+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】インド石炭輸入は低調続く、5月は前年比▲14%減7月24日：T/C市場＝15隻・99万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、その他1隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.146157+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.146157+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.146157+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.146157+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.146157+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-07-28T12:23:17.146157+09:00"
  }
 }
