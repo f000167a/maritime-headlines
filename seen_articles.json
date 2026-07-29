@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202919/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "福永海運、全船インデックス連動契約に、「世界基準へ、迷いなし。」",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202919/",
-  "date": "2026/07/22",
-  "sd": "07/22",
-  "first_seen_iso": "2026-07-22T22:03:53.783353+09:00"
- },
- "https://splash247.com/ukraines-azov-campaign-eclipses-the-tanker-wars-of-the-1980s/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ukraine’s Azov campaign eclipses the tanker wars of the 1980s",
-  "url": "https://splash247.com/ukraines-azov-campaign-eclipses-the-tanker-wars-of-the-1980s/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-22T22:03:53.784112+09:00"
- },
- "https://splash247.com/us-revives-iran-blockade-after-trump-toll-u-turn/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "US revives Iran blockade after Trump toll U-turn",
-  "url": "https://splash247.com/us-revives-iran-blockade-after-trump-toll-u-turn/",
-  "date": "2026/07/15",
-  "sd": "07/15",
-  "first_seen_iso": "2026-07-22T22:03:53.784112+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317222": {
   "src": "j",
   "cat": "激震 イラン軍事衝突",
@@ -2810,7 +2783,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203191/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "海事プレス、FC今治とメディアパートナー契約、海事産業との結びつきなど情報発信",
+  "title": "海事プレス、FC今治…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203191/",
   "date": "2026/07/28",
   "sd": "07/28",
@@ -2819,7 +2792,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203192/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、大島商船高…",
+  "title": "商船三井、大島商船高専で内航船員特別講座、グループ5社合同",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203192/",
   "date": "2026/07/28",
   "sd": "07/28",
@@ -3949,5 +3922,50 @@
   "date": "2026/07/29",
   "sd": "07/29",
   "first_seen_iso": "2026-07-29T20:40:50.509373+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203059/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】#26 ソメック・長池一憲社長、仲介とアセットマネジメントで貢献",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203059/",
+  "date": "2026/07/29",
+  "sd": "07/29",
+  "first_seen_iso": "2026-07-29T22:25:24.126880+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203060/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎汽船・田口雅俊専務に聞く、実行力生む人材・組織つくる",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203060/",
+  "date": "2026/07/29",
+  "sd": "07/29",
+  "first_seen_iso": "2026-07-29T22:25:24.126880+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/07/203080/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】お酒がつなぐ海と陸",
+  "url": "https://www.kaijipress.com/column/aotou/2026/07/203080/",
+  "date": "2026/07/29",
+  "sd": "07/29",
+  "first_seen_iso": "2026-07-29T22:25:24.126880+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203069/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《シリーズ》ギリシャ船主に聞く、ドライデル・シッピング　デラポルタスCEO、環境規制と燃料高で新鋭船が優位",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203069/",
+  "date": "2026/07/29",
+  "sd": "07/29",
+  "first_seen_iso": "2026-07-29T22:25:24.126880+09:00"
+ },
+ "https://splash247.com/jme-adds-to-new-dayang-ultramax-series/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "JME adds to New Dayang ultramax series",
+  "url": "https://splash247.com/jme-adds-to-new-dayang-ultramax-series/",
+  "date": "2026/07/29",
+  "sd": "07/29",
+  "first_seen_iso": "2026-07-29T22:25:24.127406+09:00"
  }
 }
