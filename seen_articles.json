@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/202945/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】#25 三菱商事　有馬直樹船舶・インフラ事業部長、ガス関連船を拡充し船隊多様化",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202945/",
-  "date": "2026/07/23",
-  "sd": "07/23",
-  "first_seen_iso": "2026-07-23T22:05:26.666408+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202959/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "重工・造船給与、4年で3割超上昇、三菱重工は1072万円、韓国大手は日本上回る",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202959/",
-  "date": "2026/07/23",
-  "sd": "07/23",
-  "first_seen_iso": "2026-07-23T22:05:26.666408+09:00"
- },
- "https://splash247.com/wisdom-pulls-plug-on-japanese-handysize-deal/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Wisdom pulls plug on Japanese handysize deal",
-  "url": "https://splash247.com/wisdom-pulls-plug-on-japanese-handysize-deal/",
-  "date": "2026/07/23",
-  "sd": "07/23",
-  "first_seen_iso": "2026-07-23T22:05:26.667008+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317278": {
   "src": "j",
   "cat": "コンテナ",
@@ -3796,5 +3769,14 @@
   "date": "2026/07/30",
   "sd": "07/30",
   "first_seen_iso": "2026-07-30T20:21:26.712756+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203103/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "今治造船、売上6000億円突破、JMUと合わせ1兆円、設備投資は10年で1000億円超計画",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203103/",
+  "date": "2026/07/30",
+  "sd": "07/30",
+  "first_seen_iso": "2026-07-30T22:08:31.640689+09:00"
  }
 }
