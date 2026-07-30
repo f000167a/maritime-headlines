@@ -3368,7 +3368,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203211/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGM、4～…",
+  "title": "CMA-CGM、4～6月期純利益48%増",
   "url": "https://www.kaijipress.com/news/container/2026/07/203211/",
   "date": "2026/07/29",
   "sd": "07/29",
@@ -3395,7 +3395,7 @@
  "https://www.kaijipress.com/news/container/2026/07/203209/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "港湾労災防止協、主要港督励巡視スタート、横浜で結団式",
+  "title": "港湾労災防止協、主要…",
   "url": "https://www.kaijipress.com/news/container/2026/07/203209/",
   "date": "2026/07/29",
   "sd": "07/29",
@@ -3976,5 +3976,50 @@
   "date": "2026/07/30",
   "sd": "07/30",
   "first_seen_iso": "2026-07-30T12:12:54.404293+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317026": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/山田智史】エネルギー安全保障、海運の強弱材料に",
+  "url": "https://www.jmd.co.jp/article.php?no=317026",
+  "date": "2026/07/16",
+  "sd": "07/16",
+  "first_seen_iso": "2026-07-30T15:01:13.826343+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203234/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "IAPH、KIMと港湾フォーラム、脱炭素化、デジタル化、効率化語る",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203234/",
+  "date": "2026/07/30",
+  "sd": "07/30",
+  "first_seen_iso": "2026-07-30T15:01:13.826567+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/07/203236/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》データでみる日本港湾＜下＞、インバランス最小は三田尻中関",
+  "url": "https://www.kaijipress.com/news/container/2026/07/203236/",
+  "date": "2026/07/30",
+  "sd": "07/30",
+  "first_seen_iso": "2026-07-30T15:01:13.826567+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/07/203235/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ハンファオーシャン、新規受注営業は31年前半納期へ、LNG船やVLCC選別受注",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203235/",
+  "date": "2026/07/30",
+  "sd": "07/30",
+  "first_seen_iso": "2026-07-30T15:01:13.826567+09:00"
+ },
+ "https://splash247.com/cosco-lines-up-15-newcastlemaxes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "COSCO lines up 15 newcastlemaxes",
+  "url": "https://splash247.com/cosco-lines-up-15-newcastlemaxes/",
+  "date": "2026/07/30",
+  "sd": "07/30",
+  "first_seen_iso": "2026-07-30T15:01:13.826830+09:00"
  }
 }
