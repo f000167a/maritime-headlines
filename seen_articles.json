@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317061": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "UPS、台湾・高雄に新拠点。事業規模2倍に",
-  "url": "https://www.jmd.co.jp/article.php?no=317061",
-  "date": "2026/07/17",
-  "sd": "07/17",
-  "first_seen_iso": "2026-07-24T12:31:45.533816+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/07/203115/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -3242,7 +3233,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203237/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "新垣海事局長、LNG運搬船建造で韓国に技術協力求める",
+  "title": "新垣海事局長、LNG…",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203237/",
   "date": "2026/07/30",
   "sd": "07/30",
@@ -3305,7 +3296,7 @@
  "https://www.kaijipress.com/news/shipping/2026/07/203242/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "＜ニッキン提供記事＞…",
+  "title": "＜ニッキン提供記事＞経済安保事業にJBICが劣後出資、政府、基本指針策定へ",
   "url": "https://www.kaijipress.com/news/shipping/2026/07/203242/",
   "date": "2026/07/30",
   "sd": "07/30",
@@ -3458,7 +3449,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203259/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日本無線の星港拠点、…",
+  "title": "日本無線の星港拠点、サービス強化で過去最高売上、人員増強・新オフィス移転",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203259/",
   "date": "2026/07/30",
   "sd": "07/30",
@@ -3476,7 +3467,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203261/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "旭洋造船、7500立方メートル型LPG船“GAS JOY”竣工",
+  "title": "旭洋造船、7500立…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203261/",
   "date": "2026/07/30",
   "sd": "07/30",
