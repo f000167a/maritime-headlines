@@ -1,22 +1,4 @@
 {
- "https://splash247.com/splash-wrap-triple-pronged-war-threat/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: Triple-pronged war threat",
-  "url": "https://splash247.com/splash-wrap-triple-pronged-war-threat/",
-  "date": "2026/07/24",
-  "sd": "07/24",
-  "first_seen_iso": "2026-07-24T17:46:48.999009+09:00"
- },
- "https://splash247.com/us-attack-threat-raises-stakes-for-gulf-and-red-sea-shipping/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "US attack threat raises stakes for Gulf and Red Sea shipping",
-  "url": "https://splash247.com/us-attack-threat-raises-stakes-for-gulf-and-red-sea-shipping/",
-  "date": "2026/07/24",
-  "sd": "07/24",
-  "first_seen_iso": "2026-07-24T17:46:48.999009+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317313": {
   "src": "j",
   "cat": "物流/港運",
@@ -3062,7 +3044,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203259/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日本無線の星港拠点、…",
+  "title": "日本無線の星港拠点、サービス強化で過去最高売上、人員増強・新オフィス移転無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203259/",
   "date": "2026/07/30",
   "sd": "07/30",
@@ -3080,7 +3062,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/07/203261/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "旭洋造船、7500立方メートル型LPG船“GAS JOY”竣工",
+  "title": "旭洋造船、7500立…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203261/",
   "date": "2026/07/30",
   "sd": "07/30",
@@ -3665,7 +3647,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203272/": {
   "src": "k",
   "cat": "コラム",
-  "title": "国交省幹部人事、海事局長に足立氏、事務次官に塩見氏、安部港湾局長は留任",
+  "title": "国交省幹部人事、海事局長に足立氏、安部港湾局長留任",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203272/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3706,5 +3688,50 @@
   "date": "2026/07/31",
   "sd": "07/31",
   "first_seen_iso": "2026-07-31T15:33:26.596560+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317525": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "New!18:07山九、新会社に賃借倉庫移管。約23万平方㍍を継承",
+  "url": "https://www.jmd.co.jp/article.php?no=317525",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-07-31T18:33:19.397633+09:00"
+ },
+ "https://splash247.com/splash-wrap-war-risk-map-widens/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: War-risk map widens",
+  "url": "https://splash247.com/splash-wrap-war-risk-map-widens/",
+  "date": "2026/07/31",
+  "sd": "07/31",
+  "first_seen_iso": "2026-07-31T18:33:19.398526+09:00"
+ },
+ "https://splash247.com/black-sea-ship-attacks-spread/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Black Sea ship attacks spread",
+  "url": "https://splash247.com/black-sea-ship-attacks-spread/",
+  "date": "2026/07/31",
+  "sd": "07/31",
+  "first_seen_iso": "2026-07-31T18:33:19.398526+09:00"
+ },
+ "https://splash247.com/seanergy-stacks-up-nearly-600m-in-fleet-investment/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Seanergy stacks up nearly $600m in fleet investment",
+  "url": "https://splash247.com/seanergy-stacks-up-nearly-600m-in-fleet-investment/",
+  "date": "2026/07/31",
+  "sd": "07/31",
+  "first_seen_iso": "2026-07-31T18:33:19.398526+09:00"
+ },
+ "https://splash247.com/singaporean-charged-over-sanctioned-north-korean-bulker/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Singaporean charged over sanctioned North Korean bulker",
+  "url": "https://splash247.com/singaporean-charged-over-sanctioned-north-korean-bulker/",
+  "date": "2026/07/31",
+  "sd": "07/31",
+  "first_seen_iso": "2026-07-31T18:33:19.398526+09:00"
  }
 }
