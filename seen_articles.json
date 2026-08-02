@@ -1,202 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317303": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "コンテナ運賃、総合指標4%下落。2週連続、4374ドル",
-  "url": "https://www.jmd.co.jp/article.php?no=317303",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317296": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "アジア域内運賃2%下落。ドゥルーリー、5週連続低下 960ドル",
-  "url": "https://www.jmd.co.jp/article.php?no=317296",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317295": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "ONE、北米東岸航路で寧波寄港。中国3港に",
-  "url": "https://www.jmd.co.jp/article.php?no=317295",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317294": {
-  "src": "j",
-  "cat": "コンテナ",
-  "title": "MSC、モザンビークで沿岸輸送。LNG開発専用便",
-  "url": "https://www.jmd.co.jp/article.php?no=317294",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317304": {
-  "src": "j",
-  "cat": "不定期",
-  "title": "いよぎんHD・愛媛銀、来年4月に経営統合。「船舶メガ地銀」誕生。海事融資残高2.1兆円",
-  "url": "https://www.jmd.co.jp/article.php?no=317304",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317306": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "フーシ派、サウジ籍タンカー2隻攻撃。IMO声明「断固非難」",
-  "url": "https://www.jmd.co.jp/article.php?no=317306",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317305": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "【新ユニット統括に聞く】（3）川崎汽船専務執行役員ドライバルク事業ユニット統括・岩下方誠氏、高品質輸送 稼ぐ力磨く",
-  "url": "https://www.jmd.co.jp/article.php?no=317305",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317302": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "川崎汽船、経常1350億円に上方修正。通期、ドライ・定期船上振れ",
-  "url": "https://www.jmd.co.jp/article.php?no=317302",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317311": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "EU―ETS、海運に1.8兆円還元。脱炭素を支援",
-  "url": "https://www.jmd.co.jp/article.php?no=317311",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317308": {
-  "src": "j",
-  "cat": "外航全般",
-  "title": "春安航運グループ、宋会長「新たな事業機会模索」、日本法人設立、三国間物流で荷主に貢献",
-  "url": "https://www.jmd.co.jp/article.php?no=317308",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317301": {
-  "src": "j",
-  "cat": "造船/舶用",
-  "title": "改正経済安保法、船舶修繕 支援なるか。「不可欠な役務」",
-  "url": "https://www.jmd.co.jp/article.php?no=317301",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317293": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "国交省など調査、物効法対応、荷主・倉庫で進展。トラックと取り組み状況に差",
-  "url": "https://www.jmd.co.jp/article.php?no=317293",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317299": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "ヨコレイ、4拠点でS&LB。羽田・つくばなど、譲渡益59億円",
-  "url": "https://www.jmd.co.jp/article.php?no=317299",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317300": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "物流連、印ASCPと覚書。海外物流団体と初提携",
-  "url": "https://www.jmd.co.jp/article.php?no=317300",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317286": {
-  "src": "j",
-  "cat": "物流/港運",
-  "title": "プロジェクト44、2事業体に再編。物流企業向け「LSP44」新設",
-  "url": "https://www.jmd.co.jp/article.php?no=317286",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317298": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "【外貿コンテナ】神戸港、5月輸出3%減。輸入は5%増",
-  "url": "https://www.jmd.co.jp/article.php?no=317298",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317287": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "阪神国際港湾会社、敦賀港国際ターミナルと覚書。フィーダー航路活用、連携強化",
-  "url": "https://www.jmd.co.jp/article.php?no=317287",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317284": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "新潟港、都内でセミナー。9月2日、利活用事例紹介",
-  "url": "https://www.jmd.co.jp/article.php?no=317284",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317292": {
-  "src": "j",
-  "cat": "港湾",
-  "title": "近畿運輸局、功労者表彰式典。海事産業発展の功績たたえる",
-  "url": "https://www.jmd.co.jp/article.php?no=317292",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317283": {
-  "src": "j",
-  "cat": "内航/フェリー",
-  "title": "AIS、「海事クラスター交流会 in 神戸クルーズ」動画公開。学生と船員らが船上で交流。船員へ感謝のメッセージも",
-  "url": "https://www.jmd.co.jp/article.php?no=317283",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.416797+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202977/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "船主の借入通貨、スイスフラン人気続く、新興地銀も供給",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202977/",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.417159+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/202990/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "NSY、ケープ・シッピングからVLCC初受注、ギリシャの新規顧客と初取引",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/202990/",
-  "date": "2026/07/27",
-  "sd": "07/27",
-  "first_seen_iso": "2026-07-27T07:54:11.417159+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317149": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -3296,7 +3098,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203270/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "《連載》深化する海運…",
+  "title": "《連載》深化する海運会社のシンガポール戦略＜下＞、実務拠点であり司令塔、次の姿探る",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203270/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3305,7 +3107,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203272/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "国交省幹部人事、海事局長に足立氏、安部港湾局長留任",
+  "title": "国交省幹部人事、海事…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203272/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3413,7 +3215,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203281/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ダイトーコーポ、大黒C4で顔認証システム導入",
+  "title": "ダイトーコーポ、大黒…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203281/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3449,7 +3251,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203285/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "八戸セミナー、コンテ…",
+  "title": "八戸セミナー、コンテナ航路新設などアピール、都内で開催",
   "url": "https://www.kaijipress.com/news/container/2026/08/203285/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3539,7 +3341,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203296/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "世界新造需要、35年に9000万総トン、50年に1.1億総トン、国交省予測",
+  "title": "世界新造需要、35年…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203296/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3548,7 +3350,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203297/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石舟山、メタノール…",
+  "title": "常石舟山、メタノール燃料をSTSで初供給、作業期間を4日から1日に短縮",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203297/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3985,5 +3787,23 @@
   "date": "2026/07/31",
   "sd": "07/31",
   "first_seen_iso": "2026-08-03T07:50:37.108618+09:00"
+ },
+ "https://splash247.com/nyk-moves-to-absorb-ns-united-in-near-1bn-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "NYK moves to absorb NS United in near $1bn deal",
+  "url": "https://splash247.com/nyk-moves-to-absorb-ns-united-in-near-1bn-deal/",
+  "date": "2026/08/03",
+  "sd": "08/03",
+  "first_seen_iso": "2026-08-03T08:53:28.125790+09:00"
+ },
+ "https://splash247.com/new-yangtze-books-changhong-newcastlemax-pair/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "New Yangtze books Changhong newcastlemax pair",
+  "url": "https://splash247.com/new-yangtze-books-changhong-newcastlemax-pair/",
+  "date": "2026/08/03",
+  "sd": "08/03",
+  "first_seen_iso": "2026-08-03T08:53:28.125790+09:00"
  }
 }
