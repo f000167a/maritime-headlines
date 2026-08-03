@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317149": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【社告】コンテナ航路の最新動向。9月16日セミナー。CMA CGMジャパン・内田社長ら登壇",
-  "url": "https://www.jmd.co.jp/article.php?no=317149",
-  "date": "2026/07/21",
-  "sd": "07/21",
-  "first_seen_iso": "2026-07-27T08:55:40.494466+09:00"
- },
  "http://www.tramp.co.jp/fenet/weekly_report": {
   "src": "t",
   "cat": "TDS Weekly",
@@ -3215,7 +3206,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203281/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ダイトーコーポ、大黒…",
+  "title": "ダイトーコーポ、大黒C4で顔認証システム導入",
   "url": "https://www.kaijipress.com/news/container/2026/08/203281/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3224,7 +3215,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203282/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "LA港、橋梁改修で超大型船対応模索",
+  "title": "LA港、橋梁改修で超…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203282/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3341,7 +3332,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203296/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "世界新造需要、35年…",
+  "title": "世界新造需要、35年に9000万総トン、50年に1.1億総トン、国交省予測",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203296/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3368,7 +3359,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203299/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "JMU、スエズ型タンカー“NISSOS SANTORINI”竣工",
+  "title": "JMU、スエズ型タン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203299/",
   "date": "2026/07/31",
   "sd": "07/31",
@@ -3805,5 +3796,14 @@
   "date": "2026/08/03",
   "sd": "08/03",
   "first_seen_iso": "2026-08-03T08:53:28.125790+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317306": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "フーシ派、サウジ籍タンカー2隻攻撃。IMO声明「断固非難」",
+  "url": "https://www.jmd.co.jp/article.php?no=317306",
+  "date": "2026/07/27",
+  "sd": "07/27",
+  "first_seen_iso": "2026-08-03T12:41:35.569411+09:00"
  }
 }
