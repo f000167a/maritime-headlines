@@ -1,13 +1,4 @@
 {
- "http://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "「TDS WEEKLY REPORT 2076号」",
-  "url": "http://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/07/22",
-  "sd": "07/22",
-  "first_seen_iso": "2026-07-27T12:52:35.793237+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/203153/": {
   "src": "k",
   "cat": "コラム",
@@ -641,7 +632,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国鉄鉱石価格、下げ足強まり1年ぶり低水準に7月30日：T/C市場＝17隻・123万DWT、V/C市場＝鉄鉱石3隻、石炭2隻、穀物1隻",
+  "title": "【本日のトピック】6月南ア炭輸出は531万トン、年初来最低も前年水準は上回る7月31日：T/C市場＝16隻・125万DWT、V/C市場＝鉄鉱石3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/07/28",
   "sd": "07/28",
@@ -3805,5 +3796,41 @@
   "date": "2026/07/27",
   "sd": "07/27",
   "first_seen_iso": "2026-08-03T12:41:35.569411+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317149": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【社告】コンテナ航路の最新動向。9月16日セミナー。CMA CGMジャパン・内田社長ら登壇",
+  "url": "https://www.jmd.co.jp/article.php?no=317149",
+  "date": "2026/07/21",
+  "sd": "07/21",
+  "first_seen_iso": "2026-08-03T15:47:21.360709+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203309/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "新垣海事局長、「社会の期待に応える産業に」、退任あいさつ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203309/",
+  "date": "2026/08/03",
+  "sd": "08/03",
+  "first_seen_iso": "2026-08-03T15:47:21.361058+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203307/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【熊本地震】国が八代港一部管理",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203307/",
+  "date": "2026/08/03",
+  "sd": "08/03",
+  "first_seen_iso": "2026-08-03T15:47:21.361058+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203308/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【熊本地震】国交省港湾局、船舶で給水や入浴支援",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203308/",
+  "date": "2026/08/03",
+  "sd": "08/03",
+  "first_seen_iso": "2026-08-03T15:47:21.361058+09:00"
  }
 }
