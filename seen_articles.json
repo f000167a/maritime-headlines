@@ -1,40 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=316535": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（409）「親日」に甘えず再開拓。ギリシャ詣で、顔触れに変化",
-  "url": "https://www.jmd.co.jp/article.php?no=316535",
-  "date": "2026/06/30",
-  "sd": "06/30",
-  "first_seen_iso": "2026-07-28T22:14:52.902847+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/07/203032/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "郵船、サガウェルコ完全子会社化を完了、グループ全体でシナジー創出",
-  "url": "https://www.kaijipress.com/news/tramper/2026/07/203032/",
-  "date": "2026/07/28",
-  "sd": "07/28",
-  "first_seen_iso": "2026-07-28T22:14:52.903193+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/203008/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "ホルムズ海峡でタンカー2隻炎上、バブ・エル・マンデブ海峡に飛び火懸念",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/203008/",
-  "date": "2026/07/28",
-  "sd": "07/28",
-  "first_seen_iso": "2026-07-28T22:14:52.903193+09:00"
- },
- "https://www.kaijipress.com/person/jinji/2026/07/203047/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井、人事異動",
-  "url": "https://www.kaijipress.com/person/jinji/2026/07/203047/",
-  "date": "2026/07/28",
-  "sd": "07/28",
-  "first_seen_iso": "2026-07-28T22:14:52.903193+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317393": {
   "src": "j",
   "cat": "コンテナ",
@@ -3062,7 +3026,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203329/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S DU、玉…",
+  "title": "三井E&S DU、玉野工場で初のWinGDメタノール機関完成",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203329/",
   "date": "2026/08/03",
   "sd": "08/03",
@@ -3089,7 +3053,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203332/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "CIMAC若手技術者論文発表会、8年ぶり日本開催、若手育成へ国際交流の場",
+  "title": "CIMAC若手技術者…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203332/",
   "date": "2026/08/03",
   "sd": "08/03",
@@ -4138,5 +4102,23 @@
   "date": "2026/08/04",
   "sd": "08/04",
   "first_seen_iso": "2026-08-04T20:35:11.035031+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203189/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "伊予銀シンガポール、郷緒支店長に聞く、残高拡大、非日系船主を開拓",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203189/",
+  "date": "2026/08/04",
+  "sd": "08/04",
+  "first_seen_iso": "2026-08-04T22:25:22.105279+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/07/203206/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】檜垣幸人・今治造船社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/07/203206/",
+  "date": "2026/08/04",
+  "sd": "08/04",
+  "first_seen_iso": "2026-08-04T22:25:22.105279+09:00"
  }
 }
