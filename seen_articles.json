@@ -1,13 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317190": {
-  "src": "j",
-  "cat": "航空貨物",
-  "title": "【航空混載】JAFA集計、上半期輸出重量7%増。半導体関連好調、台湾・中国けん引",
-  "url": "https://www.jmd.co.jp/article.php?no=317190",
-  "date": "2026/07/22",
-  "sd": "07/22",
-  "first_seen_iso": "2026-07-29T08:54:22.882580+09:00"
- },
  "https://news.google.com/rss/articles/CBMibkFVX3lxTE95V0ZyVnBVcDVuUnVIZDEzaWNoVFczYnFrTGtRVzJROEdvakM5X1ZvRVBMYlJhbWhQU1dGQzNxQjhLU2VIa0VMeGpaMF9YT0JCZXJ2Wnp4aUtNNkhrVGVxM2VDbTFEYnI1N09RcDVR?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3701,7 +3692,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203365/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "向島ドック、工場祭「…",
+  "title": "向島ドック、工場祭「向島ドックフェス」初開催、472人来場、地域や学生と連携",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203365/",
   "date": "2026/08/04",
   "sd": "08/04",
@@ -3773,7 +3764,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203373/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "函館どつく、北海道教育大と連携",
+  "title": "函館どつく、北海道教…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203373/",
   "date": "2026/08/04",
   "sd": "08/04",
