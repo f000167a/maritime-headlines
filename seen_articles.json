@@ -1,49 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317026": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【記者の視点/山田智史】エネルギー安全保障、海運の強弱材料に",
-  "url": "https://www.jmd.co.jp/article.php?no=317026",
-  "date": "2026/07/16",
-  "sd": "07/16",
-  "first_seen_iso": "2026-07-30T15:01:13.826343+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/203234/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "IAPH、KIMと港…",
-  "url": "https://www.kaijipress.com/news/container/2026/07/203234/",
-  "date": "2026/07/30",
-  "sd": "07/30",
-  "first_seen_iso": "2026-07-30T15:01:13.826567+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/07/203236/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》データでみる日本港湾＜下＞、インバランス最小は三田尻中関",
-  "url": "https://www.kaijipress.com/news/container/2026/07/203236/",
-  "date": "2026/07/30",
-  "sd": "07/30",
-  "first_seen_iso": "2026-07-30T15:01:13.826567+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/07/203235/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "ハンファオーシャン、新規受注営業は31年前半納期へ、LNG船やVLCC選別受注",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203235/",
-  "date": "2026/07/30",
-  "sd": "07/30",
-  "first_seen_iso": "2026-07-30T15:01:13.826567+09:00"
- },
- "https://splash247.com/cosco-lines-up-15-newcastlemaxes/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "COSCO lines up 15 newcastlemaxes",
-  "url": "https://splash247.com/cosco-lines-up-15-newcastlemaxes/",
-  "date": "2026/07/30",
-  "sd": "07/30",
-  "first_seen_iso": "2026-07-30T15:01:13.826830+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317484": {
   "src": "j",
   "cat": "外航全般",
@@ -2378,7 +2333,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】6月インドネシア石炭輸出量は2カ月連続4千万トン超8月4日：T/C市場＝14隻・87万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、穀物1隻",
+  "title": "【本日のトピック】中国、今年上半期の石炭火力発電量が総発電量の50%下回る8月5日：T/C市場＝11隻・85万DWT、V/C市場＝鉄鉱石3隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/04",
   "sd": "08/04",
@@ -3278,7 +3233,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203384/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "APMターミナルズ/カルマー、次世代CT技術開発で提携",
+  "title": "APMターミナルズ/…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203384/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -3296,7 +3251,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203399/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、静岡市社会福祉…",
+  "title": "鈴与、静岡市社会福祉協議会に食料品寄付",
   "url": "https://www.kaijipress.com/news/container/2026/08/203399/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -3305,7 +3260,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203400/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船、CNOOC向け新造LNG船の1番船命名",
+  "title": "日本郵船、CNOOC…",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203400/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -3341,7 +3296,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203382/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "アビエントの高機能繊…",
+  "title": "アビエントの高機能繊維「ダイニーマ DM20」、浮体風力向け係留索で型式承認",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203382/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -3760,5 +3715,68 @@
   "date": "2026/08/06",
   "sd": "08/06",
   "first_seen_iso": "2026-08-06T07:52:56.105932+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317222": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "紅海・アデン湾、針路変更相次ぐ。原油船や自動車船",
+  "url": "https://www.jmd.co.jp/article.php?no=317222",
+  "date": "2026/07/23",
+  "sd": "07/23",
+  "first_seen_iso": "2026-08-06T15:11:41.926342+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203417/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、米国向け短期運賃上昇、アジアの台風の影響懸念",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203417/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203414/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "シーナジーの上期業績、最終益3589万ドルに黒字回復",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203414/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203416/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ユナイテッド・マリタイムの1～6月期業績、102万ドルの最終黒字に転換",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203416/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203415/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日機装、次世代サブマージドモータポンプ開発",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203415/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EYUFTX2JnUklEOUtwdWlwZ3hhbzlUalRtQUprNndLenVyOFJOVlNxSGx0b1ZVdEdwbWl5bklBazJlS09BXzRaeGRpNUFvaWJldzN2a3pBcnRRMlNTOWc4Si1kZGpOSEdOdFNqNEhxU0x1LTA?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Costamare Bulkers offloads its oldest ship",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EYUFTX2JnUklEOUtwdWlwZ3hhbzlUalRtQUprNndLenVyOFJOVlNxSGx0b1ZVdEdwbWl5bklBazJlS09BXzRaeGRpNUFvaWJldzN2a3pBcnRRMlNTOWc4Si1kZGpOSEdOdFNqNEhxU0x1LTA?oc=5",
+  "date": "2026/08/03",
+  "sd": "08/03",
+  "first_seen_iso": "2026-08-06T15:11:41.927130+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRjFnb3hIbFhxT1VUZGxqQ0MzUkNfczF6Y0M4MktCd1NjODR5VHRsMFViQVZtOTJWbU5oMHllRGdJMXVtNXpyV0ZzeVVqd0tpaUt2UmlVWG45MExoSHp5M3dqaEZqLUZVbDc3cjVBOVhpSGdLVjhnWkN0TGh5V28?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cyberattack disrupts North Carolina port operations",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRjFnb3hIbFhxT1VUZGxqQ0MzUkNfczF6Y0M4MktCd1NjODR5VHRsMFViQVZtOTJWbU5oMHllRGdJMXVtNXpyV0ZzeVVqd0tpaUt2UmlVWG45MExoSHp5M3dqaEZqLUZVbDc3cjVBOVhpSGdLVjhnWkN0TGh5V28?oc=5",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T15:11:41.927130+09:00"
  }
 }
