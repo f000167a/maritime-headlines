@@ -1,13 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipbuilding/2026/07/203103/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "今治造船、売上6000億円突破、JMUと合わせ1兆円、設備投資は10年で1000億円超計画",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/07/203103/",
-  "date": "2026/07/30",
-  "sd": "07/30",
-  "first_seen_iso": "2026-07-30T22:08:31.640689+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317470": {
   "src": "j",
   "cat": "コンテナ",
@@ -2891,7 +2882,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203384/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "APMターミナルズ/カルマー、次世代CT技術開発で提携",
+  "title": "APMターミナルズ/…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203384/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -2909,7 +2900,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203399/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、静岡市社会福祉…",
+  "title": "鈴与、静岡市社会福祉協議会に食料品寄付",
   "url": "https://www.kaijipress.com/news/container/2026/08/203399/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -2918,7 +2909,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203400/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "日本郵船、CNOOC…",
+  "title": "日本郵船、CNOOC向け新造LNG船の1番船命名",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203400/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -2954,7 +2945,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203382/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "アビエントの高機能繊維「ダイニーマ DM20」、浮体風力向け係留索で型式承認",
+  "title": "アビエントの高機能繊…",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203382/",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -3751,5 +3742,32 @@
   "date": "2026/08/06",
   "sd": "08/06",
   "first_seen_iso": "2026-08-06T20:34:03.936932+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/07/203239/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》深化する海運会社のシンガポール戦略＜上＞、自営事業の拠点強化が加速",
+  "url": "https://www.kaijipress.com/news/shipping/2026/07/203239/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T22:21:30.433914+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/07/203252/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、チップ船事業を子会社NBSPに移管、効率化と収益性向上へ",
+  "url": "https://www.kaijipress.com/news/tramper/2026/07/203252/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T22:21:30.433914+09:00"
+ },
+ "https://splash247.com/hagland-brings-in-gerdes-newbuild-on-charter/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hagland brings in Gerdes newbuild on charter",
+  "url": "https://splash247.com/hagland-brings-in-gerdes-newbuild-on-charter/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-06T22:21:30.434523+09:00"
  }
 }
