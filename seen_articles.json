@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/08/203270/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》深化する海運会社のシンガポール戦略＜下＞、実務拠点であり司令塔、次の姿探る",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203270/",
-  "date": "2026/07/31",
-  "sd": "07/31",
-  "first_seen_iso": "2026-07-31T15:33:26.596560+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203272/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "国交省幹部人事、海事局長に足立氏、安部港湾局長留任",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203272/",
-  "date": "2026/07/31",
-  "sd": "07/31",
-  "first_seen_iso": "2026-07-31T15:33:26.596560+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203273/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "【熊本地震】コンテナ船社、復旧まで八代抜港、博多代替寄港も",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203273/",
-  "date": "2026/07/31",
-  "sd": "07/31",
-  "first_seen_iso": "2026-07-31T15:33:26.596560+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203274/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "大館駅ICD協議会、8月から鉄道モーダルシフト実証",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203274/",
-  "date": "2026/07/31",
-  "sd": "07/31",
-  "first_seen_iso": "2026-07-31T15:33:26.596560+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/08/203269/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ビッグリフト、REE…",
-  "url": "https://www.kaijipress.com/news/tramper/2026/08/203269/",
-  "date": "2026/07/31",
-  "sd": "07/31",
-  "first_seen_iso": "2026-07-31T15:33:26.596560+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203271/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "コスコ大規模新造整備、中国大手は30年末まで船台需給逼迫、ケープ15隻発注",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203271/",
-  "date": "2026/07/31",
-  "sd": "07/31",
-  "first_seen_iso": "2026-07-31T15:33:26.596560+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317525": {
   "src": "j",
   "cat": "物流/港運",
@@ -1505,7 +1451,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国、今年上半期の石炭火力発電量が総発電量の50%下回る8月5日：T/C市場＝11隻・85万DWT、V/C市場＝鉄鉱石3隻、石炭2隻",
+  "title": "【本日のトピック】7月伯鉄鉱石輸出は前月比▲10%の3,780万トン、前年比でもマイナス8月6日：T/C市場＝15隻・116万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/04",
   "sd": "08/04",
@@ -3562,5 +3508,32 @@
   "date": "2026/08/07",
   "sd": "08/07",
   "first_seen_iso": "2026-08-07T14:03:46.328489+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203448/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "MSC、25年末時点でLNG二元燃料船85隻",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203448/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T15:33:46.557952+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203449/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "パナマ運河、喫水制限を段階的に強化",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203449/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T15:33:46.557952+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203447/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "＜ウクライナ情勢＞オデーサ沖、ケープサイズなどが被害、露ドローン攻撃で",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203447/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T15:33:46.557952+09:00"
  }
 }
