@@ -3535,5 +3535,32 @@
   "date": "2026/08/07",
   "sd": "08/07",
   "first_seen_iso": "2026-08-07T12:10:14.295851+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203444/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "エクスマール、LNG船をバンカリング用の洋上積替設備に改造",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203444/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T14:03:46.328489+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "中国船舶工業とHD現代、欧米艦艇造船の売上抜く、軍民両面で拡大",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T14:03:46.328489+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/08/203445/": {
+  "src": "k",
+  "cat": "別冊特集号",
+  "title": "シンガポール海軍、東京で艦艇一般公開イベント",
+  "url": "https://www.kaijipress.com/news/information/2026/08/203445/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T14:03:46.328489+09:00"
  }
 }
