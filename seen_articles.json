@@ -2963,7 +2963,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203424/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本貿易DX協会が発…",
+  "title": "日本貿易DX協会が発足、サービス間連携と政策提言を推進",
   "url": "https://www.kaijipress.com/news/container/2026/08/203424/",
   "date": "2026/08/06",
   "sd": "08/06",
@@ -2972,7 +2972,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203425/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、東北大とネーミングライツ契約締結",
+  "title": "鈴与、東北大とネーミ…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203425/",
   "date": "2026/08/06",
   "sd": "08/06",
@@ -3535,5 +3535,41 @@
   "date": "2026/08/07",
   "sd": "08/07",
   "first_seen_iso": "2026-08-07T15:33:46.557952+09:00"
+ },
+ "https://splash247.com/splash-wrap-the-sea-acquires-its-gates/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: The sea acquires its gates",
+  "url": "https://splash247.com/splash-wrap-the-sea-acquires-its-gates/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
+ },
+ "https://splash247.com/yangzijiang-maritime-takes-vessel-sales-to-500m-with-bulker-quartet/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Yangzijiang Maritime takes vessel sales to $500m with bulker quartet",
+  "url": "https://splash247.com/yangzijiang-maritime-takes-vessel-sales-to-500m-with-bulker-quartet/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
+ },
+ "https://splash247.com/iran-weighs-ban-on-us-and-israeli-ships-in-hormuz/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Iran weighs ban on US and Israeli ships in Hormuz",
+  "url": "https://splash247.com/iran-weighs-ban-on-us-and-israeli-ships-in-hormuz/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
+ },
+ "https://splash247.com/german-bulker-hit-repeatedly-in-russian-drone-attack/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "German bulker hit repeatedly in Russian drone attack",
+  "url": "https://splash247.com/german-bulker-hit-repeatedly-in-russian-drone-attack/",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
  }
 }
