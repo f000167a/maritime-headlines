@@ -3152,7 +3152,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIEアジアパシフィック、ジャカルタにエンジン研修拠点、サービス体制強化",
+  "title": "ダイハツIEアジアパ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -3179,7 +3179,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "海事産業振興、市区町…",
+  "title": "海事産業振興、市区町村会が要望活動、造船人材の確保・育成へ支援要望",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -3535,5 +3535,14 @@
   "date": "2026/08/10",
   "sd": "08/10",
   "first_seen_iso": "2026-08-10T07:23:23.110039+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317499": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【お知らせ】「海上フォワーダーのいま」は17日の週に掲載",
+  "url": "https://www.jmd.co.jp/article.php?no=317499",
+  "date": "2026/08/03",
+  "sd": "08/03",
+  "first_seen_iso": "2026-08-10T08:32:57.139574+09:00"
  }
 }
