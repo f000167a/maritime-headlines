@@ -1,40 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317149": {
-  "src": "j",
-  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
-  "title": "【社告】コンテナ航路の最新動向。9月16日セミナー。CMA CGMジャパン・内田社長ら登壇",
-  "url": "https://www.jmd.co.jp/article.php?no=317149",
-  "date": "2026/07/21",
-  "sd": "07/21",
-  "first_seen_iso": "2026-08-03T15:47:21.360709+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203309/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "新垣海事局長、「社会の期待に応える産業に」、退任あいさつ",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203309/",
-  "date": "2026/08/03",
-  "sd": "08/03",
-  "first_seen_iso": "2026-08-03T15:47:21.361058+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203307/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "【熊本地震】国が八代港一部管理",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203307/",
-  "date": "2026/08/03",
-  "sd": "08/03",
-  "first_seen_iso": "2026-08-03T15:47:21.361058+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203308/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "【熊本地震】国交省港湾局、船舶で給水や入浴支援",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203308/",
-  "date": "2026/08/03",
-  "sd": "08/03",
-  "first_seen_iso": "2026-08-03T15:47:21.361058+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/08/203310/": {
   "src": "k",
   "cat": "コラム",
@@ -785,7 +749,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】7月伯鉄鉱石輸出は前月比▲10%の3,780万トン、前年比でもマイナス8月6日：T/C市場＝15隻・116万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、穀物1隻",
+  "title": "【本日のトピック】中国7月の鉄鉱石・石炭輸入はともに前年水準上回る8月7日：T/C市場＝15隻・101万DWT、V/C市場＝鉄鉱石3隻、石炭3隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/04",
   "sd": "08/04",
@@ -2828,7 +2792,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国船舶工業とHD現…",
+  "title": "中国船舶工業とHD現代、欧米艦艇造船の売上抜く、軍民両面で拡大",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -3125,7 +3089,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIEアジアパシフィック、ジャカルタにエンジン研修拠点、サービス体制強化",
+  "title": "ダイハツIEアジアパ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -3553,5 +3517,113 @@
   "date": "2026/08/08",
   "sd": "08/08",
   "first_seen_iso": "2026-08-10T14:49:30.701165+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203486/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、米国向け運賃が続伸",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203486/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876260+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203487/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国小売りコンテナ、6・7月下振れも9月以降は上方修正",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203487/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876260+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMThlVm44cWN6d0RBWnU0OWNCd0o0MzNRV3JIQUU5eFNhUE82am5DakRIMUppejBidWUtSnpJMHBhQzN3bkJ2ekRIWW5UY1ZVVGxzMnNhZTRFcjIxQ2RWS21mcXZ4UDFIa1Y0LWwxYWo2QlQ2SEZnUjNlb2VDOHA2cmQwQQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "China’s coal buildout offers fresh ballast for dry bulk",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMThlVm44cWN6d0RBWnU0OWNCd0o0MzNRV3JIQUU5eFNhUE82am5DakRIMUppejBidWUtSnpJMHBhQzN3bkJ2ekRIWW5UY1ZVVGxzMnNhZTRFcjIxQ2RWS21mcXZ4UDFIa1Y0LWwxYWo2QlQ2SEZnUjNlb2VDOHA2cmQwQQ?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kU0d4MVFiUTdkR2owcHBES2c5VmhBTXlNNlktb01HaDBMVFRXdE9GMUZ1Y0NYdlU0Y2NQWW1EaEtTbzlnQjhFTHNkZUxscXFNZnlrT2dmT1l0R0k4eUxrZFBTUWFCakRpanppRC11U2lsczZsVENJd0VOLTAxUQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana adds to rate gains with new capesize fixture",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kU0d4MVFiUTdkR2owcHBES2c5VmhBTXlNNlktb01HaDBMVFRXdE9GMUZ1Y0NYdlU0Y2NQWW1EaEtTbzlnQjhFTHNkZUxscXFNZnlrT2dmT1l0R0k4eUxrZFBTUWFCakRpanppRC11U2lsczZsVENJd0VOLTAxUQ?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ056aUJMWWxpTTVob1BydENZUEE5djI3TVVEQmpNMG5KZldMZTNGVEllTGFzQTdYRHAwOVhYaTNNQnZJLUtuRmRnUy0xVGlXWDgyeGljTnZDT1o1aHB3MmRZTFktb3JMT3ctTlVvY2lpN0YzMlMtMl9FQTVOV1NoQg?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Castor shifts kamsarmax into Fearnley-backed venture",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ056aUJMWWxpTTVob1BydENZUEE5djI3TVVEQmpNMG5KZldMZTNGVEllTGFzQTdYRHAwOVhYaTNNQnZJLUtuRmRnUy0xVGlXWDgyeGljTnZDT1o1aHB3MmRZTFktb3JMT3ctTlVvY2lpN0YzMlMtMl9FQTVOV1NoQg?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdG54QThIVTBLVC0wekVaMjNtdnozRFdzMHhRZ1NNbkc3VEZVUzUwTmlUUVNWVUdYUGxFbG5rdTZncUxlSUU0ZERvb2dVeUoxdHFKZ2hPenpoSmFTZDBjRFB4SzZJMklxaWdDNV9zSjY2Nl94NW5haTM1WFhPMzF3X0xtdw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "MSC sees ports squeezing more from existing footprints",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdG54QThIVTBLVC0wekVaMjNtdnozRFdzMHhRZ1NNbkc3VEZVUzUwTmlUUVNWVUdYUGxFbG5rdTZncUxlSUU0ZERvb2dVeUoxdHFKZ2hPenpoSmFTZDBjRFB4SzZJMklxaWdDNV9zSjY2Nl94NW5haTM1WFhPMzF3X0xtdw?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Yy1VSk5DekItQ1NOU2VyU1l5VTQ5STJ0OGhOYzVtMUdDVmo4aUh2Vk10elhHdUpPOVgzRnRRR1RVQlctSzc0VjktMC1nVmlTaURVcWp5UjVRNFh4TlJaUlZsMEE5WE9HWkliYg?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Maersk sells training arm to OpenGate",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Yy1VSk5DekItQ1NOU2VyU1l5VTQ5STJ0OGhOYzVtMUdDVmo4aUh2Vk10elhHdUpPOVgzRnRRR1RVQlctSzc0VjktMC1nVmlTaURVcWp5UjVRNFh4TlJaUlZsMEE5WE9HWkliYg?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEtPV3VRTko3REU5djJUdFJReUFrdENfaHhLWUhpS1otTENSb0pBaGhjNkxjdXFlZHY5dTZDWkI2Qld0TUtEeXJDa3htUmRJeDZNTWR3d1lNbFYtZXpWZHBpUEtyck1LbmRfU04tYTdKamlGVHFIU2hXSjJiVHUwRC1nRGJyOXNtTUlBNw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cadeler signs $930m deal for two new wind installation vessels",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEtPV3VRTko3REU5djJUdFJReUFrdENfaHhLWUhpS1otTENSb0pBaGhjNkxjdXFlZHY5dTZDWkI2Qld0TUtEeXJDa3htUmRJeDZNTWR3d1lNbFYtZXpWZHBpUEtyck1LbmRfU04tYTdKamlGVHFIU2hXSjJiVHUwRC1nRGJyOXNtTUlBNw?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ1VWMVR0ZmdBMFdETHBjUzZKQlZqNXJkR3lieGlRNkYxeG1jREFZUkFtUEtieDN1TU5fRFp2NU9CZFp3ZjRwX0w2WHJ5UDdzZlkxV0t3a2ptSmdCSG9SVDhzVnBxMnRZS3lpbUNoWVFFTnhuV3JvQU00NVdKSFRqVG9n?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "DOF secures fresh Caribbean work for two AHTS vessels",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ1VWMVR0ZmdBMFdETHBjUzZKQlZqNXJkR3lieGlRNkYxeG1jREFZUkFtUEtieDN1TU5fRFp2NU9CZFp3ZjRwX0w2WHJ5UDdzZlkxV0t3a2ptSmdCSG9SVDhzVnBxMnRZS3lpbUNoWVFFTnhuV3JvQU00NVdKSFRqVG9n?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qTWdxODNNV2pxblFJNUlnVWJuZENjTlp2RmpBRTkxNHpuZzluYUppX240OVJzUFY0eElfNUQwVFV0bVhnekNLS2tXZl9KaWdlR3gzLUpjOVRKZlJ0WHRIUXVKbTZFZW9FNFJhSTJJVmxoeE50bGJr?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Russian armada pushes east through the Arctic",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qTWdxODNNV2pxblFJNUlnVWJuZENjTlp2RmpBRTkxNHpuZzluYUppX240OVJzUFY0eElfNUQwVFV0bVhnekNLS2tXZl9KaWdlR3gzLUpjOVRKZlJ0WHRIUXVKbTZFZW9FNFJhSTJJVmxoeE50bGJr?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFlnM1R4Yi1INTk2MmNpVHpneWZ3VGFXREFlSGNuc0g0aGhER2tMeWFkNHpTdXV3dEFkWXhxd2Qtd21KOTE3NlR3UEhGS1hrQmFYcXowazRaeDZieU1IeEpCaHFXOGNZVkFIM0hRbVQtc3hITWtSWDhzdG1TYUNGaQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ukraine agrees safe passage for Kazakh crude tankers",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFlnM1R4Yi1INTk2MmNpVHpneWZ3VGFXREFlSGNuc0g0aGhER2tMeWFkNHpTdXV3dEFkWXhxd2Qtd21KOTE3NlR3UEhGS1hrQmFYcXowazRaeDZieU1IeEpCaHFXOGNZVkFIM0hRbVQtc3hITWtSWDhzdG1TYUNGaQ?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUZPYnhBSmV6S0VjcmhKa2VKTG5mWWQzM1g4RzRQSTZRd1FQT0ZBdnJhc2JCblhnUUxrd2Z4bDhvVXhWcnBES01jUEwwY1NvMnl5N3lneGkzeVBLcl9BT2VRMGhWZ0ZaM3hBbVpfS2Nvb3htNFJVWl9QWkt5TEhLVmNUMA?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Seadrill boosts backlog with fresh work for three rigs",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUZPYnhBSmV6S0VjcmhKa2VKTG5mWWQzM1g4RzRQSTZRd1FQT0ZBdnJhc2JCblhnUUxrd2Z4bDhvVXhWcnBES01jUEwwY1NvMnl5N3lneGkzeVBLcl9BT2VRMGhWZ0ZaM3hBbVpfS2Nvb3htNFJVWl9QWkt5TEhLVmNUMA?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-10T16:55:56.876590+09:00"
  }
 }
