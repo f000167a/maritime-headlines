@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317343": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "脱ホルムズ、船腹需要押し上げか。原油輸出、代替ルート拡張",
-  "url": "https://www.jmd.co.jp/article.php?no=317343",
-  "date": "2026/07/28",
-  "sd": "07/28",
-  "first_seen_iso": "2026-08-04T12:26:36.611868+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317335": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "タンカー爆発、ホルムズで機雷に接触か",
-  "url": "https://www.jmd.co.jp/article.php?no=317335",
-  "date": "2026/07/28",
-  "sd": "07/28",
-  "first_seen_iso": "2026-08-04T12:26:36.611868+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=316945": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -227,7 +209,7 @@
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlRleUw3NFFldmtnUnU0ZHNpNFB3bEdCblVrdE5wY1BvM2tKR3QySmYyMFd2dDRpZWRYRTN2ZzE1R1o2aWpLaFFYdUgxRnozOWl5ZkgyYlh5Q2pzT3Y0dzdQSng5VWVyZGpnWkZ3NkI4N2xKR0VsRHJiWFV4TjIyMWFjczREVW9QN3g0?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "DryDel secures five-year K Line cover for capesize newbuilds - splash247.com",
+  "title": "DryDel secures five-year K Line cover for capesize newbuilds",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlRleUw3NFFldmtnUnU0ZHNpNFB3bEdCblVrdE5wY1BvM2tKR3QySmYyMFd2dDRpZWRYRTN2ZzE1R1o2aWpLaFFYdUgxRnozOWl5ZkgyYlh5Q2pzT3Y0dzdQSng5VWVyZGpnWkZ3NkI4N2xKR0VsRHJiWFV4TjIyMWFjczREVW9QN3g0?oc=5",
   "date": "2026/08/04",
   "sd": "08/04",
@@ -236,7 +218,7 @@
  "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4Z3JsNjVLY0gxdXkzUkxISFVQbndpYW5Sci1FUHNYZDhLd2xtb3kzSGVWaFVYWnB3OElJUlVsTTk2cFRPX1hOVWxqOFNTeHEtYXNPaUZJSl9pb0FXc2c5T1VJeGFvMThfZldJa2N3a1R1VS1uZlJMQTdOMA?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Crewmember missing after bulker struck in Hormuz - splash247.com",
+  "title": "Crewmember missing after bulker struck in Hormuz",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4Z3JsNjVLY0gxdXkzUkxISFVQbndpYW5Sci1FUHNYZDhLd2xtb3kzSGVWaFVYWnB3OElJUlVsTTk2cFRPX1hOVWxqOFNTeHEtYXNPaUZJSl9pb0FXc2c5T1VJeGFvMThfZldJa2N3a1R1VS1uZlJMQTdOMA?oc=5",
   "date": "2026/08/04",
   "sd": "08/04",
@@ -866,7 +848,7 @@
  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWJXYlYwVDVJbk5JNXNiR3BTZEVhbHpZMFlNOW1jdEx6VzFZdGh6cTJGQmZRSnl5cXo1Y25lbUcwYVFqanV4eVJhTjVYbVdMSHBrZjNaS0YwZGdWY2lHempqS2llcGJMQmJvOFphMjBwRXcwbElKYkNNRTVELVNLeGtkRDE?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Arcadia expands newbuild programme with Hengli LR2 trio - splash247.com",
+  "title": "Arcadia expands newbuild programme with Hengli LR2 trio",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWJXYlYwVDVJbk5JNXNiR3BTZEVhbHpZMFlNOW1jdEx6VzFZdGh6cTJGQmZRSnl5cXo1Y25lbUcwYVFqanV4eVJhTjVYbVdMSHBrZjNaS0YwZGdWY2lHempqS2llcGJMQmJvOFphMjBwRXcwbElKYkNNRTVELVNLeGtkRDE?oc=5",
   "date": "2026/08/04",
   "sd": "08/04",
@@ -1235,7 +1217,7 @@
  "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MM0xDTlZWMEN0RTY2aVdqMlY3N1otQ2NxdWYtMGVGMDlKcHhiM2Y4dnF5T3dldnE4RndlcFZWbmFIbVVHN1JObTNjWGphTlZFVThqWkxwZEV1WlVPbVdSeWpsbkZocWZlcTE1OTUxVE4?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Global bauxite trade triples in a decade - splash247.com",
+  "title": "Global bauxite trade triples in a decade",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MM0xDTlZWMEN0RTY2aVdqMlY3N1otQ2NxdWYtMGVGMDlKcHhiM2Y4dnF5T3dldnE4RndlcFZWbmFIbVVHN1JObTNjWGphTlZFVThqWkxwZEV1WlVPbVdSeWpsbkZocWZlcTE1OTUxVE4?oc=5",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -1244,7 +1226,7 @@
  "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmJMaUNSVllsWGlVekFkNlNrSTZlYzJMaG5oU3ZPTmQ5TXRNeE9pN0R2MUlFeS1yTFQ5anZxOXZWelJ0dWpUZ0xBSzJUVmdnT0wwd2loalF5RU0yVmxqSkdsOHVtVnNvaFFGTG5hVXFPMUkzZ2RFRWVlbmVDRzdWbl9adw?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Black Sea attacks choke grain, coal and iron ore trades - splash247.com",
+  "title": "Black Sea attacks choke grain, coal and iron ore trades",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcmJMaUNSVllsWGlVekFkNlNrSTZlYzJMaG5oU3ZPTmQ5TXRNeE9pN0R2MUlFeS1yTFQ5anZxOXZWelJ0dWpUZ0xBSzJUVmdnT0wwd2loalF5RU0yVmxqSkdsOHVtVnNvaFFGTG5hVXFPMUkzZ2RFRWVlbmVDRzdWbl9adw?oc=5",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -1271,7 +1253,7 @@
  "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVhteG1KZmItZjJTRkZlZ2luczllWXZLMHBzQnNHcGtybUw3YUl3QlpqMnE2LXA0QUp1Q1RudVl4ZmsyUC1rZE1WRTZuNkhXR3BBZGlQWk1MTXdxVFBRN1kyLTFjVG52a3V5QW0wTTE3MWJQWk5uN3pWbnkxR2JDOW1oeEtQZndKTGc?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Chinese lessors use Malta flag to rebuild European business - splash247.com",
+  "title": "Chinese lessors use Malta flag to rebuild European business",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVVhteG1KZmItZjJTRkZlZ2luczllWXZLMHBzQnNHcGtybUw3YUl3QlpqMnE2LXA0QUp1Q1RudVl4ZmsyUC1rZE1WRTZuNkhXR3BBZGlQWk1MTXdxVFBRN1kyLTFjVG52a3V5QW0wTTE3MWJQWk5uN3pWbnkxR2JDOW1oeEtQZndKTGc?oc=5",
   "date": "2026/08/05",
   "sd": "08/05",
@@ -1604,7 +1586,7 @@
  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRjFnb3hIbFhxT1VUZGxqQ0MzUkNfczF6Y0M4MktCd1NjODR5VHRsMFViQVZtOTJWbU5oMHllRGdJMXVtNXpyV0ZzeVVqd0tpaUt2UmlVWG45MExoSHp5M3dqaEZqLUZVbDc3cjVBOVhpSGdLVjhnWkN0TGh5V28?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Cyberattack disrupts North Carolina port operations - splash247.com",
+  "title": "Cyberattack disrupts North Carolina port operations",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRjFnb3hIbFhxT1VUZGxqQ0MzUkNfczF6Y0M4MktCd1NjODR5VHRsMFViQVZtOTJWbU5oMHllRGdJMXVtNXpyV0ZzeVVqd0tpaUt2UmlVWG45MExoSHp5M3dqaEZqLUZVbDc3cjVBOVhpSGdLVjhnWkN0TGh5V28?oc=5",
   "date": "2026/08/06",
   "sd": "08/06",
@@ -1901,7 +1883,7 @@
  "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0IwbXBlS0U1VzFHZlE0ZVZObElWazhXSk14SkxHQ3pRMEZySHQ0enpIU25qRnc4WGNxYWZjZHlPNVZtUUQ1VEpRLURZeFlnZjdpdmxIRmRINWl0S0JqSjdWMTQxLVp5R2pEX0ZPN200eFZGY1hWTDU4bEsyaURWNlRuclIxVDZ3ZWFPU0NiZWRoMkM2?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Shipowners shouldn’t assume today’s strong recycling market will last - splash247.com",
+  "title": "Shipowners shouldn’t assume today’s strong recycling market will last",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0IwbXBlS0U1VzFHZlE0ZVZObElWazhXSk14SkxHQ3pRMEZySHQ0enpIU25qRnc4WGNxYWZjZHlPNVZtUUQ1VEpRLURZeFlnZjdpdmxIRmRINWl0S0JqSjdWMTQxLVp5R2pEX0ZPN200eFZGY1hWTDU4bEsyaURWNlRuclIxVDZ3ZWFPU0NiZWRoMkM2?oc=5",
   "date": "2026/08/06",
   "sd": "08/06",
@@ -1919,7 +1901,7 @@
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkZWU01icm1iLWVEUUtQYWZaTENTZk44eHhXWnZ1RTl5VVIyUXdrR21XYklqSVZiRXAxQU5aalJmZ2FyUXB1YWVtX211dzJwY25mcFJQVUFSZlRJZm14RlV0NHVlcEl2aU15YUtkeFJpa1FoeWlIc3drbGFGa01rbFk1N3F1U1pzaVlJ?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "BHP awards $130m contract for Port Hedland capacity expansion - splash247.com",
+  "title": "BHP awards $130m contract for Port Hedland capacity expansion",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkZWU01icm1iLWVEUUtQYWZaTENTZk44eHhXWnZ1RTl5VVIyUXdrR21XYklqSVZiRXAxQU5aalJmZ2FyUXB1YWVtX211dzJwY25mcFJQVUFSZlRJZm14RlV0NHVlcEl2aU15YUtkeFJpa1FoeWlIc3drbGFGa01rbFk1N3F1U1pzaVlJ?oc=5",
   "date": "2026/08/06",
   "sd": "08/06",
@@ -2207,7 +2189,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国船舶工業とHD現…",
+  "title": "中国船舶工業とHD現代、欧米艦艇造船の売上抜く、軍民両面で拡大",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -2288,7 +2270,7 @@
  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2VzV201Vnhra19iSkRVSG5Jd3VjdC1BdjZHbDNRQm1oVS0xUHhyMHZsWnRBUUVkMWdqclZGRnNVVElVYmRUT1JpNk9LcnV2M01rcmdzbjlCZ0U3eDZCRlVrZ2YzcVZQS0xoUjZ0bEd6NlFvQ3gwTGx3LUFNbW5KUA?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "German bulker hit repeatedly in Russian drone attack - splash247.com",
+  "title": "German bulker hit repeatedly in Russian drone attack",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2VzV201Vnhra19iSkRVSG5Jd3VjdC1BdjZHbDNRQm1oVS0xUHhyMHZsWnRBUUVkMWdqclZGRnNVVElVYmRUT1JpNk9LcnV2M01rcmdzbjlCZ0U3eDZCRlVrZ2YzcVZQS0xoUjZ0bEd6NlFvQ3gwTGx3LUFNbW5KUA?oc=5",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -2297,7 +2279,7 @@
  "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcTZRLUNDTjB1S1NHZ2d5dXQtc2VlbG1iTTlCTkI1alZ4ZXVySS1sRzJVOFdVU0xpQmsxWmVVbl8xc2QteGc3QV9aUDI4ekFuZEl5S09VQW1qOF9hUkxjN2tMbDJfRllYZ2w1ajFQREdJLXVoTHBtVUlVdmNhUVpmUFVGZ1hmLUJZSDY3cW0yU19uaHZt?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Ningbo Ocean Shipping enters car carrier market with Europe service - splash247.com",
+  "title": "Ningbo Ocean Shipping enters car carrier market with Europe service",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcTZRLUNDTjB1S1NHZ2d5dXQtc2VlbG1iTTlCTkI1alZ4ZXVySS1sRzJVOFdVU0xpQmsxWmVVbl8xc2QteGc3QV9aUDI4ekFuZEl5S09VQW1qOF9hUkxjN2tMbDJfRllYZ2w1ajFQREdJLXVoTHBtVUlVdmNhUVpmUFVGZ1hmLUJZSDY3cW0yU19uaHZt?oc=5",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -2315,7 +2297,7 @@
  "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkw3SVZvSm5yTHVKTUtfRVEyaFBMSjk4SURVNlRha1QzakJjaG5acXExT20tUDNiY1JsSXp5blRrWmkybU9NTjl0Qnk5V0VpSHY2NVhTWldjSzZld3c5dll5ZzFmZGxFU0dUMlRmcVRTblFWc2RpcVRJdTNwU0FLa1JWWDM0YUNYWi1YX0c4VC1ZOV9E?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Nippon Paint Marine logs more than 2,500 coated vessels on RightShip - splash247.com",
+  "title": "Nippon Paint Marine logs more than 2,500 coated vessels on RightShip",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMkw3SVZvSm5yTHVKTUtfRVEyaFBMSjk4SURVNlRha1QzakJjaG5acXExT20tUDNiY1JsSXp5blRrWmkybU9NTjl0Qnk5V0VpSHY2NVhTWldjSzZld3c5dll5ZzFmZGxFU0dUMlRmcVRTblFWc2RpcVRJdTNwU0FLa1JWWDM0YUNYWi1YX0c4VC1ZOV9E?oc=5",
   "date": "2026/08/06",
   "sd": "08/06",
@@ -2531,7 +2513,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "海事産業振興、市区町村会が要望活動、造船人材の確保・育成へ支援要望",
+  "title": "海事産業振興、市区町…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -2927,7 +2909,7 @@
  "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwZmk0M3huYzlfNlU2UkZuTGNHenRDLTBqVXBLTTFVbC1WaXhsZXdCRXZKSDJ0SGdPcXRQQ1FPWnphcldOSWF0c3VWN2dPZmxZOXNxcEhkaEppa00wRzhEV1l2QjZwNmtSLUUwblpGUk5rN0dpSkJSN3V3?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Industrial action starts across Tasmania’s ports - splash247.com",
+  "title": "Industrial action starts across Tasmania’s ports",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwZmk0M3huYzlfNlU2UkZuTGNHenRDLTBqVXBLTTFVbC1WaXhsZXdCRXZKSDJ0SGdPcXRQQ1FPWnphcldOSWF0c3VWN2dPZmxZOXNxcEhkaEppa00wRzhEV1l2QjZwNmtSLUUwblpGUk5rN0dpSkJSN3V3?oc=5",
   "date": "2026/08/08",
   "sd": "08/08",
@@ -2954,7 +2936,7 @@
  "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMThlVm44cWN6d0RBWnU0OWNCd0o0MzNRV3JIQUU5eFNhUE82am5DakRIMUppejBidWUtSnpJMHBhQzN3bkJ2ekRIWW5UY1ZVVGxzMnNhZTRFcjIxQ2RWS21mcXZ4UDFIa1Y0LWwxYWo2QlQ2SEZnUjNlb2VDOHA2cmQwQQ?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "China’s coal buildout offers fresh ballast for dry bulk - splash247.com",
+  "title": "China’s coal buildout offers fresh ballast for dry bulk",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMThlVm44cWN6d0RBWnU0OWNCd0o0MzNRV3JIQUU5eFNhUE82am5DakRIMUppejBidWUtSnpJMHBhQzN3bkJ2ekRIWW5UY1ZVVGxzMnNhZTRFcjIxQ2RWS21mcXZ4UDFIa1Y0LWwxYWo2QlQ2SEZnUjNlb2VDOHA2cmQwQQ?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2963,7 +2945,7 @@
  "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kU0d4MVFiUTdkR2owcHBES2c5VmhBTXlNNlktb01HaDBMVFRXdE9GMUZ1Y0NYdlU0Y2NQWW1EaEtTbzlnQjhFTHNkZUxscXFNZnlrT2dmT1l0R0k4eUxrZFBTUWFCakRpanppRC11U2lsczZsVENJd0VOLTAxUQ?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Diana adds to rate gains with new capesize fixture - splash247.com",
+  "title": "Diana adds to rate gains with new capesize fixture",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kU0d4MVFiUTdkR2owcHBES2c5VmhBTXlNNlktb01HaDBMVFRXdE9GMUZ1Y0NYdlU0Y2NQWW1EaEtTbzlnQjhFTHNkZUxscXFNZnlrT2dmT1l0R0k4eUxrZFBTUWFCakRpanppRC11U2lsczZsVENJd0VOLTAxUQ?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2972,7 +2954,7 @@
  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ056aUJMWWxpTTVob1BydENZUEE5djI3TVVEQmpNMG5KZldMZTNGVEllTGFzQTdYRHAwOVhYaTNNQnZJLUtuRmRnUy0xVGlXWDgyeGljTnZDT1o1aHB3MmRZTFktb3JMT3ctTlVvY2lpN0YzMlMtMl9FQTVOV1NoQg?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Castor shifts kamsarmax into Fearnley-backed venture - splash247.com",
+  "title": "Castor shifts kamsarmax into Fearnley-backed venture",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ056aUJMWWxpTTVob1BydENZUEE5djI3TVVEQmpNMG5KZldMZTNGVEllTGFzQTdYRHAwOVhYaTNNQnZJLUtuRmRnUy0xVGlXWDgyeGljTnZDT1o1aHB3MmRZTFktb3JMT3ctTlVvY2lpN0YzMlMtMl9FQTVOV1NoQg?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2990,7 +2972,7 @@
  "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Yy1VSk5DekItQ1NOU2VyU1l5VTQ5STJ0OGhOYzVtMUdDVmo4aUh2Vk10elhHdUpPOVgzRnRRR1RVQlctSzc0VjktMC1nVmlTaURVcWp5UjVRNFh4TlJaUlZsMEE5WE9HWkliYg?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Maersk sells training arm to OpenGate - splash247.com",
+  "title": "Maersk sells training arm to OpenGate",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43Yy1VSk5DekItQ1NOU2VyU1l5VTQ5STJ0OGhOYzVtMUdDVmo4aUh2Vk10elhHdUpPOVgzRnRRR1RVQlctSzc0VjktMC1nVmlTaURVcWp5UjVRNFh4TlJaUlZsMEE5WE9HWkliYg?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3017,7 +2999,7 @@
  "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qTWdxODNNV2pxblFJNUlnVWJuZENjTlp2RmpBRTkxNHpuZzluYUppX240OVJzUFY0eElfNUQwVFV0bVhnekNLS2tXZl9KaWdlR3gzLUpjOVRKZlJ0WHRIUXVKbTZFZW9FNFJhSTJJVmxoeE50bGJr?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Russian armada pushes east through the Arctic - splash247.com",
+  "title": "Russian armada pushes east through the Arctic",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qTWdxODNNV2pxblFJNUlnVWJuZENjTlp2RmpBRTkxNHpuZzluYUppX240OVJzUFY0eElfNUQwVFV0bVhnekNLS2tXZl9KaWdlR3gzLUpjOVRKZlJ0WHRIUXVKbTZFZW9FNFJhSTJJVmxoeE50bGJr?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3035,7 +3017,7 @@
  "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUZPYnhBSmV6S0VjcmhKa2VKTG5mWWQzM1g4RzRQSTZRd1FQT0ZBdnJhc2JCblhnUUxrd2Z4bDhvVXhWcnBES01jUEwwY1NvMnl5N3lneGkzeVBLcl9BT2VRMGhWZ0ZaM3hBbVpfS2Nvb3htNFJVWl9QWkt5TEhLVmNUMA?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Seadrill boosts backlog with fresh work for three rigs - splash247.com",
+  "title": "Seadrill boosts backlog with fresh work for three rigs",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeUZPYnhBSmV6S0VjcmhKa2VKTG5mWWQzM1g4RzRQSTZRd1FQT0ZBdnJhc2JCblhnUUxrd2Z4bDhvVXhWcnBES01jUEwwY1NvMnl5N3lneGkzeVBLcl9BT2VRMGhWZ0ZaM3hBbVpfS2Nvb3htNFJVWl9QWkt5TEhLVmNUMA?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3341,7 +3323,7 @@
  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREY1OFgxazA1Wm5xMDlrOVRXa1FmbzlITm96YW56a20tMVpVeXRKYWRuU2Nld2UtT0pac2k5RmFXMWJJSDFVZ0ZLX1pUMnhDcEhhUnJ5eFZ4ZmY5bjRBc2dfMTBTNDNIQ1FLT0ViQmx6YXdwVDNQWERuRkJ5MEhpSV94c3hVaTFSOFpsSA?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "MSC boxship sinks deeper off Zhoushan after failed refloating - splash247.com",
+  "title": "MSC boxship sinks deeper off Zhoushan after failed refloating",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNREY1OFgxazA1Wm5xMDlrOVRXa1FmbzlITm96YW56a20tMVpVeXRKYWRuU2Nld2UtT0pac2k5RmFXMWJJSDFVZ0ZLX1pUMnhDcEhhUnJ5eFZ4ZmY5bjRBc2dfMTBTNDNIQ1FLT0ViQmx6YXdwVDNQWERuRkJ5MEhpSV94c3hVaTFSOFpsSA?oc=5",
   "date": "2026/08/08",
   "sd": "08/08",
@@ -3350,7 +3332,7 @@
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzIzdkRRYzZlNFJiWkVxUDcwMWl1LVJiZVNhd0xaUlgxaElzNjJDYk9UUWtZYVozbmR6aFBDRi1GdnFRMnFDdVNWMXN5WlN2Q3RYTUJBZThIT3B6cC1EZFVJczdsaWdhaTBQX2xVaDBEelRYQkNwbG9keTlFMWRrWi1OOWFKTFcxd040?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "ADNOC suffers sixteenth hit as Houthis strike Saudi refinery - splash247.com",
+  "title": "ADNOC suffers sixteenth hit as Houthis strike Saudi refinery",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZzIzdkRRYzZlNFJiWkVxUDcwMWl1LVJiZVNhd0xaUlgxaElzNjJDYk9UUWtZYVozbmR6aFBDRi1GdnFRMnFDdVNWMXN5WlN2Q3RYTUJBZThIT3B6cC1EZFVJczdsaWdhaTBQX2xVaDBEelRYQkNwbG9keTlFMWRrWi1OOWFKTFcxd040?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3359,7 +3341,7 @@
  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZjhGNHNZRkxkelpUUVRONWFWZ2Z2MDAwcTZSVm1iNWp1SGtDMnpFUXFUT1dNaFVWYTdNZ09heUZ1LVN3dzItSkM3djRENmVzTzZnVjNmbElXcGkyOGpiaEQ5QkNfYmczTXZWMndjNVJlbXdnd2NMRFBLcUJRbk0?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Uni-Asia doubles up on Japanese handysize newbuilds - splash247.com",
+  "title": "Uni-Asia doubles up on Japanese handysize newbuilds",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZjhGNHNZRkxkelpUUVRONWFWZ2Z2MDAwcTZSVm1iNWp1SGtDMnpFUXFUT1dNaFVWYTdNZ09heUZ1LVN3dzItSkM3djRENmVzTzZnVjNmbElXcGkyOGpiaEQ5QkNfYmczTXZWMndjNVJlbXdnd2NMRFBLcUJRbk0?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3368,7 +3350,7 @@
  "https://news.google.com/rss/articles/CBMifkFVX3lxTE16TEZ1bEZaNU5jT25aQkxQckVlTkM3YlNyTzE0M3lOQmthTFJFTUhZUk5XTEVBdmxsR2d1T1J5TUY0dEVxS2VBeWJ6MEsybmdCTjFMdGFJU0pfT2RScEdjMFBVeWhUVF91YzlINk5hWUpvS0JQb2VucTI3VjlHQQ?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Larsen & Toubro bags major offshore orders from ONGC - splash247.com",
+  "title": "Larsen & Toubro bags major offshore orders from ONGC",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16TEZ1bEZaNU5jT25aQkxQckVlTkM3YlNyTzE0M3lOQmthTFJFTUhZUk5XTEVBdmxsR2d1T1J5TUY0dEVxS2VBeWJ6MEsybmdCTjFMdGFJU0pfT2RScEdjMFBVeWhUVF91YzlINk5hWUpvS0JQb2VucTI3VjlHQQ?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3377,7 +3359,7 @@
  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDX3BFLVlDOXRYSmJDS2pqUnB3MWI2Zk9sVG5CLVlQcnljazBDQ1JYLWJ1YXdUTU1CaFZEUDlZZUxDbUxSb0ZRTm16VkdfLVdJODZ2dWozZGlaMkg2a3dLOTZBcnNpLVZlV01IWW5aVmFCSjFOVTdMOHlzcjQzeXM?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Shearwater wins two seismic projects offshore India - splash247.com",
+  "title": "Shearwater wins two seismic projects offshore India",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDX3BFLVlDOXRYSmJDS2pqUnB3MWI2Zk9sVG5CLVlQcnljazBDQ1JYLWJ1YXdUTU1CaFZEUDlZZUxDbUxSb0ZRTm16VkdfLVdJODZ2dWozZGlaMkg2a3dLOTZBcnNpLVZlV01IWW5aVmFCSjFOVTdMOHlzcjQzeXM?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3386,7 +3368,7 @@
  "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GbUpEeVVFZDJFU2FuU19Yc1A0VEFVLU8zdkJWeUYtQlpEWlI2Zl9uUVVTcTdsVXU5a1AxOHVRaVFCM0c0T0Y2NHd6Y2Vsa3pFY1NTWV9PV2xQVFBEakIzSjdvdmU0dGV1OGVj?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "Brookfield inherits major Torm stake - splash247.com",
+  "title": "Brookfield inherits major Torm stake",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GbUpEeVVFZDJFU2FuU19Yc1A0VEFVLU8zdkJWeUYtQlpEWlI2Zl9uUVVTcTdsVXU5a1AxOHVRaVFCM0c0T0Y2NHd6Y2Vsa3pFY1NTWV9PV2xQVFBEakIzSjdvdmU0dGV1OGVj?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3395,7 +3377,7 @@
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZVFuRXM5NDJBZFJTTWZWVzlfR3VFdG1hRWZubFYzeFBONjBQemNFcnU1aHdadF9zNWVScjBHcHc3UUFSR2NzcEtUVThGV2NXSmNYc3NZRW9kS3B1elcySFBrc2NQSHNlR0xySW13Uk1kNE9qNXlsZ3luQS1lc1psal9qNnNEbkxpVkh3?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "AI boom puts shipowners in race with tech giants for engines - splash247.com",
+  "title": "AI boom puts shipowners in race with tech giants for engines",
   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZVFuRXM5NDJBZFJTTWZWVzlfR3VFdG1hRWZubFYzeFBONjBQemNFcnU1aHdadF9zNWVScjBHcHc3UUFSR2NzcEtUVThGV2NXSmNYc3NZRW9kS3B1elcySFBrc2NQSHNlR0xySW13Uk1kNE9qNXlsZ3luQS1lc1psal9qNnNEbkxpVkh3?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3404,7 +3386,7 @@
  "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMMXFQWDZCdi1HcHdfbThHSzBuVFNxdWhaTnJCRElMQ2RtN2FMMnNTa3Z3RWtYbG0zbXpvd1VvM0RBQnB6ZjZwcnNLaFZZMFFmaVZuRnA0dzR5ZTF1dS1pUU5saEVEckE1OFg3cExLSnROLWxPbjdHcmlITzU?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
-  "title": "TGS books new seismic campaign offshore Australia - splash247.com",
+  "title": "TGS books new seismic campaign offshore Australia",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMMXFQWDZCdi1HcHdfbThHSzBuVFNxdWhaTnJCRElMQ2RtN2FMMnNTa3Z3RWtYbG0zbXpvd1VvM0RBQnB6ZjZwcnNLaFZZMFFmaVZuRnA0dzR5ZTF1dS1pUU5saEVEckE1OFg3cExLSnROLWxPbjdHcmlITzU?oc=5",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3706,5 +3688,68 @@
   "date": "2026/08/11",
   "sd": "08/11",
   "first_seen_iso": "2026-08-11T07:30:53.316596+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QanFNeTBEeGs4ZGJEQVZpR3JOTzMyRUhwWGxmY0UybE5UN2l4Q2JTaVJhc3BSdlMySElBb0YyT0s2ZTVYOFRRemhVNHlLeHNhQzlxTXR1VmpTbXd4NlB0WWw4Z1pURWN3amxmaC1n?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: The sea acquires its gates",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QanFNeTBEeGs4ZGJEQVZpR3JOTzMyRUhwWGxmY0UybE5UN2l4Q2JTaVJhc3BSdlMySElBb0YyT0s2ZTVYOFRRemhVNHlLeHNhQzlxTXR1VmpTbXd4NlB0WWw4Z1pURWN3amxmaC1n?oc=5",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXN1SjJZU1RYSUgyZTlXeFhnOXJpTUpFOEt6OFF5aFliVmNwQ0czZW0yRVktaXVoNWV3MlgwWFlBeS1tbFZlNm4wMk5aQjQ3aU5HZHJ4cTNrV0t3R0ZDeTJPb3hDZEE4RnY0T3dUMXQ0azRmM2o4bnBhcndPNXhlbTBMQlZ2S0NYbHBINWdHeGJxYU5FSkE5R2JkOERZNjQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Singapore: Western Bulk’s Torbjorn Gjervik on the search for new ideas",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXN1SjJZU1RYSUgyZTlXeFhnOXJpTUpFOEt6OFF5aFliVmNwQ0czZW0yRVktaXVoNWV3MlgwWFlBeS1tbFZlNm4wMk5aQjQ3aU5HZHJ4cTNrV0t3R0ZDeTJPb3hDZEE4RnY0T3dUMXQ0azRmM2o4bnBhcndPNXhlbTBMQlZ2S0NYbHBINWdHeGJxYU5FSkE5R2JkOERZNjQ?oc=5",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2R3TW9yTE5LU1ZpX2huMHpVVHJ1SUxteE1SOThDSXBsbmduOEpxaVhwM0ViSWpRc1dJcUYtNFBxaW1nN19ZX3R2NS1UVHhMd0xiZDNVbnhLamtjZE9BZmU5S1BkQWw1V0lTejVwbmpYTXhFOGpoRVpMdmZ6SFZkeVhxX0JrYTdtakhOWllvakFZQQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Minsheng expands Shell-backed MR tanker programme to 11 newbuilds",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT2R3TW9yTE5LU1ZpX2huMHpVVHJ1SUxteE1SOThDSXBsbmduOEpxaVhwM0ViSWpRc1dJcUYtNFBxaW1nN19ZX3R2NS1UVHhMd0xiZDNVbnhLamtjZE9BZmU5S1BkQWw1V0lTejVwbmpYTXhFOGpoRVpMdmZ6SFZkeVhxX0JrYTdtakhOWllvakFZQQ?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlItTWJZSVJZZWg5NENRTWFvdnBpR0VxSnhpS0Vic1ZCbnhPaW1ucUUyM1Nzb3RZVzlUV2p6dTNWRHBxZlkxUUd1ZVJtMHJVN0lnVmlKbE1VTUZ3eTZ2a1FjNjZYQnBOMDJfX3Z6bTc4SlZnYmlTYTZJVGxiNGRsMXcyQnZmT00?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Sumitomo buys into major Celtic Sea floating wind project",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdlItTWJZSVJZZWg5NENRTWFvdnBpR0VxSnhpS0Vic1ZCbnhPaW1ucUUyM1Nzb3RZVzlUV2p6dTNWRHBxZlkxUUd1ZVJtMHJVN0lnVmlKbE1VTUZ3eTZ2a1FjNjZYQnBOMDJfX3Z6bTc4SlZnYmlTYTZJVGxiNGRsMXcyQnZmT00?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdm5EdThMZ3VwWTdvbTFNUHJrRG5lOHN2NjNOT29weTZXclU5RUIyMjdQMWluaW1kUXd6dHRhRHdXNU8tcUQ0Wlk3Nm1pMGFQUVo2dUJfbEhRdExtVUFIYU1xaGVRNG1WM3BkMnNHX2J3N08yNDljdFhZXy1INkdOeA?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "El Niño puts Pacific and Indian Ocean ports on alert",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdm5EdThMZ3VwWTdvbTFNUHJrRG5lOHN2NjNOT29weTZXclU5RUIyMjdQMWluaW1kUXd6dHRhRHdXNU8tcUQ0Wlk3Nm1pMGFQUVo2dUJfbEhRdExtVUFIYU1xaGVRNG1WM3BkMnNHX2J3N08yNDljdFhZXy1INkdOeA?oc=5",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3d0X2xNTWZlYjROVHpCRHJUNGJlQU1VQzlsV2R3TFg4N1JhWjVqRl9TdUtPUzRBUGJxZjR4Y1dmUC1XeERhdGpSZ1FqSHloQ0ctWlQ3OWk5TV9CbnlEaWJsd2ZSUkFWTTBaNGJPSkJWMW44UWNKWnkyRXBHaUFhY1k0Nzg3S0k?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cierco’s Celtic Sea floating wind project gets green light",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3d0X2xNTWZlYjROVHpCRHJUNGJlQU1VQzlsV2R3TFg4N1JhWjVqRl9TdUtPUzRBUGJxZjR4Y1dmUC1XeERhdGpSZ1FqSHloQ0ctWlQ3OWk5TV9CbnlEaWJsd2ZSUkFWTTBaNGJPSkJWMW44UWNKWnkyRXBHaUFhY1k0Nzg3S0k?oc=5",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hNzNaUHJlRXctRGpkVnVELTktYmgwYV9YSHNlWmR5cFV0dGR3dEZSbHEyX2pNaWRIZzgzNngzX2ozdjlCVHNsWXpTY1ZzMzdSdFczbTM5Zkw5QnQ0aTMyNnJPWGxHUl9FQlN2LVNwVkluTjBCNVZaLXBubXc?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "L&T lands ADNOC offshore contract worth over $1.8bn",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hNzNaUHJlRXctRGpkVnVELTktYmgwYV9YSHNlWmR5cFV0dGR3dEZSbHEyX2pNaWRIZzgzNngzX2ozdjlCVHNsWXpTY1ZzMzdSdFczbTM5Zkw5QnQ0aTMyNnJPWGxHUl9FQlN2LVNwVkluTjBCNVZaLXBubXc?oc=5",
+  "date": "2026/08/04",
+  "sd": "08/04",
+  "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
  }
 }
