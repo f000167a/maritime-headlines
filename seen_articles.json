@@ -2189,7 +2189,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国船舶工業とHD現代、欧米艦艇造船の売上抜く、軍民両面で拡大",
+  "title": "中国船舶工業とHD現…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -2513,7 +2513,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "海事産業振興、市区町…",
+  "title": "海事産業振興、市区町村会が要望活動、造船人材の確保・育成へ支援要望",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -3751,5 +3751,23 @@
   "date": "2026/08/04",
   "sd": "08/04",
   "first_seen_iso": "2026-08-11T13:02:44.571153+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317343": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "脱ホルムズ、船腹需要押し上げか。原油輸出、代替ルート拡張",
+  "url": "https://www.jmd.co.jp/article.php?no=317343",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-08-11T14:29:34.326647+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317335": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "タンカー爆発、ホルムズで機雷に接触か",
+  "url": "https://www.jmd.co.jp/article.php?no=317335",
+  "date": "2026/07/28",
+  "sd": "07/28",
+  "first_seen_iso": "2026-08-11T14:29:34.326647+09:00"
  }
 }
