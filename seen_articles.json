@@ -1910,7 +1910,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中国船舶工業とHD現…",
+  "title": "中国船舶工業とHD現代、欧米艦艇造船の売上抜く、軍民両面で拡大",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203446/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -2207,7 +2207,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIEアジアパシフィック、ジャカルタにエンジン研修拠点、サービス体制強化",
+  "title": "ダイハツIEアジアパ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -3787,5 +3787,14 @@
   "date": "2026/08/11",
   "sd": "08/11",
   "first_seen_iso": "2026-08-11T19:12:48.954317+09:00"
+ },
+ "https://splash247.com/great-eastern-lines-up-fourth-kamsarmax-in-a-year/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Great Eastern lines up fourth kamsarmax in a year",
+  "url": "https://splash247.com/great-eastern-lines-up-fourth-kamsarmax-in-a-year/",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T20:07:42.349670+09:00"
  }
 }
