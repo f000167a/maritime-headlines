@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/07/203189/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "伊予銀シンガポール、郷緒支店長に聞く、残高拡大、非日系船主を開拓",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/203189/",
-  "date": "2026/08/04",
-  "sd": "08/04",
-  "first_seen_iso": "2026-08-04T22:25:22.105279+09:00"
- },
- "https://www.kaijipress.com/person/logbook/2026/07/203206/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "【ログブック】檜垣幸人・今治造船社長",
-  "url": "https://www.kaijipress.com/person/logbook/2026/07/203206/",
-  "date": "2026/08/04",
-  "sd": "08/04",
-  "first_seen_iso": "2026-08-04T22:25:22.105279+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317615": {
   "src": "j",
   "cat": "コンテナ",
@@ -1585,7 +1567,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203449/": {
   "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
+  "cat": "コラム",
   "title": "パナマ運河、喫水制限を段階的に強化",
   "url": "https://www.kaijipress.com/news/container/2026/08/203449/",
   "date": "2026/08/07",
@@ -1684,8 +1666,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203450/": {
   "src": "k",
-  "cat": "トップ",
-  "title": "通期経常益予想計6100億円邦船大手、市況上昇で一転増益に邦船大手3社が2027年3月期通期業績予想を上方修正し、経常利益は日本郵船が2500億円、商船三井が2250億円、川崎汽船が1350億円の計6100億円を見込む。期初予想の計43...続きドライバルク市況上昇も享受（ブルームバーグ）",
+  "cat": "コラム",
+  "title": "邦船大手、通期経常益予想計6100億円、市況上昇で一転増益に",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203450/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -1693,8 +1675,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203451/": {
   "src": "k",
-  "cat": "通期経常益予想計6100億円邦船大手、市況上昇で一転増益に",
-  "title": "市況上振れで通期経常益2250億円商船三井、4～6月は521億円",
+  "cat": "コラム",
+  "title": "商船三井、市況上振れで通期経常益2250億円、4～6月は521億円",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203451/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -1846,8 +1828,8 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203469/": {
   "src": "k",
-  "cat": "通期経常益予想計6100億円邦船大手、市況上昇で一転増益に",
-  "title": "中国CSSCが初の首位、HD現代2位世界造船売上ランキング、恒力重工ら急浮上",
+  "cat": "コラム",
+  "title": "世界造船売上ランキング、中国CSSCが初の首位、HD現代2位に、恒力重工ら急浮上",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203469/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -1900,7 +1882,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203475/": {
   "src": "k",
-  "cat": "造船・舶用",
+  "cat": "コラム",
   "title": "カナデビア、4～6月期は経常損失29億円",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203475/",
   "date": "2026/08/07",
@@ -1918,7 +1900,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/08/203479/": {
   "src": "k",
-  "cat": "ひと",
+  "cat": "コラム",
   "title": "【ログブック】小倉伸介・商船三井執行役員",
   "url": "https://www.kaijipress.com/person/logbook/2026/08/203479/",
   "date": "2026/08/07",
@@ -2251,8 +2233,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203483/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "東京海上日動、セミナー開催、CCS事業リスクを議論",
+  "cat": "海運＜経営・全般＞",
+  "title": "東京海上日動、セミナ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203483/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2269,7 +2251,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203484/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "舶用機関メーカー5社、4～6月期は4社が経常増益、保守堅調も機関販売に差",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203484/",
   "date": "2026/08/10",
@@ -2287,7 +2269,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203486/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "コンテナ船、米国向け運賃が続伸",
   "url": "https://www.kaijipress.com/news/container/2026/08/203486/",
   "date": "2026/08/10",
@@ -2296,7 +2278,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203487/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "米国小売りコンテナ、6・7月下振れも9月以降は上方修正",
   "url": "https://www.kaijipress.com/news/container/2026/08/203487/",
   "date": "2026/08/10",
@@ -2404,8 +2386,8 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203488/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】#28 丸紅　遠藤智広船舶部長、一体運営と『売る力』で付加価値提供",
+  "cat": "トップ",
+  "title": "海事プレス社創立70周年特別企画【未来を探せ～70の視点】一体運営と『売る力』で付加価値提供#28 丸紅　遠藤智広船舶部長多彩な船舶事業を展開している丸紅は、中核事業の船舶トレーディングと保有船投資をはじめとした事業の一体運営を展開し、より付加価値の高い商社機能を海事産業全体に提供していく方針だ。遠...続き保有船の船隊規模事業も拡大へ",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203488/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2413,7 +2395,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203489/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "日本郵船、自動車船船内見学会に1800人参加、プロジェクションマッピングなど展示進化",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203489/",
   "date": "2026/08/10",
@@ -2422,7 +2404,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203490/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "海上保安庁・宮澤長官が就任会見、「現場力高め国民の負託に応える」",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203490/",
   "date": "2026/08/10",
@@ -2431,7 +2413,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203491/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "海技教育機構、洞海マリンシステムズと命名権契約",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203491/",
   "date": "2026/08/10",
@@ -2440,7 +2422,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203492/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "九州運輸局、小学校教員が海事施設見学",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203492/",
   "date": "2026/08/10",
@@ -2449,7 +2431,7 @@
  },
  "https://www.kaijipress.com/news/shipping/2026/08/203493/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜経営・全般＞",
   "title": "神戸運輸監理部、神戸大で出前授業",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203493/",
   "date": "2026/08/10",
@@ -2458,7 +2440,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203494/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "マースク、マースクトレーニングを売却へ",
   "url": "https://www.kaijipress.com/news/container/2026/08/203494/",
   "date": "2026/08/10",
@@ -2467,7 +2449,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203495/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "世界コンテナ荷動き、1～6月は5%増の9840万TEU",
   "url": "https://www.kaijipress.com/news/container/2026/08/203495/",
   "date": "2026/08/10",
@@ -2476,7 +2458,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203496/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "東京港、CONPAS予約事業、中防外Y2を追加",
   "url": "https://www.kaijipress.com/news/container/2026/08/203496/",
   "date": "2026/08/10",
@@ -2485,7 +2467,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203497/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "リンコーコーポ、経常益60%増、日本海倉庫を子会社化、26年4～6月期決算",
   "url": "https://www.kaijipress.com/news/container/2026/08/203497/",
   "date": "2026/08/10",
@@ -2494,7 +2476,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203498/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "シースパン、15億元のパンダ債を初発行",
   "url": "https://www.kaijipress.com/news/container/2026/08/203498/",
   "date": "2026/08/10",
@@ -2503,7 +2485,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203482/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "ダナオス上期業績、純利益19%増の2.9億ドル",
   "url": "https://www.kaijipress.com/news/container/2026/08/203482/",
   "date": "2026/08/10",
@@ -2512,7 +2494,7 @@
  },
  "https://www.kaijipress.com/news/container/2026/08/203500/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜コンテナ・物流＞",
   "title": "釜山発コンテナ運賃指標、2週連続プラス、米国上昇",
   "url": "https://www.kaijipress.com/news/container/2026/08/203500/",
   "date": "2026/08/10",
@@ -2521,8 +2503,8 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/08/203501/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "邦船不定期専用船部門、ドライ・エネルギー事業好調",
+  "cat": "トップ",
+  "title": "ドライ・エネルギー事業好調邦船不定期専用船部門",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203501/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2530,7 +2512,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/08/203503/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜不定期専用船＞・海洋",
   "title": "ポーテン、米製品輸出が高水準、遠距離向け拡大、プロダクト船のトンマイル押し上げ",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203503/",
   "date": "2026/08/10",
@@ -2539,7 +2521,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/08/203504/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜不定期専用船＞・海洋",
   "title": "飯野海運、JPX日経中小型株指数に継続選定",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203504/",
   "date": "2026/08/10",
@@ -2548,7 +2530,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/08/203505/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "海運＜不定期専用船＞・海洋",
   "title": "NSU海運、熊本地震被災者へ義援金",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203505/",
   "date": "2026/08/10",
@@ -2557,8 +2539,8 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/08/203506/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "Mマリタイム、PSC評価でスープラマックス部門首位",
+  "cat": "海運＜不定期専用船＞・海洋",
+  "title": "Mマリタイム、PSC…",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203506/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2566,7 +2548,7 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203507/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "造船・舶用",
   "title": "《講演》次世代環境船舶開発センター（GSC）セミナー、シナモンAI　平野未来CEO、「海洋技術国家としての日本の再構築」",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203507/",
   "date": "2026/08/10",
@@ -2575,8 +2557,8 @@
  },
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203508/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "日舶工調査、景況感6割が「よい・大変よい」、増産投資予定が約6割",
+  "cat": "ドライ・エネルギー事業好調邦船不定期専用船部門",
+  "title": "景況感、6割が「よい・大変よい」日舶工調査、増産投資予定が約6割",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203508/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2584,7 +2566,7 @@
  },
  "https://www.kaijipress.com/news/information/2026/08/203509/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "Information",
   "title": "名港海運、組織改編",
   "url": "https://www.kaijipress.com/news/information/2026/08/203509/",
   "date": "2026/08/10",
@@ -2593,7 +2575,7 @@
  },
  "https://www.kaijipress.com/news/information/2026/08/203511/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "Information",
   "title": "敦賀港、10月5日に滋賀県でセミナー",
   "url": "https://www.kaijipress.com/news/information/2026/08/203511/",
   "date": "2026/08/10",
@@ -2602,8 +2584,8 @@
  },
  "https://www.kaijipress.com/markets/dry/2026/08/203502/": {
   "src": "k",
-  "cat": "コラム",
-  "title": "ドライバルク市況週間レポート（8月3日～7日）、ケープ3週続伸、4.6万ドル",
+  "cat": "マーケット",
+  "title": "【ドライ】ドライバルク市況週間レポート（8月3日～7日）、ケープ3週続伸、4.6万ドル",
   "url": "https://www.kaijipress.com/markets/dry/2026/08/203502/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2611,7 +2593,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/08/203514/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】石橋知博・ウェザーニューズ社長",
   "url": "https://www.kaijipress.com/person/logbook/2026/08/203514/",
   "date": "2026/08/10",
@@ -2620,7 +2602,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/08/203515/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】加藤圭・沖電気工業執行役員兼グローバルマーケティングセンター長",
   "url": "https://www.kaijipress.com/person/logbook/2026/08/203515/",
   "date": "2026/08/10",
@@ -2629,7 +2611,7 @@
  },
  "https://www.kaijipress.com/person/logbook/2026/08/203516/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【ログブック】宿里明弘・神奈川県労働局局長",
   "url": "https://www.kaijipress.com/person/logbook/2026/08/203516/",
   "date": "2026/08/10",
@@ -2638,7 +2620,7 @@
  },
  "https://www.kaijipress.com/person/jinji/2026/08/203510/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "国土交通省、人事異動",
   "url": "https://www.kaijipress.com/person/jinji/2026/08/203510/",
   "date": "2026/08/10",
@@ -2647,7 +2629,7 @@
  },
  "https://www.kaijipress.com/person/jinji/2026/08/203512/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "名港海運、人事異動",
   "url": "https://www.kaijipress.com/person/jinji/2026/08/203512/",
   "date": "2026/08/10",
@@ -2656,7 +2638,7 @@
  },
  "https://www.kaijipress.com/person/profile/2026/08/203485/": {
   "src": "k",
-  "cat": "コラム",
+  "cat": "ひと",
   "title": "【プロフィール】原口阿瑞美 氏・商船三井執行役員",
   "url": "https://www.kaijipress.com/person/profile/2026/08/203485/",
   "date": "2026/08/10",
@@ -3445,5 +3427,14 @@
   "date": "2026/08/11",
   "sd": "08/11",
   "first_seen_iso": "2026-08-11T20:07:42.349670+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203351/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ONE、通期利益予想を9億ドルに上方修正",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203351/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T07:35:02.148450+09:00"
  }
 }
