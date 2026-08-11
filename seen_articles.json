@@ -2288,7 +2288,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIEアジアパ…",
+  "title": "ダイハツIEアジアパシフィック、ジャカルタにエンジン研修拠点、サービス体制強化",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203470/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -2315,7 +2315,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "海事産業振興、市区町村会が要望活動、造船人材の確保・育成へ支援要望",
+  "title": "海事産業振興、市区町…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203473/",
   "date": "2026/08/07",
   "sd": "08/07",
@@ -3571,5 +3571,158 @@
   "date": "2026/07/28",
   "sd": "07/28",
   "first_seen_iso": "2026-08-11T14:29:34.326647+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/08/10",
+  "sd": "08/10",
+  "first_seen_iso": "2026-08-11T16:57:28.491222+09:00"
+ },
+ "https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Star Bulk walks away from Genco fleet deal",
+  "url": "https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491847+09:00"
+ },
+ "https://splash247.com/trump-extends-jones-act-waiver-despite-mounting-maritime-opposition/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
+  "url": "https://splash247.com/trump-extends-jones-act-waiver-despite-mounting-maritime-opposition/",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491847+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】中国7月の鉄鉱石・石炭輸入はともに前年水準上回る8月7日：T/C市場＝15隻・101万DWT、V/C市場＝鉄鉱石3隻、石炭3隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491996+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491996+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491996+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491996+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491996+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-11T16:57:28.491996+09:00"
  }
 }
