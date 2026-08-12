@@ -1865,7 +1865,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203492/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "九州運輸局、小学校教…",
+  "title": "九州運輸局、小学校教員が海事施設見学",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203492/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -1874,7 +1874,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203493/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "神戸運輸監理部、神戸大で出前授業",
+  "title": "神戸運輸監理部、神戸…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203493/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3220,5 +3220,14 @@
   "date": "2026/08/12",
   "sd": "08/12",
   "first_seen_iso": "2026-08-12T19:37:04.282084+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203386/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、NSU海運子会社化の意義説明、内航含む安定収益とシナジー期待",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203386/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T21:33:47.702519+09:00"
  }
 }
