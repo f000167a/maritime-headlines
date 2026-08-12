@@ -1,76 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/08/203382/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "アビエントの高機能繊維「ダイニーマ DM20」、浮体風力向け係留索で型式承認",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203382/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.603640+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203383/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "天敬海運、中船黄埔文冲に6400TEU型2+2隻を発注",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203383/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.603640+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203384/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "APMターミナルズ/カルマー、次世代CT技術開発で提携",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203384/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.603640+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203385/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "HMM、アフリカ東西でサービス展開加速",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203385/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.603640+09:00"
- },
- "https://www.kaijipress.com/person/profile/2026/08/203381/": {
-  "src": "k",
-  "cat": "別冊特集号",
-  "title": "【プロフィール】小倉伸介氏・商船三井執行役員",
-  "url": "https://www.kaijipress.com/person/profile/2026/08/203381/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.603640+09:00"
- },
- "https://splash247.com/black-sea-attacks-choke-grain-coal-and-iron-ore-trades/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Black Sea attacks choke grain, coal and iron ore trades",
-  "url": "https://splash247.com/black-sea-attacks-choke-grain-coal-and-iron-ore-trades/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.604194+09:00"
- },
- "https://splash247.com/global-bauxite-trade-triples-in-a-decade/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Global bauxite trade triples in a decade",
-  "url": "https://splash247.com/global-bauxite-trade-triples-in-a-decade/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.604194+09:00"
- },
- "https://splash247.com/argentina-reopens-ports-after-pilots-trap-150-ships/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Argentina reopens ports after pilots trap 150 ships",
-  "url": "https://splash247.com/argentina-reopens-ports-after-pilots-trap-150-ships/",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T18:07:39.604194+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/08/203386/": {
   "src": "k",
   "cat": "コラム",
@@ -3274,5 +3202,275 @@
   "date": "2026/08/12",
   "sd": "08/12",
   "first_seen_iso": "2026-08-12T16:54:18.827976+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203523/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JMETS、“銀河丸”遠洋航海へ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203523/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203524/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大東港運、26年4～6月期決算、経常益34%増、畜産物の取扱増",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203524/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203525/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名港海運、26年4～6月期決算、経常益11%減、港湾運送は増収",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203525/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203526/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名港海運、飛島西物流センター開設、ヤード先行稼働",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203526/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203527/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コスコグループ、新造コンテナ船発注と既存船改修でGHG削減",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203527/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203528/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "シンガポール港・トゥアスCT、累計2500万TEUを突破",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203528/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203529/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "横浜港、5月は3%増の23.6万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203529/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203530/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "清水港、7月は2%増の3.6万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203530/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203531/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "東京港運協会、熊本地震で義援金",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203531/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203532/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国際港湾協会、欧州担当副会長にシーモンズ氏",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203532/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203533/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大阪港、1～6月期は3%増の105万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203533/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203534/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "郵船/NSU海運、近海船隊は50隻近くに、邦船オペで最大規模",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203534/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203535/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ワレニウス・ウィルヘルムセン、上期純利益51%減の3.1億ドル",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203535/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203536/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国7月輸入、鉄鉱石3.3%増・石炭19.9%増・原油24.3%減",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203536/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203537/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "シーナジー、1～6月はケープ5隻貸船契約、オルデンドルフや郵船向けも",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203537/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203538/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "自動車船がコスタリカ沖で火災",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203538/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203539/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "トーム、大株主がブルックフィールド傘下に",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203539/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203540/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》日本の水素燃料船＜上＞小型船から普及、燃料電池は実用段階",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203540/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203541/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "カシワテック、EV火災・新燃料への対応強化、坂井技術本部長に聞く",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203541/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203542/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "韓国造船大手、南米が艦艇事業の戦略地域に、ペルー・チリを拠点化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203542/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203543/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ユニアジア、NSYに40型バルカー追加発注、今年2隻目の新造整備",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203543/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203544/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎重工、LPG燃料船建造累計20隻に、VLGC“LYLA PATHFINDER”竣工",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203544/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203545/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "今治造船、熊本地震で義援金",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203545/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203546/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名村造船所、新182型ケープ“LIBERTY QUEEN”竣工",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203546/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203547/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JMU、新型VLCC2番船“TOKI MARU”竣工",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203547/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/08/203548/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "殉職船員顕彰会、戦時徴用船の記録絵画展",
+  "url": "https://www.kaijipress.com/news/information/2026/08/203548/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203550/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】濱崎和也・商船三井代表取締役副社長CFO",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203550/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203551/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】伴野拓司・日本郵船専務執行役員・CFO",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203551/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203552/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】平松彩・次世代環境船舶開発センター常務理事",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203552/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/08/203549/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】海運と平和",
+  "url": "https://www.kaijipress.com/column/aotou/2026/08/203549/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
  }
 }
