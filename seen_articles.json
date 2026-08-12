@@ -1,31 +1,4 @@
 {
- "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWJXYlYwVDVJbk5JNXNiR3BTZEVhbHpZMFlNOW1jdEx6VzFZdGh6cTJGQmZRSnl5cXo1Y25lbUcwYVFqanV4eVJhTjVYbVdMSHBrZjNaS0YwZGdWY2lHempqS2llcGJMQmJvOFphMjBwRXcwbElKYkNNRTVELVNLeGtkRDE?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Arcadia expands newbuild programme with Hengli LR2 trio",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaWJXYlYwVDVJbk5JNXNiR3BTZEVhbHpZMFlNOW1jdEx6VzFZdGh6cTJGQmZRSnl5cXo1Y25lbUcwYVFqanV4eVJhTjVYbVdMSHBrZjNaS0YwZGdWY2lHempqS2llcGJMQmJvOFphMjBwRXcwbElKYkNNRTVELVNLeGtkRDE?oc=5",
-  "date": "2026/08/04",
-  "sd": "08/04",
-  "first_seen_iso": "2026-08-05T15:07:59.052794+09:00"
- },
- "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jOUZZMmVYWGJfV3lDUkNLQTROc3NxQUxfZDd0eVpnWUlhd2N5VGs3ZWpoWV9IWHRPZW55UW8xMzRsM0ZDbUtnck9GRS1aVXU1OUY5OG5ia3I3TUMwZXJXM1F1VTRIR1JoSXJoUmhHbWU3OW5DZU1ETw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Tawau Port lifts capacity with new quay cranes - splash247.com",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jOUZZMmVYWGJfV3lDUkNLQTROc3NxQUxfZDd0eVpnWUlhd2N5VGs3ZWpoWV9IWHRPZW55UW8xMzRsM0ZDbUtnck9GRS1aVXU1OUY5OG5ia3I3TUMwZXJXM1F1VTRIR1JoSXJoUmhHbWU3OW5DZU1ETw?oc=5",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T15:07:59.052794+09:00"
- },
- "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWHI2RmFTUVF4TFVJV2hmdDVnSzI2QUJtQXMxNG13eUV3STZ3QldCUlNua2hzYTZjZ0pKX0xiNXN4ekZkeHN3eFlhRWM5SWFUZ0ZNQThDSUFCeG5xdVhza1J5d01wZmc1RWFSYjVYMks4Zy1fa2Z6cUhxbVdlakU?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Port of Ipswich forms Sizewell C logistics alliance - splash247.com",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwWHI2RmFTUVF4TFVJV2hmdDVnSzI2QUJtQXMxNG13eUV3STZ3QldCUlNua2hzYTZjZ0pKX0xiNXN4ekZkeHN3eFlhRWM5SWFUZ0ZNQThDSUFCeG5xdVhza1J5d01wZmc1RWFSYjVYMks4Zy1fa2Z6cUhxbVdlakU?oc=5",
-  "date": "2026/08/05",
-  "sd": "08/05",
-  "first_seen_iso": "2026-08-05T15:07:59.052794+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/08/203382/": {
   "src": "k",
   "cat": "コラム",
@@ -2198,7 +2171,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203489/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船、自動車船船…",
+  "title": "日本郵船、自動車船船内見学会に1800人参加、プロジェクションマッピングなど展示進化",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203489/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2225,7 +2198,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203492/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "九州運輸局、小学校教員が海事施設見学",
+  "title": "九州運輸局、小学校教…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203492/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3026,7 +2999,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国7月の鉄鉱石・石炭輸入はともに前年水準上回る8月7日：T/C市場＝15隻・101万DWT、V/C市場＝鉄鉱石3隻、石炭3隻",
+  "title": "【本日のトピック】ブラジル7月穀物輸出、大豆は前年比+9%増の1,340万トン8月11日：T/C市場＝3隻・25万DWT、V/C市場＝鉄鉱石1隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/11",
   "sd": "08/11",
@@ -3265,5 +3238,41 @@
   "date": "2026/08/12",
   "sd": "08/12",
   "first_seen_iso": "2026-08-12T13:27:55.340364+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203520/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CUラインズ、日本―海峡地で新サービス、品質向上図る",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203520/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T16:54:18.827503+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203521/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ジェミニ、地中海航路「AE19/SE4」でスエズ回帰",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203521/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T16:54:18.827503+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203522/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、相次ぐ台風で混雑悪化懸念",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203522/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T16:54:18.827503+09:00"
+ },
+ "https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "US disables boxship while Red Sea attack kills six",
+  "url": "https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T16:54:18.827976+09:00"
  }
 }
