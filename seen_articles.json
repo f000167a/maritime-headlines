@@ -1937,7 +1937,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203483/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "東京海上日動、セミナー開催、CCS事業リスクを議論",
+  "title": "東京海上日動、セミナ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203483/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -2126,7 +2126,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203492/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "九州運輸局、小学校教…",
+  "title": "九州運輸局、小学校教員が海事施設見学",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203492/",
   "date": "2026/08/10",
   "sd": "08/10",
@@ -3472,5 +3472,14 @@
   "date": "2026/08/12",
   "sd": "08/12",
   "first_seen_iso": "2026-08-12T18:18:14.647994+09:00"
+ },
+ "https://splash247.com/baltic-exchange-taps-marcura-executive-for-deputy-ceo-role/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Baltic Exchange taps Marcura executive for deputy CEO role",
+  "url": "https://splash247.com/baltic-exchange-taps-marcura-executive-for-deputy-ceo-role/",
+  "date": "2026/08/12",
+  "sd": "08/12",
+  "first_seen_iso": "2026-08-12T19:37:04.282084+09:00"
  }
 }
