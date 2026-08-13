@@ -1,67 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317222": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "紅海・アデン湾、針路変更相次ぐ。原油船や自動車船",
-  "url": "https://www.jmd.co.jp/article.php?no=317222",
-  "date": "2026/07/23",
-  "sd": "07/23",
-  "first_seen_iso": "2026-08-06T15:11:41.926342+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203417/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "コンテナ船、米国向け短期運賃上昇、アジアの台風の影響懸念",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203417/",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/08/203414/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "シーナジーの上期業績、最終益3589万ドルに黒字回復",
-  "url": "https://www.kaijipress.com/news/tramper/2026/08/203414/",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/08/203416/": {
-  "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
-  "title": "ユナイテッド・マリタイムの1～6月期業績、102万ドルの最終黒字に転換",
-  "url": "https://www.kaijipress.com/news/tramper/2026/08/203416/",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203415/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日機装、次世代サブマージドモータポンプ開発",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203415/",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T15:11:41.926697+09:00"
- },
- "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EYUFTX2JnUklEOUtwdWlwZ3hhbzlUalRtQUprNndLenVyOFJOVlNxSGx0b1ZVdEdwbWl5bklBazJlS09BXzRaeGRpNUFvaWJldzN2a3pBcnRRMlNTOWc4Si1kZGpOSEdOdFNqNEhxU0x1LTA?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Costamare Bulkers offloads its oldest ship - splash247.com",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EYUFTX2JnUklEOUtwdWlwZ3hhbzlUalRtQUprNndLenVyOFJOVlNxSGx0b1ZVdEdwbWl5bklBazJlS09BXzRaeGRpNUFvaWJldzN2a3pBcnRRMlNTOWc4Si1kZGpOSEdOdFNqNEhxU0x1LTA?oc=5",
-  "date": "2026/08/03",
-  "sd": "08/03",
-  "first_seen_iso": "2026-08-06T15:11:41.927130+09:00"
- },
- "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRjFnb3hIbFhxT1VUZGxqQ0MzUkNfczF6Y0M4MktCd1NjODR5VHRsMFViQVZtOTJWbU5oMHllRGdJMXVtNXpyV0ZzeVVqd0tpaUt2UmlVWG45MExoSHp5M3dqaEZqLUZVbDc3cjVBOVhpSGdLVjhnWkN0TGh5V28?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Cyberattack disrupts North Carolina port operations",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRjFnb3hIbFhxT1VUZGxqQ0MzUkNfczF6Y0M4MktCd1NjODR5VHRsMFViQVZtOTJWbU5oMHllRGdJMXVtNXpyV0ZzeVVqd0tpaUt2UmlVWG45MExoSHp5M3dqaEZqLUZVbDc3cjVBOVhpSGdLVjhnWkN0TGh5V28?oc=5",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T15:11:41.927130+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317026": {
   "src": "j",
   "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
@@ -2558,7 +2495,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203518/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "寺崎電気、清水海技短…",
+  "title": "寺崎電気、清水海技短大に機関室シミュレーター納入",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203518/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -2666,7 +2603,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203528/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "シンガポール港・トゥアスCT、累計2500万TEUを突破",
+  "title": "シンガポール港・トゥ…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203528/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -2702,7 +2639,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203532/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "国際港湾協会、欧州担…",
+  "title": "国際港湾協会、欧州担当副会長にシーモンズ氏",
   "url": "https://www.kaijipress.com/news/container/2026/08/203532/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -2828,7 +2765,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203546/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "名村造船所、新182型ケープ“LIBERTY QUEEN”竣工",
+  "title": "名村造船所、新182…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203546/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -3256,5 +3193,50 @@
   "date": "2026/08/13",
   "sd": "08/13",
   "first_seen_iso": "2026-08-13T15:06:21.007137+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203556/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ワンハイ、上海外高橋造船に9200～1.1万TEU型船発注",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203556/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-13T16:55:40.694583+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203557/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ヤンミン、1～6月期利益は18%減、4～6月期は増益",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203557/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-13T16:55:40.694583+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203558/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ワンハイ、1～6月期純利益は96%増",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203558/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-13T16:55:40.694583+09:00"
+ },
+ "https://splash247.com/black-sea-grain-trade-buckles-under-maritime-war/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Black Sea grain trade buckles under maritime war",
+  "url": "https://splash247.com/black-sea-grain-trade-buckles-under-maritime-war/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-13T16:55:40.695096+09:00"
+ },
+ "https://splash247.com/chrome-ore-emerges-as-dry-bulks-biggest-grower-in-2026/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Chrome ore emerges as dry bulk’s biggest grower in 2026",
+  "url": "https://splash247.com/chrome-ore-emerges-as-dry-bulks-biggest-grower-in-2026/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-13T16:55:40.695096+09:00"
  }
 }
