@@ -1,40 +1,4 @@
 {
- "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsSGtndldMNGlfRUJ5V3ljcVZXaHhLS0dhWUlmS01tUkdWcFdGcjE3Y2RFazB4NHdaQmpXUU9JYmFXLXAyVEJkUUdwdkRxUks2bVhtdTNmcGczZlV5UnRBS19HZmtyUk5Cd1ZPaFNqRnRqbWZ2Vnc?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Hagland brings in Gerdes newbuild on charter",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsSGtndldMNGlfRUJ5V3ljcVZXaHhLS0dhWUlmS01tUkdWcFdGcjE3Y2RFazB4NHdaQmpXUU9JYmFXLXAyVEJkUUdwdkRxUks2bVhtdTNmcGczZlV5UnRBS19HZmtyUk5Cd1ZPaFNqRnRqbWZ2Vnc?oc=5",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T20:34:03.936932+09:00"
- },
- "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0IwbXBlS0U1VzFHZlE0ZVZObElWazhXSk14SkxHQ3pRMEZySHQ0enpIU25qRnc4WGNxYWZjZHlPNVZtUUQ1VEpRLURZeFlnZjdpdmxIRmRINWl0S0JqSjdWMTQxLVp5R2pEX0ZPN200eFZGY1hWTDU4bEsyaURWNlRuclIxVDZ3ZWFPU0NiZWRoMkM2?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Shipowners shouldn’t assume today’s strong recycling market will last",
-  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY0IwbXBlS0U1VzFHZlE0ZVZObElWazhXSk14SkxHQ3pRMEZySHQ0enpIU25qRnc4WGNxYWZjZHlPNVZtUUQ1VEpRLURZeFlnZjdpdmxIRmRINWl0S0JqSjdWMTQxLVp5R2pEX0ZPN200eFZGY1hWTDU4bEsyaURWNlRuclIxVDZ3ZWFPU0NiZWRoMkM2?oc=5",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T20:34:03.936932+09:00"
- },
- "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GVTgzQjNwbG11Zm05RnVYME9NeUlIMlotaTA3Z3d5TDhWaGRVRzFQSW1rOFFGRXh4MTVqU045d1RXR3hTN1c3dzlvU0xVRkprbmV2LUpyTjU1d3JUcTlWNFd0dnVoUTlNRjdSRVFvaExVMXc?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "OceanPal exits shipping to go all-in on AI - splash247.com",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GVTgzQjNwbG11Zm05RnVYME9NeUlIMlotaTA3Z3d5TDhWaGRVRzFQSW1rOFFGRXh4MTVqU045d1RXR3hTN1c3dzlvU0xVRkprbmV2LUpyTjU1d3JUcTlWNFd0dnVoUTlNRjdSRVFvaExVMXc?oc=5",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T20:34:03.936932+09:00"
- },
- "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkZWU01icm1iLWVEUUtQYWZaTENTZk44eHhXWnZ1RTl5VVIyUXdrR21XYklqSVZiRXAxQU5aalJmZ2FyUXB1YWVtX211dzJwY25mcFJQVUFSZlRJZm14RlV0NHVlcEl2aU15YUtkeFJpa1FoeWlIc3drbGFGa01rbFk1N3F1U1pzaVlJ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "BHP awards $130m contract for Port Hedland capacity expansion",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkZWU01icm1iLWVEUUtQYWZaTENTZk44eHhXWnZ1RTl5VVIyUXdrR21XYklqSVZiRXAxQU5aalJmZ2FyUXB1YWVtX211dzJwY25mcFJQVUFSZlRJZm14RlV0NHVlcEl2aU15YUtkeFJpa1FoeWlIc3drbGFGa01rbFk1N3F1U1pzaVlJ?oc=5",
-  "date": "2026/08/06",
-  "sd": "08/06",
-  "first_seen_iso": "2026-08-06T20:34:03.936932+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/07/203239/": {
   "src": "k",
   "cat": "別冊特集号",
@@ -2216,7 +2180,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203518/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "寺崎電気、清水海技短大に機関室シミュレーター納入",
+  "title": "寺崎電気、清水海技短…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203518/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -2351,7 +2315,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203531/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "東京港運協会、熊本地…",
+  "title": "東京港運協会、熊本地震で義援金",
   "url": "https://www.kaijipress.com/news/container/2026/08/203531/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -2360,7 +2324,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203532/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "国際港湾協会、欧州担当副会長にシーモンズ氏",
+  "title": "国際港湾協会、欧州担…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203532/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -2468,7 +2432,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203544/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "川崎重工、LPG燃料…",
+  "title": "川崎重工、LPG燃料船建造累計20隻に、VLGC“LYLA PATHFINDER”竣工",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203544/",
   "date": "2026/08/12",
   "sd": "08/12",
