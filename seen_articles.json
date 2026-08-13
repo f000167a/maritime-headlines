@@ -2216,7 +2216,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203518/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "寺崎電気、清水海技短…",
+  "title": "寺崎電気、清水海技短大に機関室シミュレーター納入",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203518/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -2495,7 +2495,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203547/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "JMU、新型VLCC2番船“TOKI MARU”竣工",
+  "title": "JMU、新型VLCC…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203547/",
   "date": "2026/08/12",
   "sd": "08/12",
@@ -3238,5 +3238,23 @@
   "date": "2026/08/13",
   "sd": "08/13",
   "first_seen_iso": "2026-08-13T18:19:28.428402+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203426/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船・渡辺浩庸エネルギー事業本部長に聞く、エネルギー供給網強化へ布石着々",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203426/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-13T19:38:21.325388+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203418/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "世界の金融機関、船舶融資を積極化、欧州やアジア船主、資金調達が容易に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203418/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-13T19:38:21.325388+09:00"
  }
 }
