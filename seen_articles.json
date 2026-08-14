@@ -2990,7 +2990,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203567/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "高麗海運ジャパン、熊本地震で救援物資提供",
+  "title": "高麗海運ジャパン、熊…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203567/",
   "date": "2026/08/13",
   "sd": "08/13",
@@ -3017,7 +3017,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203570/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "薩摩川内市、親子が川…",
+  "title": "薩摩川内市、親子が川内港など見学",
   "url": "https://www.kaijipress.com/news/container/2026/08/203570/",
   "date": "2026/08/13",
   "sd": "08/13",
@@ -3625,5 +3625,14 @@
   "date": "2026/08/13",
   "sd": "08/13",
   "first_seen_iso": "2026-08-14T08:23:27.842816+09:00"
+ },
+ "https://splash247.com/hagland-brings-in-gerdes-newbuild-on-charter/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Hagland brings in Gerdes newbuild on charter",
+  "url": "https://splash247.com/hagland-brings-in-gerdes-newbuild-on-charter/",
+  "date": "2026/08/06",
+  "sd": "08/06",
+  "first_seen_iso": "2026-08-14T09:05:53.500871+09:00"
  }
 }
