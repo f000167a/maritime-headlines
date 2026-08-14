@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317468": {
-  "src": "j",
-  "cat": "国内船主の今",
-  "title": "【国内船主の今】（410）なるか地銀3行連合。伊予・愛媛、統合の行方は",
-  "url": "https://www.jmd.co.jp/article.php?no=317468",
-  "date": "2026/07/31",
-  "sd": "07/31",
-  "first_seen_iso": "2026-08-07T12:10:14.295512+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/07/202969/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "PR海運会社と取引先間における、情報連携一元化の実現方法／Veson Nautical",
-  "url": "https://www.kaijipress.com/news/shipping/2026/07/202969/",
-  "date": "2026/08/07",
-  "sd": "08/07",
-  "first_seen_iso": "2026-08-07T12:10:14.295851+09:00"
- },
  "https://www.kaijipress.com/news/tramper/2026/08/203444/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
@@ -2792,7 +2774,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203570/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "薩摩川内市、親子が川…",
+  "title": "薩摩川内市、親子が川内港など見学",
   "url": "https://www.kaijipress.com/news/container/2026/08/203570/",
   "date": "2026/08/13",
   "sd": "08/13",
@@ -2810,7 +2792,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203572/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "佐々木国交副大臣、名古屋港TCBを視察",
+  "title": "佐々木国交副大臣、名…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203572/",
   "date": "2026/08/13",
   "sd": "08/13",
@@ -3409,5 +3391,41 @@
   "date": "2026/08/06",
   "sd": "08/06",
   "first_seen_iso": "2026-08-14T09:05:53.500871+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317690": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "中東向け、自動車輸出 回復の兆し。トヨタ、物流ルート複線化",
+  "url": "https://www.jmd.co.jp/article.php?no=317690",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-14T13:29:32.943817+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317687": {
+  "src": "j",
+  "cat": "激震 イラン軍事衝突",
+  "title": "海運8団体、ホルムズ通航料に反対。国連に公開書簡、「国際慣行を逸脱」",
+  "url": "https://www.jmd.co.jp/article.php?no=317687",
+  "date": "2026/08/07",
+  "sd": "08/07",
+  "first_seen_iso": "2026-08-14T13:29:32.943817+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203588/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "LNG船新造需要、35年までに550隻、GTT予測、見通し上方修正、高水準継続へ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203588/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T13:29:32.944173+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203589/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "欧州舶用大手の26年上期決算、新造船向け需要は堅調、業績には濃淡",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203589/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T13:29:32.944173+09:00"
  }
 }
