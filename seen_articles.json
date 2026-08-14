@@ -1,40 +1,4 @@
 {
- "https://splash247.com/splash-wrap-the-sea-acquires-its-gates/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Wrap: The sea acquires its gates",
-  "url": "https://splash247.com/splash-wrap-the-sea-acquires-its-gates/",
-  "date": "2026/08/07",
-  "sd": "08/07",
-  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
- },
- "https://splash247.com/yangzijiang-maritime-takes-vessel-sales-to-500m-with-bulker-quartet/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Yangzijiang Maritime takes vessel sales to $500m with bulker quartet",
-  "url": "https://splash247.com/yangzijiang-maritime-takes-vessel-sales-to-500m-with-bulker-quartet/",
-  "date": "2026/08/07",
-  "sd": "08/07",
-  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
- },
- "https://splash247.com/iran-weighs-ban-on-us-and-israeli-ships-in-hormuz/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Iran weighs ban on US and Israeli ships in Hormuz",
-  "url": "https://splash247.com/iran-weighs-ban-on-us-and-israeli-ships-in-hormuz/",
-  "date": "2026/08/07",
-  "sd": "08/07",
-  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
- },
- "https://splash247.com/german-bulker-hit-repeatedly-in-russian-drone-attack/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "German bulker hit repeatedly in Russian drone attack",
-  "url": "https://splash247.com/german-bulker-hit-repeatedly-in-russian-drone-attack/",
-  "date": "2026/08/07",
-  "sd": "08/07",
-  "first_seen_iso": "2026-08-07T17:00:16.165666+09:00"
- },
  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ2VzV201Vnhra19iSkRVSG5Jd3VjdC1BdjZHbDNRQm1oVS0xUHhyMHZsWnRBUUVkMWdqclZGRnNVVElVYmRUT1JpNk9LcnV2M01rcmdzbjlCZ0U3eDZCRlVrZ2YzcVZQS0xoUjZ0bEd6NlFvQ3gwTGx3LUFNbW5KUA?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3436,5 +3400,194 @@
   "date": "2026/08/14",
   "sd": "08/14",
   "first_seen_iso": "2026-08-14T16:52:22.593339+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317924": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "New!17:08商船三井、会社人事",
+  "url": "https://www.jmd.co.jp/article.php?no=317924",
+  "date": "",
+  "sd": "",
+  "first_seen_iso": "2026-08-14T18:13:43.918632+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203593/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大和汽船、石田社長インタビュー、自社管理に拘る、船隊は25隻前後に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203593/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203594/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "曳船事業の新日本海洋社・鹿島伸浩社長、海洋・脱炭素など新領域に挑戦",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203594/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203596/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名門大洋フェリー、熊本地震支援で特別割引",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203596/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203597/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ハパックロイドCEO、運賃上昇で7～9月期はさらに改善へ",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203597/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203598/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースクCEO、ボトルネック常態化で船隊増強も視野",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203598/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203599/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "上組、4～6月期は経常益7%減の104億円",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203599/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203600/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エバーグリーン、1～6月期は純利益36%減",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203600/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203601/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・コンテナ運賃指標、2週連続プラス、米国向け続伸",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203601/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203602/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・アジア域内運賃、前週比6%増の1028ドル/FEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203602/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203603/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "エバーグリーン、コロンCTがロジパーク会社株40%取得",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203603/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203604/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "7月の中国自動車輸出、2カ月連続で月間100万台超え",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203604/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203605/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ノルデンの4～6月期業績、純利益約2倍の1億80万ドル",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203605/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203606/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》日本の水素燃料船＜下＞内燃機関と液化燃料で大型船へ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203606/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203607/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名村造船所、熊本地震で義援金",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203607/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203608/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "大島造船所、熊本地震で義援金",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203608/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203609/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】平野未来・シナモンAI/CEO",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203609/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203610/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】船木一美・秋田曳船社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203610/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203611/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】渡辺浩庸・日本郵船専務執行役員",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203611/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/08/203612/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】造船所の夏休み今昔",
+  "url": "https://www.kaijipress.com/column/aotou/2026/08/203612/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919005+09:00"
+ },
+ "https://splash247.com/splash-wrap-the-detour-economy/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: The detour economy",
+  "url": "https://splash247.com/splash-wrap-the-detour-economy/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-14T18:13:43.919636+09:00"
  }
 }
