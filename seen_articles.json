@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/08/203483/": {
-  "src": "k",
-  "cat": "海運＜経営・全般＞",
-  "title": "東京海上日動、セミナー開催、CCS事業リスクを議論",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203483/",
-  "date": "2026/08/10",
-  "sd": "08/10",
-  "first_seen_iso": "2026-08-10T14:49:30.700726+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/08/203482/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "ダナオス上期業績、純利益19%増の2.9億ドル",
-  "url": "https://www.kaijipress.com/news/tramper/2026/08/203482/",
-  "date": "2026/08/10",
-  "sd": "08/10",
-  "first_seen_iso": "2026-08-10T14:49:30.700726+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203484/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "舶用機関メーカー5社、4～6月期は4社が経常増益、保守堅調も機関販売に差",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203484/",
-  "date": "2026/08/10",
-  "sd": "08/10",
-  "first_seen_iso": "2026-08-10T14:49:30.700726+09:00"
- },
- "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwZmk0M3huYzlfNlU2UkZuTGNHenRDLTBqVXBLTTFVbC1WaXhsZXdCRXZKSDJ0SGdPcXRQQ1FPWnphcldOSWF0c3VWN2dPZmxZOXNxcEhkaEppa00wRzhEV1l2QjZwNmtSLUUwblpGUk5rN0dpSkJSN3V3?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Industrial action starts across Tasmania’s ports",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwZmk0M3huYzlfNlU2UkZuTGNHenRDLTBqVXBLTTFVbC1WaXhsZXdCRXZKSDJ0SGdPcXRQQ1FPWnphcldOSWF0c3VWN2dPZmxZOXNxcEhkaEppa00wRzhEV1l2QjZwNmtSLUUwblpGUk5rN0dpSkJSN3V3?oc=5",
-  "date": "2026/08/08",
-  "sd": "08/08",
-  "first_seen_iso": "2026-08-10T14:49:30.701165+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/08/203486/": {
   "src": "k",
   "cat": "コラム",
@@ -992,7 +956,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】伯CONAB、25/26年トウモロコシ生産予想さらに引き上げ、1.43億トン8月13日：T/C市場＝13隻・100万DWT、V/C市場＝鉄鉱石2隻、石炭3隻",
+  "title": "【本日のトピック】インド石炭輸入は4カ月連続前年割れ、直近6月は前年比▲11%減8月14日：T/C市場＝21隻・149万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/11",
   "sd": "08/11",
@@ -3319,5 +3283,41 @@
   "date": "2026/08/17",
   "sd": "08/17",
   "first_seen_iso": "2026-08-17T14:44:41.853226+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhVUoza3lCbnFwMWllSk1ETGtOUEl6S0F6bktfcGx6aC04cUhhWk9SVkZrVG5pNGNUZFNKYktHS0lsT1pkUjFpeTJkaXpmS3NRZzdYQ1Y2ZTZNMVJUNDA2MDZRM3pfS0RS?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana pulls plug on Genco takeover",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhVUoza3lCbnFwMWllSk1ETGtOUEl6S0F6bktfcGx6aC04cUhhWk9SVkZrVG5pNGNUZFNKYktHS0lsT1pkUjFpeTJkaXpmS3NRZzdYQ1Y2ZTZNMVJUNDA2MDZRM3pfS0RS?oc=5",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUJXUmFxbmJFWklvd0V1YWpMZ2NzRXhKdTZvTEliZmdZOXVjZkJhUS1PU0FrN3BBM2FURmFCSHNGUXptYl80am4tbUk5c2x2eTZrWmFaYnU4aGtnMUdXYXJYcmFHbnZ2cTJxX0h0bmgtMzlDQ0p3WDVtR2lpWXc0WVJaSGJnMkFNQjAzcw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fujian Highton expands MPP newbuild programme with fresh pair",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUJXUmFxbmJFWklvd0V1YWpMZ2NzRXhKdTZvTEliZmdZOXVjZkJhUS1PU0FrN3BBM2FURmFCSHNGUXptYl80am4tbUk5c2x2eTZrWmFaYnU4aGtnMUdXYXJYcmFHbnZ2cTJxX0h0bmgtMzlDQ0p3WDVtR2lpWXc0WVJaSGJnMkFNQjAzcw?oc=5",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHl3WC03cG5iVEY1U0ZtWFFHOHBMeVB4TTRzQ1B6NUhJeEhqemF5U2xkN0JzSUQzdzBDQTNnSFFwR0FhY0dHcElLUlZtdnRNY1J0UkxaNGdaeVV2amNOSjhCV0hFbEt2dHFKM0p6NzBnTFJtbUhCX1FsUGYyVS05aWNIMG51U21ha2hBbzJwaw?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "AD Ports UAE container volumes plunge 65% amid Hormuz disruption",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHl3WC03cG5iVEY1U0ZtWFFHOHBMeVB4TTRzQ1B6NUhJeEhqemF5U2xkN0JzSUQzdzBDQTNnSFFwR0FhY0dHcElLUlZtdnRNY1J0UkxaNGdaeVV2amNOSjhCV0hFbEt2dHFKM0p6NzBnTFJtbUhCX1FsUGYyVS05aWNIMG51U21ha2hBbzJwaw?oc=5",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFQ4MTU4MmNjQ1RjVU5TNW1iSUxsTXdfWGJhOUhDNy1IU2trUkZxeUdSZGpabmx5ZTNCQjNtNGRFd3FMWnNURmNWTVBaZldCSktGT1c0QkxlSU1tVktpSDNreWtyTk1mRTBkLWpHRFotWGxSZGlzZHEzOU5aX3dpTGpaSXU?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Karachi Port deepening opens East Wharf to larger ships",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFQ4MTU4MmNjQ1RjVU5TNW1iSUxsTXdfWGJhOUhDNy1IU2trUkZxeUdSZGpabmx5ZTNCQjNtNGRFd3FMWnNURmNWTVBaZldCSktGT1c0QkxlSU1tVktpSDNreWtyTk1mRTBkLWpHRFotWGxSZGlzZHEzOU5aX3dpTGpaSXU?oc=5",
+  "date": "2026/08/16",
+  "sd": "08/16",
+  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
  }
 }
