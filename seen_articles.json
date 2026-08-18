@@ -101,7 +101,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インド石炭輸入は4カ月連続前年割れ、直近6月は前年比▲11%減8月14日：T/C市場＝21隻・149万DWT、V/C市場＝鉄鉱石3隻、石炭1隻、穀物1隻",
+  "title": "【本日のトピック】7月中国粗鋼生産は7,693万トンで再び前年割れ、半年ぶり低水準に8月17日：T/C市場＝3隻・24万DWT、V/C市場＝鉄鉱石1隻、石炭2隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/11",
   "sd": "08/11",
@@ -2522,7 +2522,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203625/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎市、小学生向けに…",
+  "title": "川崎市、小学生向けに自動車船見学会開催",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203625/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2531,7 +2531,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203626/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、自動車専用船の絵本に取材協力",
+  "title": "川崎汽船、自動車専用…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203626/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2567,7 +2567,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203630/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "シーレジェンド、北極海航路の定期運航を開始",
+  "title": "シーレジェンド、北極…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203630/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2630,7 +2630,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203637/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "たにもと建設、熊本地…",
+  "title": "たにもと建設、熊本地震で義援金",
   "url": "https://www.kaijipress.com/news/container/2026/08/203637/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -3049,5 +3049,59 @@
   "date": "2026/08/18",
   "sd": "08/18",
   "first_seen_iso": "2026-08-18T13:20:02.429192+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203662/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "神原汽船、石狩湾新港へ寄港",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203662/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T15:55:53.993342+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203659/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本造船業の新造船受注残、3.3年分の2991万トン",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203659/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T15:55:53.993342+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203660/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本の新造船受注、7月は2.2倍の87万トン、一定量確保、30年度もの契約継続",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203660/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T15:55:53.993342+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203661/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "国内中小型造船業、受注残3.49年分確保、高水準維持、中小型造工調査",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203661/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T15:55:53.993342+09:00"
+ },
+ "https://www.kaijipress.com/markets/dry/2026/08/203658/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドライバルク市況月間レポート（2026年7月）、ケープ月間平均は3.8万ドル",
+  "url": "https://www.kaijipress.com/markets/dry/2026/08/203658/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T15:55:53.993342+09:00"
+ },
+ "https://splash247.com/seafarer-killed-in-latest-hormuz-strike/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Seafarer killed in latest Hormuz strike",
+  "url": "https://splash247.com/seafarer-killed-in-latest-hormuz-strike/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T15:55:53.993758+09:00"
  }
 }
