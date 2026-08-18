@@ -1,13 +1,4 @@
 {
- "https://splash247.com/rhine-cut-in-two-as-european-drought-cripples-inland-shipping/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Rhine cut in two as European drought cripples inland shipping",
-  "url": "https://splash247.com/rhine-cut-in-two-as-european-drought-cripples-inland-shipping/",
-  "date": "2026/08/11",
-  "sd": "08/11",
-  "first_seen_iso": "2026-08-11T18:09:07.451790+09:00"
- },
  "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lVlk0MlpTNzIwQTNvTmNlVlNrLUVTRFlGOV9maGV2eHMxNXhoZEZKRklvNlZtTE1uSW9HMlo1SEg3SmRWb0J2djc3cjZVTThHVFZfRm9pLUROWHZ2Ni13OWdYRVB0b3B2ZkRWNDYwNGh1T0dnZVBmNQ?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2360,7 +2351,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203624/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "近畿内航船員対策協議会、工業高校生対象に海技大見学会",
+  "title": "近畿内航船員対策協議…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203624/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2378,7 +2369,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203626/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、自動車専用…",
+  "title": "川崎汽船、自動車専用船の絵本に取材協力",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203626/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2414,7 +2405,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203630/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "シーレジェンド、北極海航路の定期運航を開始",
+  "title": "シーレジェンド、北極…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203630/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2441,7 +2432,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203633/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "JICA、シアヌーク…",
+  "title": "JICA、シアヌークビル港CT2期整備に円借款",
   "url": "https://www.kaijipress.com/news/container/2026/08/203633/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2950,5 +2941,329 @@
   "date": "2026/08/18",
   "sd": "08/18",
   "first_seen_iso": "2026-08-18T15:55:53.993758+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜経営・全般＞",
+  "url": "https://www.kaijipress.com/news/shipping/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜コンテナ・物流＞",
+  "url": "https://www.kaijipress.com/news/container/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "海運＜不定期専用船＞・海洋",
+  "url": "https://www.kaijipress.com/news/tramper/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/information/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "Information",
+  "url": "https://www.kaijipress.com/news/information/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/person/profile/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "プロフィール",
+  "url": "https://www.kaijipress.com/person/profile/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/person/senkun/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "次代への戦訓",
+  "url": "https://www.kaijipress.com/person/senkun/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/person/zosentop/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "造船新トップの素顔",
+  "url": "https://www.kaijipress.com/person/zosentop/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/feature/highlight/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "話題の新造船",
+  "url": "https://www.kaijipress.com/feature/highlight/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/feature/forecast/": {
+  "src": "k",
+  "cat": "トップ",
+  "title": "市況予測特集",
+  "url": "https://www.kaijipress.com/feature/forecast/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203663/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】#29 川崎近海汽船 山鹿徳昌社長、5事業それぞれで存在感高める",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203663/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203664/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JMETS、人気駅弁とコラボ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203664/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203665/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ONE、デンマーク・カロンボー港の活用推進",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203665/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203666/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM、東南アジア航路で川崎寄港",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203666/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203667/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "アジア発米国向け、7月は5%減の182万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203667/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203668/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "全国港湾、産別労使関係の再構築に重点",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203668/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203669/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "釜山発コンテナ運賃指標、総合指標3週連続上昇、米国続伸",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203669/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203670/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "伏木富山港、現地視察会開催で利用促進、物流安定化や低炭素化をPR",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203670/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203671/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "香港、7月は2%減の109万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203671/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203673/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ウルトラバルクとノバマリン、FC今治のユニフォームに参画",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203673/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203674/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ジェンコ、買収案撤回受け株主向け書簡",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203674/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203675/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "海外造船トップ決算語録、力強い需要は「当面続く」",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203675/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203676/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "NK、代替燃料船ガイドライン改正、水素燃料船などの安全要件を最新化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203676/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203677/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "JMU、九州大講義室の命名権取得",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203677/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/markets/secondhand/2026/08/203672/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中古船価市況週間レポート（8月10日～14日）、ケープ5年物反発、7102万ドル",
+  "url": "https://www.kaijipress.com/markets/secondhand/2026/08/203672/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203679/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】原口阿瑞美・商船三井執行役員",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203679/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203680/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】増田尚昭・本田重工業社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203680/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203681/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】ロルフ・ハベン・ヤンセン/ハパックロイドCEO",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203681/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/08/203678/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】コンセンサスを得た大井再編を",
+  "url": "https://www.kaijipress.com/column/aotou/2026/08/203678/",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.117262+09:00"
+ },
+ "https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Star Bulk walks away from Genco fleet deal",
+  "url": "https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-18T18:40:22.117953+09:00"
+ },
+ "https://splash247.com/trump-extends-jones-act-waiver-despite-mounting-maritime-opposition/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
+  "url": "https://splash247.com/trump-extends-jones-act-waiver-despite-mounting-maritime-opposition/",
+  "date": "2026/08/11",
+  "sd": "08/11",
+  "first_seen_iso": "2026-08-18T18:40:22.117953+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】7月中国粗鋼生産は7,693万トンで再び前年割れ、半年ぶり低水準に8月17日：T/C市場＝3隻・24万DWT、V/C市場＝鉄鉱石1隻、石炭2隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.118109+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_report": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "目次（計7部門）",
+  "url": "https://www.tramp.co.jp/fenet/weekly_report",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.118109+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "鉄鉱石部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.118109+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "マイナーバルク部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.118109+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "新造・中古船部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.118109+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
+  "src": "t",
+  "cat": "TDS Weekly",
+  "title": "資源・食糧部門",
+  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
+  "date": "2026/08/18",
+  "sd": "08/18",
+  "first_seen_iso": "2026-08-18T18:40:22.118109+09:00"
  }
 }
