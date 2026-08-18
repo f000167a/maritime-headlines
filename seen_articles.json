@@ -1,22 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317343": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "脱ホルムズ、船腹需要押し上げか。原油輸出、代替ルート拡張",
-  "url": "https://www.jmd.co.jp/article.php?no=317343",
-  "date": "2026/07/28",
-  "sd": "07/28",
-  "first_seen_iso": "2026-08-11T14:29:34.326647+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317335": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "タンカー爆発、ホルムズで機雷に接触か",
-  "url": "https://www.jmd.co.jp/article.php?no=317335",
-  "date": "2026/07/28",
-  "sd": "07/28",
-  "first_seen_iso": "2026-08-11T14:29:34.326647+09:00"
- },
  "https://www.kaijipress.com/news/shipping/": {
   "src": "k",
   "cat": "トップ",
@@ -2531,7 +2513,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203624/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "近畿内航船員対策協議…",
+  "title": "近畿内航船員対策協議会、工業高校生対象に海技大見学会",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203624/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2540,7 +2522,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203625/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎市、小学生向けに自動車船見学会開催",
+  "title": "川崎市、小学生向けに…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203625/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2585,7 +2567,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203630/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "シーレジェンド、北極…",
+  "title": "シーレジェンド、北極海航路の定期運航を開始",
   "url": "https://www.kaijipress.com/news/container/2026/08/203630/",
   "date": "2026/08/17",
   "sd": "08/17",
@@ -2648,7 +2630,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203637/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "たにもと建設、熊本地震で義援金",
+  "title": "たにもと建設、熊本地…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203637/",
   "date": "2026/08/17",
   "sd": "08/17",
