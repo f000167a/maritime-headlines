@@ -2837,7 +2837,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203684/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上海港、CMA-CGMにバイオメタノール燃料8016トン供給",
+  "title": "上海港、CMA-CG…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203684/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2927,7 +2927,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203690/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸港KICTが拡張…",
+  "title": "神戸港KICTが拡張完了、9月から新体制、川汽が移転",
   "url": "https://www.kaijipress.com/news/container/2026/08/203690/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3035,7 +3035,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "佐伯重工業、新テレビCM放送",
+  "title": "佐伯重工業、新テレビ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3044,7 +3044,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "BEMAC、創業80…",
+  "title": "BEMAC、創業80周年企画で松井秀喜氏と小田社長が対談",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3427,5 +3427,23 @@
   "date": "2026/08/20",
   "sd": "08/20",
   "first_seen_iso": "2026-08-20T07:18:00.161985+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317830": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "【7月航空混載】主要FW5社、輸出重量22%増。全社2桁増、アジア好調",
+  "url": "https://www.jmd.co.jp/article.php?no=317830",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-20T08:17:15.590048+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317806": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】商船三井・副社長CFO（最高財務責任者）・濱崎和也さん。トレード多様化、海運にポジティブ",
+  "url": "https://www.jmd.co.jp/article.php?no=317806",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-20T08:17:15.590048+09:00"
  }
 }
