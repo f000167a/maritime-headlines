@@ -3035,7 +3035,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】7月中国粗鋼生産は7,693万トンで再び前年割れ、半年ぶり低水準に8月17日：T/C市場＝3隻・24万DWT、V/C市場＝鉄鉱石1隻、石炭2隻",
+  "title": "【本日のトピック】7月中国全国発電量は前年比+2%増、石炭生産はさらに減速8月18日：T/C市場＝16隻・105万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/18",
   "sd": "08/18",
@@ -3391,5 +3391,68 @@
   "date": "2026/08/18",
   "sd": "08/18",
   "first_seen_iso": "2026-08-19T12:33:18.755290+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203682/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "LA港、7月は6%減の96万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203682/",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203683/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》AOCTELの未来＜上＞、熊本からONEの積み付けを支える",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203683/",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203684/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "上海港、CMA-CGMにバイオメタノール燃料8016トン供給",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203684/",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203685/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、ソリューション部門トップが交代、エルビラCPOも退任",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203685/",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203686/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国発アジア向け、6月は2%減の46万TEU、日本向けが3位",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203686/",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Mc0ViQWpqMTRJNzVfTEtyRXhZUGtZRUVGbDAtdC1ZV3BFa3lvakNnVHUtYVRybmFsZmh5ZU00YkJaUEhqRzV4b0VLRVVuNldBSjN6M204SUNwa2pHak9JaVBzOHpqbUxEbF95Zllta3VSdkJhNjNWN0JDSQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Red dots flash warning for Panama Canal shipping",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Mc0ViQWpqMTRJNzVfTEtyRXhZUGtZRUVGbDAtdC1ZV3BFa3lvakNnVHUtYVRybmFsZmh5ZU00YkJaUEhqRzV4b0VLRVVuNldBSjN6M204SUNwa2pHak9JaVBzOHpqbUxEbF95Zllta3VSdkJhNjNWN0JDSQ?oc=5",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-19T15:56:13.348944+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUZjRExOUzNzaUhUbG5ybXgxaW5uRVViVk16VDhFdHRwLXFFNGhhZGgtZ3lsb01mN2dQUXVFdDYtMk83OHZNUjkyektJUGpQT1YtUDgyZkVhQ3ZKbkczRVNBU2dpdk9XQXpfR1AtSThPckJQdVJCNHVLODdpR25DTVdWRQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Vila do Conde grain terminal auction faces fresh delay",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUZjRExOUzNzaUhUbG5ybXgxaW5uRVViVk16VDhFdHRwLXFFNGhhZGgtZ3lsb01mN2dQUXVFdDYtMk83OHZNUjkyektJUGpQT1YtUDgyZkVhQ3ZKbkczRVNBU2dpdk9XQXpfR1AtSThPckJQdVJCNHVLODdpR25DTVdWRQ?oc=5",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-19T15:56:13.348944+09:00"
  }
 }
