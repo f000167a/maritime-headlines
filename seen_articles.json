@@ -2414,7 +2414,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203684/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上海港、CMA-CG…",
+  "title": "上海港、CMA-CGMにバイオメタノール燃料8016トン供給",
   "url": "https://www.kaijipress.com/news/container/2026/08/203684/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2504,7 +2504,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203690/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸港KICTが拡張完了、9月から新体制、川汽が移転",
+  "title": "神戸港KICTが拡張…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203690/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3337,5 +3337,32 @@
   "date": "2026/08/20",
   "sd": "08/20",
   "first_seen_iso": "2026-08-20T18:41:27.981315+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203573/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "年内のVLCC市況、中東輸送網の安定性が焦点、超高値は一服か",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203573/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T19:13:14.892972+09:00"
+ },
+ "https://splash247.com/black-sea-grain-trade-buckles-under-maritime-war/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Black Sea grain trade buckles under maritime war",
+  "url": "https://splash247.com/black-sea-grain-trade-buckles-under-maritime-war/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-20T19:13:14.893603+09:00"
+ },
+ "https://splash247.com/chrome-ore-emerges-as-dry-bulks-biggest-grower-in-2026/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Chrome ore emerges as dry bulk’s biggest grower in 2026",
+  "url": "https://splash247.com/chrome-ore-emerges-as-dry-bulks-biggest-grower-in-2026/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-20T19:13:14.893603+09:00"
  }
 }
