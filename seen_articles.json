@@ -1,13 +1,4 @@
 {
- "https://splash247.com/splash-singapore-heidelbergs-willem-vermaat-on-when-the-algorithm-looks-away/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Singapore: Heidelberg’s Willem Vermaat on when the algorithm looks away",
-  "url": "https://splash247.com/splash-singapore-heidelbergs-willem-vermaat-on-when-the-algorithm-looks-away/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T15:06:21.007137+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/08/203556/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -2369,7 +2360,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】7月中国全国発電量は前年比+2%増、石炭生産はさらに減速8月18日：T/C市場＝16隻・105万DWT、V/C市場＝鉄鉱石4隻、石炭1隻",
+  "title": "【本日のトピック】7月中国原料炭輸入、1,300万トン超で過去二番目の高水準記録8月19日：T/C市場＝20隻・132万DWT、V/C市場＝鉄鉱石2隻、石炭1隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/18",
   "sd": "08/18",
@@ -2873,7 +2864,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203694/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、アイスクラ…",
+  "title": "飯野海運、アイスクラスの新造VLGCが竣工、“LUMI AURORA”、ボルージュ向け",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203694/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2909,7 +2900,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203698/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "NSU海運、役職員家族対象に職場見学会",
+  "title": "NSU海運、役職員家…",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203698/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3364,5 +3355,59 @@
   "date": "2026/08/19",
   "sd": "08/19",
   "first_seen_iso": "2026-08-20T11:43:48.011500+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203710/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ZIM、1～6月期は純損失2200万ドル、4～6月期は大幅増益",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203710/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T15:57:03.780881+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203711/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、スポーツウェア会社と英ピック&パック業務で提携",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203711/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T15:57:03.780881+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203712/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ハチソン、CT運営権奪取でパナマへの国際仲裁手続き開始",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203712/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T15:57:03.780881+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203713/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "世界主要港・1～6月期コンテナ、トップ10にマレーシア2港",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203713/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T15:57:03.780881+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "三菱造船、海保向け巡視船“わかさ”進水",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T15:57:03.780881+09:00"
+ },
+ "https://splash247.com/black-sea-export-war-intensifies/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Black Sea export war intensifies",
+  "url": "https://splash247.com/black-sea-export-war-intensifies/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T15:57:03.781287+09:00"
  }
 }
