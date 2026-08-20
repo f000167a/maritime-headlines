@@ -1,22 +1,4 @@
 {
- "https://www.kaijipress.com/news/tramper/2026/08/203426/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本郵船・渡辺浩庸エネルギー事業本部長に聞く、エネルギー供給網強化へ布石着々",
-  "url": "https://www.kaijipress.com/news/tramper/2026/08/203426/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T19:38:21.325388+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203418/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "世界の金融機関、船舶融資を積極化、欧州やアジア船主、資金調達が容易に",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203418/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T19:38:21.325388+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317857": {
   "src": "j",
   "cat": "コンテナ",
@@ -2612,7 +2594,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "佐伯重工業、新テレビCM放送",
+  "title": "佐伯重工業、新テレビ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2621,7 +2603,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "BEMAC、創業80…",
+  "title": "BEMAC、創業80周年企画で松井秀喜氏と小田社長が対談",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3364,5 +3346,14 @@
   "date": "2026/08/13",
   "sd": "08/13",
   "first_seen_iso": "2026-08-20T19:13:14.893603+09:00"
+ },
+ "https://splash247.com/cashew-waste-enters-singapore-bunker-mix/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Cashew waste enters Singapore bunker mix",
+  "url": "https://splash247.com/cashew-waste-enters-singapore-bunker-mix/",
+  "date": "2026/08/20",
+  "sd": "08/20",
+  "first_seen_iso": "2026-08-20T19:51:00.604873+09:00"
  }
 }
