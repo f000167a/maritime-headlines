@@ -2837,7 +2837,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、海保向け巡視船“わかさ”進水",
+  "title": "三菱造船、海保向け巡…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2999,7 +2999,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "横浜国立大、造船海洋…",
+  "title": "横浜国立大、造船海洋センター「SORIC」開所、産業再設計と海洋に挑戦",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -3355,5 +3355,23 @@
   "date": "2026/08/21",
   "sd": "08/21",
   "first_seen_iso": "2026-08-21T07:20:30.382443+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317842": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "フェデックス、広州―シドニーで直行便。日本発貨物も時間短縮",
+  "url": "https://www.jmd.co.jp/article.php?no=317842",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-21T08:19:55.135818+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317836": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【記者の視点/鈴木隆史】NZFの議論深化へ、来月の中間作業部会 注視",
+  "url": "https://www.jmd.co.jp/article.php?no=317836",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-21T08:19:55.135818+09:00"
  }
 }
