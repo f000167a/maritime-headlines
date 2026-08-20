@@ -2738,7 +2738,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203684/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上海港、CMA-CGMにバイオメタノール燃料8016トン供給",
+  "title": "上海港、CMA-CG…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203684/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2837,7 +2837,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203691/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "井本商運/福吉海運、…",
+  "title": "井本商運/福吉海運、200TEU型船“みなと”進水",
   "url": "https://www.kaijipress.com/news/container/2026/08/203691/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2936,7 +2936,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "佐伯重工業、新テレビCM放送",
+  "title": "佐伯重工業、新テレビ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2945,7 +2945,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "BEMAC、創業80…",
+  "title": "BEMAC、創業80周年企画で松井秀喜氏と小田社長が対談",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3409,5 +3409,14 @@
   "date": "2026/08/20",
   "sd": "08/20",
   "first_seen_iso": "2026-08-20T15:57:03.781287+09:00"
+ },
+ "https://splash247.com/splash-singapore-heidelbergs-willem-vermaat-on-when-the-algorithm-looks-away/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Singapore: Heidelberg’s Willem Vermaat on when the algorithm looks away",
+  "url": "https://splash247.com/splash-singapore-heidelbergs-willem-vermaat-on-when-the-algorithm-looks-away/",
+  "date": "2026/08/13",
+  "sd": "08/13",
+  "first_seen_iso": "2026-08-20T16:49:39.464376+09:00"
  }
 }
