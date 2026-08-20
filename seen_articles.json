@@ -1,49 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/08/203556/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ワンハイ、上海外高橋造船に9200～1.1万TEU型船発注",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203556/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T16:55:40.694583+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203557/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ヤンミン、1～6月期利益は18%減、4～6月期は増益",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203557/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T16:55:40.694583+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203558/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "ワンハイ、1～6月期純利益は96%増",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203558/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T16:55:40.694583+09:00"
- },
- "https://splash247.com/black-sea-grain-trade-buckles-under-maritime-war/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Black Sea grain trade buckles under maritime war",
-  "url": "https://splash247.com/black-sea-grain-trade-buckles-under-maritime-war/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T16:55:40.695096+09:00"
- },
- "https://splash247.com/chrome-ore-emerges-as-dry-bulks-biggest-grower-in-2026/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Chrome ore emerges as dry bulk’s biggest grower in 2026",
-  "url": "https://splash247.com/chrome-ore-emerges-as-dry-bulks-biggest-grower-in-2026/",
-  "date": "2026/08/13",
-  "sd": "08/13",
-  "first_seen_iso": "2026-08-13T16:55:40.695096+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317870": {
   "src": "j",
   "cat": "コンテナ",
@@ -2738,7 +2693,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203684/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "上海港、CMA-CG…",
+  "title": "上海港、CMA-CGMにバイオメタノール燃料8016トン供給",
   "url": "https://www.kaijipress.com/news/container/2026/08/203684/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2747,7 +2702,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203685/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、ソリューション部門トップが交代、エルビラCPOも退任",
+  "title": "マースク、ソリューシ…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203685/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2936,7 +2891,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "佐伯重工業、新テレビ…",
+  "title": "佐伯重工業、新テレビCM放送",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203702/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2945,7 +2900,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "BEMAC、創業80周年企画で松井秀喜氏と小田社長が対談",
+  "title": "BEMAC、創業80…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203703/",
   "date": "2026/08/19",
   "sd": "08/19",
