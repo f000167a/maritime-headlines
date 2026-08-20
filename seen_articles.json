@@ -2783,7 +2783,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203685/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、ソリューション部門トップが交代、エルビラCPOも退任",
+  "title": "マースク、ソリューシ…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203685/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2873,7 +2873,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203691/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "井本商運/福吉海運、…",
+  "title": "井本商運/福吉海運、200TEU型船“みなと”進水",
   "url": "https://www.kaijipress.com/news/container/2026/08/203691/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2900,7 +2900,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203694/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "飯野海運、アイスクラ…",
+  "title": "飯野海運、アイスクラスの新造VLGCが竣工、“LUMI AURORA”、ボルージュ向け",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203694/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -2936,7 +2936,7 @@
  "https://www.kaijipress.com/news/tramper/2026/08/203698/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "NSU海運、役職員家族対象に職場見学会",
+  "title": "NSU海運、役職員家…",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203698/",
   "date": "2026/08/19",
   "sd": "08/19",
@@ -3382,5 +3382,14 @@
   "date": "2026/08/13",
   "sd": "08/13",
   "first_seen_iso": "2026-08-20T08:17:15.590048+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMid0FVX3lxTE54dWdHZ3l3cVlnZmt1d2owMFNuZUZhOUZOM3NkUmZYcF85YWpUWjdxZmJEdXpwUjNZb2pEZnY5a243WGpsWmQ2dk1pZFdhVHRQQzM4UzU0VzhLTXpHdkJyRTg3LU5CcGsweldjNDZMamdaUG9iS3FJ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "DP World expands Dar es Salaam terminal yards",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54dWdHZ3l3cVlnZmt1d2owMFNuZUZhOUZOM3NkUmZYcF85YWpUWjdxZmJEdXpwUjNZb2pEZnY5a243WGpsWmQ2dk1pZFdhVHRQQzM4UzU0VzhLTXpHdkJyRTg3LU5CcGsweldjNDZMamdaUG9iS3FJ?oc=5",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-20T11:43:48.011500+09:00"
  }
 }
