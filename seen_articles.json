@@ -2315,7 +2315,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、海保向け巡視船“わかさ”進水",
+  "title": "三菱造船、海保向け巡…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2477,7 +2477,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "横浜国立大、造船海洋…",
+  "title": "横浜国立大、造船海洋センター「SORIC」開所、産業再設計と海洋に挑戦",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -3301,5 +3301,32 @@
   "date": "2026/08/14",
   "sd": "08/14",
   "first_seen_iso": "2026-08-21T19:36:58.600428+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sOERkaW1NOGtXUUp2M2tuSVZ5S1RYOG5oTWV3QnBmNXZ4MTNwTmpsZkNhM0dfaW5DXzg4NkhsbHJqaXBHU3hNU0FOTWVCeVd0eWlCTlhBTXBIN2dRQlFsOEdQX2ZDQQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal cuts daily capacity",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sOERkaW1NOGtXUUp2M2tuSVZ5S1RYOG5oTWV3QnBmNXZ4MTNwTmpsZkNhM0dfaW5DXzg4NkhsbHJqaXBHU3hNU0FOTWVCeVd0eWlCTlhBTXBIN2dRQlFsOEdQX2ZDQQ?oc=5",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T20:07:06.592673+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NalNtRVJScEZ0LWp5SGVQb1M2Q2huUWlKZ21TaUg3b1RiQTRSbjM0Q3VQdndVZ0FaanFna2JLczVZSnl1ajNZOW9hRHJNUmdMNlBOYjJ4S3lTV25QSnMzRlM1V0hKY0J2Rm9rbm0zaHh0Uk1lS2c?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: More ships, fewer reliable routes",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NalNtRVJScEZ0LWp5SGVQb1M2Q2huUWlKZ21TaUg3b1RiQTRSbjM0Q3VQdndVZ0FaanFna2JLczVZSnl1ajNZOW9hRHJNUmdMNlBOYjJ4S3lTV25QSnMzRlM1V0hKY0J2Rm9rbm0zaHh0Uk1lS2c?oc=5",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T20:07:06.592673+09:00"
+ },
+ "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3RqdjQtWmtmejdUaWs4VkNnUHg4dk9XRVJHRTA1YTM4TmxlcmswakNhTGszc1RqV0FiOVF4MUFFZjZCLXhVcm42cWEyUnJ6U2s3eWxNRkY1LTlDdE9GRlkzR0FMcXo1U3dMT1Q5enNIRy0yTTNrU0FtcGlIaU91MDE5UlpJQQ?oc=5": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Missing evidence clouds Phoenician M cocaine convictions",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNb3RqdjQtWmtmejdUaWs4VkNnUHg4dk9XRVJHRTA1YTM4TmxlcmswakNhTGszc1RqV0FiOVF4MUFFZjZCLXhVcm42cWEyUnJ6U2s3eWxNRkY1LTlDdE9GRlkzR0FMcXo1U3dMT1Q5enNIRy0yTTNrU0FtcGlIaU91MDE5UlpJQQ?oc=5",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T20:07:06.592673+09:00"
  }
 }
