@@ -1,40 +1,4 @@
 {
- "https://www.jmd.co.jp/article.php?no=317690": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "中東向け、自動車輸出 回復の兆し。トヨタ、物流ルート複線化",
-  "url": "https://www.jmd.co.jp/article.php?no=317690",
-  "date": "2026/08/07",
-  "sd": "08/07",
-  "first_seen_iso": "2026-08-14T13:29:32.943817+09:00"
- },
- "https://www.jmd.co.jp/article.php?no=317687": {
-  "src": "j",
-  "cat": "激震 イラン軍事衝突",
-  "title": "海運8団体、ホルムズ通航料に反対。国連に公開書簡、「国際慣行を逸脱」",
-  "url": "https://www.jmd.co.jp/article.php?no=317687",
-  "date": "2026/08/07",
-  "sd": "08/07",
-  "first_seen_iso": "2026-08-14T13:29:32.943817+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203588/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "LNG船新造需要、35年までに550隻、GTT予測、見通し上方修正、高水準継続へ",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203588/",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-14T13:29:32.944173+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203589/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "欧州舶用大手の26年上期決算、新造船向け需要は堅調、業績には濃淡",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203589/",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-14T13:29:32.944173+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317468": {
   "src": "j",
   "cat": "国内船主の今",
@@ -3148,5 +3112,32 @@
   "date": "2026/08/14",
   "sd": "08/14",
   "first_seen_iso": "2026-08-21T08:19:55.135818+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203741/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "サラウム・ラインズ、8600台積み自動車船最大2隻発注",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203741/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T13:55:55.009910+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203742/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "DACKS、64型バルカー“ATLANTIC ROYAL”竣工",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203742/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T13:55:55.009910+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203743/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国向け舶用エンジン需要拡大、新造船急増に国内生産追い付かず、海外メーカーに波及",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203743/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T13:55:55.009910+09:00"
  }
 }
