@@ -2513,7 +2513,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、海保向け巡視船“わかさ”進水",
+  "title": "三菱造船、海保向け巡…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2675,7 +2675,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "横浜国立大、造船海洋…",
+  "title": "横浜国立大、造船海洋センター「SORIC」開所、産業再設計と海洋に挑戦",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -3139,5 +3139,32 @@
   "date": "2026/08/21",
   "sd": "08/21",
   "first_seen_iso": "2026-08-21T17:07:40.267498+09:00"
+ },
+ "https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ukraine seeks Black Sea shipping truce as drones hit Ust-Luga",
+  "url": "https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-21T17:59:44.653431+09:00"
+ },
+ "https://splash247.com/chinas-vloc-conveyor-belt-threatens-to-dilute-simandou-cape-upside/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "China’s VLOC conveyor belt threatens to dilute Simandou cape upside",
+  "url": "https://splash247.com/chinas-vloc-conveyor-belt-threatens-to-dilute-simandou-cape-upside/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-21T17:59:44.653431+09:00"
+ },
+ "https://splash247.com/four-year-old-cape-fetches-78m/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Four-year-old cape fetches $78m",
+  "url": "https://splash247.com/four-year-old-cape-fetches-78m/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-21T17:59:44.653431+09:00"
  }
 }
