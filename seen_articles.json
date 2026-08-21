@@ -1,31 +1,4 @@
 {
- "https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Ukraine seeks Black Sea shipping truce as drones hit Ust-Luga",
-  "url": "https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-14T16:52:22.593339+09:00"
- },
- "https://splash247.com/chinas-vloc-conveyor-belt-threatens-to-dilute-simandou-cape-upside/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "China’s VLOC conveyor belt threatens to dilute Simandou cape upside",
-  "url": "https://splash247.com/chinas-vloc-conveyor-belt-threatens-to-dilute-simandou-cape-upside/",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-14T16:52:22.593339+09:00"
- },
- "https://splash247.com/four-year-old-cape-fetches-78m/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Four-year-old cape fetches $78m",
-  "url": "https://splash247.com/four-year-old-cape-fetches-78m/",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-14T16:52:22.593339+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317924": {
   "src": "j",
   "cat": "外航全般",
@@ -2603,7 +2576,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203721/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》AOCTEL…",
+  "title": "《連載》AOCTELの未来＜中＞、安全最優先で効率性を追求",
   "url": "https://www.kaijipress.com/news/container/2026/08/203721/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2639,7 +2612,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203725/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "SITC、黄海造船建造の1800TEU型船竣工",
+  "title": "SITC、黄海造船建…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203725/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -3157,5 +3130,14 @@
   "date": "2026/08/21",
   "sd": "08/21",
   "first_seen_iso": "2026-08-21T16:25:05.744198+09:00"
+ },
+ "https://splash247.com/splash-wrap-more-ships-fewer-reliable-routes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: More ships, fewer reliable routes",
+  "url": "https://splash247.com/splash-wrap-more-ships-fewer-reliable-routes/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T17:07:40.267498+09:00"
  }
 }
