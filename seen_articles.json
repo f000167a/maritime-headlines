@@ -2603,7 +2603,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203721/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》AOCTELの未来＜中＞、安全最優先で効率性を追求",
+  "title": "《連載》AOCTEL…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203721/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2639,7 +2639,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203725/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "SITC、黄海造船建…",
+  "title": "SITC、黄海造船建造の1800TEU型船竣工",
   "url": "https://www.kaijipress.com/news/container/2026/08/203725/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -3121,5 +3121,41 @@
   "date": "2026/08/21",
   "sd": "08/21",
   "first_seen_iso": "2026-08-21T15:17:21.798339+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317468": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（410）なるか地銀3行連合。伊予・愛媛、統合の行方は",
+  "url": "https://www.jmd.co.jp/article.php?no=317468",
+  "date": "2026/07/31",
+  "sd": "07/31",
+  "first_seen_iso": "2026-08-21T16:25:05.743962+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203744/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "金子国交相、商船三井のフィリピン商船大視察",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203744/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T16:25:05.744198+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203745/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》AOCTELの未来＜下＞、陸の海技センター、次世代に技術継承",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203745/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T16:25:05.744198+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203746/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船、港湾混雑悪化で国慶節前のスペース不足懸念",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203746/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T16:25:05.744198+09:00"
  }
 }
