@@ -1,13 +1,4 @@
 {
- "https://splash247.com/franbo-adds-japanese-newbuild-to-growing-mpp-programme/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Franbo adds Japanese newbuild to growing MPP programme",
-  "url": "https://splash247.com/franbo-adds-japanese-newbuild-to-growing-mpp-programme/",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-14T19:27:27.545872+09:00"
- },
  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGZPbFNWampsWTFVUXZmYzV3ZmVORUtVaXNhSG5Zc1JpYjlwcFJnNHBZMWQ0bUhVdjRrV054QXJmN1VyTWpCOGY4T3MzTHJicnBpQ3kwNW5rZVJLcTU5cWtieWVMbXZrMjZPbDRJTmY2T0ktNExKUmtrRkxYaVBURFh1QndYV3M0dE12SzJKZDMwVlU?oc=5": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2324,7 +2315,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱造船、海保向け巡…",
+  "title": "三菱造船、海保向け巡視船“わかさ”進水",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203714/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2387,7 +2378,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203721/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》AOCTEL…",
+  "title": "《連載》AOCTELの未来＜中＞、安全最優先で効率性を追求",
   "url": "https://www.kaijipress.com/news/container/2026/08/203721/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2423,7 +2414,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203725/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "SITC、黄海造船建造の1800TEU型船竣工",
+  "title": "SITC、黄海造船建…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203725/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2486,7 +2477,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "横浜国立大、造船海洋センター「SORIC」開所、産業再設計と海洋に挑戦",
+  "title": "横浜国立大、造船海洋…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203733/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -3301,5 +3292,14 @@
   "date": "2026/08/21",
   "sd": "08/21",
   "first_seen_iso": "2026-08-21T18:48:08.878488+09:00"
+ },
+ "https://splash247.com/splash-wrap-the-detour-economy/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: The detour economy",
+  "url": "https://splash247.com/splash-wrap-the-detour-economy/",
+  "date": "2026/08/14",
+  "sd": "08/14",
+  "first_seen_iso": "2026-08-21T19:36:58.600428+09:00"
  }
 }
