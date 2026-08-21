@@ -2639,7 +2639,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203721/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》AOCTEL…",
+  "title": "《連載》AOCTELの未来＜中＞、安全最優先で効率性を追求",
   "url": "https://www.kaijipress.com/news/container/2026/08/203721/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -2675,7 +2675,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203725/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "SITC、黄海造船建造の1800TEU型船竣工",
+  "title": "SITC、黄海造船建…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203725/",
   "date": "2026/08/20",
   "sd": "08/20",
@@ -3139,5 +3139,14 @@
   "date": "2026/08/21",
   "sd": "08/21",
   "first_seen_iso": "2026-08-21T13:55:55.009910+09:00"
+ },
+ "https://splash247.com/panama-canal-cuts-daily-capacity/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Panama Canal cuts daily capacity",
+  "url": "https://splash247.com/panama-canal-cuts-daily-capacity/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-21T14:39:24.956967+09:00"
  }
 }
