@@ -2882,7 +2882,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203772/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "田中貴金属、高い硫黄…",
+  "title": "田中貴金属、高い硫黄耐性のメタン酸化触媒を開発、舶用などのガスエンジン用途に",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203772/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2918,7 +2918,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203776/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工下関、小中学生の科学教室開催",
+  "title": "三菱重工下関、小中学…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203776/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -3310,5 +3310,50 @@
   "date": "2026/08/23",
   "sd": "08/23",
   "first_seen_iso": "2026-08-24T07:14:45.757085+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317907": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "DHLエクスプレス、深圳ゲートウエー拡張。中国本土で過去最大投資",
+  "url": "https://www.jmd.co.jp/article.php?no=317907",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-24T07:40:13.869706+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317887": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】平井海運社長・平井伸幸さん、新社屋、人が集まる場所に",
+  "url": "https://www.jmd.co.jp/article.php?no=317887",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-24T07:40:13.869706+09:00"
+ },
+ "https://splash247.com/diana-pulls-plug-on-genco-takeover/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana pulls plug on Genco takeover",
+  "url": "https://splash247.com/diana-pulls-plug-on-genco-takeover/",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-24T07:40:13.870434+09:00"
+ },
+ "https://splash247.com/amoysailing-puts-watts-energy-on-shipbuilding-map-with-kamsarmax-quartet/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Amoysailing puts Watts Energy on shipbuilding map with kamsarmax quartet",
+  "url": "https://splash247.com/amoysailing-puts-watts-energy-on-shipbuilding-map-with-kamsarmax-quartet/",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-24T07:40:13.870434+09:00"
+ },
+ "https://splash247.com/fujian-highton-expands-mpp-newbuild-programme-with-fresh-pair/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Fujian Highton expands MPP newbuild programme with fresh pair",
+  "url": "https://splash247.com/fujian-highton-expands-mpp-newbuild-programme-with-fresh-pair/",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-24T07:40:13.870434+09:00"
  }
 }
