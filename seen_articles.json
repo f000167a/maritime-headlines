@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/2026/08/203488/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】#28 丸紅　遠藤智広船舶部長、一体運営と『売る力』で付加価値提供",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203488/",
-  "date": "2026/08/17",
-  "sd": "08/17",
-  "first_seen_iso": "2026-08-17T19:43:26.928725+09:00"
- },
- "https://www.kaijipress.com/person/profile/2026/08/203485/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【プロフィール】原口阿瑞美 氏・商船三井執行役員",
-  "url": "https://www.kaijipress.com/person/profile/2026/08/203485/",
-  "date": "2026/08/17",
-  "sd": "08/17",
-  "first_seen_iso": "2026-08-17T19:43:26.928725+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203489/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "日本郵船、自動車船船内見学会に1800人参加、プロジェクションマッピングなど展示進化",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203489/",
-  "date": "2026/08/17",
-  "sd": "08/17",
-  "first_seen_iso": "2026-08-17T19:43:26.928725+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=317942": {
   "src": "j",
   "cat": "コンテナ",
@@ -2414,7 +2387,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203766/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、アンモニア機関・燃料供給装置を商品化、実船向けに一体提供へ",
+  "title": "三井E&S、アンモニ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203766/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2504,7 +2477,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203776/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三菱重工下関、小中学…",
+  "title": "三菱重工下関、小中学生の科学教室開催",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203776/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -3175,5 +3148,32 @@
   "date": "2026/08/17",
   "sd": "08/17",
   "first_seen_iso": "2026-08-24T19:05:58.115765+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203620/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》インフレ経済の船主・金融①様子見船主も発注に動く、船価高で、売船益は巨額に",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203620/",
+  "date": "2026/08/24",
+  "sd": "08/24",
+  "first_seen_iso": "2026-08-24T19:55:27.465169+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203621/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井・濱崎和也副社長CFOに聞く、勝ち筋見極め高収益事業へ投資",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203621/",
+  "date": "2026/08/24",
+  "sd": "08/24",
+  "first_seen_iso": "2026-08-24T19:55:27.465169+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/08/203653/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/08/203653/",
+  "date": "2026/08/24",
+  "sd": "08/24",
+  "first_seen_iso": "2026-08-24T19:55:27.465169+09:00"
  }
 }
