@@ -1,40 +1,4 @@
 {
- "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhVUoza3lCbnFwMWllSk1ETGtOUEl6S0F6bktfcGx6aC04cUhhWk9SVkZrVG5pNGNUZFNKYktHS0lsT1pkUjFpeTJkaXpmS3NRZzdYQ1Y2ZTZNMVJUNDA2MDZRM3pfS0RS?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana pulls plug on Genco takeover",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhVUoza3lCbnFwMWllSk1ETGtOUEl6S0F6bktfcGx6aC04cUhhWk9SVkZrVG5pNGNUZFNKYktHS0lsT1pkUjFpeTJkaXpmS3NRZzdYQ1Y2ZTZNMVJUNDA2MDZRM3pfS0RS?oc=5",
-  "date": "2026/08/17",
-  "sd": "08/17",
-  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
- },
- "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUJXUmFxbmJFWklvd0V1YWpMZ2NzRXhKdTZvTEliZmdZOXVjZkJhUS1PU0FrN3BBM2FURmFCSHNGUXptYl80am4tbUk5c2x2eTZrWmFaYnU4aGtnMUdXYXJYcmFHbnZ2cTJxX0h0bmgtMzlDQ0p3WDVtR2lpWXc0WVJaSGJnMkFNQjAzcw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Fujian Highton expands MPP newbuild programme with fresh pair",
-  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUJXUmFxbmJFWklvd0V1YWpMZ2NzRXhKdTZvTEliZmdZOXVjZkJhUS1PU0FrN3BBM2FURmFCSHNGUXptYl80am4tbUk5c2x2eTZrWmFaYnU4aGtnMUdXYXJYcmFHbnZ2cTJxX0h0bmgtMzlDQ0p3WDVtR2lpWXc0WVJaSGJnMkFNQjAzcw?oc=5",
-  "date": "2026/08/17",
-  "sd": "08/17",
-  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
- },
- "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHl3WC03cG5iVEY1U0ZtWFFHOHBMeVB4TTRzQ1B6NUhJeEhqemF5U2xkN0JzSUQzdzBDQTNnSFFwR0FhY0dHcElLUlZtdnRNY1J0UkxaNGdaeVV2amNOSjhCV0hFbEt2dHFKM0p6NzBnTFJtbUhCX1FsUGYyVS05aWNIMG51U21ha2hBbzJwaw?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "AD Ports UAE container volumes plunge 65% amid Hormuz disruption - splash247.com",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORHl3WC03cG5iVEY1U0ZtWFFHOHBMeVB4TTRzQ1B6NUhJeEhqemF5U2xkN0JzSUQzdzBDQTNnSFFwR0FhY0dHcElLUlZtdnRNY1J0UkxaNGdaeVV2amNOSjhCV0hFbEt2dHFKM0p6NzBnTFJtbUhCX1FsUGYyVS05aWNIMG51U21ha2hBbzJwaw?oc=5",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
- },
- "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFQ4MTU4MmNjQ1RjVU5TNW1iSUxsTXdfWGJhOUhDNy1IU2trUkZxeUdSZGpabmx5ZTNCQjNtNGRFd3FMWnNURmNWTVBaZldCSktGT1c0QkxlSU1tVktpSDNreWtyTk1mRTBkLWpHRFotWGxSZGlzZHEzOU5aX3dpTGpaSXU?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Karachi Port deepening opens East Wharf to larger ships",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUFQ4MTU4MmNjQ1RjVU5TNW1iSUxsTXdfWGJhOUhDNy1IU2trUkZxeUdSZGpabmx5ZTNCQjNtNGRFd3FMWnNURmNWTVBaZldCSktGT1c0QkxlSU1tVktpSDNreWtyTk1mRTBkLWpHRFotWGxSZGlzZHEzOU5aX3dpTGpaSXU?oc=5",
-  "date": "2026/08/16",
-  "sd": "08/16",
-  "first_seen_iso": "2026-08-17T15:22:37.602138+09:00"
- },
  "https://splash247.com/dark-transits-keep-hormuz-oil-flowing/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -947,7 +911,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国穀物輸入、7月は総じて鈍化傾向目立つ8月20日：T/C市場＝13隻・98万DWT、V/C市場＝鉄鉱石2隻",
+  "title": "【本日のトピック】中国7月鉄鉱石輸入、ギニア産が初の200万トン超8月21日：T/C市場＝17隻・123万DWT、V/C市場＝鉄鉱石2隻、その他1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/18",
   "sd": "08/18",
@@ -2585,7 +2549,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203745/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》AOCTEL…",
+  "title": "《連載》AOCTELの未来＜下＞、陸の海技センター、次世代に技術継承",
   "url": "https://www.kaijipress.com/news/container/2026/08/203745/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2639,7 +2603,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203747/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NKなど4社、AI運航最適化のGHG削減効果検証、エバーグリーンの実運航船で",
+  "title": "NKなど4社、AI運…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203747/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2675,7 +2639,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203751/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井、熊本地震で…",
+  "title": "商船三井、熊本地震でWOTAへ寄付",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203751/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2729,7 +2693,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203758/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、小学生向け仕事体験に協力",
+  "title": "鈴与、小学生向け仕事…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203758/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2801,7 +2765,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203766/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、アンモニ…",
+  "title": "三井E&S、アンモニア機関・燃料供給装置を商品化、実船向けに一体提供へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203766/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2828,7 +2792,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203769/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日印、造船協力拡大で一致、艦艇の共同開発や修繕設備相互活用など検討",
+  "title": "日印、造船協力拡大で…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203769/",
   "date": "2026/08/21",
   "sd": "08/21",
