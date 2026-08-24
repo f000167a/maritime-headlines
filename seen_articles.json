@@ -2540,7 +2540,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203744/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "金子国交相、商船三井のフィリピン商船大視察",
+  "title": "金子国交相、商船三井…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203744/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2603,7 +2603,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203747/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NKなど4社、AI運…",
+  "title": "NKなど4社、AI運航最適化のGHG削減効果検証、エバーグリーンの実運航船で",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203747/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2774,7 +2774,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203767/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "北日本造船、ゲートラダー搭載船2番船竣工、新型40型ケミカル船シリーズ",
+  "title": "北日本造船、ゲートラ…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203767/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2792,7 +2792,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203769/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日印、造船協力拡大で…",
+  "title": "日印、造船協力拡大で一致、艦艇の共同開発や修繕設備相互活用など検討",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203769/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -3310,5 +3310,14 @@
   "date": "2026/08/24",
   "sd": "08/24",
   "first_seen_iso": "2026-08-24T14:55:08.016444+09:00"
+ },
+ "https://splash247.com/amazon-drought-triggers-container-surcharges-of-up-to-1900/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Amazon drought triggers container surcharges of up to $1,900",
+  "url": "https://splash247.com/amazon-drought-triggers-container-surcharges-of-up-to-1900/",
+  "date": "2026/08/24",
+  "sd": "08/24",
+  "first_seen_iso": "2026-08-24T17:06:22.643159+09:00"
  }
 }
