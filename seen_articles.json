@@ -2612,7 +2612,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203745/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "《連載》AOCTEL…",
+  "title": "《連載》AOCTELの未来＜下＞、陸の海技センター、次世代に技術継承",
   "url": "https://www.kaijipress.com/news/container/2026/08/203745/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2756,7 +2756,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203758/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "鈴与、小学生向け仕事体験に協力",
+  "title": "鈴与、小学生向け仕事…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203758/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2828,7 +2828,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203766/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "三井E&S、アンモニ…",
+  "title": "三井E&S、アンモニア機関・燃料供給装置を商品化、実船向けに一体提供へ",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203766/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -2882,7 +2882,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203772/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "田中貴金属、高い硫黄耐性のメタン酸化触媒を開発、舶用などのガスエンジン用途に",
+  "title": "田中貴金属、高い硫黄…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203772/",
   "date": "2026/08/21",
   "sd": "08/21",
@@ -3355,5 +3355,14 @@
   "date": "2026/08/17",
   "sd": "08/17",
   "first_seen_iso": "2026-08-24T07:40:13.870434+09:00"
+ },
+ "https://splash247.com/one-month-to-go-until-shipping-leaders-gather-at-splash-singapore/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "One month to go until shipping leaders gather at Splash Singapore",
+  "url": "https://splash247.com/one-month-to-go-until-shipping-leaders-gather-at-splash-singapore/",
+  "date": "2026/08/24",
+  "sd": "08/24",
+  "first_seen_iso": "2026-08-24T14:03:39.972144+09:00"
  }
 }
