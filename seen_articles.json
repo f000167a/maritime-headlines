@@ -326,7 +326,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】中国7月鉄鉱石輸入、ギニア産が初の200万トン超8月21日：T/C市場＝17隻・123万DWT、V/C市場＝鉄鉱石2隻、その他1隻",
+  "title": "【本日のトピック】7月世界粗鋼生産量、5カ月ぶり低水準に鈍化8月24日：T/C市場＝21隻・144万DWT、V/C市場＝鉄鉱石3隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/08/18",
   "sd": "08/18",
@@ -2720,7 +2720,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203784/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "Y-CC開業30周年、藤田辰一郎社長インタビュー、付加価値を生む物流拠点に",
+  "title": "Y-CC開業30周年…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203784/",
   "date": "2026/08/24",
   "sd": "08/24",
@@ -2747,7 +2747,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203787/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "阪神国際港湾会社、三…",
+  "title": "阪神国際港湾会社、三池港とブルーアライアンス港提携",
   "url": "https://www.kaijipress.com/news/container/2026/08/203787/",
   "date": "2026/08/24",
   "sd": "08/24",
@@ -3193,5 +3193,32 @@
   "date": "2026/08/18",
   "sd": "08/18",
   "first_seen_iso": "2026-08-25T14:37:54.831897+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203810/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎市・JFE・日本GLP、扇島地区に37万平米の冷凍冷蔵倉庫",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203810/",
+  "date": "2026/08/25",
+  "sd": "08/25",
+  "first_seen_iso": "2026-08-25T15:16:48.705792+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203811/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "MSC、東西航路の一部でスエズ回帰",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203811/",
+  "date": "2026/08/25",
+  "sd": "08/25",
+  "first_seen_iso": "2026-08-25T15:16:48.705792+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203812/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》自動運航技術の最前線、日本無線、人の感覚に近い避航を追求、移動型FOCで複数船支援",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203812/",
+  "date": "2026/08/25",
+  "sd": "08/25",
+  "first_seen_iso": "2026-08-25T15:16:48.705792+09:00"
  }
 }
