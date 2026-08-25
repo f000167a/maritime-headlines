@@ -1,13 +1,4 @@
 {
- "https://splash247.com/splash-singapore-cetus-maritimes-tabitha-logan-on-moving-beyond-the-ai-buzzwords/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Splash Singapore: Cetus Maritime’s Tabitha Logan on moving beyond the AI buzzwords",
-  "url": "https://splash247.com/splash-singapore-cetus-maritimes-tabitha-logan-on-moving-beyond-the-ai-buzzwords/",
-  "date": "2026/08/18",
-  "sd": "08/18",
-  "first_seen_iso": "2026-08-18T13:20:02.429192+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/08/203662/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -3166,5 +3157,32 @@
   "date": "2026/08/25",
   "sd": "08/25",
   "first_seen_iso": "2026-08-25T07:19:18.890154+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203807/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "北米主要港、6月は9%増の472万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203807/",
+  "date": "2026/08/25",
+  "sd": "08/25",
+  "first_seen_iso": "2026-08-25T13:46:43.891996+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203808/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "EIZO、19型船舶搭載用モニターを10月発売",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203808/",
+  "date": "2026/08/25",
+  "sd": "08/25",
+  "first_seen_iso": "2026-08-25T13:46:43.891996+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日舶工、神戸大で舶用工業講義を実施",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/",
+  "date": "2026/08/25",
+  "sd": "08/25",
+  "first_seen_iso": "2026-08-25T13:46:43.891996+09:00"
  }
 }
