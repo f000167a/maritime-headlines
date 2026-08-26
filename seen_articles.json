@@ -2090,7 +2090,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、神戸大で舶用…",
+  "title": "日舶工、神戸大で舶用工業講義を実施",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2558,7 +2558,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203816/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、企業経営とラグビーチーム運営で討議、姫野選手ら",
+  "title": "川崎汽船、企業経営と…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203816/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2567,7 +2567,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203817/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NK、船級検査対応を…",
+  "title": "NK、船級検査対応をAIで支援、規則検索・回答を効率化",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203817/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2630,7 +2630,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203824/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "米ニューオーリンズ港…",
+  "title": "米ニューオーリンズ港、大水深CT建設の連邦許可を取得",
   "url": "https://www.kaijipress.com/news/container/2026/08/203824/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2648,7 +2648,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203826/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関光ロジNEXT、物流業界のPRでアニメ映像制作",
+  "title": "関光ロジNEXT、物…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203826/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2729,7 +2729,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、オーシャンウイング製硬翼帆をバルカー搭載",
+  "title": "常石造船、オーシャン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3877,5 +3877,14 @@
   "date": "2026/08/26",
   "sd": "08/26",
   "first_seen_iso": "2026-08-26T20:36:24.053283+09:00"
+ },
+ "https://splash247.com/ningbo-marine-maps-out-five-ship-bulker-expansion/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Ningbo Marine maps out five-ship bulker expansion",
+  "url": "https://splash247.com/ningbo-marine-maps-out-five-ship-bulker-expansion/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T21:16:24.943884+09:00"
  }
 }
