@@ -2495,7 +2495,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、神戸大で舶用…",
+  "title": "日舶工、神戸大で舶用工業講義を実施",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2513,7 +2513,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203810/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "川崎市・JFE・日本GLP、扇島地区に37万平米の冷凍冷蔵倉庫",
+  "title": "川崎市・JFE・日本…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203810/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3008,7 +3008,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203821/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "キューネ名誉会長が死…",
+  "title": "キューネ名誉会長が死去、ハパックロイドの大株主",
   "url": "https://www.kaijipress.com/news/container/2026/08/203821/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3134,7 +3134,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、オーシャンウイング製硬翼帆をバルカー搭載",
+  "title": "常石造船、オーシャン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3562,5 +3562,50 @@
   "date": "2026/08/26",
   "sd": "08/26",
   "first_seen_iso": "2026-08-26T07:19:36.721393+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203843/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ナビオス、日本製ケープを新造長期用船、29年竣工・PO付で10年",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203843/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203844/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "静岡県、鈴木造船に小型実習船発注、焼津水産高の代替船",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203844/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203845/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "J-ENG、UE機関を29年度に世界で年300台生産へ、ライセンシー増産で事業拡大",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203845/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203846/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "米国、造船再建に「フィンランド方式」、海外建造容認と投資誘致を一体化",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203846/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
+ },
+ "https://www.kaijipress.com/markets/secondhand/2026/08/203842/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中古船価市況週間レポート（8月17日～21日）、VLCC5年物、小幅下落1億4823万ドル",
+  "url": "https://www.kaijipress.com/markets/secondhand/2026/08/203842/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
  }
 }
