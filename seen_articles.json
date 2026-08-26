@@ -1,22 +1,4 @@
 {
- "https://splash247.com/global-ship-orderbook-growth-hits-fastest-pace-since-pre-lehman-boom/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Global ship orderbook growth hits fastest pace since pre-Lehman boom",
-  "url": "https://splash247.com/global-ship-orderbook-growth-hits-fastest-pace-since-pre-lehman-boom/",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T16:47:04.514473+09:00"
- },
- "https://splash247.com/red-dots-flash-warning-for-panama-canal-shipping/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Red dots flash warning for Panama Canal shipping",
-  "url": "https://splash247.com/red-dots-flash-warning-for-panama-canal-shipping/",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T16:47:04.514473+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/08/203687/": {
   "src": "k",
   "cat": "コラム",
@@ -2423,7 +2405,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203808/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "EIZO、19型船舶搭載用モニターを10月発売",
+  "title": "EIZO、19型船舶…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203808/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2450,7 +2432,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203810/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "川崎市・JFE・日本…",
+  "title": "川崎市・JFE・日本GLP、扇島地区に37万平米の冷凍冷蔵倉庫",
   "url": "https://www.kaijipress.com/news/container/2026/08/203810/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2900,7 +2882,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203816/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、企業経営と…",
+  "title": "川崎汽船、企業経営とラグビーチーム運営で討議、姫野選手ら",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203816/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2909,7 +2891,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203817/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NK、船級検査対応をAIで支援、規則検索・回答を効率化",
+  "title": "NK、船級検査対応を…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203817/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2945,7 +2927,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203821/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "キューネ名誉会長が死去、ハパックロイドの大株主",
+  "title": "キューネ名誉会長が死…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203821/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3071,7 +3053,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、オーシャン…",
+  "title": "常石造船、オーシャンウイング製硬翼帆をバルカー搭載",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3544,5 +3526,14 @@
   "date": "2026/08/26",
   "sd": "08/26",
   "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
+ },
+ "https://splash247.com/sk-gas-pays-record-5-3m-to-jump-panama-canal-queue/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "SK Gas pays record $5.3m to jump Panama Canal queue",
+  "url": "https://splash247.com/sk-gas-pays-record-5-3m-to-jump-panama-canal-queue/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T17:20:12.649751+09:00"
  }
 }
