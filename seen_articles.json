@@ -1,67 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/08/203682/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "LA港、7月は6%減の96万TEU",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203682/",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203683/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》AOCTELの未来＜上＞、熊本からONEの積み付けを支える",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203683/",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203684/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "上海港、CMA-CGMにバイオメタノール燃料8016トン供給",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203684/",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203685/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "マースク、ソリューション部門トップが交代、エルビラCPOも退任",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203685/",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
- },
- "https://www.kaijipress.com/news/container/2026/08/203686/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "米国発アジア向け、6月は2%減の46万TEU、日本向けが3位",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203686/",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T15:56:13.348672+09:00"
- },
- "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Mc0ViQWpqMTRJNzVfTEtyRXhZUGtZRUVGbDAtdC1ZV3BFa3lvakNnVHUtYVRybmFsZmh5ZU00YkJaUEhqRzV4b0VLRVVuNldBSjN6M204SUNwa2pHak9JaVBzOHpqbUxEbF95Zllta3VSdkJhNjNWN0JDSQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Red dots flash warning for Panama Canal shipping",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Mc0ViQWpqMTRJNzVfTEtyRXhZUGtZRUVGbDAtdC1ZV3BFa3lvakNnVHUtYVRybmFsZmh5ZU00YkJaUEhqRzV4b0VLRVVuNldBSjN6M204SUNwa2pHak9JaVBzOHpqbUxEbF95Zllta3VSdkJhNjNWN0JDSQ?oc=5",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T15:56:13.348944+09:00"
- },
- "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUZjRExOUzNzaUhUbG5ybXgxaW5uRVViVk16VDhFdHRwLXFFNGhhZGgtZ3lsb01mN2dQUXVFdDYtMk83OHZNUjkyektJUGpQT1YtUDgyZkVhQ3ZKbkczRVNBU2dpdk9XQXpfR1AtSThPckJQdVJCNHVLODdpR25DTVdWRQ?oc=5": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Vila do Conde grain terminal auction faces fresh delay",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONUZjRExOUzNzaUhUbG5ybXgxaW5uRVViVk16VDhFdHRwLXFFNGhhZGgtZ3lsb01mN2dQUXVFdDYtMk83OHZNUjkyektJUGpQT1YtUDgyZkVhQ3ZKbkczRVNBU2dpdk9XQXpfR1AtSThPckJQdVJCNHVLODdpR25DTVdWRQ?oc=5",
-  "date": "2026/08/19",
-  "sd": "08/19",
-  "first_seen_iso": "2026-08-19T15:56:13.348944+09:00"
- },
  "https://splash247.com/global-ship-orderbook-growth-hits-fastest-pace-since-pre-lehman-boom/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -2495,7 +2432,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "日舶工、神戸大で舶用…",
+  "title": "日舶工、神戸大で舶用工業講義を実施",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2513,7 +2450,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203810/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "川崎市・JFE・日本GLP、扇島地区に37万平米の冷凍冷蔵倉庫",
+  "title": "川崎市・JFE・日本…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203810/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2531,7 +2468,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203812/": {
   "src": "k",
   "cat": "トップ",
-  "title": "《連載》自動運航技術の最前線人の感覚に近い避航を追求日本無線、移動型FOCで複数船支援",
+  "title": "《連載》自動運航技術の最前線人の感覚に近い避航を追求日本無線、移動型FOCで複数船支援無料",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203812/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2954,7 +2891,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203815/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、次期中計、…",
+  "title": "川崎汽船、次期中計、「海上・海洋で高質サービス」、夏季メディア懇親会で五十嵐社長",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203815/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2963,7 +2900,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203816/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、企業経営とラグビーチーム運営で討議、姫野選手ら",
+  "title": "川崎汽船、企業経営と…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203816/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3035,7 +2972,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203824/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "米ニューオーリンズ港…",
+  "title": "米ニューオーリンズ港、大水深CT建設の連邦許可を取得",
   "url": "https://www.kaijipress.com/news/container/2026/08/203824/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3134,7 +3071,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "常石造船、オーシャンウイング製硬翼帆をバルカー搭載",
+  "title": "常石造船、オーシャン…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203835/",
   "date": "2026/08/25",
   "sd": "08/25",
