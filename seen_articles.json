@@ -2873,7 +2873,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203815/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "川崎汽船、次期中計、「海上・海洋で高質サービス」、夏季メディア懇親会で五十嵐社長",
+  "title": "川崎汽船、次期中計、…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203815/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2891,7 +2891,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203817/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "NK、船級検査対応を…",
+  "title": "NK、船級検査対応をAIで支援、規則検索・回答を効率化",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203817/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2927,7 +2927,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203821/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "キューネ名誉会長が死…",
+  "title": "キューネ名誉会長が死去、ハパックロイドの大株主",
   "url": "https://www.kaijipress.com/news/container/2026/08/203821/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -2972,7 +2972,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203826/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "関光ロジNEXT、物流業界のPRでアニメ映像制作",
+  "title": "関光ロジNEXT、物…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203826/",
   "date": "2026/08/25",
   "sd": "08/25",
@@ -3535,5 +3535,275 @@
   "date": "2026/08/26",
   "sd": "08/26",
   "first_seen_iso": "2026-08-26T17:20:12.649751+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203847/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "郵船クルーズの“飛鳥Ⅲ”、年間1300トンのCO2排出削減、LNG燃料使用で",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203847/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203848/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ホルムズ海峡、イラン・オマーンが枠組み合意、安全航行再開に向け",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203848/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203849/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "商船三井、COP31で風力・AIの次世代効率運航技術発信",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203849/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203850/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本発米国向け、7月は10%減、直航率は上昇、データマイン調査",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203850/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203851/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "コンテナ船腹不足、スエズ回帰や船腹調達で対応",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203851/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203852/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM/ネオライン、風力推進RORO船でゼ―ブルージュ寄港",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203852/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203853/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "CMA-CGM/RSGT、ジェッダで新CT開発・運営、年260万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203853/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203854/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ONE、印・中東―アフリカで2航路開始",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203854/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203855/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "八代港、コンテナ岸壁利用可能に、ガントリークレーンは使用不可",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203855/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203856/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "DPワールド、マレーシアで新倉庫",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203856/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203857/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "MSC、国慶節対応で欧州・地中海航路4便欠便",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203857/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203858/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "プレミアアライアンス、PS4で中国側寄港地変更",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203858/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203859/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名港海運、ホーチミン支店開設",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203859/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/08/203860/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "神戸港、1～6月は微増の104万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/08/203860/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203861/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】#31 NSユナイテッド海運 山中一馬社長、ドライ中心に最強の海運グループ形成へ",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203861/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203862/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ワレニウス・ウィルヘルムセン、風力帆搭載自動車船、日本初寄港、燃費4～5%削減",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203862/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203863/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ホーグオートライナーズ、9100台積み自動車船最大14隻発注",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203863/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/08/203864/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ダイアナ、パナマ型1.8万ドルで1年貸船",
+  "url": "https://www.kaijipress.com/news/tramper/2026/08/203864/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203865/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "富山県、長崎造船に漁業調査船を発注、28年10月納期、船価23億円",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203865/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203866/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "タダノ、造船用ジブクレーン生産検討、高松港臨海部の新拠点で",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203866/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203867/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "山形県、ツネイシクラフトに漁業監視船発注、“月峯”代替船、28年運用開始へ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203867/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/08/203868/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "三井E&S、SMMでグリーン・デジタル技術を紹介",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203868/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/news/information/2026/08/203869/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "神原汽船、天津事務所移転",
+  "url": "https://www.kaijipress.com/news/information/2026/08/203869/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203871/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】五十嵐武宣・川崎汽船社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203871/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203872/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】中島崇喜・ナカシマプロペラ社長",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203872/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/person/logbook/2026/08/203873/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【ログブック】ラッセ・クリストファーセン/ワレニウス・ウィルヘルムセンCEO",
+  "url": "https://www.kaijipress.com/person/logbook/2026/08/203873/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://www.kaijipress.com/column/aotou/2026/08/203870/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【青灯】船を造り続ける造船所",
+  "url": "https://www.kaijipress.com/column/aotou/2026/08/203870/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.188615+09:00"
+ },
+ "https://splash247.com/diana-trims-genco-stake/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana trims Genco stake",
+  "url": "https://splash247.com/diana-trims-genco-stake/",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-08-26T18:20:43.189305+09:00"
+ },
+ "https://splash247.com/global-ship-orderbook-growth-hits-fastest-pace-since-pre-lehman-boom/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Global ship orderbook growth hits fastest pace since pre-Lehman boom",
+  "url": "https://splash247.com/global-ship-orderbook-growth-hits-fastest-pace-since-pre-lehman-boom/",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-26T18:20:43.189305+09:00"
+ },
+ "https://splash247.com/red-dots-flash-warning-for-panama-canal-shipping/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Red dots flash warning for Panama Canal shipping",
+  "url": "https://splash247.com/red-dots-flash-warning-for-panama-canal-shipping/",
+  "date": "2026/08/19",
+  "sd": "08/19",
+  "first_seen_iso": "2026-08-26T18:20:43.189305+09:00"
  }
 }
