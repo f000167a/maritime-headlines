@@ -1,13 +1,4 @@
 {
- "https://splash247.com/franbo-adds-japanese-newbuild-to-growing-mpp-programme/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Franbo adds Japanese newbuild to growing MPP programme",
-  "url": "https://splash247.com/franbo-adds-japanese-newbuild-to-growing-mpp-programme/",
-  "date": "2026/08/14",
-  "sd": "08/14",
-  "first_seen_iso": "2026-08-21T20:44:23.156042+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=318098": {
   "src": "j",
   "cat": "コンテナ",
@@ -1378,7 +1369,7 @@
  },
  "https://www.kaijipress.com/news/tramper/2026/08/203828/": {
   "src": "k",
-  "cat": "海運＜不定期専用船＞・海洋",
+  "cat": "コラム",
   "title": "ポーテン、ベネズエラ原油輸送に変化、欧米向け増加、スエズ・アフラ中心に",
   "url": "https://www.kaijipress.com/news/tramper/2026/08/203828/",
   "date": "2026/08/25",
@@ -2891,7 +2882,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203877/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "国交省、国際物流強靱化へ官民協議、地政学リスク、第三国輸送で勉強会",
+  "title": "国交省、国際物流強靱…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203877/",
   "date": "2026/08/27",
   "sd": "08/27",
@@ -2963,7 +2954,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203894/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "CMA-CGMグルー…",
+  "title": "CMA-CGMグループのANL、新MDにマルセリーノ氏",
   "url": "https://www.kaijipress.com/news/container/2026/08/203894/",
   "date": "2026/08/27",
   "sd": "08/27",
@@ -3071,7 +3062,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203905/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "造船クレーン、供給力増強へ、建造量倍増のボトルネック解消に期待",
+  "title": "造船クレーン、供給力…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203905/",
   "date": "2026/08/27",
   "sd": "08/27",
@@ -3143,7 +3134,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/08/203881/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "中小型造工、児童養護…",
+  "title": "中小型造工、児童養護施設の子ども向け船舶見学会",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203881/",
   "date": "2026/08/27",
   "sd": "08/27",
@@ -3485,7 +3476,7 @@
  "https://www.jmd.co.jp/article.php?no=318285": {
   "src": "j",
   "cat": "外航全般",
-  "title": "New!17:08川崎汽船、会社人事",
+  "title": "川崎汽船、会社人事",
   "url": "https://www.jmd.co.jp/article.php?no=318285",
   "date": "",
   "sd": "",
@@ -3733,5 +3724,248 @@
   "date": "2026/08/21",
   "sd": "08/21",
   "first_seen_iso": "2026-08-28T20:09:22.968512+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318268": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "コンテナ運賃、4週ぶり下落。総合指標、1%安4473ドル",
+  "url": "https://www.jmd.co.jp/article.php?no=318268",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318283": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "ドゥルーリー、アジア域内運賃10%上昇。1199ドル、3年ぶり高値",
+  "url": "https://www.jmd.co.jp/article.php?no=318283",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318265": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "OOIL、26年上期純利益24%減。燃料費増など響く",
+  "url": "https://www.jmd.co.jp/article.php?no=318265",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318284": {
+  "src": "j",
+  "cat": "コンテナ",
+  "title": "錦江航運、上期純利益5%減。輸送量増も コスト膨らむ",
+  "url": "https://www.jmd.co.jp/article.php?no=318284",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318269": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "ドライ市況、堅調維持。28―30年に一時軟化か。インド、石炭ガス化を拡大。ドゥルーリーウェビナー",
+  "url": "https://www.jmd.co.jp/article.php?no=318269",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318273": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "VLCC、中東積み運賃不透明。水面下でスポット交渉",
+  "url": "https://www.jmd.co.jp/article.php?no=318273",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318271": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "CMBテック、4―6月期3.6億ドル、最終黒字に転換。市況好調、売船益も",
+  "url": "https://www.jmd.co.jp/article.php?no=318271",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318272": {
+  "src": "j",
+  "cat": "不定期",
+  "title": "エクスマール、LNG船3隻取得。インフラ事業向け",
+  "url": "https://www.jmd.co.jp/article.php?no=318272",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318270": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "足立海事局長、従来にない考えで進める。来年度予算・税制改正。就任会見",
+  "url": "https://www.jmd.co.jp/article.php?no=318270",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318266": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "川崎汽船、VLCC3隻発注。11年ぶり、NSYに",
+  "url": "https://www.jmd.co.jp/article.php?no=318266",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318276": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（411）商社とリース会社融合。垂直統合でトレード深化",
+  "url": "https://www.jmd.co.jp/article.php?no=318276",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318259": {
+  "src": "j",
+  "cat": "外航全般",
+  "title": "商船三井、COP31日本パビリオンに出展。次世代運航技術 世界へ発信",
+  "url": "https://www.jmd.co.jp/article.php?no=318259",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318275": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "エヴァレンス、海洋タグ向け発電機受注。ウズマール造船所から",
+  "url": "https://www.jmd.co.jp/article.php?no=318275",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318274": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "エヴァレンス、滬東中華造船と協力。18万立方メートル級LNG船開発へ",
+  "url": "https://www.jmd.co.jp/article.php?no=318274",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318254": {
+  "src": "j",
+  "cat": "造船/舶用",
+  "title": "【竣工】JMU有明、VLCC「TOKI　MARU」",
+  "url": "https://www.jmd.co.jp/article.php?no=318254",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318279": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "西日本鉄道、国際物流の物量拡大。営業・調達強化、自動車専業課を新設",
+  "url": "https://www.jmd.co.jp/article.php?no=318279",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318278": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "一松・東京税関長就任会見、成田「第2の開港」。貨物検査で空港会社と協議へ",
+  "url": "https://www.jmd.co.jp/article.php?no=318278",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318256": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "阪急阪神不動産・CRE、越で物流施設5棟竣工。ハイフォン、ディンブー全施設出そろう",
+  "url": "https://www.jmd.co.jp/article.php?no=318256",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318261": {
+  "src": "j",
+  "cat": "物流/港運",
+  "title": "【熊本地震】名門大洋フェリー、義援金200万円",
+  "url": "https://www.jmd.co.jp/article.php?no=318261",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318267": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "全国港湾・港運同盟、国交省に反対申し入れ。自動化・遠隔支援",
+  "url": "https://www.jmd.co.jp/article.php?no=318267",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318280": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "自民党港湾議連、予算確保へ協力呼び掛け。港湾運営協議会が文書で要望",
+  "url": "https://www.jmd.co.jp/article.php?no=318280",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318255": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "国交省港湾局、循環経済拠点29港選定。資源物流網形成へ",
+  "url": "https://www.jmd.co.jp/article.php?no=318255",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318258": {
+  "src": "j",
+  "cat": "港湾",
+  "title": "【港湾統計月報】2025年9月",
+  "url": "https://www.jmd.co.jp/article.php?no=318258",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318277": {
+  "src": "j",
+  "cat": "内航/フェリー",
+  "title": "関東運輸局、安全統括管理で解任命令。東海汽船に",
+  "url": "https://www.jmd.co.jp/article.php?no=318277",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317468": {
+  "src": "j",
+  "cat": "国内船主の今",
+  "title": "【国内船主の今】（410）なるか地銀3行連合。伊予・愛媛、統合の行方は",
+  "url": "https://www.jmd.co.jp/article.php?no=317468",
+  "date": "2026/07/31",
+  "sd": "07/31",
+  "first_seen_iso": "2026-08-29T06:26:12.264102+09:00"
+ },
+ "https://splash247.com/splash-wrap-more-ships-fewer-reliable-routes/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Splash Wrap: More ships, fewer reliable routes",
+  "url": "https://splash247.com/splash-wrap-more-ships-fewer-reliable-routes/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-29T06:26:12.264980+09:00"
+ },
+ "https://splash247.com/missing-evidence-clouds-phoenician-m-cocaine-convictions/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Missing evidence clouds Phoenician M cocaine convictions",
+  "url": "https://splash247.com/missing-evidence-clouds-phoenician-m-cocaine-convictions/",
+  "date": "2026/08/21",
+  "sd": "08/21",
+  "first_seen_iso": "2026-08-29T06:26:12.264980+09:00"
  }
 }
