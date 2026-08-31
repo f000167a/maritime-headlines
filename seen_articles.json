@@ -1,13 +1,4 @@
 {
- "https://splash247.com/one-month-to-go-until-shipping-leaders-gather-at-splash-singapore/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "One month to go until shipping leaders gather at Splash Singapore",
-  "url": "https://splash247.com/one-month-to-go-until-shipping-leaders-gather-at-splash-singapore/",
-  "date": "2026/08/24",
-  "sd": "08/24",
-  "first_seen_iso": "2026-08-24T14:03:39.972144+09:00"
- },
  "https://www.kaijipress.com/news/container/2026/08/203784/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
@@ -3170,7 +3161,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203921/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "【対談】RORO船の…",
+  "title": "【対談】RORO船の栗林商船×自動運転トラックのT2、モーダルコンビネーションで物流変革",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203921/",
   "date": "2026/08/28",
   "sd": "08/28",
@@ -3179,7 +3170,7 @@
  "https://www.kaijipress.com/news/shipping/2026/08/203915/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "足立基成海事局長、造船再生や外航海運税制見直しに注力、就任の抱負語る",
+  "title": "足立基成海事局長、造…",
   "url": "https://www.kaijipress.com/news/shipping/2026/08/203915/",
   "date": "2026/08/28",
   "sd": "08/28",
@@ -3206,7 +3197,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203923/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "ホンダ、「港をOSに」、全体最適へ提案、作業平準化と空コン活用が鍵",
+  "title": "ホンダ、「港をOSに…",
   "url": "https://www.kaijipress.com/news/container/2026/08/203923/",
   "date": "2026/08/28",
   "sd": "08/28",
@@ -3215,7 +3206,7 @@
  "https://www.kaijipress.com/news/container/2026/08/203924/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "苫小牧港、人手不足と…",
+  "title": "苫小牧港、人手不足と悪天候で混雑悪化、対策検討を加速",
   "url": "https://www.kaijipress.com/news/container/2026/08/203924/",
   "date": "2026/08/28",
   "sd": "08/28",
@@ -3323,7 +3314,7 @@
  "https://www.kaijipress.com/person/logbook/2026/08/203935/": {
   "src": "k",
   "cat": "ひと",
-  "title": "【ログブック】姫野和樹選手・トヨタヴェルブリッツ",
+  "title": "【ログブック】姫野和樹選手・トヨタヴェルブリッツ無料",
   "url": "https://www.kaijipress.com/person/logbook/2026/08/203935/",
   "date": "2026/08/28",
   "sd": "08/28",
@@ -3679,5 +3670,50 @@
   "date": "2026/08/31",
   "sd": "08/31",
   "first_seen_iso": "2026-08-31T09:08:46.091940+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318099": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【お知らせ】別冊「日本コンテナ航路一覧」発行",
+  "url": "https://www.jmd.co.jp/article.php?no=318099",
+  "date": "2026/08/24",
+  "sd": "08/24",
+  "first_seen_iso": "2026-08-31T14:16:26.494721+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=317887": {
+  "src": "j",
+  "cat": "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ",
+  "title": "【語録採録】平井海運社長・平井伸幸さん、新社屋、人が集まる場所に",
+  "url": "https://www.jmd.co.jp/article.php?no=317887",
+  "date": "2026/08/17",
+  "sd": "08/17",
+  "first_seen_iso": "2026-08-31T14:16:26.494721+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/203937/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【未来を探せ～70の視点】#32 ジャパンエンジンコーポレーション・川島健社長、GX先導、中小型主機で世界トップへ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203937/",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-31T14:16:26.495041+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/203938/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "造船地域クラスター、実行段階へ、瀬戸内・九州が計画策定、地域基盤を一体整備",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203938/",
+  "date": "2026/08/31",
+  "sd": "08/31",
+  "first_seen_iso": "2026-08-31T14:16:26.495041+09:00"
+ },
+ "https://splash247.com/bulk-carrier-sinks-off-india-with-22-crew-missing/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Bulk carrier sinks off India with 22 crew missing",
+  "url": "https://splash247.com/bulk-carrier-sinks-off-india-with-22-crew-missing/",
+  "date": "2026/08/24",
+  "sd": "08/24",
+  "first_seen_iso": "2026-08-31T14:16:26.495345+09:00"
  }
 }
