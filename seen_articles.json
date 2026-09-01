@@ -1,157 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipping/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜経営・全般＞",
-  "url": "https://www.kaijipress.com/news/shipping/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/news/container/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜コンテナ・物流＞",
-  "url": "https://www.kaijipress.com/news/container/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/news/tramper/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "海運＜不定期専用船＞・海洋",
-  "url": "https://www.kaijipress.com/news/tramper/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/news/information/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "Information",
-  "url": "https://www.kaijipress.com/news/information/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/person/profile/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "プロフィール",
-  "url": "https://www.kaijipress.com/person/profile/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/person/senkun/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "次代への戦訓",
-  "url": "https://www.kaijipress.com/person/senkun/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/person/zosentop/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "造船新トップの素顔",
-  "url": "https://www.kaijipress.com/person/zosentop/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/feature/highlight/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "話題の新造船",
-  "url": "https://www.kaijipress.com/feature/highlight/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/feature/forecast/": {
-  "src": "k",
-  "cat": "トップ",
-  "title": "市況予測特集",
-  "url": "https://www.kaijipress.com/feature/forecast/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203663/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "【未来を探せ～70の視点】#29 川崎近海汽船 山鹿徳昌社長、5事業それぞれで存在感高める",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203663/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.543474+09:00"
- },
- "https://splash247.com/diana-rolls-panamax-bulker-into-stronger-cargill-fixture/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Diana rolls panamax bulker into stronger Cargill fixture",
-  "url": "https://splash247.com/diana-rolls-panamax-bulker-into-stronger-cargill-fixture/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.544093+09:00"
- },
- "https://www.tramp.co.jp/fenet/daily_report": {
-  "src": "t",
-  "cat": "TDS Daily",
-  "title": "【本日のトピック】8月中国製造業PMIは49.8ポイントに上昇、鋼材市況も強含み8月28日：T/C市場＝12隻・81万DWT、V/C市場＝鉄鉱石5隻、石炭1隻",
-  "url": "https://www.tramp.co.jp/fenet/daily_report",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.544241+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_report": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "目次（計7部門）",
-  "url": "https://www.tramp.co.jp/fenet/weekly_report",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.544241+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "鉄鉱石部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/1",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.544241+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "マイナーバルク部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/4",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.544241+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "新造・中古船部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/6",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.544241+09:00"
- },
- "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8": {
-  "src": "t",
-  "cat": "TDS Weekly",
-  "title": "資源・食糧部門",
-  "url": "https://www.tramp.co.jp/fenet/weekly_general/detail_by_order/8",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T19:40:00.544241+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=318171": {
   "src": "j",
   "cat": "コンテナ",
@@ -2648,7 +2495,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203947/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "EFインターナショナル、サーマルライナーの効果を検証",
+  "title": "EFインターナショナ…",
   "url": "https://www.kaijipress.com/news/container/2026/09/203947/",
   "date": "2026/08/31",
   "sd": "08/31",
@@ -2666,7 +2513,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203949/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "自民党港湾議連・総会…",
+  "title": "自民党港湾議連・総会、森山会長「国土強靱化を着実に」",
   "url": "https://www.kaijipress.com/news/container/2026/09/203949/",
   "date": "2026/08/31",
   "sd": "08/31",
@@ -3472,5 +3319,32 @@
   "date": "2026/09/01",
   "sd": "09/01",
   "first_seen_iso": "2026-09-01T18:55:00.752450+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/08/203813/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "《連載》インフレ経済の船主・金融③、短期契約やBBCが増加、インフレリスクをヘッジ",
+  "url": "https://www.kaijipress.com/news/shipping/2026/08/203813/",
+  "date": "2026/09/01",
+  "sd": "09/01",
+  "first_seen_iso": "2026-09-01T23:42:38.179262+09:00"
+ },
+ "https://www.kaijipress.com/person/jinji/2026/08/203836/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "日本郵船、人事異動",
+  "url": "https://www.kaijipress.com/person/jinji/2026/08/203836/",
+  "date": "2026/09/01",
+  "sd": "09/01",
+  "first_seen_iso": "2026-09-01T23:42:38.179262+09:00"
+ },
+ "https://splash247.com/gmi-doubles-hydrogen-bulker-programme/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "GMI doubles hydrogen bulker programme",
+  "url": "https://splash247.com/gmi-doubles-hydrogen-bulker-programme/",
+  "date": "2026/09/01",
+  "sd": "09/01",
+  "first_seen_iso": "2026-09-01T23:42:38.179954+09:00"
  }
 }
