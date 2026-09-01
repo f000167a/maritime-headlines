@@ -1,31 +1,4 @@
 {
- "https://www.kaijipress.com/news/container/2026/08/203807/": {
-  "src": "k",
-  "cat": "海運＜コンテナ・物流＞",
-  "title": "北米主要港、6月は9%増の472万TEU",
-  "url": "https://www.kaijipress.com/news/container/2026/08/203807/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T13:46:43.891996+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203808/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "EIZO、19型船舶搭載用モニターを10月発売",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203808/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T13:46:43.891996+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "日舶工、神戸大で舶用工業講義を実施",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203809/",
-  "date": "2026/08/25",
-  "sd": "08/25",
-  "first_seen_iso": "2026-08-25T13:46:43.891996+09:00"
- },
  "https://splash247.com/splash-singapore-cetus-maritimes-tabitha-logan-on-moving-beyond-the-ai-buzzwords/": {
   "src": "s",
   "cat": "Dry Cargo",
@@ -3260,7 +3233,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/203938/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "造船地域クラスター、…",
+  "title": "造船地域クラスター、実行段階へ、瀬戸内・九州が計画策定、地域基盤を一体整備",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203938/",
   "date": "2026/08/31",
   "sd": "08/31",
@@ -3368,7 +3341,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203947/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "EFインターナショナル、サーマルライナーの効果を検証",
+  "title": "EFインターナショナ…",
   "url": "https://www.kaijipress.com/news/container/2026/09/203947/",
   "date": "2026/08/31",
   "sd": "08/31",
@@ -3386,7 +3359,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203949/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "自民党港湾議連・総会…",
+  "title": "自民党港湾議連・総会、森山会長「国土強靱化を着実に」",
   "url": "https://www.kaijipress.com/news/container/2026/09/203949/",
   "date": "2026/08/31",
   "sd": "08/31",
@@ -3449,7 +3422,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/203958/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "ダイハツIE、SMMで新燃料エンジンなどPR",
+  "title": "ダイハツIE、SMM…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203958/",
   "date": "2026/08/31",
   "sd": "08/31",
@@ -3548,7 +3521,7 @@
  "https://www.kaijipress.com/person/jinji/2026/09/203964/": {
   "src": "k",
   "cat": "ひと",
-  "title": "上野グループホールディング、役員異動",
+  "title": "上野グループホールディングス、役員異動",
   "url": "https://www.kaijipress.com/person/jinji/2026/09/203964/",
   "date": "2026/08/31",
   "sd": "08/31",
@@ -3850,5 +3823,32 @@
   "date": "2026/08/24",
   "sd": "08/24",
   "first_seen_iso": "2026-09-01T09:56:15.070449+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318139": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "セイノースーパーエクスプレス、半導体物流を強化。熊本拠点「第1弾」、30年に売上高1000億円",
+  "url": "https://www.jmd.co.jp/article.php?no=318139",
+  "date": "2026/08/25",
+  "sd": "08/25",
+  "first_seen_iso": "2026-09-01T13:51:20.526429+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/09/203970/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "上関船主座談会＜中＞、内航船・外航船とも更新が課題",
+  "url": "https://www.kaijipress.com/news/shipping/2026/09/203970/",
+  "date": "2026/09/01",
+  "sd": "09/01",
+  "first_seen_iso": "2026-09-01T13:51:20.526772+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/09/203971/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会/海運この1カ月＜下＞、アジア発米国向け運賃が上昇、コンテナ船、日本港湾で自動化支援へ",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/09/203971/",
+  "date": "2026/09/01",
+  "sd": "09/01",
+  "first_seen_iso": "2026-09-01T13:51:20.526772+09:00"
  }
 }
