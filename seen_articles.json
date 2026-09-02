@@ -2837,7 +2837,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203980/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪港C9、ワンハイ…",
+  "title": "大阪港C9、ワンハイ/三井倉庫港運の借受開始",
   "url": "https://www.kaijipress.com/news/container/2026/09/203980/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2846,7 +2846,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203981/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本貿易DX協会、電子B/Lの法整備で法務副大臣に要望",
+  "title": "日本貿易DX協会、電…",
   "url": "https://www.kaijipress.com/news/container/2026/09/203981/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2954,7 +2954,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/203991/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【SMM2026】2…",
+  "title": "【SMM2026】2300社が出展し開幕、脱炭素・安全保障など焦点",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203991/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2999,7 +2999,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/203996/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "エヴァレンス、滬東中華と高効率推進のLNG船を共同開発",
+  "title": "エヴァレンス、滬東中…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203996/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -3481,5 +3481,14 @@
   "date": "2026/09/02",
   "sd": "09/02",
   "first_seen_iso": "2026-09-02T08:43:40.456912+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318168": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "UPS、物流網強化に3200億円超。欧米・アジア、28年まで",
+  "url": "https://www.jmd.co.jp/article.php?no=318168",
+  "date": "2026/08/26",
+  "sd": "08/26",
+  "first_seen_iso": "2026-09-02T10:25:56.630837+09:00"
  }
 }
