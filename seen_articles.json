@@ -1,58 +1,4 @@
 {
- "https://www.kaijipress.com/news/tramper/2026/08/203843/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "ナビオス、日本製ケープを新造長期用船、29年竣工・PO付で10年",
-  "url": "https://www.kaijipress.com/news/tramper/2026/08/203843/",
-  "date": "2026/08/26",
-  "sd": "08/26",
-  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203844/": {
-  "src": "k",
-  "cat": "造船・舶用",
-  "title": "静岡県、鈴木造船に小型実習船発注、焼津水産高の代替船",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203844/",
-  "date": "2026/08/26",
-  "sd": "08/26",
-  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203845/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "J-ENG、UE機関を29年度に世界で年300台生産へ、ライセンシー増産で事業拡大",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203845/",
-  "date": "2026/08/26",
-  "sd": "08/26",
-  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
- },
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203846/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "米国、造船再建に「フィンランド方式」、海外建造容認と投資誘致を一体化",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203846/",
-  "date": "2026/08/26",
-  "sd": "08/26",
-  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
- },
- "https://www.kaijipress.com/markets/secondhand/2026/08/203842/": {
-  "src": "k",
-  "cat": "マーケット",
-  "title": "【中古船価】中古船価市況週間レポート（8月17日～21日）、VLCC5年物、小幅下落1億4823万ドル",
-  "url": "https://www.kaijipress.com/markets/secondhand/2026/08/203842/",
-  "date": "2026/08/26",
-  "sd": "08/26",
-  "first_seen_iso": "2026-08-26T13:57:20.962552+09:00"
- },
- "https://splash247.com/sk-gas-pays-record-5-3m-to-jump-panama-canal-queue/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "SK Gas pays record $5.3m to jump Panama Canal queue",
-  "url": "https://splash247.com/sk-gas-pays-record-5-3m-to-jump-panama-canal-queue/",
-  "date": "2026/08/26",
-  "sd": "08/26",
-  "first_seen_iso": "2026-08-26T17:20:12.649751+09:00"
- },
  "https://www.kaijipress.com/news/shipping/2026/08/203847/": {
   "src": "k",
   "cat": "コラム",
@@ -2801,7 +2747,7 @@
  "https://www.kaijipress.com/news/shipping/2026/09/203976/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船ら、港湾立地型洋上DCのコンセプト策定、社会実装への取り組み加速",
+  "title": "日本郵船ら、港湾立地…",
   "url": "https://www.kaijipress.com/news/shipping/2026/09/203976/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2810,7 +2756,7 @@
  "https://www.kaijipress.com/news/shipping/2026/09/203977/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井さんふらわあ…",
+  "title": "商船三井さんふらわあと兼松ペトロ、フェリーで廃食油由来燃料を試用",
   "url": "https://www.kaijipress.com/news/shipping/2026/09/203977/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2855,7 +2801,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203982/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸港、フィリピンで…",
+  "title": "神戸港、フィリピンでセミナー開催",
   "url": "https://www.kaijipress.com/news/container/2026/09/203982/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2864,7 +2810,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203983/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "大阪みなとセミナー、「使いやすい港づくり」を推進",
+  "title": "大阪みなとセミナー、…",
   "url": "https://www.kaijipress.com/news/container/2026/09/203983/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2954,7 +2900,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/203991/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【SMM2026】2300社が出展し開幕、脱炭素・安全保障など焦点",
+  "title": "【SMM2026】2…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203991/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2999,7 +2945,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/203996/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "エヴァレンス、滬東中…",
+  "title": "エヴァレンス、滬東中華と高効率推進のLNG船を共同開発",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/203996/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -3517,5 +3463,50 @@
   "date": "2026/09/02",
   "sd": "09/02",
   "first_seen_iso": "2026-09-02T13:12:08.626300+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/09/204009/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "内航海運研究会、フィリピンの海事大学と学術交流",
+  "url": "https://www.kaijipress.com/news/shipping/2026/09/204009/",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T17:49:29.466818+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/09/204008/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "地方港、持続可能なサービス維持へ荷役機器高騰が重荷",
+  "url": "https://www.kaijipress.com/news/container/2026/09/204008/",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T17:49:29.466818+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/09/204010/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "欧州発アジア向けコンテナ、6月は8%増の52万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/09/204010/",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T17:49:29.466818+09:00"
+ },
+ "https://splash247.com/us-goes-tanker-for-tanker-with-iran/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "US goes tanker-for-tanker with Iran",
+  "url": "https://splash247.com/us-goes-tanker-for-tanker-with-iran/",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T17:49:29.467330+09:00"
+ },
+ "https://www.tramp.co.jp/fenet/daily_report": {
+  "src": "t",
+  "cat": "TDS Daily",
+  "title": "【本日のトピック】インドネシア石炭輸出、7月は前年割れ、3カ月ぶりに4千万トン下回る9月1日：T/C市場＝17隻・121万DWT、V/C市場＝鉄鉱石6隻、石炭2隻",
+  "url": "https://www.tramp.co.jp/fenet/daily_report",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T17:49:29.467478+09:00"
  }
 }
