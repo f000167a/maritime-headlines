@@ -2801,7 +2801,7 @@
  "https://www.kaijipress.com/news/shipping/2026/09/203976/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "日本郵船ら、港湾立地…",
+  "title": "日本郵船ら、港湾立地型洋上DCのコンセプト策定、社会実装への取り組み加速",
   "url": "https://www.kaijipress.com/news/shipping/2026/09/203976/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2810,7 +2810,7 @@
  "https://www.kaijipress.com/news/shipping/2026/09/203977/": {
   "src": "k",
   "cat": "海運＜経営・全般＞",
-  "title": "商船三井さんふらわあと兼松ペトロ、フェリーで廃食油由来燃料を試用",
+  "title": "商船三井さんふらわあ…",
   "url": "https://www.kaijipress.com/news/shipping/2026/09/203977/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2846,7 +2846,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203981/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "日本貿易DX協会、電…",
+  "title": "日本貿易DX協会、電子B/Lの法整備で法務副大臣に要望",
   "url": "https://www.kaijipress.com/news/container/2026/09/203981/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -2855,7 +2855,7 @@
  "https://www.kaijipress.com/news/container/2026/09/203982/": {
   "src": "k",
   "cat": "海運＜コンテナ・物流＞",
-  "title": "神戸港、フィリピンでセミナー開催",
+  "title": "神戸港、フィリピンで…",
   "url": "https://www.kaijipress.com/news/container/2026/09/203982/",
   "date": "2026/09/01",
   "sd": "09/01",
@@ -3490,5 +3490,32 @@
   "date": "2026/08/26",
   "sd": "08/26",
   "first_seen_iso": "2026-09-02T10:25:56.630837+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/09/204006/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "上関船主座談会＜下＞、人が集まり、情報が集まる",
+  "url": "https://www.kaijipress.com/news/shipping/2026/09/204006/",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T13:12:08.626300+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/09/204005/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "7月の自動車輸出は9.6%増、中近東向け5カ月ぶり増加",
+  "url": "https://www.kaijipress.com/news/tramper/2026/09/204005/",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T13:12:08.626300+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/204007/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "内海造船、4万トン型貨物船“RUGIA”進水",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204007/",
+  "date": "2026/09/02",
+  "sd": "09/02",
+  "first_seen_iso": "2026-09-02T13:12:08.626300+09:00"
  }
 }
