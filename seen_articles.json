@@ -2612,7 +2612,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インドネシア石炭輸出、7月は前年割れ、3カ月ぶりに4千万トン下回る9月1日：T/C市場＝17隻・121万DWT、V/C市場＝鉄鉱石6隻、石炭2隻",
+  "title": "【本日のトピック】インドネシア国営DSI、9月1日よりプラットフォーム運用開始9月2日：T/C市場＝32隻・203万DWT、V/C市場＝鉄鉱石7隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/09/02",
   "sd": "09/02",
@@ -3166,5 +3166,68 @@
   "date": "2026/09/03",
   "sd": "09/03",
   "first_seen_iso": "2026-09-03T08:46:21.568129+09:00"
+ },
+ "https://www.jmd.co.jp/article.php?no=318185": {
+  "src": "j",
+  "cat": "航空貨物",
+  "title": "スカイドライブ、印で医療物流サービス。eVTOL活用、運航ルート検討",
+  "url": "https://www.jmd.co.jp/article.php?no=318185",
+  "date": "2026/08/27",
+  "sd": "08/27",
+  "first_seen_iso": "2026-09-03T17:57:43.886169+09:00"
+ },
+ "https://www.kaijipress.com/news/shipping/2026/09/204039/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "川崎近海汽船、家族連れオフィス見学会",
+  "url": "https://www.kaijipress.com/news/shipping/2026/09/204039/",
+  "date": "2026/09/03",
+  "sd": "09/03",
+  "first_seen_iso": "2026-09-03T17:57:43.886510+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/09/204041/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "名古屋港、5月は0.8%減の22万TEU",
+  "url": "https://www.kaijipress.com/news/container/2026/09/204041/",
+  "date": "2026/09/03",
+  "sd": "09/03",
+  "first_seen_iso": "2026-09-03T17:57:43.886510+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/09/204043/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "マースク、アネモイの円筒帆を搭載、27年から試験運用",
+  "url": "https://www.kaijipress.com/news/container/2026/09/204043/",
+  "date": "2026/09/03",
+  "sd": "09/03",
+  "first_seen_iso": "2026-09-03T17:57:43.886510+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/09/204044/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ヤンミン、ハンファに1.3万TEU型LNG二元燃料船を正式発注",
+  "url": "https://www.kaijipress.com/news/container/2026/09/204044/",
+  "date": "2026/09/03",
+  "sd": "09/03",
+  "first_seen_iso": "2026-09-03T17:57:43.886510+09:00"
+ },
+ "https://www.kaijipress.com/news/tramper/2026/09/204040/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ボーキサイト荷動き、26年7月は3%増の2000万トン、中国前倒しで購入",
+  "url": "https://www.kaijipress.com/news/tramper/2026/09/204040/",
+  "date": "2026/09/03",
+  "sd": "09/03",
+  "first_seen_iso": "2026-09-03T17:57:43.886510+09:00"
+ },
+ "https://www.kaijipress.com/feature/discussion/2026/09/204045/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "記者座談会/造船この1カ月、LNG船建造再開、具体論へ、「建造量倍増」とどう両立するか",
+  "url": "https://www.kaijipress.com/feature/discussion/2026/09/204045/",
+  "date": "2026/09/03",
+  "sd": "09/03",
+  "first_seen_iso": "2026-09-03T17:57:43.886510+09:00"
  }
 }
