@@ -1,40 +1,4 @@
 {
- "https://www.kaijipress.com/news/shipbuilding/2026/08/203732/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "名村造船所、伊万里に大型ドック新設構想、進出50年で次の成長へ",
-  "url": "https://www.kaijipress.com/news/shipbuilding/2026/08/203732/",
-  "date": "2026/08/28",
-  "sd": "08/28",
-  "first_seen_iso": "2026-08-28T14:54:17.196817+09:00"
- },
- "https://www.kaijipress.com/news/shipping/2026/08/203716/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "《連載》インフレ経済の船主・金融②コスト上昇、今後逆ザヤ案件も、最適解は自社管理か外部管理か",
-  "url": "https://www.kaijipress.com/news/shipping/2026/08/203716/",
-  "date": "2026/08/28",
-  "sd": "08/28",
-  "first_seen_iso": "2026-08-28T14:54:17.196817+09:00"
- },
- "https://www.kaijipress.com/news/tramper/2026/08/203727/": {
-  "src": "k",
-  "cat": "コラム",
-  "title": "商船三井・平田ドライバルク事業本部長に聞く、安定収益とエクスポージャーを両輪で",
-  "url": "https://www.kaijipress.com/news/tramper/2026/08/203727/",
-  "date": "2026/08/28",
-  "sd": "08/28",
-  "first_seen_iso": "2026-08-28T14:54:17.196817+09:00"
- },
- "https://splash247.com/cashew-waste-enters-singapore-bunker-mix/": {
-  "src": "s",
-  "cat": "Dry Cargo",
-  "title": "Cashew waste enters Singapore bunker mix",
-  "url": "https://splash247.com/cashew-waste-enters-singapore-bunker-mix/",
-  "date": "2026/08/20",
-  "sd": "08/20",
-  "first_seen_iso": "2026-08-28T14:54:17.197366+09:00"
- },
  "https://www.jmd.co.jp/article.php?no=318285": {
   "src": "j",
   "cat": "外航全般",
@@ -1982,7 +1946,7 @@
  "https://www.tramp.co.jp/fenet/daily_report": {
   "src": "t",
   "cat": "TDS Daily",
-  "title": "【本日のトピック】インドネシア国営DSI、9月1日よりプラットフォーム運用開始9月2日：T/C市場＝32隻・203万DWT、V/C市場＝鉄鉱石7隻",
+  "title": "【本日のトピック】中国政府、不動産企業の予約販売方式に新規制発表9月3日：T/C市場＝24隻・165万DWT、V/C市場＝鉄鉱石5隻、石炭3隻、穀物1隻",
   "url": "https://www.tramp.co.jp/fenet/daily_report",
   "date": "2026/09/02",
   "sd": "09/02",
@@ -2702,7 +2666,7 @@
  "https://www.kaijipress.com/news/tramper/2026/09/204057/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "《連載》マーケットを…",
+  "title": "《連載》マーケットを読む！②＜VLCC＞、明和インターナショナル　長谷部清執行役員、新造船増も供給圧力限定的",
   "url": "https://www.kaijipress.com/news/tramper/2026/09/204057/",
   "date": "2026/09/03",
   "sd": "09/03",
@@ -2729,7 +2693,7 @@
  "https://www.kaijipress.com/news/tramper/2026/09/204060/": {
   "src": "k",
   "cat": "海運＜不定期専用船＞・海洋",
-  "title": "オドフェル、ケミカル船へのeSAIL搭載、2隻に、改修工事で搭載へ",
+  "title": "オドフェル、ケミカル…",
   "url": "https://www.kaijipress.com/news/tramper/2026/09/204060/",
   "date": "2026/09/03",
   "sd": "09/03",
@@ -2747,7 +2711,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/204063/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "恒力重工の投資・資金を読み解く、上期投資2400億円、借入・増資・政府補助活用",
+  "title": "恒力重工の投資・資金…",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204063/",
   "date": "2026/09/03",
   "sd": "09/03",
@@ -2774,7 +2738,7 @@
  "https://www.kaijipress.com/news/shipbuilding/2026/09/204066/": {
   "src": "k",
   "cat": "造船・舶用",
-  "title": "【SMM2026】エ…",
+  "title": "【SMM2026】エヴァレンス、空気潤滑技術を商用導入へ、燃料削減効果は最大6%",
   "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204066/",
   "date": "2026/09/03",
   "sd": "09/03",
@@ -3166,5 +3130,86 @@
   "date": "2026/08/27",
   "sd": "08/27",
   "first_seen_iso": "2026-09-04T10:23:26.861119+09:00"
+ },
+ "https://www.kaijipress.com/news/container/2026/09/204079/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "ドゥルーリー・コンテナ運賃指標、上海発米国向けが上昇",
+  "url": "https://www.kaijipress.com/news/container/2026/09/204079/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145398+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/204075/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "理研計器、水素燃料船向け検知器を発売、窒素中の漏洩に対応",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204075/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145398+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/204076/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中国船舶工業、上期受注が2.3倍、177隻・2245万重量トン、手持ち729隻",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204076/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145398+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/204077/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "中韓が記録的猛暑、造船現場にも影響、休憩延長や時差操業で暑さ対策",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204077/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145398+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/204078/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【SMM2026】日舶工、ドイツ船協とレセプション、日独海事の連携深化へ",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204078/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145398+09:00"
+ },
+ "https://www.kaijipress.com/news/shipbuilding/2026/09/204080/": {
+  "src": "k",
+  "cat": "コラム",
+  "title": "【SMM2026】ダイハツIE、ウィーテック、三井物産、船舶電化で協業、ESSや陸電も市場開拓",
+  "url": "https://www.kaijipress.com/news/shipbuilding/2026/09/204080/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145398+09:00"
+ },
+ "https://splash247.com/argentinas-shale-sand-rush-is-quietly-reshaping-the-countrys-freight-and-shipping-map/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Argentina’s shale sand rush is quietly reshaping the country’s freight and shipping map",
+  "url": "https://splash247.com/argentinas-shale-sand-rush-is-quietly-reshaping-the-countrys-freight-and-shipping-map/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145899+09:00"
+ },
+ "https://splash247.com/diana-cuts-genco-stake-below-10/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Diana cuts Genco stake below 10%",
+  "url": "https://splash247.com/diana-cuts-genco-stake-below-10/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145899+09:00"
+ },
+ "https://splash247.com/yangzijiang-maritime-piles-on-another-12-newbuilds/": {
+  "src": "s",
+  "cat": "Dry Cargo",
+  "title": "Yangzijiang Maritime piles on another 12 newbuilds",
+  "url": "https://splash247.com/yangzijiang-maritime-piles-on-another-12-newbuilds/",
+  "date": "2026/09/04",
+  "sd": "09/04",
+  "first_seen_iso": "2026-09-04T17:54:17.145899+09:00"
  }
 }
