@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>海事ニュース - $generated</title>
+<style>$css</style>
+</head>
+<body data-last-success="$last_success">
+<header class="hd"><h1>⚓ 海事ニュース 見出し一覧</h1>
+<p class="m">ドライバルク特化 ｜ 平日7:00〜20:45・15分間隔で取得予定 ｜ 4ソース</p></header>
+$preview
+<p class="notice" id="stale-warning" hidden>更新が遅れています。媒体別の最終成功日時をご確認ください。</p>
+<div class="sts">$cards</div>
+<details class="health" open><summary>媒体別の取得状況 (JST)</summary>$status_html</details>
+<nav class="tb" aria-label="記事の表示切替">
+<button class="tbtn a" data-tab="hot" aria-controls="tab-hot" aria-pressed="true">🔥 注目 ($hot_count)</button>
+<button class="tbtn" data-tab="all" aria-controls="tab-all" aria-pressed="false">🕓 全記事 ($total)</button>
+<button class="tbtn" data-tab="source" aria-controls="tab-source" aria-pressed="false">ソース別</button>
+</nav>
+<main>
+<section class="tc a" id="tab-hot" aria-label="注目記事"><div class="tp">$hot_html</div></section>
+<section class="tc" id="tab-all" aria-label="全記事"><div class="tp">$all_html</div></section>
+<section class="tc" id="tab-source" aria-label="ソース別記事"><div class="tp">$source_html</div></section>
+</main>
+<footer class="ft">
+公開ページの見出し・公開抜粋を掲載。記事本文は各サイトの会員登録が必要な場合があります。<br>
+表示期間: $retain_days日 ｜ 注目: 関心度$threshold点以上（並び順には鮮度も反映）<br>
+左の日付は公開日（—は不明）。検出・更新時刻はJST。画面生成: $generated JST
+</footer>
+<script>$js</script>
+</body>
+</html>

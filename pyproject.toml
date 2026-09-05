@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=77,<82"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "maritime-headlines"
+version = "7.0.0"
+description = "海事ニュースの公開見出しを収集する静的サイト"
+requires-python = ">=3.12"
+dependencies = ["requests>=2.32.5,<3", "beautifulsoup4>=4.13.5,<5"]
+
+[project.scripts]
+maritime-headlines = "maritime_headlines.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+maritime_headlines = ["config/*.json", "templates/*.html", "assets/*.css", "assets/*.js"]
