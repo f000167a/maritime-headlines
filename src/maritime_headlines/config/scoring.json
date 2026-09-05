@@ -1,0 +1,320 @@
+{
+  "category_priority": {
+    "不定期": 95,
+    "海運＜不定期専用船＞・海洋": 95,
+    "不定期・海洋": 95,
+    "マーケット": 90,
+    "激震 イラン軍事衝突": 85,
+    "イラン軍事衝突": 85,
+    "最新速報": 70,
+    "速報": 70,
+    "コンテナ": 60,
+    "海運＜コンテナ・物流＞": 60,
+    "外航全般": 55,
+    "海運＜経営・全般＞": 55,
+    "経営・全般": 55,
+    "造船/舶用": 50,
+    "造船・舶用": 50,
+    "国内船主の今": 40,
+    "物流/港運": 35,
+    "港湾": 30,
+    "内航/フェリー": 25,
+    "航空貨物": 20,
+    "コラム": 20,
+    "ｺﾗﾑ･ｵﾋﾟﾆｵﾝ": 20,
+    "Information": 15,
+    "ひと": 15,
+    "人事": 15,
+    "Dry Cargo": 90,
+    "Shipyards": 50,
+    "Containers": 55,
+    "Tankers": 30,
+    "Gas": 35,
+    "Offshore": 35,
+    "Renewables": 40,
+    "Regulatory": 40,
+    "Environment": 30,
+    "Finance and Insurance": 40,
+    "Bunkering": 30,
+    "Operations": 35,
+    "Ports and Logistics": 30,
+    "Contributions": 25,
+    "Press Releases": 15,
+    "TDS Daily": 85,
+    "TDS Weekly": 80
+  },
+  "default_category_score": 30,
+  "keyword_groups": [
+    {
+      "name": "capesize",
+      "keywords": {
+        "ケープ": 30,
+        "ケープサイズ": 30,
+        "Capesize": 30
+      }
+    },
+    {
+      "name": "panamax",
+      "keywords": {
+        "パナマックス": 25,
+        "Panamax": 25
+      }
+    },
+    {
+      "name": "handy",
+      "keywords": {
+        "ハンディ": 20,
+        "ハンディマックス": 20,
+        "Handysize": 15
+      }
+    },
+    {
+      "name": "supramax",
+      "keywords": {
+        "スープラマックス": 20,
+        "スープラ": 20,
+        "Supramax": 20
+      }
+    },
+    {
+      "name": "dry_bulk",
+      "keywords": {
+        "ドライバルク": 30,
+        "バルカー": 25,
+        "Bulker": 25,
+        "dry bulk": 25
+      }
+    },
+    {
+      "name": "iron_ore",
+      "keywords": {
+        "鉄鉱石": 25,
+        "iron ore": 25
+      }
+    },
+    {
+      "name": "coal",
+      "keywords": {
+        "石炭": 25,
+        "電力炭": 25,
+        "原料炭": 25,
+        "coal trade": 20
+      }
+    },
+    {
+      "name": "grain",
+      "keywords": {
+        "穀物": 20,
+        "grain": 15
+      }
+    },
+    {
+      "name": "mol",
+      "keywords": {
+        "MOL": 20,
+        "商船三井": 20
+      }
+    },
+    {
+      "name": "secondhand",
+      "keywords": {
+        "中古船": 10,
+        "secondhand": 10
+      }
+    },
+    {
+      "name": "BDI",
+      "keywords": {
+        "BDI": 25
+      }
+    },
+    {
+      "name": "BCI",
+      "keywords": {
+        "BCI": 25
+      }
+    },
+    {
+      "name": "BPI",
+      "keywords": {
+        "BPI": 20
+      }
+    },
+    {
+      "name": "BSI",
+      "keywords": {
+        "BSI": 20
+      }
+    },
+    {
+      "name": "コークス",
+      "keywords": {
+        "コークス": 20
+      }
+    },
+    {
+      "name": "製紙原燃料",
+      "keywords": {
+        "製紙原燃料": 20
+      }
+    },
+    {
+      "name": "チップ船",
+      "keywords": {
+        "チップ船": 20
+      }
+    },
+    {
+      "name": "木材チップ",
+      "keywords": {
+        "木材チップ": 20
+      }
+    },
+    {
+      "name": "市況",
+      "keywords": {
+        "市況": 15
+      }
+    },
+    {
+      "name": "運賃",
+      "keywords": {
+        "運賃": 15
+      }
+    },
+    {
+      "name": "用船",
+      "keywords": {
+        "用船": 15
+      }
+    },
+    {
+      "name": "スポット",
+      "keywords": {
+        "スポット": 10
+      }
+    },
+    {
+      "name": "FFA",
+      "keywords": {
+        "FFA": 15
+      }
+    },
+    {
+      "name": "船価",
+      "keywords": {
+        "船価": 10
+      }
+    },
+    {
+      "name": "日本郵船",
+      "keywords": {
+        "日本郵船": 15
+      }
+    },
+    {
+      "name": "川崎汽船",
+      "keywords": {
+        "川崎汽船": 15
+      }
+    },
+    {
+      "name": "NSU",
+      "keywords": {
+        "NSU": 15
+      }
+    },
+    {
+      "name": "ホルムズ",
+      "keywords": {
+        "ホルムズ": 20
+      }
+    },
+    {
+      "name": "イラン",
+      "keywords": {
+        "イラン": 15
+      }
+    },
+    {
+      "name": "中東",
+      "keywords": {
+        "中東": 10
+      }
+    },
+    {
+      "name": "封鎖",
+      "keywords": {
+        "封鎖": 15
+      }
+    },
+    {
+      "name": "LNG",
+      "keywords": {
+        "LNG": 15
+      }
+    },
+    {
+      "name": "洋上風力",
+      "keywords": {
+        "洋上風力": 15
+      }
+    },
+    {
+      "name": "Kamsarmax",
+      "keywords": {
+        "Kamsarmax": 20
+      }
+    },
+    {
+      "name": "Ultramax",
+      "keywords": {
+        "Ultramax": 20
+      }
+    },
+    {
+      "name": "Newcastlemax",
+      "keywords": {
+        "Newcastlemax": 25
+      }
+    },
+    {
+      "name": "freight rate",
+      "keywords": {
+        "freight rate": 15
+      }
+    },
+    {
+      "name": "tonne-mile",
+      "keywords": {
+        "tonne-mile": 15
+      }
+    },
+    {
+      "name": "bauxite",
+      "keywords": {
+        "bauxite": 15
+      }
+    },
+    {
+      "name": "newbuilding",
+      "keywords": {
+        "newbuilding": 10
+      }
+    },
+    {
+      "name": "demolition",
+      "keywords": {
+        "demolition": 10
+      }
+    }
+  ],
+  "threshold": 60,
+  "max_content_score": 200,
+  "recency_bonus": {
+    "0": 50,
+    "1": 25,
+    "2": 10
+  },
+  "retain_days": 7
+}

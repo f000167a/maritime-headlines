@@ -1,13 +1,22 @@
-name: 海事ニュース取得
+name: 海事ニュース取得・公開
 
 on:
   schedule:
-    # 平日 JST 7:00〜20:45 を15分間隔で実行
-    # GitHub Actions cron は UTC（JST = UTC + 9）
-    # JST 07:00 = UTC 22:00, JST 20:45 = UTC 11:45
-    - cron: '0,15,30,45 22-23 * * 0-4'  # JST 07:00-08:45 (月-金)
-    - cron: '0,15,30,45 0-11 * * 1-5'   # JST 09:00-20:45 (月-金)
-  workflow_dispatch:  # 手動実行
+    # JST 月〜金 07:00〜20:45。Actionsの混雑により遅れる場合があります。
+    - cron: '0,15,30,45 22-23 * * 0-4'
+    - cron: '0,15,30,45 0-11 * * 1-5'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'pyproject.toml'
+      - 'scripts/**'
+      - '.github/workflows/scrape.yml'
+
+concurrency:
+  group: maritime-news-production
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -15,29 +24,60 @@ permissions:
   id-token: write
 
 jobs:
-  scrape:
+  scrape-and-deploy:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     env:
       TZ: Asia/Tokyo
     steps:
       - uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-
+          cache: pip
+          cache-dependency-path: pyproject.toml
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Run scraper
-        run: python maritime_headlines.py
-
-      - name: Commit & Push
+        run: python -m pip install .
+      - name: Regression tests before production
+        env:
+          REQUIRE_PARSER_TESTS: '1'
+        run: python -m unittest discover -s tests -v
+      - name: Load state from dedicated branch
+        shell: bash
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add index.html seen_articles.json
-          git diff --staged --quiet || git commit -m "Update $(date +%H:%M) JST"
-          git pull --rebase origin main
-          git push
+          mkdir -p .state
+          if git ls-remote --exit-code --heads origin news-state; then
+            git fetch origin news-state:refs/remotes/origin/news-state
+            git show refs/remotes/origin/news-state:state.json > .state/state.json
+          else
+            result=$?
+            if [ "$result" -ne 2 ]; then exit "$result"; fi
+            cp data/legacy_seen_articles.json .state/state.json
+          fi
+      - name: Fetch headlines
+        id: collect
+        run: maritime-headlines --state .state/state.json --status .state/run-status.json --output dist
+      - name: Save fetch diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-status-${{ github.run_id }}-${{ github.run_attempt }}
+          path: .state/run-status.json
+          if-no-files-found: ignore
+          retention-days: 7
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Persist state after deployment
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/persist_state.py
