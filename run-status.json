@@ -1,39 +1,42 @@
 {
-  "attempted_at": "2026-09-07T18:37:34.008312+09:00",
+  "attempted_at": "2026-09-08T00:17:33.694279+09:00",
   "ok": true,
   "sources": {
     "j": {
       "error": null,
-      "fetched_count": 38,
-      "last_attempt_at": "2026-09-07T18:37:34.008312+09:00",
-      "last_success_at": "2026-09-07T18:37:34.008312+09:00",
+      "fetched_count": 37,
+      "last_attempt_at": "2026-09-08T00:17:33.694279+09:00",
+      "last_success_at": "2026-09-08T00:17:33.694279+09:00",
       "method": "HTML",
       "ok": true,
       "warnings": []
     },
     "k": {
       "error": null,
-      "fetched_count": 101,
-      "last_attempt_at": "2026-09-07T18:37:34.008312+09:00",
-      "last_success_at": "2026-09-07T18:37:34.008312+09:00",
+      "fetched_count": 75,
+      "last_attempt_at": "2026-09-08T00:17:33.694279+09:00",
+      "last_success_at": "2026-09-08T00:17:33.694279+09:00",
       "method": "HTML",
       "ok": true,
       "warnings": []
     },
     "s": {
       "error": null,
-      "fetched_count": 20,
-      "last_attempt_at": "2026-09-07T18:37:34.008312+09:00",
-      "last_success_at": "2026-09-07T18:37:34.008312+09:00",
-      "method": "WordPress API",
+      "fetched_count": 39,
+      "last_attempt_at": "2026-09-08T00:17:33.694279+09:00",
+      "last_success_at": "2026-09-08T00:17:33.694279+09:00",
+      "method": "Google News RSS",
       "ok": true,
-      "warnings": []
+      "warnings": [
+        "WordPress API: Expecting value: line 1 column 1 (char 0)",
+        "RSS: mismatched tag: line 93, column 2"
+      ]
     },
     "t": {
       "error": null,
       "fetched_count": 10,
-      "last_attempt_at": "2026-09-07T18:37:34.008312+09:00",
-      "last_success_at": "2026-09-07T18:37:34.008312+09:00",
+      "last_attempt_at": "2026-09-08T00:17:33.694279+09:00",
+      "last_success_at": "2026-09-08T00:17:33.694279+09:00",
       "method": "HTML",
       "ok": true,
       "warnings": []
