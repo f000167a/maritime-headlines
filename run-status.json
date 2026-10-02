@@ -1,21 +1,21 @@
 {
-  "attempted_at": "2026-10-02T14:21:20.001876+09:00",
+  "attempted_at": "2026-10-02T20:16:20.746413+09:00",
   "ok": true,
   "sources": {
     "j": {
       "error": null,
-      "fetched_count": 33,
-      "last_attempt_at": "2026-10-02T14:21:20.001876+09:00",
-      "last_success_at": "2026-10-02T14:21:20.001876+09:00",
+      "fetched_count": 35,
+      "last_attempt_at": "2026-10-02T20:16:20.746413+09:00",
+      "last_success_at": "2026-10-02T20:16:20.746413+09:00",
       "method": "HTML",
       "ok": true,
       "warnings": []
     },
     "k": {
       "error": null,
-      "fetched_count": 66,
-      "last_attempt_at": "2026-10-02T14:21:20.001876+09:00",
-      "last_success_at": "2026-10-02T14:21:20.001876+09:00",
+      "fetched_count": 100,
+      "last_attempt_at": "2026-10-02T20:16:20.746413+09:00",
+      "last_success_at": "2026-10-02T20:16:20.746413+09:00",
       "method": "HTML",
       "ok": true,
       "warnings": []
@@ -23,8 +23,8 @@
     "s": {
       "error": null,
       "fetched_count": 20,
-      "last_attempt_at": "2026-10-02T14:21:20.001876+09:00",
-      "last_success_at": "2026-10-02T14:21:20.001876+09:00",
+      "last_attempt_at": "2026-10-02T20:16:20.746413+09:00",
+      "last_success_at": "2026-10-02T20:16:20.746413+09:00",
       "method": "WordPress API",
       "ok": true,
       "warnings": []
@@ -32,8 +32,8 @@
     "t": {
       "error": null,
       "fetched_count": 10,
-      "last_attempt_at": "2026-10-02T14:21:20.001876+09:00",
-      "last_success_at": "2026-10-02T14:21:20.001876+09:00",
+      "last_attempt_at": "2026-10-02T20:16:20.746413+09:00",
+      "last_success_at": "2026-10-02T20:16:20.746413+09:00",
       "method": "HTML",
       "ok": true,
       "warnings": []
